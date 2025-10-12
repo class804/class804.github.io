@@ -1,0 +1,14 @@
+{
+"companyName": "BrightestGames",
+"productName": "3D Arena Racing",
+"dataUrl": "3DArenaRacing.data.unityweb?v=1",
+"asmCodeUrl": "3DArenaRacing.asm.code.unityweb?v=1",
+"asmMemoryUrl": "3DArenaRacing.asm.memory.unityweb?v=1",
+"asmFrameworkUrl": "3DArenaRacing.asm.framework.unityweb?v=1",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"dataUrl": "must-revalidate"}
+}
