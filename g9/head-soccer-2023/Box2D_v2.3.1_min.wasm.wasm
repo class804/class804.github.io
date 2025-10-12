@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+
+<head>
+    <title>
+        Page Not Found    </title>
+    <meta name="description" content="No Delays, Just Play: Busqueda.me - Your Best Source for Unblocked &amp; Unlocked  EZ Online Games!">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#121217">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="HandheldFriendly" content="True">
+    <meta http-equiv="cleartype" content="on">
+    <link rel="preconnect" href="//pagead2.googlesyndication.com">
+    <link rel="preconnect" href="//googleads.g.doubleclick.net/">
+    <link rel="preconnect" href="//adservice.google.com/">
+    <link rel="preconnect" href="//www.googletagservices.com">
+    <link rel="preconnect" href="//tpc.googlesyndication.com">
+    <link rel="dns-prefetch" href="//ajax.googleapis.com" />
+    <link rel="dns-prefetch" href="//www.googletagmanager.com" />
+    <link rel="dns-prefetch" href="//fonts.googleapis.com" />
+    <link rel="dns-prefetch" href="//fonts.gstatic.com" />
+    <link rel="dns-prefetch" href="//cdnjs.cloudflare.com" />
+    <link rel="dns-prefetch" href="//www.google-analytics.com">
+            <link rel="canonical" href="https://busqueda.me/404">
+        <link rel="preload" as="font" type="font/woff2" href="https://busqueda.me/public/assets/fonts/Inter-Regular.woff2?v=3.19" crossorigin="anonymous">
+    <link rel="preload" as="font" type="font/woff2" href="https://busqueda.me/public/assets/fonts/Inter-SemiBold.woff2?v=3.19" crossorigin="anonymous">
+    <link rel="preload" as="font" type="font/woff2" href="https://busqueda.me/public/assets/fonts/Inter-Medium.woff2?v=3.19" crossorigin="anonymous">
+    <link rel="preload" as="font" type="font/woff2" href="https://busqueda.me/public/assets/fonts/Inter-Bold.woff2?v=3.19" crossorigin="anonymous">
+    <link rel="preload" as="font" type="font/woff2" href="https://busqueda.me/public/assets/fonts/Inter-ExtraBold.woff2?v=3.19" crossorigin="anonymous">
+
+    <link rel="preload" as="style" href="https://busqueda.me/app/theme/assets/css/theme.css?v=1.0.0" />
+    <link rel="preload" as="script" href="https://busqueda.me/app/theme/assets/js/jquery.min.js?v=1.0.0" />
+    <link media="all" rel="stylesheet" href="https://busqueda.me/app/theme/assets/css/theme.css?v=1.0.0" type="text/css">
+    <link rel="shortcut icon" href="https://busqueda.me/public/static/favicon.svg?v=1.0.0">
+    <script type="text/javascript">
+    var Base = "https://busqueda.me";
+    var Assets = "https://busqueda.me/public/assets";
+        var _Auth = false;
+        var __ = function(msgid) {
+        return window.i18n[msgid] || msgid;
+    };
+    window.i18n = {
+        'more': 'more',
+        'less': 'less',
+        'No comments yet': 'No comments yet',
+    };
+    </script>
+ <script type="text/javascript">
+   document.addEventListener("keydown", function(event) {
+  if (event.keyCode === 38 || event.keyCode === 40) { // up or down arrow key
+    event.preventDefault(); // prevent default scrolling behavior
+  }
+});
+    </script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GY9N5SZZ1J"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GY9N5SZZ1J');
+</script>
+<meta name="google-site-verification" content="WQRVX35JSYeQ9xjISaGjv4kSlZTnvTzj4SHHaKHs8mU" />
+
+    <style type="text/css">
+    :root {
+        --theme-color: #1b76de;
+        --xp-color: #1162bf;
+        ;
+    }
+    </style>
+
+    <script async src="https://js.wpadmngr.com/static/adManager.js" data-admpid="262559"></script>
+    <script>(AdProvider = window.AdProvider || []).push({"serve": {}});</script>
+</head>
+
+<body class="min-vh-100 layout d-flex flex-column"><nav class="navbar navbar-expand-lg layout-header navbar-light">
+    <div class="container-fluid">
+        <button class="navbar-toggler border-0 shadow-none px-0" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <a href="https://busqueda.me" class="navbar-brand dark-logo me-lg-4">
+            <img src="https://busqueda.me/public/static/logo_2.png" height="30" alt="BUESQUEDA me">
+        </a>
+        <a href="https://busqueda.me" class="navbar-brand light-logo me-lg-4">
+            <img src="https://busqueda.me/public/static/dark_logo.svg" height="30" alt="BUESQUEDA me">
+        </a>
+        <button class="navbar-toggler border-0 shadow-none px-0" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+            <svg width="24" height="24" stroke="currentColor" stroke-width="1.75" fill="none">
+                <use xlink:href="https://busqueda.me/public/assets/sprite/sprite.svg#search"></use>
+            </svg>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+            <ul class="navbar-nav mb-2 mb-lg-0 fs-sm align-items-lg-center">
+                 <div class="category-btn">
+            <a href="https://busqueda.me/games/">New Games</a>
+            <a href="https://busqueda.me/games/most-popular">Most Popular Games</a>
+            <div class="mx-4"></div>
+        
+        </div>
+            </ul>
+            <form class="form-search w-xxl-300 w-xl-250 ms-xl-4 mb-3 mb-lg-0" action="https://busqueda.me/search" method="post">
+                <input type="hidden" name="_TOKEN" value="JDJ5JDEwJC5kYnBVYXZuYTNMSmFYd3BKVGg0YWVxaFl1RzVtaUZCUDZWNmtxRkdDOTAwVDdWN1JzSmY2">
+                <input type="hidden" name="_ACTION" value="search">
+                            </form>
+            <ul class="navbar-nav mb-2 mb-lg-0 fw-semibold align-items-xl-center ms-xl-auto">
+                <li class="nav-item">
+                    <a href="https://busqueda.me/leaderboard" class="nav-link" data-bs-tooltip="tooltip" data-bs-placement="bottom" title="Leaderboard">
+                        <svg width="16" height="16" fill="currentColor">
+                            <use xlink:href="https://busqueda.me/public/assets/sprite/sprite.svg#leader"></use>
+                        </svg>
+                    </a>
+                </li>
+              
+                                <li class="nav-item">
+                    <a rel="nofollow" href="https://busqueda.me/login" class="nav-link fs-sm fw-normal">
+                        Login</a>
+                </li>
+                <li class="nav-item">
+                    <a rel="nofollow" href="https://busqueda.me/register" class="nav-link fs-sm fw-normal">
+                        Sign up</a>
+                </li>
+                            </ul>
+        </div>
+    </div>
+</nav><div class="container">
+    <div class="text-center py-8">
+        <div class="text-theme">
+            <svg width="160" height="160" fill="currentColor">
+                <use xlink:href="https://busqueda.me/public/assets/sprite/sprite.svg#monster"></use>
+            </svg>
+        </div>
+        <div class="display-1 fw-black text-heading">404</div>
+        <div class="h3 text-uppercase fw-black text-heading">Page Not Found</div>
+    </div>
+</div>
+    </div>
+</div>
+<script defer="" src="https://busqueda.me/app/theme/assets/js/jquery.min.js?v=1.0.0"></script>
+<script defer="" src="https://busqueda.me/app/theme/assets/js/bootstrap.js?v=1.0.0"></script>
+<script defer="" src="https://busqueda.me/app/theme/assets/js/lazysizes.js?v=1.0.0"></script>
+<script defer="" src="https://busqueda.me/app/theme/assets/js/main.js?v=1.0.0"></script> <div class="footer py-2 mt-auto">
+    <div class="container-fluid">
+        <div class="row align-items-center no-gutters py-2 fs-14">
+            <!-- Desc -->
+            <div class="col-lg-4 col-md-5 col-12">
+                <div class="fs-xs text-muted">Copyright © 2023
+                    BUSQUEDA.me ONLINE GAMES. All rights reserved.</div>
+            </div>
+            <!-- Links -->
+            <div class="col-12 col-md-7 col-lg-8 d-md-flex justify-content-end">
+                <nav class="nav fs-xs text-muted">
+                  
+				 <a class="nav-link text-current"  href="https://busqueda.me" title="Busqueda.me">Online Games</a>   -	 <a class="nav-link text-current"  href="https://busqueda.me" title="Busqueda.me">Busqueda Me</a>
+
+				                      <a class="nav-link text-current" rel="nofollow" href="https://busqueda.me/page/privacy-policy">
+                        Privacy Policy</a>
+                                        <a class="nav-link text-current" rel="nofollow" href="https://busqueda.me/page/terms-and-conditions">
+                        Terms and Conditions</a>
+                                        <a class="nav-link text-current" rel="nofollow" href="https://busqueda.me/page/contact">
+                        Contact</a>
+                    					
+					
+                 
+					<a class="nav-link text-current"  href="/sitemap.game_1.xml">
+                        Sitemap</a>
+                </nav>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="position-fixed end-0 bottom-0 p-xl-4 p-3 modal-register d-none">
+    <div class="position-relative">
+        <div class="card shadow-lg bg-white border-0 rounded-lg-pill">
+            <div class="card-body text-center px-4 d-flex align-items-center flex-nowrap">
+                <p class="fs-sm text-muted mb-0 me-3">
+                    This website uses cookies to ensure you get the best experience on our website <a href="/page/privacy-policy" rel="nofollow" title="Privacy Policy" class="text-theme">
+                        Learn more</a></p>
+                <button type="button" class="btn-close close-register btn-sm ms-auto shadow-none" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal" id="xl" tabindex="-1" aria-labelledby="modal" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-xl">
+        <div class="modal-content">
+        </div>
+    </div>
+</div>
+<div class="modal" id="lg" tabindex="-1" aria-labelledby="modal" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+        </div>
+    </div>
+</div>
+<div class="modal" id="m" tabindex="-1" aria-labelledby="modal" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+        </div>
+    </div>
+</div>
+<div class="modal" id="sm" tabindex="-1" aria-labelledby="modal" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-sm">
+        <div class="modal-content">
+        </div>
+    </div>
+</div>
+</body>
+
+</html>
