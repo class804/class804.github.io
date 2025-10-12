@@ -1,0 +1,2392 @@
+{
+    "c2array": true,
+    "size": [
+        3,
+        264,
+        1
+    ],
+    "data": [
+        [
+            [
+                "Используй для бега:"
+            ],
+            [
+                "Используй для прыжка:"
+            ],
+            [
+                "Используй для бега:"
+            ],
+            [
+                "Используй для прыжка:"
+            ],
+            [
+                "Разгонись чтобы использовать подкат!"
+            ],
+            [
+                "Молодец! Теперь вперёд к порталу!"
+            ],
+            [
+                "Прыгни на край, чтобы забраться!"
+            ],
+            [
+                "Используй двойной прыжок"
+            ],
+            [
+                "Он стоит тут всё время."
+            ],
+            [
+                "Ты такой крутой!"
+            ],
+            [
+                "Ты можешь схватиться за блок над головой!"
+            ],
+            [
+                "Собирай фрукты! Их ты сможешь тратить в магазине!"
+            ],
+            [
+                "*ПРЫГНИ НА МЕНЯ!*"
+            ],
+            [
+                "Сейчас нужно влево, друг!"
+            ],
+            [
+                "Не зевай на песке, друг!"
+            ],
+            [
+                "Кажется я увидел динамит!"
+            ],
+            [
+                "О нет! Всё в огне!"
+            ],
+            [
+                "Мы снова возле моря. И я снова не взял свои плавки."
+            ],
+            [
+                "Уже очень холодно. Хорошо, что я не взял плавки."
+            ],
+            [
+                "Будь осторожен на льду, друг!"
+            ],
+            [
+                "Вау! Снежные блоки сыплются прям как песок!"
+            ],
+            [
+                "пауза"
+            ],
+            [
+                "Старайся не нажимать на плиты, приятель!"
+            ],
+            [
+                "Играть!"
+            ],
+            [
+                "Питомец"
+            ],
+            [
+                "Скин"
+            ],
+            [
+                "Воу! Мы внутри пирамиды!"
+            ],
+            [
+                "Кажется, строители забыли слово *Безопасность*!"
+            ],
+            [
+                "Главное не смотреть вниз!"
+            ],
+            [
+                "Тут легко заблудиться... Стоп. Я где?"
+            ],
+            [
+                "Ты тоже забыл плавки, да?"
+            ],
+            [
+                "Сейчас приедет лифт!"
+            ],
+            [
+                "Стикмен паркур 3"
+            ],
+            [
+                "пвп!"
+            ],
+            [
+                "Купить"
+            ],
+            [
+                "Выбрать"
+            ],
+            [
+                "Выбрано"
+            ],
+            [
+                "Подключение..."
+            ],
+            [
+                "Поиск игроков..."
+            ],
+            [
+                "Игрок найден!"
+            ],
+            [
+                "Отменить"
+            ],
+            [
+                "Настройки"
+            ],
+            [
+                "Беги!"
+            ],
+            [
+                "Игра начинается!"
+            ],
+            [
+                "Победи своего соперника в гонке!"
+            ],
+            [
+                "Интересно, сколько здесь фруктов?"
+            ],
+            [
+                "финишировал!"
+            ],
+            [
+                "отключился!"
+            ],
+            [
+                "Победа!"
+            ],
+            [
+                "Ты про!"
+            ],
+            [
+                "Ты крутой!"
+            ],
+            [
+                "Так держать!"
+            ],
+            [
+                "Как ты это сделал?!"
+            ],
+            [
+                "Ты восхитительный!"
+            ],
+            [
+                "Поражение!"
+            ],
+            [
+                "Повезёт в следующий раз!"
+            ],
+            [
+                "Не расстраивайся!"
+            ],
+            [
+                "Ты всё равно молодец!"
+            ],
+            [
+                "Танец"
+            ],
+            [
+                "Много фруктов можно найти в гонке с другими стикменами в ПВП!"
+            ],
+            [
+                "Хит!"
+            ],
+            [
+                "Фрукты"
+            ],
+            [
+                "Играть снова"
+            ],
+            [
+                "Магазин"
+            ],
+            [
+                "Ура! Мы спаслись! Ты крутой, друг!"
+            ],
+            [
+                "Нужно найти где спрятаться от дождя!"
+            ],
+            [
+                "Стрелы толкают очень больно, друг!"
+            ],
+            [
+                "Я сам нарисовал эти картины! Они тебе нравятся?"
+            ],
+            [
+                "Ура! Мы добрались до дома нубика!"
+            ],
+            [
+                "Уже уходишь?"
+            ],
+            [
+                "Мы снова в этом крутом месте!"
+            ],
+            [
+                "Отсюда прекрасный вид!"
+            ],
+            [
+                "Пропустить уровень"
+            ],
+            [
+                "Зов джунглей!"
+            ],
+            [
+                "Кажется, мы потеряли карту!"
+            ],
+            [
+                "Я построил свою ракету, которая работает на фруктах! Летим в космос!"
+            ],
+            [
+                "Хорошо что нам не нужно уметь дышать!"
+            ],
+            [
+                "Я потерял все фрукты! Собери их в космосе!"
+            ],
+            [
+                "Спасибо за фрукты! Теперь мы можем полететь на Луну."
+            ],
+            [
+                "Этот флаг поставил стикмен, который первым ступил на Луну. Круто!"
+            ],
+            [
+                "Или этот флаг..."
+            ],
+            [
+                "Даже в космосе есть динамит!"
+            ],
+            [
+                "Лаки блок уровни такие крутые!"
+            ],
+            [
+                "Так круто!"
+            ],
+            [
+                "Мне нравится вечер. А тебе?"
+            ],
+            [
+                "Нам нужно было взять хотя бы огнетушитель..."
+            ],
+            [
+                "Лаки блоки выстраивают дорогу! Это очень круто!"
+            ],
+            [
+                "БЕГИ!!!"
+            ],
+            [
+                "Спасайся от пожара!"
+            ],
+            [
+                "Было бы здорово нарисовать мост вместо песка."
+            ],
+            [
+                "Ты отлично справляешься!"
+            ],
+            [
+                "Вообще-то, динамит в лесу может привести к пожару!"
+            ],
+            [
+                "Огонь всё разрастается!"
+            ],
+            [
+                "Пойдем наверх или вниз?"
+            ],
+            [
+                "Ты настоящий про!"
+            ],
+            [
+                "Судя по снегу, плавательный сезон окончен."
+            ],
+            [
+                "Ты сделал это!"
+            ],
+            [
+                "Кажется, мы в гигантском мире!"
+            ],
+            [
+                "Маленький стикмен бежать и прыгать!"
+            ],
+            [
+                "Маленький стикмен должен идти домой!"
+            ],
+            [
+                "Какой он приветливый! Он зовёт нас к себе домой!"
+            ],
+            [
+                "*Покорми меня*"
+            ],
+            [
+                "Привет, друг!"
+            ],
+            [
+                "Куда ты так спешишь?"
+            ],
+            [
+                "Как бы нам не попасться в мышеловку!"
+            ],
+            [
+                "Куда маленький стикмен идти?"
+            ],
+            [
+                "Где там его дом?"
+            ],
+            [
+                "Я поймать маленького стикмена"
+            ],
+            [
+                "Давай прыгать по облакам, как на батуте!"
+            ],
+            [
+                "В его туалет лучше не заходить."
+            ],
+            [
+                "Маленький стикмен не входить туда!"
+            ],
+            [
+                "В доме гиганта не очень уютно."
+            ],
+            [
+                "*Я люблю тебя*"
+            ],
+            [
+                "Ты не знаешь, где найти Клеопатру? Я её люблю!"
+            ],
+            [
+                "Я не кусаюсь! Пока что! Ха-ха!"
+            ],
+            [
+                "Клеопатра меня выгнала, теперь ищу новый дом."
+            ],
+            [
+                "Интересно, чья это корона?"
+            ],
+            [
+                "Спасайся, стикмен. А то гигант и тебя заточит здесь!"
+            ],
+            [
+                "Я смогу выбраться сам, но ты должен бежать!"
+            ],
+            [
+                "Это место выглядит как тюрьма!"
+            ],
+            [
+                "Кто это был?"
+            ],
+            [
+                "Это место пугает!"
+            ],
+            [
+                "Нужно выбираться!"
+            ],
+            [
+                "Маленький стикмен меня злить!"
+            ],
+            [
+                "Нам нужно сматываться!"
+            ],
+            [
+                "Фух! Теперь спускаемся вниз!"
+            ],
+            [
+                "Эмоджи"
+            ],
+            [
+                "Маленький стикмен убегать!"
+            ],
+            [
+                "Куда подевался гигант?"
+            ],
+            [
+                "Нужно бежать, пока он не нашёл нас!"
+            ],
+            [
+                "Интересно, кто был в той клетке?"
+            ],
+            [
+                "Маленький стикмен прятаться!"
+            ],
+            [
+                "Скорее бежим!"
+            ],
+            [
+                "Уровни в космосе"
+            ],
+            [
+                "10 новых уровней!"
+            ],
+            [
+                "Получить"
+            ],
+            [
+                "Открыть лаки блок"
+            ],
+            [
+                "Лаки блок уровни"
+            ],
+            [
+                "Открыв лаки блок, вы откроете один из 20 новых уровней!"
+            ],
+            [
+                "Питомец в подарок!"
+            ],
+            [
+                "Уровни в мире великанов"
+            ],
+            [
+                "Я бы остался с тобой, но меня ждёт мама дома. Удачи тебе, друг!"
+            ],
+            [
+                "Я видел мир великанов через иллюминатор. Полетим туда?"
+            ],
+            [
+                "Недостаточно фруктов"
+            ],
+            [
+                "Ты круто справляешься!"
+            ],
+            [
+                "Давай покажешь мастерство!"
+            ],
+            [
+                "Динамит не помеха тебе, приятель!"
+            ],
+            [
+                "Какой ты крутой, чувак!"
+            ],
+            [
+                "Ты должен учить всех паркуру!"
+            ],
+            [
+                "Это было круто!"
+            ],
+            [
+                "Я восхищаюсь тобой, дружище!"
+            ],
+            [
+                "Вперёд, друг!"
+            ],
+            [
+                "Это было прекрасно!"
+            ],
+            [
+                "Как ты это делаешь, друг?"
+            ],
+            [
+                "Как ты мастерски выполняешь трюки, чувак!"
+            ],
+            [
+                "Мне никогда не стать таким же крутым, как ты!"
+            ],
+            [
+                "Это будет просто!"
+            ],
+            [
+                "Ты опять справился!"
+            ],
+            [
+                "Прыгаем!"
+            ],
+            [
+                "Как здорово!"
+            ],
+            [
+                "Какой путь ты выберешь, друг?"
+            ],
+            [
+                "*Поторопись!*"
+            ],
+            [
+                "Ваш рейтинг"
+            ],
+            [
+                "К тебе тоже зомби просился пожить дома?"
+            ],
+            [
+                "Мама всё же отпустила меня погулять ещё."
+            ],
+            [
+                "Ох как здесь много динамита. Ой-ой!"
+            ],
+            [
+                "Не спеши, стикмен. Что-то здесь не ладное."
+            ],
+            [
+                "*Где я?*"
+            ],
+            [
+                "Друг, я всё ещё не нашёл дом, так что может быть...Эм..."
+            ],
+            [
+                "Ты очень крутой. В ПВП ты всех победишь!"
+            ],
+            [
+                "*Я совсем не боюсь собак!*"
+            ],
+            [
+                "*Я видела, как тут динамит падает с неба*"
+            ],
+            [
+                "Вау, какая встреча!"
+            ],
+            [
+                "Отлично выглядишь, дружище!"
+            ],
+            [
+                "Стикмен, нарисуй мост, пожалуйста!"
+            ],
+            [
+                "Не хотел бы поступить в школу монстров, стикмен?"
+            ],
+            [
+                "Ты не видел мою кошку? Я её везде ищу!"
+            ],
+            [
+                "*Береги себя*"
+            ],
+            [
+                "Я так мало хожу, мне скоро понадобится счётчик калорий."
+            ],
+            [
+                "ВЫ"
+            ],
+            [
+                "Новинка"
+            ],
+            [
+                "пропуск бегуна"
+            ],
+            [
+                "Инвентарь"
+            ],
+            [
+                " УР."
+            ],
+            [
+                "Проходите уровни или побеждайте в режиме пвп и получайте 10 очков опыта!"
+            ],
+            [
+                "Зимний"
+            ],
+            [
+                "премиум"
+            ],
+            [
+                "обычный"
+            ],
+            [
+                "ИЛИ"
+            ],
+            [
+                "Недостаточно уровней"
+            ],
+            [
+                "нужен премиум пропуск бегуна"
+            ],
+            [
+                "Ожидание второго игрока"
+            ],
+            [
+                "Подключитесь к другу или сообщите ему свой код"
+            ],
+            [
+                "Код друга:"
+            ],
+            [
+                "Ваш код:"
+            ],
+            [
+                "Войти"
+            ],
+            [
+                "Неверный код"
+            ],
+            [
+                "Ваш друг подключился"
+            ],
+            [
+                "Вы подключились"
+            ],
+            [
+                "Онлайн!"
+            ],
+            [
+                "Кооператив!"
+            ],
+            [
+                "Соревнуйтесь с другими стикменами в гонке!"
+            ],
+            [
+                "Проходите уровни вместе с другими стикменами!"
+            ],
+            [
+                "Поиск игроков!"
+            ],
+            [
+                "С другом!"
+            ],
+            [
+                "Проходите уровни вместе!"
+            ],
+            [
+                "Онлайн Режим"
+            ],
+            [
+                "Начать!"
+            ],
+            [
+                "Шапка"
+            ],
+            [
+                "Зима 2025"
+            ],
+            [
+                "Создайте комнату или подключитесь к другу, используя код!"
+            ],
+            [
+                "Статистика"
+            ],
+            [
+                "паркур"
+            ],
+            [
+                "Общая"
+            ],
+            [
+                "Пройдено:"
+            ],
+            [
+                "Смертей:"
+            ],
+            [
+                "Прыжков:"
+            ],
+            [
+                "Подкатов:"
+            ],
+            [
+                "Победы:"
+            ],
+            [
+                "Поражения:"
+            ],
+            [
+                "Покинуто:"
+            ],
+            [
+                "Собрано фруктов:"
+            ],
+            [
+                "Потрачено фруктов:"
+            ],
+            [
+                "Предметы:"
+            ],
+            [
+                "Кто-то хочет поиграть с тобой!"
+            ],
+            [
+                "Подарено фруктов:"
+            ],
+            [
+                "Подарить"
+            ],
+            [
+                " подарил вам "
+            ],
+            [
+                " фруктов!"
+            ],
+            [
+                "премиум бегун"
+            ],
+            [
+                "Мы ценим вашу поддержку!"
+            ],
+            [
+                "ПОЗДРАВЛЯЕМ! ВЫ ПОЛУЧИЛИ:"
+            ],
+            [
+                "ОТЛИЧНО"
+            ],
+            [
+                "премиум пропуск бегуна"
+            ],
+            [
+                "и"
+            ],
+            [
+                "Дорогой Стикмен!"
+            ],
+            [
+                "Представляем вашему вниманию новое зимнее обновление!\nПолучите новые шапки, эффекты пути, эмоджи и скины!\n\nПожалуйста, оставьте отзыв и напишите, что бы вы хотели видеть в будущих обновлениях!"
+            ],
+            [
+                "Спасибо за вашу поддержку!"
+            ],
+            [
+                "Хорошая игра!"
+            ],
+            [
+                "Спасибо!"
+            ],
+            [
+                "Найди меня!"
+            ],
+            [
+                "До свидания!"
+            ],
+            [
+                "Упс!"
+            ],
+            [
+                "Давай ещё раз!"
+            ],
+            [
+                "Ура! В игре новый"
+            ],
+            [
+                "Получайте новые награды за ваши победы!"
+            ],
+            [
+                "праздничный\nЛакиблок"
+            ],
+            [
+                "Возможные призы"
+            ],
+            [
+                "Путь"
+            ],
+            [
+                "Новый режим через"
+            ],
+            [
+                "Новый режим уже в игре!"
+            ],
+            [
+                "1. Сбор и использование информации\nМы можем собирать определенную информацию при использовании нашей игры. Это может включать в себя ваше имя, адрес электронной почты, IP-адрес, данные о вашем устройстве, информацию о вашей игровой активности и т.д. Мы используем эту информацию для обеспечения функционирования игры, улучшения пользовательского опыта, обеспечения безопасности и мониторинга активности.\n\n2. Хранение данных\nМы можем хранить данные в течение определенного периода времени в соответствии с действующими законами и требованиями безопасности. Мы принимаем все необходимые меры для защиты ваших данных от несанкционированного доступа, изменения, раскрытия или уничтожения.\n\n3. Разглашение информации\nМы можем разглашать вашу информацию третьим лицам только в случаях, предусмотренных законом или когда это необходимо для обеспечения безопасности, предотвращения мошенничества, защиты прав и безопасности наших пользователей.\n\n4. Согласие\nИспользуя нашу игру, вы соглашаетесь с нашей политикой конфиденциальности и сбором информации, описанным выше."
+            ],
+            [
+                "Политика конфиденциальности"
+            ],
+            [
+                "Выбрать уровень"
+            ],
+            [
+                "Лига"
+            ],
+            [
+                "Деревянная"
+            ],
+            [
+                "Каменная"
+            ],
+            [
+                "Железная"
+            ],
+            [
+                "Золотая"
+            ],
+            [
+                "Изумрудная"
+            ],
+            [
+                "Алмазная"
+            ],
+            [
+                "Поздравляем! Вы достигли новой лиги!"
+            ],
+            [
+                "Нажмите, чтобы продолжить"
+            ],
+            [
+                "Лиги бегунов"
+            ]
+        ],
+        [
+            [
+                "Use to move:"
+            ],
+            [
+                "Use to jump:"
+            ],
+            [
+                "Use to move:"
+            ],
+            [
+                "Use to jump:"
+            ],
+            [
+                "Accelerate to use the slide!"
+            ],
+            [
+                "Well done! Now run to the portal!"
+            ],
+            [
+                "Jump up to the edge to climb up!"
+            ],
+            [
+                "Use double jump"
+            ],
+            [
+                "He stands here all the time."
+            ],
+            [
+                "You are so cool!"
+            ],
+            [
+                "You can grab onto the block above your head!"
+            ],
+            [
+                "Collect fruits! You can spend them in the shop!"
+            ],
+            [
+                "*JUMP ON ME!*"
+            ],
+            [
+                "Now you need to go to the left, buddy!"
+            ],
+            [
+                "Don't staying on the sand, friend!"
+            ],
+            [
+                "I think I saw TNT!"
+            ],
+            [
+                "Oh no! Everything is on fire!"
+            ],
+            [
+                "We are again near the sea. And again I didn't take my swimming trunks."
+            ],
+            [
+                "It's already very cold. Good thing I didn't take swimming trunks."
+            ],
+            [
+                "Be careful on the ice, friend!"
+            ],
+            [
+                "Wow! Snow blocks fall like sand!"
+            ],
+            [
+                "PAUSE"
+            ],
+            [
+                "Try not to press on the plates, mate!"
+            ],
+            [
+                "Play!"
+            ],
+            [
+                "Pet"
+            ],
+            [
+                "Skin"
+            ],
+            [
+                "Whoa! We are inside the pyramid!"
+            ],
+            [
+                "It seems that the builders forgot the word *Safety*!"
+            ],
+            [
+                "The main thing is not to look down!"
+            ],
+            [
+                "It's easy to get lost here... Stop. Where am I?"
+            ],
+            [
+                "You forgot your swimming trunks too, right?"
+            ],
+            [
+                "The elevator is coming!"
+            ],
+            [
+                "Stickman parkour 3"
+            ],
+            [
+                "PVP!"
+            ],
+            [
+                "Buy"
+            ],
+            [
+                "Choose"
+            ],
+            [
+                "Chosen"
+            ],
+            [
+                "Connecting..."
+            ],
+            [
+                "Matchmaking..."
+            ],
+            [
+                "Player found!"
+            ],
+            [
+                "Cancel"
+            ],
+            [
+                "Settings"
+            ],
+            [
+                "Go!"
+            ],
+            [
+                "Game starts!"
+            ],
+            [
+                "Beat your opponent in the race!"
+            ],
+            [
+                "I wonder how many fruits are there?"
+            ],
+            [
+                "finished!"
+            ],
+            [
+                "disconnected!"
+            ],
+            [
+                "Victory!"
+            ],
+            [
+                "You're a pro!"
+            ],
+            [
+                "You're cool!"
+            ],
+            [
+                "Keep it up!"
+            ],
+            [
+                "How did you do this?!"
+            ],
+            [
+                "You are amazing!"
+            ],
+            [
+                "Defeat!"
+            ],
+            [
+                "Good luck next time!"
+            ],
+            [
+                "Don't be upset!"
+            ],
+            [
+                "You are still great!"
+            ],
+            [
+                "Dance"
+            ],
+            [
+                "Lots of fruits can be found racing against other stickmen in PVP!"
+            ],
+            [
+                "Hit!"
+            ],
+            [
+                "Fruits"
+            ],
+            [
+                "Play again"
+            ],
+            [
+                "Shop"
+            ],
+            [
+                "Hooray! We are saved! You are cool, friend!"
+            ],
+            [
+                "We need to find somewhere to hide from the rain!"
+            ],
+            [
+                "Arrows push very painfully, friend!"
+            ],
+            [
+                "I drew these pictures myself! Do you like them?"
+            ],
+            [
+                "Hooray! We've come to the Noob's house!"
+            ],
+            [
+                "Already leaving?"
+            ],
+            [
+                "We are back in this cool place!"
+            ],
+            [
+                "There's a great view from here!"
+            ],
+            [
+                "Skip level"
+            ],
+            [
+                "Call of the jungle!"
+            ],
+            [
+                "Looks like we've lost the map!"
+            ],
+            [
+                "I built my rocket that runs on fruit! Let's fly into space!"
+            ],
+            [
+                "Good thing we don't need to be able to breathe!"
+            ],
+            [
+                "I lost all fruits! Collect them in space!"
+            ],
+            [
+                "Thanks for the fruits! Now we can fly to the moon."
+            ],
+            [
+                "This flag was put up by the stickman who first set foot on the moon. Cool!"
+            ],
+            [
+                "Or this flag..."
+            ],
+            [
+                "Even in space there is TNT!"
+            ],
+            [
+                "Lucky block levels are so cool!"
+            ],
+            [
+                "So cool!"
+            ],
+            [
+                "I like the evening. And you?"
+            ],
+            [
+                "We should have taken at least a fire extinguisher..."
+            ],
+            [
+                "Lucky blocks are building the road! This is very cool!"
+            ],
+            [
+                "RUN!!!"
+            ],
+            [
+                "Save yourself from the fire!"
+            ],
+            [
+                "It would be great to draw the bridge instead of sand."
+            ],
+            [
+                "You're doing great!"
+            ],
+            [
+                "Actually, dynamite in the woods can start a fire!"
+            ],
+            [
+                "The fire keeps growing!"
+            ],
+            [
+                "Shall we go up or down?"
+            ],
+            [
+                "You are a real pro!"
+            ],
+            [
+                "Judging by the snow, the swimming season is over."
+            ],
+            [
+                "You did it!"
+            ],
+            [
+                "It seems like we are in a giant world!"
+            ],
+            [
+                "Little stickman run and jump!"
+            ],
+            [
+                "Little stickman must go home!"
+            ],
+            [
+                "How friendly he is! He calls us to his home!"
+            ],
+            [
+                "*Feed me*"
+            ],
+            [
+                "Hi, friend!"
+            ],
+            [
+                "Where are you in such a hurry?"
+            ],
+            [
+                "How can we not get caught in a mousetrap!"
+            ],
+            [
+                "Where does the little stickman go?"
+            ],
+            [
+                "Where is his home?"
+            ],
+            [
+                "I catch a little stickman"
+            ],
+            [
+                "Let's jump on the clouds like on a trampoline!"
+            ],
+            [
+                "It is better not to go into his toilet."
+            ],
+            [
+                "Little stickman don't go in there!"
+            ],
+            [
+                "The giant's house is not very comfortable."
+            ],
+            [
+                "*I love you*"
+            ],
+            [
+                "Do you know where to find Cleopatra? I love her!"
+            ],
+            [
+                "I do not bite! For now! Haha!"
+            ],
+            [
+                "Cleopatra kicked me out, now I'm looking for a new home."
+            ],
+            [
+                "I wonder whose crown it is?"
+            ],
+            [
+                "Save yourself, stickman. Otherwise, the giant will imprison you here too!"
+            ],
+            [
+                "I can get out on my own, but you have to run!"
+            ],
+            [
+                "This place looks like a prison!"
+            ],
+            [
+                "Who was that?"
+            ],
+            [
+                "This place is scary!"
+            ],
+            [
+                "Need to get out!"
+            ],
+            [
+                "Little stickman make me angry!"
+            ],
+            [
+                "We need to get out of here!"
+            ],
+            [
+                "Phew! Now let's go down!"
+            ],
+            [
+                "Emoji"
+            ],
+            [
+                "Little stickman run away!"
+            ],
+            [
+                "Where did the giant go?"
+            ],
+            [
+                "We need to run before he finds us!"
+            ],
+            [
+                "I wonder who was in the cage?"
+            ],
+            [
+                "Little stickman hide!"
+            ],
+            [
+                "Let's run faster!"
+            ],
+            [
+                "Space levels"
+            ],
+            [
+                "10 new levels!"
+            ],
+            [
+                "Get"
+            ],
+            [
+                "Open lucky block"
+            ],
+            [
+                "Lucky block levels"
+            ],
+            [
+                "By opening lucky block, you will unlock one of 20 new levels!"
+            ],
+            [
+                "Pet as a gift!"
+            ],
+            [
+                "Levels in the world of giants"
+            ],
+            [
+                "I'd stay with you, but my mother is waiting for me at home. Good luck, friend!"
+            ],
+            [
+                "I saw the world of giants through the porthole. Shall we fly there?"
+            ],
+            [
+                "Not enough fruit"
+            ],
+            [
+                "You're doing great!"
+            ],
+            [
+                "Let's show some skill!"
+            ],
+            [
+                "TNT won't stop you, mate!"
+            ],
+            [
+                "What a cool dude you are!"
+            ],
+            [
+                "You have to teach everyone how to parkour!"
+            ],
+            [
+                "It was cool!"
+            ],
+            [
+                "I admire you, buddy!"
+            ],
+            [
+                "Go ahead, friend!"
+            ],
+            [
+                "It was wonderful!"
+            ],
+            [
+                "How do you do it, friend?"
+            ],
+            [
+                "You're so good at doing stunts, dude!"
+            ],
+            [
+                "I will never be as cool as you!"
+            ],
+            [
+                "It will be easy!"
+            ],
+            [
+                "You did it again!"
+            ],
+            [
+                "Let's jump!"
+            ],
+            [
+                "How amazing!"
+            ],
+            [
+                "Which path will you choose, friend?"
+            ],
+            [
+                "*Hurry up!*"
+            ],
+            [
+                "Your rating"
+            ],
+            [
+                "Did zombie ask you to stay at your house too?"
+            ],
+            [
+                "Mom still let me go for a walk again."
+            ],
+            [
+                "Oh, how much dynamite is here. Oh oh!"
+            ],
+            [
+                "Don't rush, stickman. Something is not right here."
+            ],
+            [
+                "*Where am I?*"
+            ],
+            [
+                "Friend, I still haven't found a home, so maybe...Um..."
+            ],
+            [
+                "You're very cool. In PVP, you will defeat everyone!"
+            ],
+            [
+                "* I'm not afraid of dogs at all!*"
+            ],
+            [
+                "*I saw TNT falling from the sky*"
+            ],
+            [
+                "Wow, what a meeting!"
+            ],
+            [
+                "You look great, buddy!"
+            ],
+            [
+                "Stickman, draw the bridge please!"
+            ],
+            [
+                "Would you like to go to Monster School, stickman?"
+            ],
+            [
+                "Have you seen my cat? I'm looking for her everywhere!"
+            ],
+            [
+                "*Take care of yourself*"
+            ],
+            [
+                "I walk so little, I'm going to need a calorie counter soon."
+            ],
+            [
+                "YOU"
+            ],
+            [
+                "New"
+            ],
+            [
+                "Runner pass"
+            ],
+            [
+                "Inventory"
+            ],
+            [
+                " LVL"
+            ],
+            [
+                "Complete levels or win in pvp mode and get 10 experience points!"
+            ],
+            [
+                "Winter"
+            ],
+            [
+                "Premium"
+            ],
+            [
+                "Common"
+            ],
+            [
+                "OR"
+            ],
+            [
+                "Not enough levels"
+            ],
+            [
+                "need the premium runner pass"
+            ],
+            [
+                "Waiting for the second player"
+            ],
+            [
+                "Connect to a friend or share your code with them"
+            ],
+            [
+                "Friend's code:"
+            ],
+            [
+                "Your code:"
+            ],
+            [
+                "Connect"
+            ],
+            [
+                "Incorrect code"
+            ],
+            [
+                "Your friend is connected"
+            ],
+            [
+                "You are connected"
+            ],
+            [
+                "Online!"
+            ],
+            [
+                "Cooperative!"
+            ],
+            [
+                "Compete with other stickmen in a race!"
+            ],
+            [
+                "Complete levels with other stickmen!"
+            ],
+            [
+                "Matchmaking!"
+            ],
+            [
+                "With a friend!"
+            ],
+            [
+                "Complete levels together!"
+            ],
+            [
+                "Online Mode"
+            ],
+            [
+                "Start!"
+            ],
+            [
+                "Hat"
+            ],
+            [
+                "Winter 2025"
+            ],
+            [
+                "Create a room or connect with a friend using a code!"
+            ],
+            [
+                "Statistics"
+            ],
+            [
+                "Parkour"
+            ],
+            [
+                "General"
+            ],
+            [
+                "Completed:"
+            ],
+            [
+                "Deaths:"
+            ],
+            [
+                "Jumps:"
+            ],
+            [
+                "Slides:"
+            ],
+            [
+                "Victories:"
+            ],
+            [
+                "Defeats:"
+            ],
+            [
+                "Left:"
+            ],
+            [
+                "Collected fruit"
+            ],
+            [
+                "Spent fruit:"
+            ],
+            [
+                "Items:"
+            ],
+            [
+                "Someone wants to play with you!"
+            ],
+            [
+                "Sent fruit:"
+            ],
+            [
+                "Send"
+            ],
+            [
+                " sent you "
+            ],
+            [
+                " fruit!"
+            ],
+            [
+                "premium runner"
+            ],
+            [
+                "We appreciate your support!"
+            ],
+            [
+                "CONGRATULATIONS! YOU GOT:"
+            ],
+            [
+                "OK"
+            ],
+            [
+                "premium runner pass"
+            ],
+            [
+                "and"
+            ],
+            [
+                "Dear Stickman!"
+            ],
+            [
+                "Introducing the new winter update!\nGet new hats, path effects, emojis and skins!\n\nPlease leave a review and tell us what you would like to see in future updates!"
+            ],
+            [
+                "Thank you for your support!"
+            ],
+            [
+                "Good game!"
+            ],
+            [
+                "Thank you!"
+            ],
+            [
+                "Find me!"
+            ],
+            [
+                "Goodbye!"
+            ],
+            [
+                "Whoops!"
+            ],
+            [
+                "Let's go again!"
+            ],
+            [
+                "Hooray! There's a new "
+            ],
+            [
+                "Get new rewards for your victory!"
+            ],
+            [
+                "Festive\nLuckyBlock"
+            ],
+            [
+                "Prizes"
+            ],
+            [
+                "Trail FX"
+            ],
+            [
+                "New mode in"
+            ],
+            [
+                "The new mode is already in the game!"
+            ],
+            [
+                "1. Collection and Use of Information\nWe may collect certain information when you use our game. This may include your name, email address, IP address, device information, details of your gameplay activity, etc. We use this information to ensure the functionality of the game, enhance the user experience, ensure security, and monitor activity.\n\n2. Data Storage\nWe may store data for a certain period in accordance with applicable laws and security requirements. We take all necessary measures to protect your data from unauthorized access, alteration, disclosure, or destruction.\n\n3. Disclosure of Information\nWe may disclose your information to third parties only when required by law or when necessary for security, fraud prevention, and the protection of the rights and safety of our users.\n\n4. Consent\nBy using our game, you consent to our privacy policy and the collection of information as described above."
+            ],
+            [
+                "Privacy Policy"
+            ],
+            [
+                "Select level"
+            ],
+            [
+                "League"
+            ],
+            [
+                "Wooden"
+            ],
+            [
+                "Stone"
+            ],
+            [
+                "Iron"
+            ],
+            [
+                "Golden"
+            ],
+            [
+                "Emerald"
+            ],
+            [
+                "Diamond"
+            ],
+            [
+                "Congratulations! You have reached a new league!"
+            ],
+            [
+                "Tap to continue"
+            ],
+            [
+                "Leagues of runners"
+            ]
+        ],
+        [
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ]
+    ]
+}

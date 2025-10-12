@@ -1,0 +1,37 @@
+{  
+  "weapon0":{  
+    "fireRate":1.5,
+    "damage":1,
+    "range":500
+  },
+  "weapon1":{  
+    "fireRate":2,
+    "damage":2,
+    "range":420
+  },
+  "weapon2":{  
+    "fireRate":1,
+    "damage":1,
+    "range":450
+  },
+  "weapon3":{  
+    "fireRate":1,
+    "damage":2,
+    "range":450
+  },
+  "weapon4":{  
+    "fireRate":0.1,
+    "damage":5,
+    "range":450
+  },
+  "weapon5":{  
+    "fireRate":2.5,
+    "damage":3,
+    "range":500
+  },
+  "turret":{  
+    "fireRate":1,
+    "damage":0.5,
+    "range":400
+  }
+}
