@@ -1,0 +1,94 @@
+{
+    "c2array": true,
+    "size": [
+        6,
+        4,
+        1
+    ],
+    "data": [
+        [
+            [
+                "QUESTION"
+            ],
+            [
+                "HINT"
+            ],
+            [
+                "NEXT"
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "Help Santa to take off."
+            ],
+            [
+                "TRY TO GIVE RUDOLPH A RED NOSE."
+            ],
+            [
+                "SANTA SHOULD STOP BORROWING RUDOLPH'S NOSE!"
+            ],
+            [
+                "1C"
+            ]
+        ],
+        [
+            [
+                "They are falling down, help!"
+            ],
+            [
+                "ORDER THE REINDEERS ACCORDING TO THEIR WEIGHTS."
+            ],
+            [
+                "PHEW! YOU SAVED THE CHRISTMAS!"
+            ],
+            [
+                "2C"
+            ]
+        ],
+        [
+            [
+                "It's cold, the fireplace needs more fire."
+            ],
+            [
+                "GIVE THEIR GIFTS TO GET A COAL FOR THE FIREPLACE."
+            ],
+            [
+                "FOR ONCE, TIMMY'S NAUGHTINESS HELPED!"
+            ],
+            [
+                "3C"
+            ]
+        ],
+        [
+            [
+                "Complete the Christmas tree decorations."
+            ],
+            [
+                "YOU CAN FIND A STAR BY MAKING THE CAT DIZZY. USE THE SWITCH."
+            ],
+            [
+                "THE CHRISTMAS DECORATION INDUSTRY HATES THIS CAT!"
+            ],
+            [
+                "4C"
+            ]
+        ],
+        [
+            [
+                "He is too fat to get down through the chimney."
+            ],
+            [
+                "USE YOUR MAGIC FINGERS TO STRETCH HIM."
+            ],
+            [
+                "THEY SHOULD BUILD LARGER CHIMNEYS!"
+            ],
+            [
+                "5C"
+            ]
+        ]
+    ]
+}

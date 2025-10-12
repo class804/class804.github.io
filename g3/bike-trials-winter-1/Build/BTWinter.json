@@ -1,0 +1,13 @@
+{
+"companyName": "Cape Of Good Games",
+"productName": "BT Winter",
+"dataUrl": "BTWinter.data.unityweb",
+"asmCodeUrl": "BTWinter.asm.code.unityweb",
+"asmMemoryUrl": "BTWinter.asm.memory.unityweb",
+"asmFrameworkUrl": "BTWinter.asm.framework.unityweb",
+"TOTAL_MEMORY": 218103808,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000"
+}

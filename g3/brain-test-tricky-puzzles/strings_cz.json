@@ -1,0 +1,1875 @@
+{
+    "watch_video_title":"CHCEŠ SE PODÍVAT NA VIDEO?",
+    "watch_video_button":"PODÍVAT SE",
+    "skip_level_title":"CHCEŠ PŘESKOČIT VÝUKU?",
+    "skip_level_button":"PŘESKOČIT",
+    "gift_tomorrow":"PŘIJĎ ZPĚT I ZÍTRA!",
+    "level_title":"ÚROVEŇ ",
+    "settings_english":"Čeština",
+    "settings_title":"NASTAVENÍ",
+    "settings_sound":"ZVUK",
+    "settings_music":"HUDBA",
+    "settings_notification":"OZNÁMENÍ",
+    "settings_support":"PODPORA",
+    "settings_share":"SDÍLET",
+    "settings_restore":"OBNOVIT",
+    "settings_language":"JAZYK",
+    "settings_share_text":"Skvělá hra. Tuto hru doporučuji. ",
+    "settings_email_text":"Zadej prosim svou zprávu zde.    ________  Please Do Not Modify This  Model:   OS: {1}  Application Version: {2}  ________",
+    "levels_title":"ÚROVNĚ",
+    "levels_skipped":"PŘESKOČENO",
+    "nextLevel_next_button":"DALŠÍ",
+    "shop_title":"OBCHOD",
+    "shop_bundle1_title":"NEJÚŽASNĚJŠÍ NABÍDKA",
+    "shop_bundle2_title":"NEJLEPŠÍ VOLBA",
+    "shop_sale":"% SLEVA",
+    "shop_remove_ads":"odstranit reklamy",
+    "shop_purchased":"ZAKOUPENO",
+    "shop_loading":"načítání",
+    "startScreen_title":"TEST MOZKU",
+    "startScreen_text":"TROUFNEŠ SI OTESTOVAT SVŮJ MOZEK?",
+    "startScreen_button":"ANO",
+    "rateScreen_title":"OHODNOTIT",
+    "rateScreen_hint":"DEJ NÁM 5 HVĚZDIČEK :)",
+    "rateScreen_question":"Jak moc si užíváš naši hru?",
+    "rateScreen_thanks":"Děkujeme, že podporujete naši hru!",
+    "vipPanel_becomevip":"STAŇ SE VIP!",
+    "vipPanel_get":"ZÍSKEJ",
+    "vipPanel_and":"A...",
+    "vipPanel_remove_ads":"odstranit reklamy",
+    "vipPanel_double_daily_gifts":"zdvojené denní odměny",
+    "vipPanel_cheaper_skips":"levnější přeskočení",
+    "vipPanel_cheaper_hints":"levnější rady",
+    "vipPanel_try_for_free":"VYZKOUŠEJ ZDARMA",
+    "vipPanel_3_days_free":"3 dny zdarma",
+    "vipPanel_price":" týdně",
+    "vipPanel_disclaimer":"Týdenní prémiový stav se po 3denní bezplatné zkušební verzi automaticky obnovuje každý týden za {2}. Platba bude naúčtována tvému účtu  koncem zkušebního období tvé koupě. Toto předplatné se automaticky obnovuje, není-li automatické obnovování vypnuté alespoň 24 hodin před koncem aktuálního období. Po nákupu můžeš přejít do nastavení svého účtu {1} a vypnout automatické obnovování předplatného",
+    "vipPanel_privacy_policy":"ZÁSADY OCHRANY OSOBNÍCH ÚDAJŮ",
+    "vipPanel_terms_of_use":"PODMÍNKY POUŽÍVÁNÍ",
+    "bonusPanel_pick_bonus":"VYZVEDNI SI BONUSOVOU ODMĚNU",
+    "bonusPanel_no_thanks":"NE, DÍKY",
+    "bonusPanel_collect":"VYZVEDNOUT",
+    "noti_text1": "Pojď a otestuj se na těchto zábavných puzzlech.",
+    "noti_text2": "Tohle puzzle tě rozesměje :)",
+    "noti_text3": "Je čas na zábavu :)",
+    "crosspromo_play":"HRÁT",
+    "crosspromo_title":"NAŠE DALŠÍ HRY",
+    "free":"ZDARMA",
+
+    "reward_wheel_1_day_vip":"1denní VIP",
+    "reward_wheel_1_day_hint":"<line-height=50%><size=70>%</size> SLEVA",
+    "reward_wheel_1_day_hint2":"% SALE",
+    "reward_wheel_spin":"ZATOČ!",
+    "reward_wheel_spin_again":"ZATOČ ZNOVU",
+    "reward_wheel_skip":"Ne, díky",
+    "reward_wheel_title":"ZATOČ KOLEM A ZÍSKEJ ODMĚNU!",
+
+    "submit":"POTVRDIT",
+    "reset":"RESETOVAT",
+    "next_levels":"NOVÉ ÚROVNĚ",
+    "coming_soon":"JIŽ BRZY!",
+
+    "level_50_title":"ÚROVEŇ",
+    "knights":"RYTÍŘŮ",
+    "barbarians":"BARBARŮ",
+    "leve":"ÚROVE ",
+    "red":"ČERVENÁ",
+    "purple":"FIALOVÁ",
+    "blue":"MODRÁ",
+    "black":"ČERNÁ",
+    "yellow":"ŽLUTÁ",
+    "orange":"ORANŽOVÁ",
+    "front":"Přední strana",
+    "back":"Zadní strana",
+    "go":"START!",
+
+    "dog":"PES",
+    "kit":"ČIČI",
+    "calf":"TELE",
+    "mitty":"MŇOUK",
+
+    "march":"KVĚTEN",
+    "february":"ČERVENEC",
+    "may":"DUBEN",
+
+    "victory_1":"VIC",
+    "victory_2":"TO",
+    "victory_3":"RY",
+
+    "turn_right":"ODBOČENÍ VPRAVO",
+
+    "jamaica":"JAMAJKA",
+    "france":"FRANCIE",
+    "madagascar":"MADAGASKAR",
+    "usa":"ČESKO",
+    "mars":"MARS",
+    "mordor":"OD VŠECH",
+
+    "out_of_order":"MIMO PROVOZ",
+
+    "battle":"DO BOJE",
+
+    "fight":"DO BOJE!",
+    "jump":"SKOČ",
+    "fire":"PAL!",
+
+    "new_york":"Plzeň",
+    "new_jersey":"Brno",
+
+    "weekly_title":"TÝDEN ",
+    "weekly_page_title":"TÝDENNÍ ÚROVNĚ",
+    "weekly_missed":"Zmeškáno",
+    "weekly_available":"JE DOSTUPNÁ TÝDENNÍ ÚROVEŇ!",
+    "weekly_week":"TÝDEN",
+    "weekly_save":"ZACHRAŇ TÝDEN",
+    "weekly_new":"NOVÁ",
+    "weekly_not_available":"PŘIJĎ ZPĚT PŘÍŠTÍ TÝDEN!",
+
+    "bulb_notification_title_completed":"Nové úrovně již brzy!",
+    "bulb_notification_title_normal":"Nezasekni se na . úrovni!",
+    "bulb_notification_text_completed":"Otevři hru, získej žárovky zdarma a použij je na nové úrovně.",
+    "bulb_notification_text_normal":"Otevři hru a získej žárovky zdarma za dodatečné rady.",
+
+
+    "custom1_20":"Stiskni je v tomto pořadí",
+    "custom1_42":"Dokončit tuto úroveň",
+    "custom1_78":"Vyber červenou barvu!",
+    "custom2_78":"Vyber žlutou barvu!",
+    "custom3_78":"Vyber červenou.",
+    "custom1_149":"J-D-T-Č-P-Š-S-O-?",
+    "custom1_158":"FRANCIE",
+    "custom2_158":"USA",
+    "custom3_158":"NĚMECKO",
+    "custom4_158":"NIGÉRIE",
+    "custom1_187":"DONKEY",
+    "custom2_187":"FOOL-LIKE-HIS-FATHER",
+    "custom3_187":"JA",
+    "custom4_187":"GOBLIN",
+    "custom5_187":"JASON",
+    "custom1_213":"KOP!",
+    "custom1_224":"Naroste ti ocas",
+    "custom2_224":"Naroste ti roh",
+    "custom3_224":"Získáš bohatství",
+    "custom1_228":"KOLO",
+    "custom1_230":"Sledovat",
+    "custom1_267": "POMOC!",
+    "custom2_267": "HURÁ!",
+    "custom1_273":"ČTVRTEK",
+    "custom2_273":"PÁTEK",
+    "custom3_273":"SOBOTA",
+    "custom1_287":": TY",
+    "custom2_287":": SOUPEŘ",
+    "custom1_318":"A) JABLKO",
+    "custom2_318":"B) OVOCE",
+    "custom3_318":"C) BANÁN",
+    "custom4_318":"D) ANDULKA",
+    "custom1_322":"TOHLE JE ČERVENÝ KRUH"    ,
+    "custom2_322":"TOHLE JE MODRÝ TROJÚHELNÍK",
+    "custom3_322":"TOHLE JE ČERVENÝ ČTVEREC",
+    "custom1_345":"Klepni na ně v následujícím pořadí",
+
+
+    "question_1": "Kdo je největší?",
+    "hint_1": "POZORNĚ SLEDUJ TVARY.",
+    "endText_1": "LEV MÁ NEJVĚTŠÍ TVAR",
+
+    "question_2": "Které číslo se za kamenem skrývá?",
+    "hint_2": "PODÍVEJ SE NA TO Z JINÉHO ÚHLU.",
+    "endText_2": "VÍCE ÚHLŮ POHLEDU VŽDY POMÁHÁ.",
+
+    "question_3": "Spal úplně všechno!",
+    "hint_3": "NEKOUKEJ JENOM NA OBRÁZKY.",
+    "endText_3": "TAK TEĎ JE OPRAVDU SPÁLENÉ „VŠECHNO“.",
+
+    "question_4": "Kolik má tričko děr?",
+    "hint_4": "NEZAPOMEŇ TAKÉ NA ZADNÍ STRANU.",
+    "endText_4": "NĚKDY MUSÍŠ MYSLET VE 3D.",
+
+    "question_5": "Jak rozkvést tuto květinu?",
+    "hint_5": "NEZAKRÝVAJÍ JI MRAKY?",
+    "endText_5": "NÁDHERNÁ KVĚTINKA",
+
+    "question_6": "Kdo je k nám nejblíže?",
+    "hint_6": "K „NÁM“",
+    "endText_6": "NEZAPOMEŇ, ŽE VŠECHNO, CO VIDÍŠ, JE TAKÉ SOUČÁSTÍ OTÁZKY.",
+
+    "question_7": "Klikni na zvířátka od nejmenšího po největší.",
+    "hint_7": "ŘEKL JSEM ZVÍŘÁTKA :)",
+    "endText_7": "STROM PŘECE NENÍ ZVÍŘE!",
+
+    "question_8": "Chytni  padajících jablek.",
+    "hint_8": "JEN TY, KTERÉ PADAJÍ!",
+    "endText_8": "NEMÁM TUŠENÍ, JAK TA JABLKA LÉTAJÍ!",
+
+    "question_9": "Předběhl jsem druhého. Kolikátý jsem?",
+    "hint_9": "ALE NO TAK, JEDNA Z NEJZNÁMĚJŠÍCH OTÁZEK PŘECE!",
+    "endText_9": "A TEĎ UŽ JENOM PŘEDBĚHNOUT PRVNÍHO.",
+
+    "question_11": "Přejeď doleva",
+    "hint_11": "PŘEČTI SI TO POŘÁDNĚ",
+    "endText_11": "DOSTAL JSEM TĚ, CO?",
+
+    "question_12": "Kočka má hlad, nakrm ji!",
+    "hint_12": "NA OBRAZOVCE JE VÍCE NEŽ JEDNA KOČKA.",
+    "endText_12": "SLOVO „KOČKA“ JE PŘECE TAKÉ KOČKA.",
+
+    "question_13": "Kde je zelený balón?",
+    "hint_13": "JAK VYTVOŘÍŠ ZELENOU BARVU?",
+    "endText_13": "MODRÁ+ŽLUTÁ=ZELENÁ, ZNÁMÁ BAREVNÁ KOMBINACE…",
+
+    "question_14": "Najdı chybu.",
+    "hint_14": "PODÍVEJ SE NA OTÁZKU POŘÁDNĚ.",
+    "endText_14": "SEBEKRITIKA JE NEJLEPŠÍ!",
+
+    "question_15": "They say curiosity kills the cat, but can you kill it as well?",
+    "hint_15": "WHAT KILLS THE CAT? USE THAT!",
+    "endText_15": "DON’T WORRY, HE STILL HAS 8 LIVES.",
+
+    "question_16": "Kolik máme kousků pizzy?",
+    "hint_16": "KOUKNI POD KOUSKY NA OBRAZOVCE.",
+    "endText_16": "NIKDY NEPŘESTÁVEJ HLEDAT.",
+
+    "question_17": "Vypni ji! Je příliš nebezpečná!",
+    "hint_17": "PODÍVEJ SE POŘÁDNĚ NA KONVICI.",
+    "endText_17": "TAKHLE JEDNODUCHÉ TO JE!",
+
+    "question_18": "Kdo vyhraje tuto bitvu?",
+    "hint_18": "POSTAV JE PROTI SOBĚ A SLEDUJ VÝSLEDEK.",
+    "endText_18": "TO BYLA POŘÁDNÁ BITVA SLOV.",
+
+    "question_19": "4 + 5 x 5 – 2 = ?",
+    "hint_19": "NEZAPOMEŇ, ŽE NÁSOBENÍ JE PRVNÍ.",
+    "endText_19": "TOHLE BYLY ZÁKLADY MATEMATIKY!",
+
+    "question_20": "Stiskni je v tomto pořadí: 1, 49, 80, 5, 7, 11, 101",
+    "hint_20": "ZKUS SI JE TŘEBA NEJPRVE NAPSAT NA PAPÍR.",
+    "endText_20": "TY MÁŠ TEDA PAMATOVÁKA!",
+
+    "question_21": "Pusť tu kočku dovnitř, venku mrzne.",
+    "hint_21": "OTEVŘI DVEŘE POMOCÍ GRAVITACE.",
+    "endText_21": "TEĎ SI KOČKA MŮŽE PĚKNĚ ODPOČINOUT.",
+
+    "question_23": "Kolik měsíců má 28 dní?",
+    "hint_23": "31 > 28",
+    "endText_23": "VŠECHNY MAJÍ ALESPOŇ 28 DNŮ!",
+
+    "question_24": "Zachraň prosím toho chlapce!",
+    "hint_24": "VYHRABEJ KOST.",
+    "endText_24": "JSI ZACHRÁNCE!",
+
+    "question_26": "Kde je ta           ovce?",
+    "hint_26": "JEDNU MŮŽEŠ NAMALOVAT NA ČERNO.",
+    "endText_26": "TADY JE!",
+
+    "question_27": "Co je s tímto obrázkem v nepořádku?",
+    "hint_27": "POŘÁDNĚ SE PODÍVEJ NA JEJICH RUCE.",
+    "endText_27": "MÁ 6 PRSTŮ.",
+
+    "question_28": "Prosím rozsviť všechna světla.",
+    "hint_28": "VŠECHNA SVĚTLA „NA OBRAZOVCE“.",
+    "endText_28": "TA TŘETÍ STEJNĚ NEFUNGOVALA. JEŠTĚ ŽE UŽ JE PRYČ.",
+
+    "question_29": "10=25",
+    "hint_29": "ROVNICE MOHOU SVÉ STRANY MĚNIT.",
+    "endText_29": "NEHLEDEJ V TOM TAKOVOU VĚDU!",
+
+    "question_30": "Jaké je poslední písmeno abecedy?",
+    "hint_30": "ABECEDY",
+    "endText_30": "DOUFÁM, ŽE NEZKOUŠÍŠ „Z“!",
+
+    "question_31": "Jak ten autobus projede?",
+    "hint_31": "JAK PŘIBLIŽUJEŠ A ODDALUJEŠ SVOJE FOTKY?",
+    "endText_31": "A JE Z NĚJ MRAVENČÍ AUTOBUS!",
+
+    "question_32": "Na kočičí párty je vetřelec!",
+    "hint_32": "ZKUS KLIKAT OKOLO.",
+    "endText_32": "TADY JE! KRYSA JEDNA!",
+
+    "question_33": "Zachraň ji!",
+    "hint_33": "BOUŘKA PŘICHÁZÍ S MRAKY.",
+    "endText_33": "BOŽÍ TREST HO ZASTIHL!",
+
+    "question_34": "Klikni krát na modré tlačítko.",
+    "hint_34": "NAJDI SKRYTÉ MODRÉ TLAČÍTKO.",
+    "endText_34": "TO JSOU ALE ZÁLUDNÁ TLAČÍKA.",
+
+    "question_37": "Kolik vidíš kuliček?",
+    "hint_37": "DO KOŠÍKU PŘECE NEMŮŽEŠ VIDĚT.",
+    "endText_37": "SKVĚLÁ PRÁCE, NIKDY NEVĚŘ KOŠÍKŮM.",
+
+    "question_38": "Oprav prosím tuto rovnici.",
+    "hint_38": "VYMAŽ JEDNO NADBYTEČNÉ ČÍSLO.",
+    "endText_38": "NEBOJ SE MAZÁNÍ ČÍSEL.",
+
+    "question_39": "Micka má zase hlad, pomoz jí prosím.",
+    "hint_39": "MOŽNÁ, ŽE JE V PLECHOVCE MYŠ.",
+    "endText_39": "MICKA BY MĚLA PŘESTAT TOLIK JÍST!",
+
+    "question_41": "Pomoz jim se do sebe zamilovat.",
+    "hint_41": "PRASKNUTÍ BALÓNKU HO URČITĚ PROBUDÍ.",
+    "endText_41": "LÁSKA NA PRVNÍ POHLED.",
+
+    "question_42": "Dokonči tuto úrove",
+    "hint_42": "V ZADÁNÍ NĚCO CHYBÍ.",
+    "endText_42": "DOKONCE I UŽIVATELSKÉ ROZHRANÍ TI JE NÁPOMOCNÉ.",
+
+    "question_43": "Moc jsem teda nehodil! Pomoz mi prosím.",
+    "hint_43": "ZATŘES.",
+    "endText_43": "PÁNI, TO JE ALE ŠTĚSTÍ.",
+
+    "question_44": "Jak se říká mláďatům kočky?",
+    "hint_44": "ODPOVĚĎ JE V ZADÁNÍ.",
+    "endText_44": "TO JE PŘECE JASNÉ!",
+
+    "question_45": "Která kočka je napravo?",
+    "hint_45": "ROZŠIŘ SVŮJ OBZOR A NAJDI TU PRAVOU.",
+    "endText_45": "TADY SE SCHOVÁVÁ!",
+
+    "question_46": "Tuto hádanku mi pověděl můj kamarád        ček. Kde je býk?",
+    "hint_46": "ČERVENÁ BÝKY VYTÁČÍ.",
+    "endText_46": "TADY JE TEN BÝČEK!",
+
+    "question_47": "Když mi bylo 6 let, mé sestře bylo o polovinu méně a mému bratrovi bylo dvakrát více. Jaký bude součet let mých sourozenců o 5 let později?",
+    "hint_47": "SESTŘE BYLY 3 ROKY, BRATROVI BYLO 12 LET. CO SE STANE ZA 5 LET?",
+    "endText_47": "TENTOKRÁT BEZ ŽÁDNÝCH TRIKŮ.",
+
+    "question_48": "3+8=11",
+    "hint_48": "JEN DO TOHO!",
+    "endText_48": "VŠECHNY OSTATNÍ ROVNICE JSOU ŠPATNĚ!",
+
+    "question_49": "Tví mazlíčci se topí, které zachráníš?",
+    "hint_49": "MÁŠ 5 PRSTŮ, POUŽIJ JE.",
+    "endText_49": "HA! VŠICHNI JSOU ZACHRÁNĚNI!",
+
+    "question_50": "Jak může tato rovnice platit?",
+    "hint_50": "NA JAKÉ ÚROVNI SE NACHÁZÍŠ? TA ČÍSLA BY MOHLA POMOCI.",
+    "endText_50": "NEZAPOMEŇ HLEDAT ODPOVĚDI ÚPLNĚ VŠUDE!",
+
+    "question_51": "Pomoz mi prosím najít ponožky.",
+    "hint_51": "ZKUS SE NA TO PODÍVAT Z JINÉHO POHLEDU.",
+    "endText_51": "DÍKY! MĚL JSEM UŽ STUDENÉ NOHY.",
+
+    "question_52": "Pomoz autu se dostat přes most.",
+    "hint_52": "MUSÍŠ ZPEVNIT DÍRU SVÝM PRSTEM.",
+    "endText_52": "UF! TO BYLO NEBEZPEČNÉ!",
+
+    "question_53": "Honzík má hlad. Nakrm ho prosím.",
+    "hint_53": "POLÉVKA JE MOC HORKÁ A TAKÉ BY POTŘEBOVALA TROCHU SOLI.",
+    "endText_53": "HONZÍK SE KONEČNĚ NAJEDL!",
+
+    "question_55": "Otevři prosím limonádu.",
+    "hint_55": "ZKUS S LAHVÍ ZATŘEPAT.",
+    "endText_55": "NA TO SE NAPIJEME!",
+
+    "question_56": "Kde je kočka nad tímto textem?",
+    "hint_56": "PŘETÁHNI TEXT POD KOČKU.",
+    "endText_56": "NĚKDY SI MUSÍŠ SVOJI ODPOVĚĎ PROSADIT.",
+
+    "question_57": "nan",
+    "hint_57": "SPOČÍTEJ KŘÍŽKY.",
+    "endText_57": "TOHLE BYLA HRAČKA PRO CHYTROLÍNA, JAKO JSI TY!",
+
+    "question_58": "Je hrozná tma! Nevidím svoji kočku!",
+    "hint_58": "KÉŽ BYCHOM TAK MĚLI NĚJAKÉ SVĚTLO!",
+    "endText_58": "OPĚT NÁS ZACHRÁNILO UŽIVATELSKÉ PROSTŘEDÍ.",
+
+    "question_59": "Dostaň se do cíle dříve, než vyprší čas.",
+    "hint_59": "KÉŽ BY NÁS TY STOPKY TAK NEOBTĚŽOVALY.",
+    "endText_59": "POČKAT! TOHLE SE MŮŽE?",
+
+    "question_60": "Napiš nejvyšší možné číslo.",
+    "hint_60": "PROSTĚ NAPIŠ NEJVYŠŠÍ MOŽNÉ ČÍSLO!",
+    "endText_60": "TAK K ČEMU TAM BYLY TY ROVNICE?",
+
+    "question_61": "Utiš to dítě, aby tolik nebrečelo.",
+    "hint_61": "POUŽIJ SVŮJ TELEFON PRO OTOČENÍ GRAVITACE.",
+    "endText_61": "KONEČNĚ JE POTICHU!",
+
+    "question_62": "Zařiď, ať už se nehádají.",
+    "hint_62": "MUSÍŠ ROZPŮLIT SUŠENKU.",
+    "endText_62": "SUŠENKY VŽDY VYŘEŠÍ VŠECHNY PROBLÉMY.",
+
+    "question_63": "Každý z bratrů má jednu sestru. Kolik sourozenců je dohromady?",
+    "hint_63": "MAJÍ POUZE JEDNU SESTRU.",
+    "endText_63": "NEŘÍKEJ, ŽE PÍŠEŠ 10!",
+
+    "question_64": "Které opičce nedělá dobře jízda autem?",
+    "hint_64": "ZATŘES TELEFONEM, JAKO BY TO BYLO AUTO.",
+    "endText_64": "TO BYLA TEDA SÍLA. CHUDÁK OPIČKA.",
+
+    "question_65": "Strč slona do lednice",
+    "hint_65": "JAKO PRVNÍ OTEVŘI LEDNIČKU.",
+    "endText_65": "TO BYLO CELKEM JASNÉ.",
+
+    "question_66": "Potřebujeme 10 dolarů!",
+    "hint_66": "VYPADÁ TO, ŽE MÁ PLNOU KAPSU.",
+    "endText_66": "TY JSI ZLODĚJ?!",
+
+    "question_67": "Kolik tu je kruhů?",
+    "hint_67": "PODÍVEJ SE POŘÁDNĚ NA UŽIVATELSKÉ ROZHRANÍ.",
+    "endText_67": "MÁ TOHLE BÝT PODPRAHOVÁ REKLAMA NA AUDI?",
+
+    "question_68": "Pomoz prosím tomuto chudáčkovi.",
+    "hint_68": "ZKUS HO OBRÁTIT POMOCÍ SVÉHO TELEFONU.",
+    "endText_68": "ROZENÝ DOBRÁK!",
+
+    "question_69": "             musí vyhrát.",
+    "hint_69": "ŘEKL JSEM „ČERVENÉ AUTO“ NEBO „ČERVENÁ“?",
+    "endText_69": "ČERVENÁ VYHRÁVÁ!",
+
+    "question_70": "Potřebujeme    jablek.",
+    "hint_70": "MUSÍME ZMĚNIT NAŠE POŽADAVKY.",
+    "endText_70": "NEMUSÍME PŘECE BÝT TAK CHAMTIVÍ.",
+
+    "question_71": "Zapni prosím televizi.",
+    "hint_71": "LIDSKÉ TĚLO JE VODIČEM ELEKTRICKÉHO PROUDU.",
+    "endText_71": "DOOPRAVDY SE NECHÁVÁŠ UDEŘIT PROUDEM JEN PROTO, ABY SE ZAPLA TELEVIZE?!",
+
+    "question_72": "Zajímalo by mě, kolik tu je teček.",
+    "hint_72": "FLÍČKY NEBO TEČKY?",
+    "endText_72": "ZÁLUDNÝ DALMATIN!",
+
+    "question_73": "Micka má hlad, ulov tu myš!",
+    "hint_73": "TA ZEMĚ SE ASI CHCE OTOČIT NEBO CO.",
+    "endText_73": "TA KOČKA MÁ SNAD POŘÁD HLAD!",
+
+    "question_74": "Která budova je nejodolnější.",
+    "hint_74": "MOŽNÁ, ŽE ZEMĚTŘESENÍ BY POMOHLO OTESTOVAT, KTERÁ VYDRŽÍ NEJVÍC.",
+    "endText_74": "TOMU ŘÍKÁM ODOLNÝ BARÁK!",
+
+    "question_75": "I hate this! The baby is crying again! Stop this scream!",
+    "hint_75": "MAYBE AN ICE-CREAM WOULD HELP.",
+    "endText_75": "I SCREAM, YOU SCREAM, I LIKE ICE-CREAM!",
+
+    "question_77": "Najdi dvojice a vyhraj.",
+    "hint_77": "JAK MŮŽE BÝT VŠECH 9 KARET V DVOJICI?",
+    "endText_77": "SKVĚLÁ PRÁCE, TY SAMURAJI!",
+
+    "question_78": "Vyber červenou barvu! Vyber žlutou barvu! Vyber červenou.",
+    "hint_78": "PŘEČTI SI OTÁZKU POŘÁDNĚ.",
+    "endText_78": "MÁŠ SKVĚLÝ POSTŘEH!",
+
+    "question_79": "Modré auto musí vyhrát.",
+    "hint_79": "COPAK TO VIDÍM? NĚJAKÉ NITRO?",
+    "endText_79": "TAK TOHLE BYLO LEPŠÍ NEŽ RYCHLE A ZBĚSILE.",
+
+    "question_80": "Co se objevuje dvakrát ve čtvrtek, jednou v týdnu a nikdy v měsíci?",
+    "hint_80": "PODÍVEJ SE JEŠTĚ NA TA SLOVA. ODPOVĚDÍ JSOU JEJICH PÍSMENA.",
+    "endText_80": "HEZKY!",
+
+    "question_81": "Odeber 6 sirek abys vytvořil číslo 10.",
+    "hint_81": "VYTVOŘ ČÍSLO ZA POMOCÍ PÍSMEN.",
+    "endText_81": "DESET JE 10.",
+
+    "question_82": "Oprav tuto rovnici.",
+    "hint_82": "MŮŽEŠ POHNOUT JAKÝMKOLIV ČÍSLEM NA OBRAZOVCE. CO TŘEBA ČÍSLO ÚROVNĚ?",
+    "endText_82": "SKVĚLÁ PRÁCE!",
+
+    "question_83": "Naše kočka je pořád hladová.",
+    "hint_83": "VEZMI SIRKU, ZAPAL JI A ZAPAL KNOT.",
+    "endText_83": "S TAKOVOUTO BUDE MICKA BRZO TLUSTÁ.",
+
+    "question_84": "Dal bych si devět bonbónů prosím.",
+    "hint_84": "JE ZAPOTŘEBÍ ZATŘEPAT VÍCKRÁT NEŽ POUZE JEDNOU.",
+    "endText_84": "NESNÁŠÍM TYTO KRABIČKY!",
+
+    "question_85": "Vyber čísla od nejnižších po nejvyšší.",
+    "hint_85": "578 JE NEJNÍŽE.",
+    "endText_85": "VŠECHNO JE TO O VÝŠCE.",
+
+    "question_86": "Neříkej, že jsi mu zapomněl koupit dárek!",
+    "hint_86": "NA DOLNÍ ČÁSTI OBRAZOVKY VIDÍM DÁREČEK.",
+    "endText_86": "DENNÍ ODMĚNA NÁS OPĚT ZACHRÁNILA!",
+
+    "question_87": "Aby utekl nemrtvým, musí se dostat do auta!",
+    "hint_87": "POUŽIJ PRST PRO POHYBOVÁNÍ S ČLOVĚKEM.",
+    "endText_87": "JE ZACHRÁNĚN!",
+
+    "question_88": "Kolik vidíš čtverců?",
+    "hint_88": "JSOU TAM VŮBEC NĚJAKÉ?",
+    "endText_88": "DOUFÁM, ŽE SE NESNAŽÍŠ NĚJAKÉ NAJÍT.",
+
+    "question_89": "Zmáčkni tlačítko 1    krát.",
+    "hint_89": "TŘEBA BY ŠLO TU OTÁZKU FORMULOVAT I JINAK.",
+    "endText_89": "DOUFÁM, ŽE SE TO NESNAŽÍŠ 100KRÁT ZMÁČKNOUT!",
+
+    "question_90": "Rybáři se dneska vůbec nedaří. Pomoz mu chytit rybu.",
+    "hint_90": "MOŽNÁ, ŽE JE V TĚCH JABLKÁCH ČERV.",
+    "endText_90": "A MÁME VEČEŘI!",
+
+    "question_91": "Je smutná, protože spálila vajíčka. Zkus ji rozveselit.",
+    "hint_91": "ZKUS POUŽÍT HODINY.",
+    "endText_91": "NECESTUJEŠ NÁHODOU ČASEM?!",
+
+    "question_92": "Pomoz žábě létat.",
+    "hint_92": "ZACPI JÍ NA CHVILKU NOS.",
+    "endText_92": "TO MÁŠ URČITĚ ZE SHREKA.",
+
+    "question_94": "Kolik vidíš obdélníků?",
+    "hint_94": "ZKUS JE OD SEBE ODDĚLIT.",
+    "endText_94": "VSADÍM SE, ŽE ZKOUŠÍŠ SPOČÍTAT NEROZDĚLENÉ. JÉMINE.",
+
+    "question_95": "Chytni myš!",
+    "hint_95": "NEMUSÍŠ CHODIT BLUDIŠTĚM.",
+    "endText_95": "NEPODVÁDÍŠ NÁHODOU?",
+
+    "question_96": "Klikni 3krát na zelenou, 10krát na modrou a 5krát na červenou.",
+    "hint_96": "MODRÝ UKAZATEL NENÍ PRAVDIVÝ!",
+    "endText_96": "NIKDY NEVĚŘ UKAZATELŮM.",
+
+    "question_97": "Klikni prosím na telátka.",
+    "hint_97": "JAK PŘIJÍT K TELÁTKŮM? CO TŘEBA LÁSKA?",
+    "endText_97": "NÁDHERNÁ RODINKA!",
+
+    "question_98": "Kolik je tu krychlí?",
+    "hint_98": "POŘÁDNĚ SE PODÍVEJ NA OKRAJE. A TAKÉ NEZAPOMEŇ NA TY, KTERÉ Z TOHOTO ÚHLU NEVIDÍŠ.",
+    "endText_98": "MÁŠ SKVĚLÉ PROSTOROVÉ VIDĚNÍ!",
+
+    "question_99": "Najdi rozdíly.",
+    "hint_99": "HM, VYPADJÍ STEJNĚ, ŽE?",
+    "endText_99": "JSOU NAPROSTO STEJNÉ!",
+
+    "question_100": "Péťa má dneska druhé narozeniny. Zapal mu svíčky na dortu. ",
+    "hint_100": "POUŽIJ OHEŇ NA JIŽ ZAPÁLENÉ SVÍČCE.",
+    "endText_100": "NAUČ SE POUŽÍVAT VŠECHNO, CO MÁŠ K DISPOZICI.",
+
+    "question_101": "Kde je moje čokoládové vajíčko?",
+    "hint_101": "SLUNCE ČOKOLÁDU ROZTAJE.",
+    "endText_101": "DÍKY, ŽE MÁM PO SVÉM ČOKOLÁDOVÉM VAJÍČKU!",
+
+    "question_102": "Kolik zůstane písmen, pokud z abecedy vyjmeme „B“ a „D“?",
+    "hint_102": "VE SLOVĚ „ABECEDY“ JE 7 PÍSMEN.",
+    "endText_102": "VSADÍM SE, ŽE POČÍTÁŠ CELOU ABECEDU!",
+
+    "question_103": "Ukaž, jakou máš trpělivost.",
+    "hint_103": "ZKUS JEN TRPĚLIVĚ VYČKAT.",
+    "endText_103": "TRPĚLIVOST PŘINÁŠÍ RŮŽE.",
+
+    "question_104": "Musíme se připravit, než přijdou hosté.",
+    "hint_104": "VYLEŠTI SKLENICE.",
+    "endText_104": "JEN SE BLIŠTÍ!",
+
+    "question_105": "Ptáček zaspal. Zkus zatřepat se stromem.",
+    "hint_105": "PŘED ZATŘEPÁNÍM DRŽ VĚTEV PRSTEM.",
+    "endText_105": "RANNÍ PTÁČE DÁL DOSKÁČE.",
+
+    "question_106": "Jé… ona chce taky zmrzlinu.",
+    "hint_106": "KOMBINACE ČEPICE A HLAVY JE VELMI CHUTNÁ.",
+    "endText_106": "JEN JI PROSÍM NEŘÍKEJ, ŽE TO JSOU JEJÍ VLASY.",
+
+    "question_107": "Správně dokonči rovnici.",
+    "hint_107": "PRVNÍ ŘÁDEK JE 365.",
+    "endText_107": "ODTEĎ JSI MISTR V MATEMATICE!",
+
+    "question_108": "Dal bych si majonézu.",
+    "hint_108": "CHTĚLO BY TO ZATŘEPAT S LAHVÍ.",
+    "endText_108": "HLAVNĚ TO NEŘÍKEJ MÉ NUTRIČNÍ PORADKYNI!",
+
+    "question_109": "Pomoz mi chytit králíka.",
+    "hint_109": "S KRABICÍ SE DÁ HÝBAT.",
+    "endText_109": "NEBOJ, BUDU SE O NĚJ HEZKY STARAT.",
+
+    "question_110": "Miminko už zase brečí. Řekl bych, že má prdíky.",
+    "hint_110": "POHLAĎ MU BŘÍŠKO.",
+    "endText_110": "NO FUJ… TO JE SMRÁDEK!",
+
+    "question_111": "Moje ovdovělá babička má tři děti. Všechny mají své partnery a mají alespoň jedno dítě. Moje teta má tři synovce. Kolik budeme potřebovat židlí na večeři?",
+    "hint_111": "BABIČKA, TŘI PÁRY, ČTYŘI DĚTI.",
+    "endText_111": "TO JE ALE VELKÁ RODINNÁ SEŠLOST.",
+
+    "question_113": "Rozděl všem jablka, ale nenechej talíř prázdný.",
+    "hint_113": "POSLEDNÍ JABLKO MŮŽEŠ DÁT I S TALÍŘEM.",
+    "endText_113": "STEJNĚ TEN TALÍŘ NAKONEC NEPOTŘEBUJEME.",
+
+    "question_114": "I hate math! Get rid of this number!",
+    "hint_114": "THINK ABOUT ‘ONE’ AND PUT A LETTER IN FRONT OF IT.",
+    "endText_114": "G-ONE WITH THE WIND.",
+
+    "question_115": "Kolik je tu vajíček?",
+    "hint_115": "ZKUS ZKONTROLOVAT TY VZADU.",
+    "endText_115": "PROČ SE TAM SCHOVÁVAL?!",
+
+    "question_116": "Micka si chce zalétat.",
+    "hint_116": "ZKUS SHODIT KOVADLINU Z VĚTŠÍ VÝŠKY, ABY ODPÁLILA MICKU.",
+    "endText_116": "TAK, A MICKA UŽ NÁS NEBUDE OTRAVOVAT SVÝM HLADEM.",
+
+    "question_117": "Nakrm je všechny.",
+    "hint_117": "JAK FUNGUJE POTRAVNÍ ŘETĚZEC? ZAČNI U KOBYLKY.",
+    "endText_117": "JEDNA KOČKA VLÁDNE VŠEM.",
+
+    "question_118": "On nechce jíst maminčinu vynikající polévku.",
+    "hint_118": "ŠROUBEK NAPRAVO VYPADÁ DOST UVOLNĚNĚ.",
+    "endText_118": "MĚL POSLOUCHAT SVOJI MAMINKU.",
+
+    "question_119": "Kolik to stojí celkem?",
+    "hint_119": "IGNORUJ NULY PŘED DESETINNOU ČÁRKOU.",
+    "endText_119": "Z TEBE BUDE SKVĚLÝ POKLADNÍK.",
+
+    "question_120": "Písk! Chytni ji, než máma dostane infarkt.",
+    "hint_120": "POUŽIJ UZÁVĚRY A ZACHYŤ JI.",
+    "endText_120": "MICKO, VEČEŘE JE PŘIPRAVENÁ!",
+
+    "question_121": "Učitel chce vidět obdélník.",
+    "hint_121": "OŘÍZNI LICHOBĚŽNÍK, A VYTVOŘ TAK OBDÉLNÍK.",
+    "endText_121": "TAK ZA TO DOSTANEŠ JEDNIČKU!",
+
+    "question_122": "Nůžky musí vyhrát.",
+    "hint_122": "ZBAV SE NEJPRVE KAMENŮ.",
+    "endText_122": "MILUJI TUTO HRU. HLAVNĚ KDYŽ VYHRÁVÁM.",
+
+    "question_123": "Jak to, že je to správně?!",
+    "hint_123": "ZKUS SESTŘELIT ZNAMÉNKA KRÁT.",
+    "endText_123": "TOMU ŘÍKÁM VÝBUŠNÁ ROVNICE.",
+
+    "question_124": "Pomoz mu dostat jeho peněženku zpátky.",
+    "hint_124": "POUŽIJ JEDEN PRST NA PŘIDRŽENÍ KROKODÝLÍ TLAMY A DRUHÝ NA VYTAŽENÍ PENĚŽENKY.",
+    "endText_124": "TO BYLO DOCELA NEBEZPEČNÉ!",
+
+    "question_125": "Pomoz mi dosáhnout vítězství",
+    "hint_125": "VYBER BALÓNKY V TAKOVÉM POŘADÍ, ABY SLOŽILY SLOVO.",
+    "endText_125": "POKUD SE TI LÍBILA TATO ÚROVEŇ, ZKUS NAŠI HRU WORD PEARLS",
+
+    "question_126": "Tomáš se neučil na test, ale nesmí dostat pětku.",
+    "hint_126": "TO VYPADÁ NA PĚKNĚ NATAHOVACÍ KRK.",
+    "endText_126": "TOMÁŠ BY MĚL PŘESTAT PODVÁDĚT A RADĚJI SE POŘÁDNĚ UČIT.",
+
+    "question_127": "Nakrm je. Popořadě prosím.",
+    "hint_127": "ZKUS JE NAKRMIT ODSHORA DOLŮ.",
+    "endText_127": "JSI ROZENÝ KRMIČ.",
+
+    "question_128": "Nemůžu spustit video!",
+    "hint_128": "DOLE VIDÍM TLAČÍTKO PŘEHRÁT.",
+    "endText_128": "JE ČAS NA POPCORN!",
+
+    "question_129": "Vychladla mu káva.",
+    "hint_129": "POUŽIJ ZRCADLA A ODRAZ SVĚTLO ZE SVÍTILNY.",
+    "endText_129": "MŇÁM… HORKÁ, RANNÍ KÁVA…",
+
+    "question_130": "Najdi rámeček pro tyto barevné útvary.",
+    "hint_130": "NEMUSÍŠ ZAPLŇOVAT VŠECHNY RÁMEČKY.",
+    "endText_130": "JEDEN RÁMEČEK STAČÍ PRO VŠECHNY.",
+
+    "question_131": "Oprav to.",
+    "hint_131": "8-3=5",
+    "endText_131": "SKVĚLÁ PRÁCE, VLÁDCE VŠECH SIREK!",
+
+    "question_132": "Klikni na ovoce ve správném pořadí.",
+    "hint_132": "PEČLIVĚ SE PODÍVEJ NA POČET VŠECH KUSŮ (JSOU TAM NAPŘÍKLAD 3 BANÁNY).",
+    "endText_132": "OVOCNÁ MATEMATIKA, MŇAM!",
+
+    "question_133": "Narozeniny! Kolik mu už vlastně je?",
+    "hint_133": "VYTÁHNI SVÍČKY, A PODÍVEJ SE TAK NA DORT.",
+    "endText_133": "KOUZELNÉ SVÍČKY!",
+
+    "question_134": "Pomoz jí zasáhnout terč.",
+    "hint_134": "MOŽNÁ MŮŽEŠ ZKUSIT TERČ ZVĚTŠIT.",
+    "endText_134": "MĚLA BY PŘESTAT S TRÉNOVÁNÍM LUKOSTŘELBY.",
+
+    "question_135": "Pomoz kryse získat sýr.",
+    "hint_135": "OTEVŘI TY 4 DVÍŘKA UPROSTŘED.",
+    "endText_135": "PROČ VŮBEC POMÁHÁME TÉ KRYSE?!",
+
+    "question_136": "Čím bychom měli otazník nahradit?",
+    "hint_136": "JEZDÍŠ VŮBEC S AUTEM, KTERÉ MÁ MANUÁLNÍ PŘEVODOVKU?",
+    "endText_136": "STARÉ DOBRÉ ČASY!",
+
+    "question_137": "Které auto je nejpomalejší?",
+    "hint_137": "ODPOVĚĎ JE OPĚT V OTÁZCE.",
+    "endText_137": "TOHLE MATENÍ MĚ NIKDY NEPŘESTANE BAVIT, HA, HA!",
+
+    "question_138": "Jak tahle rovnice funguje?",
+    "hint_138": "JAK DOSTANEME 5=5?",
+    "endText_138": "ZAJÍMALO BY MĚ, CO SE STANE TĚM, KTERÉ VYHAZUJEŠ Z OBRAZOVKY…",
+
+    "question_139": "Do našeho filmu potřebujeme 5 herců. Kterého vyhodíme?",
+    "hint_139": "POŘÁDNĚ JE ZKONTROLUJ, S JEDNÍM BY MOHLO BÝT NĚCO V NEPOŘÁDKU.",
+    "endText_139": "ON NA SOBĚ MĚL PARUKU!",
+
+    "question_140": "Pomoz klukovi napravo vyhrát v koulovačce.",
+    "hint_140": "SEBER KOULE NA ZEMI.",
+    "endText_140": "TOHLE BUDE BOLET!",
+
+    "question_141": "Pomoc, nevím, kam mám zahnout!",
+    "hint_141": "ZKUS OTOČIT MOBILEM.",
+    "endText_141": "DÍKY! MYSLEL JSEM, ŽE PŘEJEDU ODBOČKU…",
+
+    "question_142": "Která frkačka je nejdelší?",
+    "hint_142": "ZKUS DO NICH FOUKNOUT.",
+    "endText_142": "TO JE ALE OTRAVNÝ ZVUK!",
+
+    "question_143": "Odkud pochází med od včel?",
+    "hint_143": "ODPOVĚĎ SE OPĚT UKRÝVÁ V OTÁZCE.",
+    "endText_143": "SAMOZŘEJMĚ ŽE MED JE OD VČEL!",
+
+    "question_144": "Zastav invazi mimozemšťanů!",
+    "hint_144": "HLAVNĚ POZOR NA KOČKY! JSOU TAM ČTYŘI MIMOZEMŠŤANI.",
+    "endText_144": "KOČKY BY SE NEMĚLY POFLAKOVAT NA BITEVNÍM POLI.",
+
+    "question_145": "Je-li potřeba jedno kuře péct 5 minut, kolik minut zabere pečení 5 kuřat?",
+    "hint_145": "VŠECHNA KUŘATA MŮŽEME DAT PÉCT NAJEDNOU.",
+    "endText_145": "MÍSTO PEČENÍ BYCHOM JE RADĚJI MĚLI DÁT SMAŽIT!",
+
+    "question_146": "Objev gravitaci.",
+    "hint_146": "ZATŘES S NÍM.",
+    "endText_146": "ZAHAJUJEŠ NOVOU ÉRU VĚDOMOSTÍ!",
+
+    "question_147": "Pomoz prosím tomuto chudákovi.",
+    "hint_147": "UPRAV SYMBOL NA DÁMSKÝCH.",
+    "endText_147": "NEMĚL PÍT TOLIK LIMONÁDY.",
+
+    "question_148": "Další chudák potřebuje tvoji pomoc.",
+    "hint_148": "ŘÍKÁ TI NĚCO SPIDER-MAN?",
+    "endText_148": "TY ASI NEBUDEŠ KULTURNÍ BARBAR!",
+
+    "question_149": "Čím bychom měli otazník nahradit?",
+    "hint_149": "JEDNA, DVA, TŘI…",
+    "endText_149": "VELKÁ GRATULACE, POKUD NEPOTŘEBUJEŠ RADU.",
+
+    "question_150": "Ve svém akvárku jsem měl 10 ryb. Jakmile jsem přišel domů, uviděl jsem, že 6 z nich umřelo. Kolik jich v akvárku zbývá?",
+    "hint_150": "MRTVÉ RYBY JSOU STÁLE V AKVÁRKU.",
+    "endText_150": "TO AKVÁRKO MUSÍME VYČISTIT HNED TEĎ",
+
+    "question_151": "Kde je můj králíček?",
+    "hint_151": "POHRAJ SI TVARY.",
+    "endText_151": "JAK SE ŘÍKÁ, JSTE TO, CO JÍTE.",
+
+    "question_154": "Který je nejdelší?",
+    "hint_154": "PODÍVEJ SE PROSÍM POŘ��DNĚ.",
+    "endText_154": "ČERVENEC MÁ NEJVÍCE PÍSMEN.",
+
+    "question_155": "Kde ukrývají ten skrytý diamant?",
+    "hint_155": "PODÍVEJ SE DO VLASŮ.",
+    "endText_155": "DOBRÁ PRÁCE, DETEKTIVE!",
+
+    "question_156": "Kde je ten míček?",
+    "hint_156": "ROZPTYL HO JEHO NOSEM.",
+    "endText_156": "ON PODVÁDĚL!",
+
+    "question_157": "Pomoz autu dostat se přes řeku.",
+    "hint_157": "JE DOCEL ZIMA, TAKŽE POKUD BY NESVÍTILO SLUNCE…",
+    "endText_157": "JAK HÝBEŠ S TĚMI MRAKY?",
+
+    "question_158": "Přiřaď objekty k správnému státu",
+    "hint_158": "VŠECHYN OBJEKTY PATŘÍ K JEDNOMU STÁTU.",
+    "endText_158": "A TEĎ CHCI NAVŠÍVIT PAŘÍŽ!",
+
+    "question_159": "Jak postavíme věž?",
+    "hint_159": "POSTAV VĚŽ POMOCÍ TĚCHTO BLOKŮ.",
+    "endText_159": "JE LEPŠÍ TO UKÁZAT, NEŽ POPSAT.",
+
+    "question_160": "Ale ne! Ona zase brečí! Pomoz mi prosím…",
+    "hint_160": "TO AUTÍČKO MÁ MÍSTO PNEUMATIK VYKULENÉ OČI.",
+    "endText_160": "HA, HA, HA, HA…",
+
+    "question_161": "nan",
+    "hint_161": "POVŠIMNI SI, ŽE TA KOČKA JE OBRÁCENĚ.",
+    "endText_161": "JE 6 PŘEVRÁCENÁ 9 NEBO 9 PŘEVRÁCENÁ 6?",
+
+    "question_162": "Pomoz prosím tomuto silákovi!",
+    "hint_162": "DEJ DOLŮ ZÁVAŽÍ",
+    "endText_162": "PÁNI! TEN JE SILNÝ!",
+
+    "question_163": "Žákyně si nemůže vzpomenout na odpověď.",
+    "hint_163": "PŘIVEĎ JI DO MOZKU NĚJAKOU KREV",
+    "endText_163": "POKUD MÁŠ POCHYBNOSTI, OTOČ MOBIL VZHŮRU NOHAMA.",
+
+    "question_164": "Honzík musí jíst zdravě.",
+    "hint_164": "OBELSTI HO HAMBURGEREM",
+    "endText_164": "ZELENINKA SE MUSÍ PAPAT, HONZÍKU.",
+
+    "question_166": "Jak porazíme čaroděje?",
+    "hint_166": "OHEŇ > LIST > VODA > OHEŇ",
+    "endText_166": "JSI ČARODĚJ, HARRY!",
+
+    "question_167": "Mimozemšťani se infiltrují. Najdi je!",
+    "hint_167": "JE TU 9 SKRYTÝCH MIMOZEMŠŤANŮ.",
+    "endText_167": "NAŠLI JSME JE A TEĎ ZAVOLEJTE POLICII!",
+
+    "question_168": "Co je uprostřed Ameriky?",
+    "hint_168": "PEČLIVĚ SE PODÍVEJ NA VŠECHNA PÍSMENA VE SLOVĚ „AMERIKA“.",
+    "endText_168": "JEŠTĚ, ŽE JSEM SE NEZEPTAL, CO JE UPROSTŘED MASSACHUSETTS.",
+
+    "question_169": "Vypadá dost smutně. Rozvesel ho prosím.",
+    "hint_169": "PŘINUŤ HO USMÁT SE.",
+    "endText_169": "„NASAĎ USMĚV.“",
+
+    "question_170": "Upír! Pomoc! Pomoc!",
+    "hint_170": "UPÍŘI JSOU NÁCHYLNÍ K SLUNEČNÍMU SVITU.",
+    "endText_170": "STÁVÁ SE TEĎ Z TEBE LOVEC UPÍRŮ?",
+
+    "question_171": "Kolik tam je trojúhelníků?",
+    "hint_171": "ZKUS JE ROZPOJIT NA KOUSKY.",
+    "endText_171": "ČTVERCE NEJSOU VŽDYCKY ČTVERCE!",
+
+    "question_172": "Nakrm naši kočku zleva doprava.",
+    "hint_172": "ZEMĚ JE KULATÁ.",
+    "endText_172": "NO PÁNÍ! TA KOČKA SE PRÁVĚ VYDALA NA CESTU KOLEM SVĚTA JENOM KVŮLI JÍDLU!",
+
+    "question_173": "Spravedlnost!",
+    "hint_173": "2 NALEVO, 4 NAPRAVO.",
+    "endText_173": "LEDOVĚ CHLADNÁ SPRAVEDLNOST!",
+
+    "question_174": "Potřebujeme zelený balón.",
+    "hint_174": "MODRÁ + ŽLUTÁ = ZELENÁ, PAMATUJEŠ?",
+    "endText_174": "TYTO BALÓNY JSOU SLIZKÉ!",
+
+    "question_175": "Rozbij                       .",
+    "hint_175": "ZKUS POUŽÍT KÁMEN V ZADÁNÍ.",
+    "endText_175": "TO JE ALE VANDALISMUS!",
+
+    "question_176": "Sousedi mají uprostřed noci šílenou párty. Zastav ji.",
+    "hint_176": "ZKUS ZAVOLAT POLICII.",
+    "endText_176": "TOHLE JE NAUČÍ!",
+
+    "question_177": "Jak to může platit?!",
+    "hint_177": "POD 1 SE NĚCO SKRÝVÁ.",
+    "endText_177": "POKUD SE CÍTÍŠ SLABĚ, PROSTĚ SE NAKLONUJ.",
+
+    "question_178": "Modré auto musí vyhrát!",
+    "hint_178": "ZELENÉ ANI ČERVENÉ AUTO NEMŮŽE VYHRÁT, POKUD NEPŘEKROČÍ CÍLOVOU ČÁRU.",
+    "endText_178": "NEMŮŽEŠ-LI HRU PORAZIT, STAČÍ PRAVIDLA POZMĚNIT.",
+
+    "question_179": "Zachraň všechny!",
+    "hint_179": "MUŽ S PADÁKEM JE MŮŽE ZACHRÁNIT.",
+    "endText_179": "TO BYL ALE HRDINSKÝ ČIN!",
+
+    "question_180": "Oprav prosím ty hodiny.",
+    "hint_180": "MĚLY BY BÝT 2 HODINY ODPOLEDNE.",
+    "endText_180": "MUSÍM PŘEJÍT NA DIGITÁLNÍ HODINY!",
+
+    "question_181": "Rozvesel ho prosím.",
+    "hint_181": "JE LECHTIVÝ NA NOHOU.",
+    "endText_181": "A TEĎ PŘESTAŇ LECHTAT, NEBO SE ZASE NAŠTVE!",
+
+    "question_182": "Koník se chce stát jednorožcem.",
+    "hint_182": "KDYŽ VIDÍM PADAT HVĚZDU, VŽDY SI NĚCO PŘEJI.",
+    "endText_182": "TEN ČARODĚJ BYL ŠARLATÁN!",
+
+    "question_183": "Najdi na obrázku všechna zvířata.",
+    "hint_183": "KONĚ SE HADŮ BOJÍ.",
+    "endText_183": "JAK DLOUHO TAM TA MYŠ BYLA?!",
+
+    "question_184": "Otevři prosím ty dveře, jsem uvnitř a nemůžu ven!",
+    "hint_184": "KDE VĚTŠINA LIDÍ UKRÝVÁ SVÉ KLÍČE?",
+    "endText_184": "DOUFÁM, ŽE NEZTRÁCÍŠ ČAS VYHÁČKOVÁNÍM ZÁMKU.",
+
+    "question_185": "Želva musí vyhrát!",
+    "hint_185": "ŽELVA MÁ POD SVÝM KRUNÝŘEM PŘEKVAPENÍ.",
+    "endText_185": "RAKETOVÁ ŽELVA!",
+
+    "question_186": "Které číslo se pod kostkou skrývá?",
+    "hint_186": "PROSTĚ POSUŇ KOSTKU VEDLE.",
+    "endText_186": "BUĎ JE KOSTKA VELKÁ, NEBO JE PAPÍR MALIČKÝ.",
+
+    "question_187": "Just had a son! Pick a name for him!",
+    "hint_187": "THE SELECTIONS REQUIRE SOME MODIFICATIONS.",
+    "endText_187": "GREAT! HE CAN BE THE JASON AT HALLOWEEN.",
+
+    "question_188": "No podívej se, zase ona! Co se děje tentokrát?!",
+    "hint_188": "MÁ TAKOVÉ DIVNÉ VLASY, NEMYSLÍŠ?",
+    "endText_188": "FUJ!",
+
+    "question_189": "Získej prosím 3 jablka.",
+    "hint_189": "ZATŘES S MOBILEM A NĚJAKÁ JABLKA SPADNOU.",
+    "endText_189": "NEŽ SE DO NICH PUSTÍŠ, ZKONTROLUJ, JESTLI V NICH NEJSOU ČERVI!",
+
+    "question_190": "Dostaň se prosím k číslu 6.",
+    "hint_190": "EXISTUJE I OBRÁCENÁ 6, KE KTERÉ SE MŮŽEŠ DOSTAT.",
+    "endText_190": "TVÉMU MOBILU BUDE Z TÉHLE HRY ŠPATNĚ.",
+
+    "question_191": "Pomoc Micce se dostat k rybce.",
+    "hint_191": "DÁVEJ POZOR, KAM SE TEN PES DÍVÁ.",
+    "endText_191": "MICKA JE TEDA MAZANÁ.",
+
+    "question_192": "Chceme se dostat do Plzně.",
+    "hint_192": "PODÍVEJ SE NA KLIKU OD DVEŘÍ.",
+    "endText_192": "TOHLE AUTO JE DOCELA FLEXIBILNÍ!",
+
+    "question_193": "Chudinka vrána nemůže sníst ořech.",
+    "hint_193": "TEN KÁMEN VYPADÁ DOSTATEČNĚ TVRDĚ NA TO, ABY ROZBIL SKOŘÁPKU.",
+    "endText_193": "TAHLE VRÁNA POTŘEBUJE NĚJAKÝ VRANÍ TRÉNINK",
+
+    "question_194": "Postav mi prosím sněhuláka.",
+    "hint_194": "MRAKY MOŽNÁ SKRÝVAJÍ NÁŠ CHYBĚJÍCÍ KOUSEK.",
+    "endText_194": "KDO NERAD STAVÍ SNĚHULÁKA!",
+
+    "question_195": "Udělej z puzzle obrázek.",
+    "hint_195": "CO PROSTĚ ZKOPÍROVAT A VLOŽIT?",
+    "endText_195": "JAKO VÁŽNĚ?!",
+
+    "question_196": "Má ho ráda, nebo ho nemá ráda?",
+    "hint_196": "ZKUS SE NĚKDE PODÍVAT PO DALŠÍM OKVĚTNÍM LÍSTKU, ABY HO MĚLA RÁDA.",
+    "endText_196": "TY JSI ALE PARÁDNÍ DOHAZOVAČ!",
+
+    "question_197": "Náš pes je špinavý, umyj ho prosím.",
+    "hint_197": "NEZAPOMEŇ, ŽE ABY SE PSI VYSUŠILI, MUSÍ SE OKLEPAT.",
+    "endText_197": "TO JE ALE ROZTOMILÉ ŠTĚNĚ!",
+
+    "question_198": "To modré auto spěchá, pomoz mu.",
+    "hint_198": "KDYBYCHOM TU JENOM MĚLI NĚJAKÉ MAJÁKY.",
+    "endText_198": "ANO! TEĎ STIHNE SVŮJ OBLÍBENÝ POŘAD.",
+
+    "question_199": "Pomoz lovci duchů nastražit jeho pasti proti duchům.",
+    "hint_199": "KLEPNI NA LOVCE, ABY SE DUCHOVÉ UKÁZALI.",
+    "endText_199": "ON PRODÁVÁ SVOJI EKTOPLAZMU KOSMETICKÝM ZNAČKÁM. FUJ!",
+
+    "question_200": "nan",
+    "hint_200": "NAN",
+    "endText_200": "NAN",
+
+    "question_201": "Co vidí?",
+    "hint_201": "ZKUS SE NA TO PODÍVAT Z JEHO POHLEDU.",
+    "endText_201": "JE TOHLE METAFORA ŽIVOTA?",
+
+    "question_202": "Nadešel času vzletu!",
+    "hint_202": "MUSÍME LETĚT NAHORU.",
+    "endText_202": "UVIDÍME SE NA MARSU!",
+
+    "question_203": "To je teda náladové počasí…",
+    "hint_203": "POUŽIJ OBRÁZEK NA STĚNĚ PRO ZMĚNU POČASÍ.",
+    "endText_203": "JEHO ŽIVOT JE ILUZE.",
+
+    "question_204": "Boxer nalevo musí vyhrát.",
+    "hint_204": "VYLEPŠI MU RUKAVICI NĚČÍM TĚŽKÝM.",
+    "endText_204": "KDO DÁVÁ NA RING ŽELEZNÉ KOULE?",
+
+    "question_205": "Micka musí přeskočit na druhou stranu.",
+    "hint_205": "ZKUS TU HOUBU.",
+    "endText_205": "SUPER MICKA!",
+
+    "question_206": "Co je 50% z 55?",
+    "hint_206": "ZKUS SI PŘEDSTAVIT ČÍSLICI 55.",
+    "endText_206": "TY TÉ MATEMATICE TEDA DÁVÁŠ!",
+
+    "question_207": "Ukončí tu válku!",
+    "hint_207": "TY KANÓNY BY NEMĚLY NIKOHO ZASÁHNOUT.",
+    "endText_207": "O KRŮČEK BLÍŽ K SVĚTOVÉMU MÍRU.",
+
+    "question_208": "Pomoz mi přenést tuto krabici na vozík.",
+    "hint_208": "OTOČ SVÝM MOBILEM A PŘEKUL HO.",
+    "endText_208": "MOJE STARÁ ZÁDA TI DĚKUJÍ!",
+
+    "question_209": "Ale ne, jedeš příliš rychle!",
+    "hint_209": "ZKUS HO POTĚŠÍT.",
+    "endText_209": "MĚJTE SE PĚKNĚ, PANE POLICISTO!",
+
+    "question_210": "Pomoz mamce lvici.",
+    "hint_210": "KÉŽ BY SI TAK MOHLA ODPOČINOUT STEJNĚ JAKO TAŤKA LEV.",
+    "endText_210": "TŘIKRÁT HURÁ PRO GENDEROVOU ROVNOST!",
+
+    "question_211": "Všichni potřebují nějaké teplo.",
+    "hint_211": "PŘESUŇ TÁBORÁK NA LEPŠÍ MÍSTO.",
+    "endText_211": "PĚKNĚ SI ODPOČIŇTE, TÁBORNÍCI.",
+
+    "question_212": "Říkám, že dneska budou tvoje narozeniny. Vyber si dárek!",
+    "hint_212": "DÁVEJ SI POZOR NA SLOVA.",
+    "endText_212": "V TOM SLOVĚ NAJDEŠ, JAK MOC TĚ MÁM RÁD.",
+
+    "question_213": "Musíme dát gól.",
+    "hint_213": "ZMĚŇ NATOČENÍ SVÝCH HRÁČŮ.",
+    "endText_213": "GÓÓÓL!",
+
+    "question_214": "Co je pod              ?",
+    "hint_214": "OBJEV NĚCO, CO JE „POD STROMEM“.",
+    "endText_214": "ROZTOMILÁ KOČIČKA!",
+
+    "question_215": "Rychle klepni na čísla!",
+    "hint_215": "ČÍSLA 7 A 8 JSOU ZÁLUDNÁ, DÁVEJ SI POZOR.",
+    "endText_215": "TO BYLO NAPÍNAVÉ!",
+
+    "question_216": "Vyřeš puzzle.",
+    "hint_216": "ČÍSLA ZNÁZORŇUJÍ POČET AKTIVOVANÝCH KRUHŮ.",
+    "endText_216": "JSI GÉNIUS!",
+
+    "question_217": "Nauč prosím naši kočku, jak lovit.",
+    "hint_217": "ZAKRYJ KOČKU KRABICÍ A POTÉ NALÁKEJ MYŠ POMOCÍ SÝRU.",
+    "endText_217": "NAŠE KOČKA BUDE DOBRÝM LOVCEM!",
+
+    "question_218": "Najdi poklad.",
+    "hint_218": "NEVĚŘ DETEKTORU, PODÍVEJ SE POD VŠECHNO.",
+    "endText_218": "JSME BOHATÍ!",
+
+    "question_219": "Nefungují mi brzdy! POMOC!",
+    "hint_219": "POUŽIJ OPĚT SVOJI SCHOPNOST OVLÁDÁNÍ MRAKŮ.",
+    "endText_219": "MRAKY VYŘEŠÍ MNOHO PROBLÉMŮ.",
+
+    "question_220": "Kde je mamka lvice?",
+    "hint_220": "ZKUS PŘILÁKAT MAMČINU POZORNOST TÍM, ŽE NĚCO UDĚLÁŠ MLÁDĚTI.",
+    "endText_220": "UTÍKEJ, UTÍKEJ!",
+
+    "question_221": "Želva musí vyhrát závod.",
+    "hint_221": "JEDEN Z DIVÁKŮ U SEBE NOSÍ UŽITEČNÝ PŘEDMĚT.",
+    "endText_221": "DĚKUJEME, OPICE!",
+
+    "question_222": "Musíme dobýt hrad.",
+    "hint_222": "TEN KATAPULT BY CHTĚLO ZAŽEHNOUT.",
+    "endText_222": "VÍTĚZSTVÍ!",
+
+    "question_223": "Pomoz mu!",
+    "hint_223": "ZKUS HO NĚJAK VZBUDIT.",
+    "endText_223": "TO JE ALE SKUTEČNÁ NOČNÍ MŮRA!",
+
+    "question_224": "Vyber si!",
+    "hint_224": "ZKUS PŘÁNÍ UPRAVIT.",
+    "endText_224": "UŽÍVEJ SI SVÉHO VIRTUÁLNÍHO BOHATSTVÍ!",
+
+    "question_225": "Ten chlapec tu lamu obtěžuje, pomsti se mu!",
+    "hint_225": "SPUSŤ NA CHLAPCE DÉŠŤ.",
+    "endText_225": "PĚKNÝ ZÁSAH!",
+
+    "question_227": "Kolík zubů má?",
+    "hint_227": "NĚKTERÉ ZUBY NEMUSÍ BÝT PRAVÉ, ZKONTROLUJ  VŠECHNY.",
+    "endText_227": "TEĎ POTŘEBUJE NĚJAKÉ UMĚLÉ!",
+
+    "question_228": "Červené auto musí vyhrát!",
+    "hint_228": "ZKUS UPRAVIT UKAZATEL POČTU KOL.",
+    "endText_228": "STÁVÁ SE Z TEBE MISTR PODVÁDĚNÍ. ZAČÍNÁM SE TĚ BÁT.",
+
+    "question_229": "V továrně musíme zaplnit všechny mřížky.",
+    "hint_229": "ZAČNI S AUTOMATEM NALEVO.",
+    "endText_229": "VÍTEJTE VE STROJÍRENSTVÍ!",
+
+    "question_230": "Pokus se následovat správný postup.",
+    "hint_230": "PŘI SLEDOVÁNÍ SI MŮŽEŠ DĚLAT POZNÁMKY.",
+    "endText_230": "BUDE Z TEBE SKVĚLÝ MUZIKANT!",
+
+    "question_231": "Koník si teď přeje křídla!",
+    "hint_231": "NA OBRÁZKU JE HVĚZDA, KTEROU MŮŽEŠ UMÍSTIT NA OBLOHU.",
+    "endText_231": "KONEČNĚ TEN ČARODĚJ UDĚLAL NĚCO UŽITEČNÉHO!",
+
+    "question_233": "Rozděl prosím tyto barvy.",
+    "hint_233": "PŘELIJ MODROU DO PRÁZDNÉ ZKUMAVKY A POTÉ UVIDÍŠ ŘEŠENÍ.",
+    "endText_233": "BUDE Z TEBE NADANÝ VĚDEC!",
+
+    "question_234": "Pomoc! Nemůže přestat skákat!",
+    "hint_234": "MATRACE BY MOHLA SKÁKÁNÍ ZASTAVIT.",
+    "endText_234": "A TEĎ ZPÁTKY KE SVÝM DOMÁCÍM ÚKOLŮM!",
+
+    "question_235": "Bonbón se musí dostat do pusy.",
+    "hint_235": "NAKLOŇ SVŮJ MOBIL A POUŽIJ GRAVITACI.",
+    "endText_235": "OSUD BONBÓNU SE NAPLNIL!",
+
+    "question_236": "Micka chce opět přeskočit, ale došly nám houby.",
+    "hint_236": "BYLA TI DAROVÁNA SCHOPNOST HÝBAT S KOPCI.",
+    "endText_236": "TU KOČKU ROZMAZLUJEME!",
+
+    "question_237": "Ta kočka se znovu potřebuje dostat k rybě.",
+    "hint_237": "POMOCÍ KOSTÍ ZATOČ PSOVI HLAVU.",
+    "endText_237": "CHUDÁK!",
+
+    "question_238": "Pomoz našemu příteli přejít silnici.",
+    "hint_238": "NĚKDE SE SKRÝVÁ PŘECHOD.",
+    "endText_238": "JEŠTĚ, ŽE TI ŘIDIČI TAK PĚKNĚ DODRŽUJÍ PŘEDPISY!",
+
+    "question_239": "Dal bych si prosím omeletu.",
+    "hint_239": "VYSTRAŠ SLEPICI, ABY SNESLA VEJCE.",
+    "endText_239": "NEZAPOMEŇ NA SLANINU.",
+
+    "question_240": "Ztratila svůj balónek!",
+    "hint_240": "PODÍVEJ SE NAHORU.",
+    "endText_240": "ZAJÍMALO BY MĚ, KVŮLI ČEMU BUDE BREČET PŘÍŠTĚ.",
+
+    "question_241": "Kolik tu je psů?",
+    "hint_241": "NĚKOLIK PSŮ SE MŮŽE NĚKDE SKRÝVAT.",
+    "endText_241": "ZLOBIVÍ PSI!",
+
+    "question_243": "Micka našla další údolí, které chce přeskočit!",
+    "hint_243": "PODÍVEJ SE NA MRAKY, URČITĚ BUDOU PĚKNĚ PRUŽIT, ŽE?",
+    "endText_243": "NENÍ TOHLE PROTI ZÁKONŮM FYZIKY?",
+
+    "question_244": "Musíme se zbavit těch mikrobů!",
+    "hint_244": "SETŘI JE UBROUSKEM A TEN POTÉ SPAL.",
+    "endText_244": "JAK TY MIKROBY MŮŽEŠ VIDĚT?!",
+
+    "question_245": "Nemůžu se dostat do svého domu, pomoz mi!",
+    "hint_245": "ZKUS TEN DŮM ZVĚTŠIT.",
+    "endText_245": "MRAVENČÍ MUŽ BY SI ZE MĚ MĚL PŘESTAT DĚLAT LEGRACI!",
+
+    "question_246": "Pomoz mi nakrmit moji ještěrku.",
+    "hint_246": "MOJE JEŠTĚRKA RÁDA JÍ MOUCHY A MOUCHY ZASE RÁDY POLETUJÍ NAD JÍDLEM.",
+    "endText_246": "A TEĎ SE PUSTÍM DO KUŘETE.",
+
+    "question_247": "Pomoz mi, trpím OCD!",
+    "hint_247": "ROZDĚL BARVY DO JEDNOTLIVÝCH MISEK.",
+    "endText_247": "UF… TEĎ MŮŽU BÝT KLIDNÝ, DÍKY!",
+
+    "question_248": "Najdi všechna zvířata.",
+    "hint_248": "VEVERKA SE MOŽNÁ SKRÝVÁ VE STROMU.",
+    "endText_248": "TO JE ALE ŽIVÝ LESÍK!",
+
+    "question_249": "Jak nám Micka tentokrát přeskočí údolí?",
+    "hint_249": "MOŽNÁ BY SE MOHLA POSUNOUT O NĚCO BLÍŽ.",
+    "endText_249": "JE Z NÍ MISTR V PŘESKAKOVÁNÍ!",
+
+    "question_251": "Kolik je X?",
+    "hint_251": "POTŘEBUJEME NULU.",
+    "endText_251": "NELÍBÍ SE TI SNAD TAHLE INTERAKTIVNÍ MATEMATIKA?",
+
+    "question_254": "Chce    sklenic mléka a    sušenky.",
+    "hint_254": "UPRAV ZADÁNÍ TAK, ABY SE ROVNALO POČTU POLOŽEK NA STOLE.",
+    "endText_254": "MY VÍME LÉPE, CO CHCE!",
+
+    "question_255": "Pomoz mu utéci!",
+    "hint_255": "ZKUS ZABLOKOVAT NEMRTVÉHO U ROHU STĚNY.",
+    "endText_255": "HLOUPÝ NEMRTVÝ!",
+
+    "question_256": "Pomoz našemu hrdinovi!",
+    "hint_256": "NÁŠ HRDINA DOKÁŽE VZDOROVAT GRAVITACI.",
+    "endText_256": "DALŠÍ DEN, DALŠÍ HRDINSKÝ ČIN.",
+
+    "question_257": "Najdi řešení dříve, než ostatní uvudí její obličej!",
+    "hint_257": "POUŽIJ KAPESNÍČEK V KAPSE.",
+    "endText_257": "TO JE ALE DŽENTLMEN!",
+
+    "question_258": "Je tak unavená, pomoz jí prosím.",
+    "hint_258": "UKLIĎ Z MYČKY UMYTÉ TALÍŘE A VLOŽ DO NÍ TY ŠPINAVÉ.",
+    "endText_258": "KAŽDÝ BY POTŘEBOVAL POMOCNÍKA, JAKO JSI TY.",
+
+    "question_259": "Pomoz jí zasáhnout terč.",
+    "hint_259": "NEJPRVE POSUŇ TERČ.",
+    "endText_259": "UŽ JE V LUKOSTŘELBĚ O NĚCO LEPŠÍ.",
+
+    "question_260": "Pomoz opět modrému boxerovi.",
+    "hint_260": "ZKUS ČERVENÉHO BOXERA ROZPTÝLIT.",
+    "endText_260": "DALŠÍ VÍTĚZSTVÍ PRO NAŠEHO UBOHÉHO BOXERA!",
+
+    "question_261": "Musíme tu příšeru zastavit!",
+    "hint_261": "MOŽNÁ Z NĚHO MŮŽEME UDĚLAT NAŠEHO KAMARÁDA.",
+    "endText_261": "ODTEĎ JSME KAMARÁDI!",
+
+    "question_262": "Koník si přeje tentokrát princeznu.",
+    "hint_262": "POKUD ČARODĚJE OMRÁČÍME, MOŽNÁ SE UKÁŽOU HVĚZDIČKY.",
+    "endText_262": "KOLIK SI TOHO BUDE JEŠTĚ PŘÁT!",
+
+    "question_263": "Nasbírej jablka!",
+    "hint_263": "DÁVEJ SI POZOR NA TO RAJČATOVÉ JABLKO.",
+    "endText_263": "ZÁLUDNÉMU RAJČETI SE TĚ NEPODAŘILO NAPÁLIT.",
+
+    "question_264": "Potřebujeme oheň.",
+    "hint_264": "PLEŠ BY MOHLA ODRAZIT SLUNEČNÍ SVIT.",
+    "endText_264": "TO JE ALE ODRÁŽEJÍCÍ HLAVA!",
+
+    "question_265": "Nakresli prosím trojúhelník.",
+    "hint_265": "ZKUS POSUNOUT BODY.",
+    "endText_265": "VELMI CHYTRÉ!",
+
+    "question_266": "Dějí se tu nějaké zvláštní věci, najdi je.",
+    "hint_266": "RYBY NEMAJÍ VÍČKA ANI KŘÍDLA A KRABI MAJÍ POUZE 10 NOHOU.",
+    "endText_266": "DO TÉTO VODY MUSELI HODIT NĚJAKÝ RADIOAKTIVNÍ ODPAD!",
+
+    "question_267": "Potřebuje           !",
+    "hint_267": "MUSÍ ZAKŘIČET: „POMOC!“",
+    "endText_267": "POKUD JSI NEBEZPEČÍ, ZAKŘIČ CO NEJVÍC!",
+
+    "question_269": "Jak to může být správně?!",
+    "hint_269": "ZKUS SE NA TO PODÍVAT Z JINÉHO ÚHLU.",
+    "endText_269": "VÍŠ, ŽE NAŠI HRU ZAŽALOVAL SPOLEK MATEMATIKÁŘŮ?",
+
+    "question_270": "Která z opic má nejdelší ocas?",
+    "hint_270": "ZKUS NAJÍT KONEC OCASŮ.",
+    "endText_270": "Z TÉHLE SE STANE VLÁDCE VŠECH OPIC!",
+
+    "question_271": "Chtěl by stejný hamburger.",
+    "hint_271": "Podívej se opatrně na již udělaný hamburger a zkus udělat ten stejný.",
+    "endText_271": "JAKO Z RYCHLÉHO OBČERSTVENÍ!",
+
+    "question_272": "Je smutný kvůli tomu, že má moc pomalý počítač.",
+    "hint_272": "VENTILÁTORY NEMOHOU POČÍTAČ OCHLAZOVAT KVŮLI PRACHU.",
+    "endText_272": "MUSÍ SI ZAČÍT ČISTIT POČÍTAČ!",
+
+    "question_273": "Ale ne! Dneska jde pozdě do práce!",
+    "hint_273": "ŠKODA, ŽE NENÍ DNESKA VÍKEND.",
+    "endText_273": "JEHO OŠIDIT MŮŽEŠ, ALE JEHO ŠÉFA ASI NE!",
+
+    "question_274": "Jaká je odpověď?",
+    "hint_274": "13+7 JE TAKÉ 20.",
+    "endText_274": "POKUD MATEMATIKU PO VŠECH TĚCHTO ÚROVNÍCH STÁLE MILUJEŠ, TAK TA LÁSKA K NÍ MUSÍ BÝT NEFALŠOVANÁ!",
+
+    "question_276": "Pomoz chlapci dostat se domů.",
+    "hint_276": "POUŽIJ DRUHOU PLATFORMU PRO VYTVOŘENÍ MOSTU.",
+    "endText_276": "TATO CESTA JE POŘÁD BEZPEČNĚJŠÍ NEŽ MOJE KAŽDODENNÍ CESTA DO PRÁCE.",
+
+    "question_277": "Kde se skrývá pes?",
+    "hint_277": "PODÍVEJ SE MEZI TY DVĚ SKŘÍNĚ.",
+    "endText_277": "JE MI TO LÍTO, ALE K VETERINÁŘI PROSTĚ MUSÍŠ.",
+
+    "question_278": "Zrychli provoz!",
+    "hint_278": "GRAVITACE BY MOHLA POMOCI.",
+    "endText_278": "STAROSTA PRAHY BY SE S TEBOU RÁD SETKAL.",
+
+    "question_279": "Dokonči svůj trénink s mečem.",
+    "hint_279": "POTÁHNI PRSTEM VE SMĚRU MEČE.",
+    "endText_279": "TVŮJ MISTR BUDE PYŠNÝ, NOVÁČKU.",
+
+    "question_280": "Ten duch musí uniknout nástrahám.",
+    "hint_280": "MOŽNÁ SI NEJPRVE ZKUS NAMALOVAT NA PAPÍR SPRÁVNOU CESTU.",
+    "endText_280": "MYSLÍŠ, ŽE JE DOBRÝ NÁPAD POMÁHAT DUCHOVI?!",
+
+    "question_281": "Ale ne! Uvadá jí květinka!",
+    "hint_281": "KVĚTINA POTŘEBUJE VODU A HNOJIVO.",
+    "endText_281": "VSTÁVEJ A TŘPYŤ SE, NÁDHERNÁ KVĚTINKO.",
+
+    "question_282": "Pomůžeš mi prosím            auto?",
+    "hint_282": "JAK TO AUTO „OPRAVIT“?",
+    "endText_282": "Některá slova jsou v této hře docela mocná!",
+
+    "question_284": "Zachraň městečko!",
+    "hint_284": "ŠKODA, ŽE TA HORA NENÍ VYŠŠÍ.",
+    "endText_284": "ŽE ZASE ZKOUŠÍŠ HÝBAT S MRAKY?",
+
+    "question_285": "Pomoz jí ochránit své malé želvičky.",
+    "hint_285": "POUŽIJ ŽELVÍ KRUNÝŘ A ZAÚTOČ NA HADA.",
+    "endText_285": "PŘÍJEMNOU CESTU, HADE.",
+
+    "question_286": "Musíš spojit obličej.",
+    "hint_286": "TO UPROSTŘED JE ZRCADLO. POUŽIJ JEJ.",
+    "endText_286": "POKUD SE TI TATO ÚROVEŇ LÍBILA, ZKUS NAŠI KREATIVNÍ HRU: MIRROR PUZZLE!",
+
+    "question_287": "Tohle musíš nějak vyhrát…",
+    "hint_287": "ZKUS PŘESUNOUT O.",
+    "endText_287": "NEBOJ SE, KROMĚ FBI TĚ NIKDO PODVÁDĚT NEVIDĚL.",
+
+    "question_288": "Pomoz mu překonat tohle nudné pondělní ráno.",
+    "hint_288": "UDĚLEJ MU KÁVU POUŽITÍM HORKÉ VODY A INSTANTNÍ KÁVY.",
+    "endText_288": "K TÉTO ÚROVNI NYNÍ HLEDÁME SPONZORA, JENŽ VLASTNÍ ZNAČKU KÁVY. OZVĚTE SE PROSÍM NAŠÍ MARKETINGOVÉ MANAŽERCE MICCE.",
+
+    "question_289": "Pomoz těmto milencům najít cestu k sobě.",
+    "hint_289": "ZKUS POUŽÍT TU KLÁDU JAKO MOST.",
+    "endText_289": "POŘÁD LEPŠÍ MILOSTNÝ PŘÍBĚH NEŽ V ULICI.",
+
+    "question_290": "Brečí jako vždy!",
+    "hint_290": "ZKUS PŘEPNOUT NA JINÝ TELEVIZNÍ PROGRAM.",
+    "endText_290": "JEJÍ BREČENÍ JE SNESITELNĚJŠÍ NEŽ TY SMĚŠNÉ KRESLENÉ POHÁDKY.",
+
+    "question_291": "Rytíř Strašílek by potřeboval tvoji pomoc při útoku na draka.",
+    "hint_291": "NALÁKEJ HO RYTÍŘEM A POTÉ MU STRČ DO TLAMY VODU.",
+    "endText_291": "JAKÝ TO VELKOLEPÝ DEN PRO NAŠEHO CHRABRÉHO RYTÍŘE!",
+
+    "question_292": "Co je na Jupiteru  ",
+    "hint_292": "ODPOVĚĎ JE NEZNÁMÁ. ZKUS TO NAZNAČIT SYMBOLEM.",
+    "endText_292": "TO JE OPRAVDOVÁ ZÁHADA.",
+
+    "question_293": "Ale ne! Předejdi této nehodě!",
+    "hint_293": "ZKUS POUŽÍT HOUKAČKU NA LOKOMOTIVĚ.",
+    "endText_293": "PROČ BY TAM VŮBEC NĚKDO SPAL?!",
+
+    "question_294": "Je tak rozčílený, uklidni ho.",
+    "hint_294": "POLOŽ SVŮJ MOBIL.",
+    "endText_294": "POKUD SE ROZČÍLÍŠ, LEHNI SI A ODPOČÍVEJ.",
+
+    "question_295": "Ten trezor musíme otevřít.",
+    "hint_295": "NĚKDE MUSÍ BÝT ŘEŠENÍ NA PAPÍRU.",
+    "endText_295": "ZAJÍMALO BY MĚ, CO JE UVNITŘ. VÝVOJÁŘI TO NEMOHOU UKÁZAT KVŮLI SVÉMU OMEZENÉMU ROZPOČTU.",
+
+    "question_296": "Rytíř Strašílek musí tentokrát porazit trolla.",
+    "hint_296": "NALÁKEJ TROLLA, ABY TREFIL MOST.",
+    "endText_296": "KRÁL HO ŠTĚDŘE ODMĚNÍ, ZATÍMCO MY DĚLÁME VŠECHNU TU PRÁCI!",
+
+    "question_297": "Proč to auto vpředu nejede?",
+    "hint_297": "POSUŇ OBRAZOVKU A PODÍVEJ SE NA ŘIDIČE.",
+    "endText_297": "TAK TOMU NEMŮŽU UVĚŘIT!",
+
+    "question_298": "Čas jít do školy, probuď ho prosím.",
+    "hint_298": "OTEVŘI OBĚ VÍČKA NARÁZ.",
+    "endText_298": "VSTÁVAT A CVIČIT, DRAHÝ MŮJ.",
+
+    "question_299": "Králík musí nasbírat všechny zlaťáky.",
+    "hint_299": "NALÁKEJ KRÁLÍKA POMOCÍ MRKVE.",
+    "endText_299": "S TĚMI ZLAŤÁKY SI TEĎ MŮŽEŠ KOUPIT TISÍC MRKVÍ.",
+
+    "question_300": "Obsluž prosím našeho zákazníka.",
+    "hint_300": "ZKUS MU NA TEN VELKÝ TÁC DÁT VŠECHNO JÍDLO.",
+    "endText_300": "DORTÍK S KUŘETEM, TO VÁŽNĚ?!",
+
+    "question_301": "Čím bychom měli otazník nahradit?",
+    "hint_301": "8+3+1=12",
+    "endText_301": "TYTO ÚROVNĚ JSOU ZÁLUDNÉ TÍM, ŽE NEJSOU ZÁLUDNÉ, ZATÍMCO SI MYSLÍŠ, ŽE ZÁLUDNÉ JSOU.",
+
+    "question_303": "Sakra! Zbav se prosím těch much.",
+    "hint_303": "NEMAJÍ RÁDY STUDENÉ POČASÍ.",
+    "endText_303": "RADĚJI BUDU NACHLAZENÝ, NEŽ ABY MI TU POLETOVALY MOUCHY!",
+
+    "question_304": "Vyber na obrazovkách správné barvy.",
+    "hint_304": "PODÍVEJ SE POŘÁDNĚ, ŽE ŽLUTÁ VEDE K DVĚMA OBRAZOVKÁM.",
+    "endText_304": "ROZMOTEJTE NĚKDO TUHLE MOTANICI!",
+
+    "question_307": "Odteď žádné skákání, Micko.",
+    "hint_307": "ZKUS JI VYSTŘELIT KANÓNEM.",
+    "endText_307": "TATO KOČKA MÁ OPRAVDU 9 ŽIVOTŮ!",
+
+    "question_308": "Tento klaun opět podvádí, dokaž to.",
+    "hint_308": "POUŽIJ TEN STŮL.",
+    "endText_308": "MEZINÁRODNÍ FEDERACE KLAUNŮ BY MĚLA TOHOTO CHLAPCE POTRESTAT.",
+
+    "question_322": "TOHLE JE ČERVENÝ KRUH TOHLE JE MODRÝ TROJÚHELNÍK TOHLE JE ČERVENÝ ČTVEREC",
+    "hint_322": "JE TO ČTVEREC NEBO OBDÉLNÍK?",
+    "endText_322": "OTÁZKY ANO/NE JSOU VŽDYCKY TĚŽKÉ!",
+
+    "question_310": "Pomozte nám, nemůžeme najít svůj domov!",
+    "hint_310": "MUSÍ TO BÝT NĚKDE PŘED SLUNCEM.",
+    "endText_310": "UŽ SE NEMŮŽU DOČKAT, AŽ UVIDÍM SVOJI DCERU, KTERÁ JE MOMENTÁLNĚ STARŠÍ NEŽ JÁ.",
+
+    "question_306": "Jak to může být správně?",
+    "hint_306": "MŮŽE BÝT „VĚTŠÍ“.",
+    "endText_306": "TA 6 JE TEĎ URČITĚ VĚTŠÍ.",
+
+    "question_313": "Zajímalo by mě, která ryba je největší.",
+    "hint_313": "POKUD SE ČTVERZUBEC CÍTÍ OHROŽENÝ, NAFOUKNE SE.",
+    "endText_313": "VSADÍM SE, ŽE RADĚJI CHCEŠ HLEDAT VELRYBY.",
+
+    "question_314": "Kde cesta vede k východu?",
+    "hint_314": "POKUS SE NAJÍT VÍTR POMOCÍ POCHODNĚ.",
+    "endText_314": "VÍTR ZNAMENÁ, ŽE TAM JE VÝCHOD!",
+
+    "question_315": "Které číslo je nad 4?",
+    "hint_315": "PRO SPRÁVNOU ODPOVĚĎ IGNORUJ TY KULIČKY.",
+    "endText_315": "5 JE SAMOZŘEJMĚ NAD 4, TO JE JASNÉ!",
+
+    "question_316": "Pomoz mu, ať nedostane pokutu.",
+    "hint_316": "OPRAV SVĚTLOMET POMOCÍ NOVÉ ŽÁROVKY.",
+    "endText_316": "„VIDÍTE? MOJE SVĚTLOMETY FUNGUJÍ SPRÁVNĚ, PANE POLICISTO!“",
+
+    "question_317": "Něco je tady špatně!",
+    "hint_317": "VE VĚTŠINĚ PŘÍPADŮ JSOU ELFOVÉ LUKOSTŘELCI A ČARODĚJOVÉ POUŽÍVAJÍ HOLE.",
+    "endText_317": "TOLKIEN SE V HROBĚ OTÁČÍ.",
+
+    "question_312": "Musí chytnout více duchů.",
+    "hint_312": "UMÍSTI NA JEJICH CESTY PASTI.",
+    "endText_312": "TEN KUPÓN OD KROTITELŮ DUCHŮ SI MŮŽEŠ NECHAT NA POZDĚJI.",
+
+    "question_319": "Dal bych si něco k snědku.",
+    "hint_319": "KOMBINACÍ TĚCH TVARŮ MŮŽEŠ VYTVOŘIT OMELETU.",
+    "endText_319": "OMELETA S PŘÍCHUTÍ DUCHA JE NEJLEPŠÍ.",
+
+    "question_320": "Uprav bloky z bočního pohledu tak, aby odpovídaly pohledu shora.",
+    "hint_320": "POSUŇ BLOKY A DEJ JE DO STEJNÉ POZICE JAKO NA OBRÁZKU NAHOŘE.",
+    "endText_320": "TY VÍŠ, JAK SE DÍVAT NA SITUACI Z RŮZNÝCH ÚHLŮ.",
+
+    "question_321": "Udělej, aby 6. tvar odpovídal vzoru.",
+    "hint_321": "DVĚ TEČKY V PROSTŘEDNÍM ŘÁDKU.",
+    "endText_321": "MÁŠ IQ NAD 9000!",
+
+    "question_318": "Co je správná odpověď.",
+    "hint_318": "JE TAM OTAZNÍK?",
+    "endText_318": "- CO JE ODPOVĚĎ. - CO?! - TO PRÁVĚ MYSLÍM!",
+
+    "question_323": "Najdi mi tu nejtěžší slepici.",
+    "hint_323": "POUŽIJ STOLIČKU PRO ZMĚŘENÍ JEJICH HMOTNOSTI.",
+    "endText_323": "PARÁDA, HLEDAL JSEM NĚCO, CO BY NAHRADILO MOJE ČINKY.",
+
+    "question_324": "Najdi jeho pravou lásku.",
+    "hint_324": "ZBAV SE DRAHÝCH POLOŽEK A OTESTUJ ŽENY.",
+    "endText_324": "A TEĎ JE ZASE NAJDI!",
+
+    "question_325": "Ale ne! Nemůže se na přehlídku dívat!",
+    "hint_325": "POUŽIJ KRABICE A ZDVIHNI HO.",
+    "endText_325": "NEDOVOL, ABY TĚ JAKÉKOLIV STĚNY ZASTAVILY.",
+
+    "question_326": "Jeden z těchto medvědů není opravdový.",
+    "hint_326": "OTESTUJ JE POMOCÍ MEDU.",
+    "endText_326": "TO MUSÍ BÝT ZOOLOG V KOSTÝMU!",
+
+    "question_327": "Zachraň ji!",
+    "hint_327": "OPATRNĚ PODRŽ SÍŤ ZA OBA KONCE.",
+    "endText_327": "NIKDY NEVĚŘ TĚM, KTEŘÍ DRŽÍ SÍŤ.",
+
+    "question_328": "Umyj ho prosím.",
+    "hint_328": "NEZAPOMEŇ NA DRUHOU STRANU TVÁŘE.",
+    "endText_328": "NAUČ SE PROSÍM, JAK JÍST SPRÁVNĚ ČOKOLÁDU, MATĚJI!",
+
+    "question_329": "Někde tu je duch! Pomoz mi ho najít!",
+    "hint_329": "POUŽIJ MOUKU A NAJDI DUCHA.",
+    "endText_329": "AHA! A TEĎ ZAVOLEJ LOVCE DUCHŮ.",
+
+    "question_330": "Zachyť  ptáků letících doprava.",
+    "hint_330": "OTOČ SVÝM MOBILEM, ABY LETĚLI DOPRAVA.",
+    "endText_330": "5 PTÁKU… NIKOLIV JEDNÍM ZÁSAHEM.",
+
+    "question_331": "Něco je tady špatně!",
+    "hint_331": "SNIŽ ŘÁDNĚ PÓDIA.",
+    "endText_331": "TO JE ONO!",
+
+    "question_332": "Jaká je odpověď?",
+    "hint_332": "5-1=4 A 5+1=6, CHÁPEŠ?",
+    "endText_332": "UČITELÉ MATEMATIKY DOPORUČUJÍ HRÁT TUTO HRU DENNĚ.",
+
+    "question_333": "Fuj! Tahle opici zapáchá!",
+    "hint_333": "POKUS SE NĚČÍM VYTLAČIT VODU.",
+    "endText_333": "TAKÉ BUDEME POTŘEBOVAT ŠAMPÓN.",
+
+    "question_334": "Honzík by měl zůstat doma a dodělávat svoje úkoly!",
+    "hint_334": "POKUD TAM NEJSOU ŽÁDNÉ DVEŘE, VEN SE NEDOSTANE.",
+    "endText_334": "TEĎ SE POKUSÍ VYLÉZT OKNEM.",
+
+    "question_335": "Micka chce sníst všechny ryby.",
+    "hint_335": "ZAČNI OD NEJMENŠÍ RYBY.",
+    "endText_335": "POKUD TAKHLE BUDE POKRAČOVAT, NAKONEC SNÍ VELRYBU!",
+
+    "question_336": "Čas na zdravé jídlo a pití.",
+    "hint_336": "ČOKOLÁDA NENÍ TAK ZDRAVÁ.",
+    "endText_336": "POSTAVIL SE NEÚPROSNÝM ÚTOKŮM RYCHLÝCH OBČERSTVENÍ.",
+
+    "question_337": "Tito lidé se nemají příliš v lásce a musí se dostat do budovy tak, aby si nezkřížili navzájem cestu.",
+    "hint_337": "UMÍSTI NA JEJICH TRASY OBJEKTY A ZABLOKUJ JE.",
+    "endText_337": "PRÁVĚ ZABRAŇUJEŠ VEŘEJNÉ POTYČCE.",
+
+    "question_338": "Nadešel čas spálit nějaké tuky.",
+    "hint_338": "POTÁHNI HAMBURGER A DONUŤ HO BĚHAT.",
+    "endText_338": "KDYŽ BUDEŠ CVIČIT, BUDEŠ SE CÍTIT LÉPE.",
+
+    "question_340": "Zjisti, čí je to miminko.",
+    "hint_340": "ZKUS MIMINKO ROZBREČET.",
+    "endText_340": "SKVĚLÁ PRÁCE! NYNÍ BUDEŠ ČELIT HNĚVU MATKY.",
+
+    "question_341": "Který z nich to udělal?",
+    "hint_341": "MOŽNÁ NENÍ MRTVÝ?",
+    "endText_341": "SKOLIL HO TEN 34. KOUSEK PIZZY.",
+
+    "question_342": "Která z nich snědla moji zmrzlinu?!",
+    "hint_342": "PODÍVEJ SE NA JEJICH TVÁŘE.",
+    "endText_342": "A MÁŠ ZARACHA!",
+
+    "question_343": "Kdo rozlil to mléko?",
+    "hint_343": "TEN SKUTEČNÝ VINÍK SE NĚKDE SCHOVÁVÁ.",
+    "endText_343": "JAK SE JÍ PODAŘILO OTEVŘÍT LEDNICI?!",
+
+    "question_344": "Kdo je pravý superhrdina?",
+    "hint_344": "MŮŽEŠ JE OTESTOVAT KRIZOVOU SITUACÍ.",
+    "endText_344": "DOBRÁ, TEĎ PROSÍM VYPLŇ TENTO REGISTRAČNÍ FORMULÁŘ K AVENGERS.",
+
+    "question_10": "Najdi řešení.",
+    "hint_10": "POVŠIMNI SI, ŽE V ROVNICÍCH VÝŠE JE KAŽDÉ OVOCE DVAKRÁT.",
+    "endText_10": "MATEMATIKA TI JDE, PARÁDA!",
+
+    "question_22": "nan",
+    "hint_22": "SPOČÍTEJ KOLEČKA.",
+    "endText_22": "VŽDY SE DÍVEJ POŘÁDNĚ.",
+
+    "question_25": "Které číslo se za kamenem skrývá?",
+    "hint_25": "PODÍVEJ SE NA TO Z JINÉHO ÚHLU.",
+    "endText_25": "POMÁHÁ, KDYŽ SE NA VĚCI DÍVÁŠ Z JINÉHO ÚHLU.",
+
+    "question_36": "Zmáčkni tlačítka.",
+    "hint_36": "JE TU JEŠTĚ JEDNO „TLAČÍTKO“.",
+    "endText_36": "PŘESNĚ TAK, TO SLOVO JE TAKÉ „TLAČÍTKO“.",
+
+    "question_40": "nan",
+    "hint_40": "PEČLIVĚ SE PODÍVEJ NA OVOCE ",
+    "endText_40": "MATEMATIKA JE DOBRÁ, ALE MÍT POZORNÉ OČI JE LEPŠÍ!",
+
+    "question_54": "Rozsviť správná tlačítka.",
+    "hint_54": "ČÍSLA UKAZUJÍ POČET AKTIVNÍCH TLAČÍTEK V ŘÁDKU NEBO SLOUPCI.",
+    "endText_54": "TOBĚ TO ALE PÁLÍ!",
+
+    "question_76": "Najdi nejmenší číslo.",
+    "hint_76": "POUŽIJ ZNAMÉNKO MÍNUS A VYTVOŘ ZÁPORNÉ ČÍSLO.",
+    "endText_76": "A NAJEDNOU SE TY PŘÍKLADY HODÍ!",
+
+    "question_93": "Najdi nejvyšší číslo.",
+    "hint_93": "ZKUS SE NA TO PODÍVAT Z JINÉHO ÚHLU A KLEPNI NA NEJVYŠŠÍ ČÍSLO.",
+    "endText_93": "DO NEKONEČNA A JEŠTĚ DÁL.",
+
+    "question_112": "Pomoz jim dostat se přes řeku. Nenechávej je ale se svojí kořistí.",
+    "hint_112": "PŘI PŘESOUVÁNÍ ZELÍ NECH OVCI NA LOĎCE A VYMĚŇ JI S VLKEM.",
+    "endText_112": "TY JSI ROZENÝ GÉNIUS!",
+
+    "question_153": "Klepni na kočku níže.",
+    "hint_153": "JE TAM VÍC KOČEK NEŽ JENOM JEDNA.",
+    "endText_153": "POUŽÍVEJ SVOJE PRSTY ROZUMNĚ, MLADÝ JEDII.",
+
+    "question_165": "„Moje mamka uvaří 1 bramboru za 25 minut. Jak dlouho jí zabere uvařit 5 brambor?“",
+    "hint_165": "MAMKA JE DOKÁŽE UVAŘIT V JEDNOM HRNCI.",
+    "endText_165": "BYL BYCH RADŠI, KDYBY JE SMAŽILA!",
+
+    "question_226": "Otevři dveře od trezoru, ve kterém se skrývá poklad.",
+    "hint_226": "PODÍVEJ SE NA STĚNU A NAJDI VODÍTKA.",
+    "endText_226": "TEĎ SI KONEČNĚ MŮŽEŠ DOVOLIT NAŠE VIP ČLENSTVÍ.",
+
+    "question_232": "Zastav vlkodlaka!",
+    "hint_232": "VLKODLACI ČERPAJÍ SVÉ SÍLY Z ÚPLŇKU.",
+    "endText_232": "PROČ JIM NEŘÍKÁME VLKOLIDI?",
+
+    "question_242": "Vyřeš tuto vraždu, detektive.",
+    "hint_242": "ZKUS HO TŘEBA PROBRAT.",
+    "endText_242": "UF! BYL TO JENOM KEČUP!",
+
+    "question_250": "Modrý čaroděj musí vyhrát!",
+    "hint_250": "ČERNÝ ČARODĚJ MÁ OKOLO SEBE KOUZELNÝ ŠTÍT, ALE VŮČI OBJEKTŮM SE UBRÁNIT NEDOKÁŽE.",
+    "endText_250": "TEĎ HO URČITE VYLOUČÍ Z BRADAVIC.",
+
+    "question_252": "Tahle myš by potřebovala vykoupat.",
+    "hint_252": "DEJ TRUBKY NA SPRÁVNÉ MÍSTO.",
+    "endText_252": "NEŘÍKEJ MICCE, ŽE TÉHLE MYŠI POMÁHÁME.",
+
+    "question_253": "Chtěla by fialové vlasy.",
+    "hint_253": "SMÍCHEJ DVĚ BARVY A ZÍSKEJ FIALOVOU.",
+    "endText_253": "TEĎ TI DÁ VELIKÁNSKÉ DÝŠKO.",
+
+    "question_345": "Klepni na ně v následujícím pořadí: kluk-králík-pták-lama-slepice-kočka",
+    "hint_345": "TA SLEPICE SE ZA NĚČÍM SKRÝVÁ.",
+    "endText_345": "TO JE ALE PODIVNÁ SKUPINKA.",
+
+    "question_354": "Který stín je jeho?",
+    "hint_354": "POVŠIMNI SI, ŽE JSOU STÍNY ROZDÍLNÉ.",
+    "endText_354": "STÍN NIKDY NELŽE.",
+
+    "question_356": "Která z nich je opravdová zmrzlina?",
+    "hint_356": "POKUS SE JE ROZTÁT.",
+    "endText_356": "TY ZBÝVAJÍCÍ ZMRZLINY JSOU JENOM PLASTOVÉ HRAČKY. TAKÉ JE STAČILO JENOM OBLÍZNOUT.",
+
+    "question_357": "Které vejce je syrové?",
+    "hint_357": "POKUD JE SHODÍŠ Z VÝŠKY, MOŽNÁ SE ROZBIJÍ.",
+    "endText_357": "POJĎME SNÍST TA UVAŘENÁ!",
+
+    "question_358": "Potřebuji smíchat tyhle dvě tekutiny.",
+    "hint_358": "ZATŘES S LAHVIČKOU A PŘITOM DRŽ JEJÍ OTVOR.",
+    "endText_358": "TAHLE FIALOVÁ SLOUČENINA SE NADOBRO ZBAVÍ TVÉHO AKNÉ.",
+
+    "question_359": "Jaký je PIN kód?",
+    "hint_359": "ZKUS BUBLINU ZVĚTŠIT.",
+    "endText_359": "TENHLE MOBIL MÁ HODNĚ MALOU OBRAZOVKU.",
+
+    "question_360": "Tenhle zvuk nedokážu vystát!",
+    "hint_360": "ZKUS HO ZTLUMIT PRSTEM.",
+    "endText_360": "BĚŽ PROSÍM HRÁT NĚKAM JINAM.",
+
+    "question_361": "Je mu příliš horko! Pomoz mu prosím.",
+    "hint_361": "PODÍVEJ SE MU NA PONOŽKY.",
+    "endText_361": "TENHLE CHUDÁK TRPÍ VÁŽNOU ENTOMOFOBIÍ.",
+
+    "question_362": "Probuď ho prosím.",
+    "hint_362": "KDYBYCHOM TU JENOM MĚLI NĚJAKÉ SPOJENÍ MEZI MOBILEM A SLUCHÁTKY.",
+    "endText_362": "NIKDY NEVĚŘ PŘIPOJENÍ PŘES BLUETOOTH.",
+
+    "question_363": "Zastav toho tyrana!",
+    "hint_363": "TA PLECHOVKA S KOLOU MŮŽE BÝT NEBEZPEČNÁ.",
+    "endText_363": "TOHLE HO NAUČÍ!",
+
+    "question_364": "Přiveď kuličku do středu.",
+    "hint_364": "KLEPNI PRO ROZPOHYBOVÁNÍ A ZASTAVENÍ KULIČKY. ZASTAV NA BAREVNÉM POLÍČKU A DOSTAŇ SE DO KOLEČKA VEVNITŘ.",
+    "endText_364": "TO BYLA TEDA NÁROČNÁ CESTA PRO NAŠI MALOU KULIČKU.",
+
+    "question_366": "Rozvesel je všechny.",
+    "hint_366": "MODŘÍ CHTĚJÍ BÝT V HORNÍ ŘADĚ. ŽLUTÍ CHTĚJÍ BÝT V TÉ SPODNÍ. ČERVENÍ NEMAJÍ RÁDI ŽLUTÉ",
+    "endText_366": "JSEM TAK ŠŤASTNÝ, ŽE JSOU VŠICHNI ŠŤASTNÍ.",
+
+    "question_367": "Kde je králík?",
+    "hint_367": "KRÁLÍCI MAJÍ DLOUHÉ UŠI.",
+    "endText_367": "MOŽNÁ SI MYSLEL, ŽE VYPADÁ JAKO KOČKA.",
+
+    "question_368": "Kde je princezna?",
+    "hint_368": "S TÍM MEČEM BY SE ŠLO OHOLIT.",
+    "endText_368": "PRINCEZNO, VÁŠ OTEC SI PŘEJE, ABYSTE SE KONEČNĚ VRÁTILA NA ZÁMEK!",
+
+    "question_369": "Pomoz mi tenhle trezor otevřít.",
+    "hint_369": "KLEPNI NA TLAČÍTKA V DANÉM POŘADÍ.",
+    "endText_369": "OTEVŘELI JSME TOLIK TREZORŮ, ALE STÁLE NEJSME BOHATÍ!",
+
+    "question_370": "Zastav příšeru!",
+    "hint_370": "TÉ ROBOTÍ RUCE CHYBÍ ŠROUBEK.",
+    "endText_370": "JAK SE TAM TEN ŠROUBEK DOSTAL?!",
+
+    "question_371": "Co bychom tam měli dosadit?",
+    "hint_371": "PEČLIVĚ SE PODÍVEJ NA VZOR. NEMUSÍŠ SI VYBÍRAT JENOM ZE DVOU.",
+    "endText_371": "TA ŽLUTÁ KOČKA JE JAK NA ZAČÁTKU, TAK NA KONCI.",
+
+    "question_372": "Pomoz jí dokončit písemku.",
+    "hint_372": "UDĚLEJ NĚCO, ABY SE HODINY NEPŘESYPALY.",
+    "endText_372": "RADŠI ODTUD ZMIZME JEŠTĚ DŘÍV, NEŽ TO UČITELOVI PŘÍJDE PODEZŘELÉ.",
+
+    "question_373": "Najdi skryté číslo 2285.",
+    "hint_373": "JEDNA KNIHA JE VZHŮRU NOHAMA.",
+    "endText_373": "MIMOZEMŠŤANI PŘIJDOU V ROCE 2285. TIKTOK BYL JEJICH PRVNÍM KROKEM K INVAZI.",
+
+    "question_375": "Pomoz mi najít vhodné datum pro schůzku s mým otravným bratrancem.",
+    "hint_375": "ZKUS VYBRAT NEMOŽNÉ DATUM. MŮŽEŠ ZMĚNIT I MĚSÍC.",
+    "endText_375": "HA, HA, HA! TEĎ SE S NÍM NEBUDU MOCT NIKDY SEJÍT!",
+
+    "question_377": "Musíme to všechno natřít na červeno.",
+    "hint_377": "POUŽIJ KBELÍK PRO ZASTAVENÍ ŠTĚTCE.",
+    "endText_377": "S TÍMHLE ŠTĚTCEM SE PRACUJE OBTÍŽNĚ!",
+
+    "question_378": "nan",
+    "hint_378": "3=2+1",
+    "endText_378": "ŽÁDNÉ TRIKY, ŽÁDNÉ PODVODY, PROSTĚ STARÁ, DOBRÁ MATEMATIKA!",
+
+    "question_380": "Jak tuhle silnici přejde?!",
+    "hint_380": "NAJDI ZPŮSOB, JAK PŘILÁKAT POLICII.",
+    "endText_380": "ČERSTVÉ KOBLIHY PRO NASTARTOVÁNÍ DNE.",
+
+    "question_381": "Zasáhni všechny cíle.",
+    "hint_381": "DOBRÁ STŘELA DOKÁŽE ŠÍP ROZŠTÍPNOUT.",
+    "endText_381": "TOHLE MUSÍ BÝT LEGOLASOVO TAJEMSTVÍ, JAK NIKDY NEPŘIJÍT O ŠÍPY!",
+
+    "question_382": "Někde tu musí být skrytá dvířka.",
+    "hint_382": "ZKUS SE PODÍVAT POD KOBEREC.",
+    "endText_382": "KAM JENOM VEDOU? K TAJNÉ SKRÝŠI TOALETNÍHO PAPÍRU?",
+
+    "question_383": "Tahle auta musí opustit parkoviště.",
+    "hint_383": "POTÁHNI JE PRSTEM, ABY SE ROZJELA. ZAČNI AUTY U ROHU.",
+    "endText_383": "KDO TĚMHLE LIDEM DAL ŘIDIČSKÝ PRŮKAZ!?",
+
+    "question_384": "Pomoz mi získat jackpot.",
+    "hint_384": "ZKUS POUŽÍT SAMOLEPKY NA AUTOMATU.",
+    "endText_384": "TAKŽE TAKHLE SE HRAJE S FALEŠNÝM AUTOMATEM!",
+
+    "question_385": "Kdo je zrádce?",
+    "hint_385": "ZRÁDCE BY NĚCO UDĚLAL TEHDY, KDYBY BYL S OBĚTÍ SÁM.",
+    "endText_385": "ČAS PRO NOUZOVOU SCHŮZKU, PÁNOVÉ!",
+
+    "question_386": "Pomoz Červenému království vyhrát v boji.",
+    "hint_386": "VOJÁK S KOPÍM DOKÁŽE PORAZIT JEZDCE NA KONI. JEZDEC ZASE PORAZÍ VOJÁKA S MEČEM.",
+    "endText_386": "TOHLE BYLI JENOM TŘI VOJÁCI. TEĎ SI PŘESTAV, KDYBY JICH BYLO PŘES TISÍC!",
+
+    "question_388": "Rozsviť všechna tlačítka.",
+    "hint_388": "NÁSLEDUJ JISTÝ VZOR. ZAČNI VLEVO NAHOŘE A SKONČI VLEVO DOLE.",
+    "endText_388": "POKUS OMYL ŘEŠÍ VŠE.",
+
+    "question_389": "Ta hudba je příliš hlasitá! Zastav ji!",
+    "hint_389": "HLASITOST REPRODUKTORU MŮŽEŠ VOLNĚ UPRAVOVAT. ZKUS POSUNOUT HRANICE.",
+    "endText_389": "SNAD NEČEKÁŠ, ŽE TI BUDEME KUPOVAT NOVÝ REPRODUKTOR?!",
+
+    "question_390": "Dokonči parkur.",
+    "hint_390": "KLEPNI NA NĚHO PRO SKOK. JEDNA PŘEKÁŽKA VYŽADUJE JINÉ ŘEŠENÍ.",
+    "endText_390": "PŘÁL BYCH SI, KDYBYCH TAKHLE MOHL SNIŽOVAT RETARDÉRY NA SILNICÍCH.",
+
+    "question_391": "Děti nechtějí chodit k jeho domu. Pomoz mu.",
+    "hint_391": "BUDE POTŘEBOVAT POŘÁDNOU HALLOWEENSKOU DÝNI. VYDLABANOU A SE SVÍČKOU UVNITŘ.",
+    "endText_391": "KOLEDU, NEBO NĚCO VYVEDU!",
+
+    "question_392": "Kolik opravdových duchů tady je?",
+    "hint_392": "SVLÉKNI JE Z KOSTÝMŮ A SPOČÍTEJ JE.",
+    "endText_392": "SAMOZŘEJMĚ, ŽE NULA! TO OPRAVDU VĚŘÍŠ V DUCHY?!",
+
+    "question_393": "Kontrola sladkostí! Dej všechny sladkosti mamce.",
+    "hint_393": "TO DÍTĚ URČITĚ SCHOVÁVÁ NĚJAKÉ SLADKOSTI POD SVÝM KOSTÝMEM.",
+    "endText_393": "CHUDÁCI DĚTI. JEJICH RODIČE JIM TEĎ URČITĚ POTAJÍ SNĚDÍ VŠECHNY SLADKOSTI.",
+
+    "question_394": "Mají hlad a jsou mrzutí. Pojďme zahájit večeři na Den díkuvzdání.",
+    "hint_394": "NAPORCUJ KROCANA A DEJ JIM KOUSKY NA TALÍŘ.",
+    "endText_394": "PŘESTAŇTE BÝT TAK NABRUČENÍ! TENHLE DEN MÁTE VYZNAT SVOJI VDĚČNOST!",
+    
+    "question_396":"Vylečte tohoto pacienta, doktore.",
+    "hint_396":"POUŽIJ RENTGENOVÝ PŘÍSTROJ, NAJDI PROBLÉMY A NATOČ KOSTI, ABY SE OPRAVILY.",
+    "endText_396":"POMOCÍ MAGIE SE TI PODAŘILO OPRAVIT JEHO ZLOMENÉ KOSTI!",
+    
+    "question_397":"Najdi zločince!",
+    "hint_397":"POUŽIJ RENTGENOVÝ PŘÍSTROJ A OSKENUJ KUFRY A OSTATNÍ VĚCI.",
+    "endText_397":"KDO TOHOTO STRÁŽCE NAJAL?!",
+    
+    "question_398":"Mezi nimi se nachází mimozemšťan!",
+    "hint_398":"POUŽIJ RENTGENOVÝ PŘÍSTROJ A NAJDI MIMOZEMŠŤANA.",
+    "endText_398":"TI MIMOZEMŠŤANI UŽ ZAČÍNAJÍ BÝT SE SVÝMI SCHOVKAMI KREATIVNÍ!",
+
+    
+    "question_399":"Ta kočka by ráda nějaké sušenky.",
+    "hint_399":"ZEMĚ JE KULATÁ.",
+    "endText_399":"ŽIJE NA TAK MALÉ PLANETĚ.",
+    
+    "question_400":"Klepni na  modrých aut, která jedou popředu doleva.",
+    "hint_400":"NEKLEPEJ NA MODRÁ AUTA, KTERÁ JEDOU POZADU.",
+    "endText_400":"TAKTO VYPADÁ MOJE KAŽDODENNÍ DOJÍŽDĚNÍ DO PRÁCE.",
+    
+    "question_401":"Najdi mi prosím veverku.",
+    "hint_401":"KLEPNI NA KOUZELNÍKA, ABY SESLAL KOUZLO. ZVÍŘATA MŮŽEŠ PROHAZOVAT.",
+    "endText_401":"TO BYLO ALE DIVNÉ KOUZLO!",
+    
+    "question_402":"Vyřeš prosím tuto rovnici.",
+    "hint_402":"VYSTŘEL Z KANÓNU PRO UPRAVENÍ ZNAMÉNEK.",
+    "endText_402":"TENTO KANÓN MŮŽEŠ POUŽÍT I PŘI PÍSEMKÁCH V MATEMATICE.",
+    
+    "question_403":"Modré auto musí vyhrát.",
+    "hint_403":"POUŽÍVÁNÍ AŽ MOC NITRA MŮŽE BÝT NEBEZPEČNÉ.",
+    "endText_403":"NEJJEDNODUŠŠÍ VÝHRA V MÉM ŽIVOTĚ.",
+    
+    "question_404":"Tady je další údolí pro naši skákavou kočku.",
+    "hint_404":"TLAČÍTKO SKOK BY SE MOHLO HODIT.",
+    "endText_404":"ONO TO JE DOSLOVA TLAČÍTKO NA SKOK.",
+    
+    "question_405":"Dej gól.",
+    "hint_405":"VYŠLI MÍČ KLEPNUTÍM NA TLAČÍTKO „KOP“. VYHNI SE PROTIVNÍKŮM.",
+    "endText_405":"MOURINHO BY NA TEBE BYL PYŠNÝ.",
+    
+    "question_406":"Klepni na ně v následujícím pořadí: ",
+    "hint_406":"NEJPRVE SI JE MUSÍŠ NĚKAM NAPSAT.",
+    "endText_406":"TO JE ALE MOŘE PLNÉ ŽIVOTA.",
+    
+    "question_407":"Zachraň tuto myš od koček.",
+    "hint_407":"PO SÝRU BUDE MYŠ SILNĚJŠÍ.",
+    "endText_407":"PŘICHÁZÍ MYŠZILLA!",
+    
+    "question_408":"Pomoz jí dojít ke své mamce.",
+    "hint_408":"POTÁHNUTÍM SE PŘEMÍSTÍ. POUŽIJ KÁMEN A UPRAV TAK, KUDY PŮJDE.",
+    "endText_408":"PROČ OD SVÉ DCERKY UTÍKÁ?!",
+    
+    "question_409":"Klikni na zvířátka od nejmenšího po největší.",
+    "hint_409":"NĚKDE BY TAM MOHLO BÝT I ČTVRTÉ ZVÍŘÁTKO.",
+    "endText_409":"NIKDY NEVĚŘ STROMU, ŽE TĚ ZAKRYJE.",
+    
+    "question_410":"Které číslo je největší?",
+    "hint_410":"POKUD JE CHCEŠ ZMĚŘIT, MUSÍŠ JE DÁT NA ZEM.",
+    "endText_410":"TO ČÍSLO ASI PAPALO HODNĚ MASA.",
+    
+    "question_411":"Ta kočka chce zase létat.",
+    "hint_411":"NA TU HOUPAČKU MUSÍŠ SHODIT NĚCO TĚŽKÉHO, ABY Z NÍ TA KOČKA VYLÉTLA.",
+    "endText_411":"ZAPLŇUJEME ATMOSFÉRU LÉTAJÍCÍMI KOČKAMI.",
+    
+    "question_412":"Pomoz tomu duchovi dostat se z bludiště.",
+    "hint_412":"SLEDUJ POHYBY DUCHA POMOCÍ SVÉHO PRSTU.",
+    "endText_412":"TEN DUCH SLIBUJE, ŽE TĚ ZA ODMĚNU NEBUDE STRAŠIT.",
+    
+    "question_413":"Rozsekni nemrtvé!",
+    "hint_413":"PŘETÁHNI NINJU PRO ZMĚNU JEHO POSTOJE. SLEDUJ SMĚR JEHO MEČE.",
+    "endText_413":"TOTO JE PILOTNÍ DÍL SERIÁLU ŽIVÍ MRTVÍ: JAPONSKO.",
+    
+    "question_414":"Pomoz kočce chytit tu myš.",
+    "hint_414":"NECHOĎ DO BLUDIŠTĚ, POHYBUJ SE OKOLO NĚHO.",
+    "endText_414":"JENOM NACVIČUJÍ LOVENÍ. DOOPRAVDY JSOU KAMARÁDI.",
+    
+    "question_415":"Kde je moje bílá ovce?",
+    "hint_415":"LAMA DOKÁŽE PLIVÁNÍM SMÝT ČERNOU BARVU.",
+    "endText_415":"TATO LAMA MÁ TOLIK SLIN!",
+    
+    "question_416":"Jak tyto krabice vypadají zepředu?",
+    "hint_416":"3 DOLE, 2 NA NICH.",
+    "endText_416":"TAK UŽ VÍŠ, JAK PERSPEKTIVA FUNGUJE.",
+    
+    "question_417":"Během noci musí zůstat v teple.",
+    "hint_417":"MŮŽEŠ ZAPÁLIT DALŠÍ TÁBORÁK.",
+    "endText_417":"MĚLI SI LEHNOUT BLÍŽ K SOBĚ!",
+    
+    "question_418":"Modrá armáda musí vyhrát.",
+    "hint_418":"PŘETÁHNI MODRÉ VOJÁKY. MEČ PORAZÍ KOPÍ, KOPÍ PORAZÍ KONĚ A KŮŇ PORAZÍ MEČ.",
+    "endText_418":"JSI TAKTICKÝ GÉNIUS!",
+    
+    "question_419":"Kde je ten špeh?!",
+    "hint_419":"PODÍVEJ SE NA OBRAZ.",
+    "endText_419":"JEHO OČI HO ZRADILY!",
+    
+    "question_420":"Zachraň chlapce!",
+    "hint_420":"NĚCO BY MOHLO TU PŘÍŠERU UKLIDNIT.",
+    "endText_420":"ŠLO MU JENOM O MEDVÍDKA.",
+    
+    "question_421":"Nadešel čas zhubnout.",
+    "hint_421":"UTÁHNI PÁSEK.",
+    "endText_421":"KUPTE SI NAŠI KNIHU O ZDRAVÉM JEZENÍ S NÁZVEM „JÍDELNÍČEK ZÁZRAČNÉHO PÁSKU“.",
+    
+    "question_422":"Odhal tajemství.",
+    "hint_422":"JEJÍ VLASY NĚCO ZAHALUJÍ.",
+    "endText_422":"JEŠTĚ SE VRÁTÍ!",
+    
+    "question_423":"Moje auto nejede!",
+    "hint_423":"GRAVITACE BY MOHLA POMOCT.",
+    "endText_423":"DOUFEJME, ŽE ZBYTEK CESTY POJEDEME Z KOPCE.",
+    
+    "question_424":"Vyvaž houpačku.",
+    "hint_424":"ZKUS ODEBRAT ČÍSLO NAVÍC.",
+    "endText_424":"JAK MŮŽE NULA NĚCO VÁŽIT?!",
+    
+    "question_425":"Chce mít větší         .",
+    "hint_425":"ZKUS ZVĚTŠIT „SVALY“.",
+    "endText_425":"NIKDY SE NESNAŽ TAKHLE NABÍRAT SVALY DOMA.",
+    
+    "question_426":"Je na čase zbohatnout!",
+    "hint_426":"PŘILÁKEJ PSA A PROMĚŇ HO V KRYPTOMĚNU.",
+    "endText_426":"ELON MUSK ODMÍTL SPONZOROVAT TUTO ÚROVEŇ. POKRYTEC!",
+    
+    "question_427":"Došla jí kosmetika. Pomoz jí prosím.",
+    "hint_427":"UBROUSEK JÍ MŮŽE UTŘÍT PUSU. NAJDI ŘASY VE VLASECH.",
+    "endText_427":"BEZ LÍČENÍ VYPADÁ LÉPE.",
+    
+    "question_428":"Je moc velké horko! Pomoz tomu chudákovi.",
+    "hint_428":"NAJDI NĚCO OSTRÉHO A PROPÍCHNI SLUNCE.",
+    "endText_428":"CELÝ SVŮJ ŽIVOT POUŽÍVÁM DEŠTNÍKY ŠPATNĚ!",
+    
+    "question_429":"Pejsek chce ochutnat sníh.",
+    "hint_429":"DÉŠŤ SE VE VELKÉ VÝŠCE MĚNÍ V SNÍH.",
+    "endText_429":"DÁVEJ SI POZOR NA ŽLUTÝ SNÍH!",
+    
+    "question_430":"Chce být vyšší.",
+    "hint_430":"STATICKÁ ELEKTŘINA MU MŮŽE ZVEDNOUT VLASY. NABIJ HŘEBEN TAK, ŽE HO BUDEŠ TŘÍT O TRIČKO.",
+    "endText_430":"RŮST V PODÁNÍ MARGE SIMPSONOVÉ.",
+    
+    "question_431":"Zachraň Titanic!",
+    "hint_431":"KDYBY TU JEN SVÍTIL MĚSÍC, KTERÝ BY LEDOVEC ODHALIL.",
+    "endText_431":"A HISTORIE SE DNEŠKEM MĚNÍ!",
+    
+    "question_432":"Rozvesel je.",
+    "hint_432":"VYPADÁ TO, ŽE MÁ VOUSY NAVÍC, NEMYSLÍŠ?",
+    "endText_432":"V NOUZI POZNÁŠ PŘÍTELE.",
+    
+    "question_433":"Jeden z nich se chová podezřele!",
+    "hint_433":"UMYJ JIM HLEDÍ A ZJISTI TO.",
+    "endText_433":"POKUD TI HRANÍ ZA ZRÁDCE JDE, TAK VYZKOUŠEJ <link=\"imposter\"><u><color=blue>BECOME THE IMPOSTER!</color></u></link>",
+    
+    "question_434":"Agent Standa musí chytit lupiče!",
+    "hint_434":"LUPIČ NEUNESE TĚŽKÝ PYTEL.",
+    "endText_434":"POKUD TĚ STANDOVO DOBRODRUŽSTVÍ BAVÍ, VYZKOUŠEJ <link=\"bt2\"><u><color=blue>BRAIN TEST 2</color></u></link>",
+    
+    "question_435":"Kde je pes se 4 flíčky?",
+    "hint_435":"JEDEN FLÍČEK VYPADÁ JAKO NEČISTOTA.",
+    "endText_435":"POJĎ SEM, PEJSÁNKU!",
+    
+    "question_436":"Kdo zlobí?",
+    "hint_436":"NĚKDE SE SCHOVÁVÁ TŘETÍ DĚŤÁTKO.",
+    "endText_436":"POKUD SE TI TAKOVÉHLE HÁDANKY S LIDMI LÍBÍ, VYZKOUŠEJ <link=\"whois\"><u><color=blue>WHO IS!</color></u></link>!",
+    
+    "question_437":"Kde je ten žralok?",
+    "hint_437":"ŽRALOKY PŘITAHUJE KREV.",
+    "endText_437":"S OHLEDEM NA NAŠE MLADÉ HRÁČE NEBUDEME UKAZOVAT KONEC PŘÍBĚHU.",
+    
+    "question_438":"Dej zamilované dohromady.",
+    "hint_438":"DEJ STEJNÉ OBRÁZKY DO JEDNÉ ŘADY.",
+    "endText_438":"KDYŽ VÍŠ, JAK HRY SE SPOJOVÁNÍM 3 OBRÁZKŮ FUNGUJÍ, PROČ NEZKUSÍŠ <link=\"blast_friends\"><u><color=blue>BLAST FRIENDS</color></u></link>?",
+    
+    "question_449":"Pomoz mu vyhrát ve hře se sladkostí.",
+    "hint_449":"MUSÍ TU SLADKOST LÍZAT.",
+    "endText_449":"TO JE ALE DLOUHATÁNSKÝ JAZYK!",
+    
+    "question_450":"Pomoz mu staříka porazit.",
+    "hint_450":"VYBER SI A POTOM MU SEVŘI RUKU V PĚST A VYBÍREJ ZNOVU.",
+    "endText_450":"ŽE SE NESTYDÍŠ, TAKHLE OBELSTÍT STAŘÍKA!",
+    "odd":"LICHÁ",
+    "even":"SUDÁ",
+    
+    "question_451":"Musí se dostat přes hru se skákáním na sklo.",
+    "hint_451":"KLEPNI NA SKLA A OTESTUJ JEJICH VÝDRŽ.",
+    "endText_451":"PŘESKÁKAL TO JAKO JEDINÝ, TAKŽE TO BUDE V POSLEDNÍ HŘE SOUPEŘIT SÁM S SEBOU?!",
+    
+    "question_452":"Musí se bezpečně dostat k cílové čáře.",
+    "hint_452":"PÍSEK BY MOHL PANENČINY OČI ZAKRÝT.",
+    "endText_452":"PODVÁDĚNÍ V TAKHLE BRUTÁLNÍCH HRÁCH NENÍ PODVOD.",
+    
+    "question_453":"Jeho tým musí vyhrát v přetahované.",
+    "hint_453":"ZKUS POUŽÍT GRAVITACI.",
+    "endText_453":"PROČ V TOM SERIÁLU TUHLE TAKTIKU NEPOUŽILI?",
+    
+    "question_454":"Pomoz Santovi vzlétnout.",
+    "hint_454":"ZKUS DÁT RUDOLFOVI ČERVENÝ NOS.",
+    "endText_454":"SANTA BY SI MĚL PŘESTAT PŮJČOVAT RUDOLFŮV NOS!",
+    
+    "question_455":"Řítí se k zemi, pomoz jim!",
+    "hint_455":"SEŘAĎ SOBY PODLE JEJICH VÁHY. VYROVNEJ KAŽDOU ŘADU.",
+    "endText_455":"UF! A VÁNOCE JSOU ZACHRÁNĚNY!",
+    
+    "question_456":"Je chladno, takže je potřeba přitopit v krbu.",
+    "hint_456":"ROZDEJ JIM DÁRKY A ZÍSKEJ UHLÍ DO KRBU.",
+    "endText_456":"PRO JEDNOU TÁĎOVO ZLOBENÍ POMOHLO!",
+    
+    "question_457":"Dozdob vánoční stromeček.",
+    "hint_457":"HVĚZDIČKU NAJDEŠ TAK, ŽE ZATOČÍŠ KOČCE HLAVU. POUŽIJ SPÍNAČ.",
+    "endText_457":"PRŮMYSL S VÁNOČNÍMI DEKORACEMI TU KOČKU NENÁVADÍ!",
+    
+    
+    
+    
+"closed":"Zavřeno",
+"open":"Otevřeno",
+"custom1_375": "KVĚTEN",
+"custom2_375": "ČERVEN",
+"custom1_359":"Heslo je ... ",
+"custom2_359":"Heslo je ... 4285",
+    "settings_try_our_other_games":"NAŠE DALŠÍ HRY",
+    "other_games_title":"NAŠE DALŠÍ HRY",
+    "other_games_play_now":"HRAJ NYNÍ!"
+}

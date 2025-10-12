@@ -1,0 +1,1890 @@
+{
+    "watch_video_title":"VUOI GUARDARE IL VIDEO?",
+    "watch_video_button":"GUARDA",
+    "skip_level_title":"VUOI SALTARE QUESTO LIVELLO?",
+    "skip_level_button":"SALTA",
+    "gift_tomorrow":"RITORNA DOMANI!",
+    "level_title":"LIVELLO ",
+    "settings_english":"italiano",
+    "settings_title":"IMPOSTAZIONI",
+    "settings_sound":"SUONO",
+    "settings_music":"MUSICA",
+    "settings_notification":"NOTIFICHE",
+    "settings_support":"SUPPORTO",
+    "settings_share":"CONDIVIDI",
+    "settings_restore":"RIPRISTINA",
+    "settings_language":"LINGUA",
+    "settings_share_text":"Ottimo gioco! Lo consiglio. ",
+    "settings_email_text":"Inserisci il tuo messaggio qui.    ________  Please Do Not Modify This  Model:   OS: {1}  Application Version: {2}  ________",
+    "levels_title":"LIVELLI",
+    "levels_skipped":"SALTATO",
+    "nextLevel_next_button":"SUCCESSIVO",
+    "shop_title":"NEGOZIO",
+    "shop_bundle1_title":"OFFERTA IMPERDIBILE",
+    "shop_bundle2_title":"CONSIGLIATA",
+    "shop_sale":"SCONTO DEL %",
+    "shop_remove_ads":"rimuovere gli annunci",
+    "shop_purchased":"ACQUISTATO",
+    "shop_loading":"caricamento",
+    "startScreen_title":"TEST DI LOGICA",
+    "startScreen_text":"SEI PRONTO A TESTARE IL TUO CERVELLO?",
+    "startScreen_button":"PRONTO",
+    "rateScreen_title":"VALUTA",
+    "rateScreen_hint":"5 STELLE :)",
+    "rateScreen_question":"Quanto ti è piaciuto il nostro gioco?",
+    "rateScreen_thanks":"Grazie del supporto al nostro gioco!",
+    "vipPanel_becomevip":"DIVENTA VIP!",
+    "vipPanel_get":"PROCEDI",
+    "vipPanel_and":"E...",
+    "vipPanel_remove_ads":"rimuovi gli annunci",
+    "vipPanel_double_daily_gifts":"doppi regali giornalieri",
+    "vipPanel_cheaper_skips":"salti più economici",
+    "vipPanel_cheaper_hints":"suggerimenti più economici",
+    "vipPanel_try_for_free":"PROVA GRATIS!",
+    "vipPanel_3_days_free":"3 giorni gratis",
+    "vipPanel_price":" a settimana",
+    "vipPanel_disclaimer":"Weekly Premium si rinnova automaticamente per {2} a settimana dopo la prova gratuita di 3 giorni. Il pagamento verrà addebitato sul tuo account  al termine del periodo di prova dell'acquisto. L'abbonamento si rinnova automaticamente a meno che il rinnovo automatico non sia disattivato almeno 24 ore prima della fine del periodo corrente e puoi gestirlo e disattivarlo accedendo alle impostazioni del tuo account su {1} dopo l'acquisto.",
+    "vipPanel_privacy_policy":"POLITICA SULLA PRIVACY",
+    "vipPanel_terms_of_use":"CONDIZIONI D'USO",
+    "bonusPanel_pick_bonus":"SCEGLI UNA RICOMPENSA BONUS!",
+    "bonusPanel_no_thanks":"NO, GRAZIE",
+    "bonusPanel_collect":"RISCUOTI",
+    "noti_text1": "È ora di divertirsi :)",
+    "noti_text2": "Questo enigma ti farà sorridere :)",
+    "noti_text3": "Vieni a metterti alla prova con enigmi divertenti.",
+    "crosspromo_play":"GIOCA",
+    "crosspromo_title":"ALTRI GIOCHI",
+    "free":"GRATIS",
+
+    "submit":"INVIA",
+    "reset":"RIPRISTINA",
+    "next_levels":"NUOVI LIVELLI",
+    "coming_soon":"PROSSIMAMENTE!",
+
+    "level_50_title":"LIVELLO",
+    "knights":"CAVALIERI",
+    "barbarians":"BARBARI",
+    "leve":"LIVELO ",
+    "red":"ROSSO",
+    "purple":"VIOLA",
+    "blue":"BLU",
+    "black":"NERO",
+    "yellow":"GIALLO",
+    "orange":"ARANCIA",
+    "front":"FRONTE",
+    "back":"RETRO",
+    "go":"VIA!!",
+
+    "dog":"CANE",
+    "kit":"CUCCIOLO",
+    "calf":"VITELLO",
+    "mitty":"ANACLETO",
+
+    "march":"MARZO",
+    "february":"FEBBRAIO",
+    "may":"APRILE",
+
+    "victory_1":"VIC",
+    "victory_2":"TO",
+    "victory_3":"RY",
+
+    "turn_right":"SVOLTA A DESTRA",
+
+    "jamaica":"GIAMAICA",
+    "france":"FRANCIA",
+    "madagascar":"MADAGASCAR",
+    "usa":"STATI UNITI",
+    "mars":"MARTE",
+    "mordor":"TUTTI",
+
+    "out_of_order":"FUORI SERVIZIO",
+
+    "battle":"COMBATTI",
+
+    "fight":"COMBATTI!",
+    "jump":"SALTA!",
+    "fire":"FUOCO!",
+
+    "new_york":"TORINO",
+    "new_jersey":"VENEZIA",
+
+    "question_1": "Qual è il più grande?",
+    "hint_1": "GUARDA ATTENTAMENTE LE FORME.",
+    "endText_1": "IL LEONE HA LA FORMA PIÙ GRANDE.",
+
+    "question_2": "Qual è il numero nascosto?",
+    "hint_2": "PROVA A SPOSTARE LA PIETRA.",
+    "endText_2": "SPESSO, QUESTO È IL MODO GIUSTO DI INTERAGIRE CON L'ENIGMA.",
+
+    "question_3": "Brucia tutto!",
+    "hint_3": "NON CONCENTRARTI SOLO SULLE IMMAGINI.",
+    "endText_3": "ORA HAI BRUCIATO \"TUTTO\".",
+
+    "question_4": "Quanti buchi ci sono sulla maglietta?",
+    "hint_4": "PENSA ANCHE ALL'ALTRO LATO.",
+    "endText_4": "A VOLTE DEVI PENSARE IN MANIERA 3D.",
+
+    "question_5": "Come far sbocciare questo fiore?",
+    "hint_5": "OSCURATO DALLE NUVOLE, HAI PRESENTE?",
+    "endText_5": "CHE BEL FIORE!",
+
+    "question_6": "Qual è il più vicino a noi?",
+    "hint_6": "A \"NOI\"",
+    "endText_6": "RICORDA CHE TUTTO È PARTE DELLA DOMANDA.",
+
+    "question_7": "Tocca gli animali, dal più piccolo al più grande.",
+    "hint_7": "HO DETTO ANIMALI :)",
+    "endText_7": "L'ALBERO NON È UN ANIMALE, GIUSTO?",
+
+    "question_8": "Afferra  mele in caduta!",
+    "hint_8": "SOLO QUELLE CHE CADONO!",
+    "endText_8": "COME FANNO A VOLARE QUELLE MELE?!",
+
+    "question_9": "Ho superato il secondo in classifica, qual è la mia posizione?",
+    "hint_9": "UNA DELLE DOMANDE PIÙ DIFFICILI, DAI!",
+    "endText_9": "ORA NON TI RESTA CHE SUPERARE ANCHE IL PRIMO.",
+
+    "question_11": "Scorri verso sinistra per sbloccare",
+    "hint_11": "LEGGILO ATTENTAMENTE.",
+    "endText_11": "CAPITO, VERO?",
+
+    "question_12": "Dai da mangiare al gatto, ha fame!",
+    "hint_12": "NON C'È UN SOLO GATTO SULLO SCHERMO.",
+    "endText_12": "ANCHE LA PAROLA \"GATTO\" È UN GATTO.",
+
+    "question_13": "Dov'è la palla verde?",
+    "hint_13": "COME OTTENERE IL COLORE VERDE?",
+    "endText_13": "BLU+GIALLO=VERDE MATEMATICA DEI COLORI DI BASE...",
+
+    "question_14": "Trova l'errore quı.",
+    "hint_14": "GUARDA ATTENTAMENTE LA DOMANDA.",
+    "endText_14": "L'AUTOCRITICA È LA COSA MIGLIORE!",
+
+    "question_15": "Dicono che la              abbia ucciso il gatto, ma sapresti ucciderlo anche tu?",
+    "hint_15": "COSA UCCIDE IL GATTO? USALA!",
+    "endText_15": "NON PREOCCUPARTI, HA ANCORA 8 VITE.",
+
+    "question_16": "Quante fette di pizza ci sono?",
+    "hint_16": "CERCA ALTRO DIETRO QUELLE FETTE.",
+    "endText_16": "CERCA SEMPRE OLTRE.",
+
+    "question_17": "Spegnilo! È troppo pericoloso!",
+    "hint_17": "GUARDA IL BOLLITORE CON PIÙ ATTENZIONE.",
+    "endText_17": "È COSÌ FACILE!",
+
+    "question_18": "Chi vince la battaglia?",
+    "hint_18": "LASCIALI SCONTRARE E SCOPRIRAI IL RISULTATO.",
+    "endText_18": "È STATA UNA BATTAGLIA UNA CIFRA APPASSIONANTE!",
+
+    "question_19": "4 + 5 x 5 – 2 = ?",
+    "hint_19": "RICORDA CHE DEVI PRIMA MOLTIPLICARE.",
+    "endText_19": "QUESTA È MATEMATICA DI BASE!",
+
+    "question_20": "Toccali nell'ordine: 1, 49, 80, 5, 7, 11, 101",
+    "hint_20": "FORSE PRIMA PUOI SCRIVERLI SU UN FOGLIO.",
+    "endText_20": "CHE MEMORIA CHE HAI!",
+    "custom1_20":"Toccali nell'ordine",
+
+    "question_21": "Fai entrare il gatto, per favore, sta gelando fuori.",
+    "hint_21": "APRI LA PORTA USANDO LA GRAVITÀ.",
+    "endText_21": "IL GATTO ORA SI RIPOSERÀ UN PO'.",
+
+    "question_23": "Quanti mesi hanno 28 giorni?",
+    "hint_23": "31 > 28",
+    "endText_23": "TUTTI HANNO ALMENO 28 GIORNI!",
+
+    "question_24": "Per favore, salva questo ragazzo!",
+    "hint_24": "ESTRAI L'OSSO.",
+    "endText_24": "SEI UN EROE!",
+
+    "question_26": "Dov'è la pecora di colore        ?",
+    "hint_26": "PUOI DIPINGERNE UNA DI NERO.",
+    "endText_26": "ECCOLA!",
+
+    "question_27": "Cosa c'è di sbagliato in quest'immagine?",
+    "hint_27": "GUARDA ATTENTAMENTE LE LORO MANI.",
+    "endText_27": "6 DITA!",
+
+    "question_28": "Accendi tutte le luci.",
+    "hint_28": "TUTTE LE LUCI \"DENTRO\" LO SCHERMO, INTESI?",
+    "endText_28": "LA TERZA ERA DIFETTOSA, CHE SOLLIEVO.",
+
+    "question_29": "nan",
+    "hint_29": "LE EQUIVALENZE FUNZIONANO IN AMBO I SENSI.",
+    "endText_29": "GUARDA SEMPRE I DETTAGLI.",
+
+    "question_30": "Qual è l'ultima lettera in un alfabeto?",
+    "hint_30": "NELL'\"ALFABETO\"",
+    "endText_30": "SPERO CHE TU NON ABBIA PROVATO \"Z\"",
+
+    "question_31": "Come può passare l'autobus lì?",
+    "hint_31": "COME INGRANDISCI E RIDUCI LE TUE FOTO?",
+    "endText_31": "QUESTO È UN MICROAUTOBUS!",
+
+    "question_32": "C'è un intruso nella nostra festa dei gatti!",
+    "hint_32": "PUOI FRUGARE TOCCANDO UN PO' IN GIRO.",
+    "endText_32": "ECCOLO! RATTO BIRBANTE!",
+
+    "question_33": "Salvala!",
+    "hint_33": "DUE NUVOLE A CONTATTO PROVOCANO UN FULMINE.",
+    "endText_33": "HA RICEVUTO UNA PUNIZIONE DIVINA!",
+
+    "question_34": "Tocca il pulsante blu  volte.",
+    "hint_34": "TROVA IL PULSANTE BLU NASCOSTO.",
+    "endText_34": "QUEI PULSANTI SONO OSTICI!",
+
+    "question_35": "nan",
+    "hint_35": "nan",
+    "endText_35": "nan",
+
+    "question_37": "Quante palle ci sono?",
+    "hint_37": "NON PUOI VEDERE ALL'INTERNO DEI CESTI.",
+    "endText_37": "OTTIMA PENSATA, MAI FIDARSI DI UN CESTO.",
+
+    "question_38": "Correggi questa equazione, per favore.",
+    "hint_38": "BASTA CANCELLARE IL NUMERO NON NECESSARIO.",
+    "endText_38": "NON AVER PAURA DI CANCELLARE I NUMERI.",
+
+    "question_39": "Silvestro ha di nuovo fame, per favore aiutami.",
+    "hint_39": "POTREBBE ESSERCI UN TOPO NELLA LATTINA.",
+    "endText_39": "SILVESTRO DOVREBBE SMETTERE DI MANGIARE COSÌ TANTO!",
+
+    "question_41": "Falli innamorare.",
+    "hint_41": "FAR SCOPPIARE UN PALLONCINO POTREBBE SVEGLIARLO.",
+    "endText_41": "AMORE A PRIMA VISTA!",
+
+    "question_42": "Completa il livel o",
+    "hint_42": "MANCA QUALCOSA NELLA DOMANDA.",
+    "endText_42": "L'INTERFACCIA UTENTE È SEMPRE AL TUO SERVIZIO.",
+    "custom1_42":"Completa il livello",
+
+    "question_43": "Che terribile lancio di dadi! Aiutami per favore.",
+    "hint_43": "DAI UNA BELLA SCOSSA.",
+    "endText_43": "WOW SEI FORTUNATO!",
+
+    "question_44": "Come si chiama il cucciolo di un gatto?",
+    "hint_44": "LA RISPOSTA È NELLA DOMANDA!",
+    "endText_44": "SEMPLICE!",
+
+    "question_45": "Quale gatto è più a destra?",
+    "hint_45": "ESPANDI LA VISUALE PER TROVARLO.",
+    "endText_45": "ECCO DOVE SI NASCONDEVA!",
+
+    "question_46": "Che g          mucchio di mucche! Ma dov'è il toro?",
+    "hint_46": "IL ROSSO FA IMPAZZIRE I TORI.",
+    "endText_46": "ECCO IL TORO.",
+
+    "question_47": "Quando avevo 6 anni, mia sorella aveva la metà della mia età e mio fratello aveva il doppio della mia età. 5 anni dopo, qual è la somma dell'età dei miei fratelli?",
+    "hint_47": "LA SORELLA AVEVA 3 ANNI, IL FRATELLO NE AVEVA 12. COSA SUCCEDE 5 ANNI DOPO?",
+    "endText_47": "NESSUN TRUCCO QUESTA VOLTA.",
+
+    "question_48": "nan",
+    "hint_48": "FALLO E BASTA!",
+    "endText_48": "LE ALTRE EQUAZIONI ERANO SBAGLIATE!",
+
+    "question_49": "I tuoi animali stanno annegando, quale salverai?",
+    "hint_49": "HAI 5 DITA, USALE.",
+    "endText_49": "A-HA! LI ABBIAMO SALVATI TUTTI!",
+
+    "question_50": "Come può funzionare quest'equazione?",
+    "hint_50": "A CHE LIVELLO SIAMO? QUEI NUMERI POTREBBERO AIUTARE.",
+    "endText_50": "CERCA SOLUZIONI OVUNQUE!",
+
+    "question_51": "Per favore, aiutami a trovare i miei calzini.",
+    "hint_51": "AMPLIA I TUOI ORIZZONTI.",
+    "endText_51": "GRAZIE! I MIEI PIEDI ERANO FREDDI.",
+
+    "question_52": "Aiuta l'automobile ad attraversare il ponte.",
+    "hint_52": "DEVI FORTIFICARE QUEL PUNTO PERICOLANTE CON IL DITO.",
+    "endText_52": "ACCIDENTI! ERA PERICOLOSO.",
+
+    "question_53": "Gigi ha fame, per favore, dagli da mangiare.",
+    "hint_53": "LA ZUPPA È TROPPO CALDA E HA BISOGNO DI SALE.",
+    "endText_53": "GIGI ORA È SAZIO!",
+
+
+    "question_55": "Apri la bibita gassata.",
+    "hint_55": "FORSE PUOI PROVARE A SCUOTERLA.",
+    "endText_55": "BUONA BEVUTA!",
+
+    "question_56": "Dov'è il gatto sopra questo testo?",
+    "hint_56": "INSERISCI IL TESTO SOTTO IL GATTO.",
+    "endText_56": "A VOLTE È NECESSARIO FORZARE LE RISPOSTE IN QUESTO MODO.",
+
+    "question_57": "nan",
+    "hint_57": "CONTA LE INTERSEZIONI.",
+    "endText_57": "UN GIOCO DA RAGAZZI PER UNA PERSONA INTELLIGENTE COME TE.",
+
+    "question_58": "È troppo buio! Non riesco a trovare il mio gatto!",
+    "hint_58": "SE SOLO AVESSIMO UNA FONTE DI LUCE!",
+    "endText_58": "L'INTERFACCIA UTENTE VIENE DI NUOVO IN SOCCORSO!",
+
+    "question_59": "Raggiungi il traguardo prima che scada il tempo.",
+    "hint_59": "SE SOLO NON CI FOSSE QUEL CONTATORE!",
+    "endText_59": "ASPETTA! È LEGALE?",
+
+    "question_60": "Ottieni il maggior numero possibile.",
+    "hint_60": "BASTA INSERIRE IL NUMERO PIÙ GRANDE!",
+    "endText_60": "A COSA SERVIVANO QUELLE EQUAZIONI?",
+
+    "question_61": "Ferma il pianto del bambino, TI PREGO!",
+    "hint_61": "USA LO SCHERMO DEL TELEFONO PER INVERTIRE LA GRAVITÀ.",
+    "endText_61": "NIENTE PIÙ LACRIME!",
+
+    "question_62": "Ti prego, poni fine a questo litigio!",
+    "hint_62": "DEVI DIVIDERE IL BISCOTTO.",
+    "endText_62": "I BISCOTTI RISOLVONO QUALSIASI PROBLEMA!",
+
+    "question_63": "Ognuno di questi fratelli ha una sorella. Quanti fratelli e sorelle ci sono?",
+    "hint_63": "HANNO SOLO 1 SORELLA.",
+    "endText_63": "NON DIRMI CHE HAI RISPOSTO 10!",
+
+    "question_64": "Quale scimmia ha il mal d'auto?",
+    "hint_64": "SCUOTI IL TELEFONO COME FOSSI IN MACCHINA.",
+    "endText_64": "L'HAI SCOSSO PARECCHIO, POVERA SCIMMIA.",
+
+    "question_65": "Metti l'elefante in frigo.",
+    "hint_65": "APRI PRIMA IL FRIGORIFERO.",
+    "endText_65": "È STATO ABBASTANZA SEMPLICE.",
+
+    "question_66": "Abbiamo bisogno di 10 dollari!",
+    "hint_66": "LA SUA TASCA SEMBRA PIENA.",
+    "endText_66": "SEI UN LADRO?!",
+
+    "question_67": "Quanti cerchi ci sono?",
+    "hint_67": "GUARDA ATTENTAMENTE L'INTERFACCIA UTENTE.",
+    "endText_67": "È UNA PUBBLICITÀ SUBLIMINALE DELL'AUDI?",
+
+    "question_68": "Dai, aiuta questa povera tartaruga.",
+    "hint_68": "PROVA A GIRARLA USANDO IL TUO TELEFONO.",
+    "endText_68": "SEI UNA BRAVA PERSONA.",
+
+    "question_69": "Fai vincere la gara al          .",
+    "hint_69": "HO DETTO \"AUTOMOBILE ROSSA\" O SEMPLICEMENTE \"ROSSO\"?",
+    "endText_69": "IL ROSSO VINCE!",
+
+    "question_70": "Abbiamo bisogno di    mele.",
+    "hint_70": "DOBBIAMO CAMBIARE I NOSTRI \"BISOGNI\".",
+    "endText_70": "NON C'È BISOGNO DI ESSERE AVIDI.",
+
+    "question_71": "Accendi la TV per favore.",
+    "hint_71": "IL CORPO UMANO CONDUCE L'ELETTRICITÀ.",
+    "endText_71": "TI SEI FULMINATO PER GUARDARE LA TV?!",
+
+    "question_72": "Mi chiedo quanti punti ci siano.",
+    "hint_72": "MACCHIE O PUNTI?",
+    "endText_72": "CHE DALMATA FURBO!",
+
+    "question_73": "Silvestro ha fame, prendi quel topo!",
+    "hint_73": "QUELLA SUPERFICIE SEMBRA PRONTA A GIRARE O QUALCOSA DEL GENERE.",
+    "endText_73": "QUESTO GATTO HA SEMPRE FAME!",
+
+    "question_74": "Quale edificio è il più resistente?",
+    "hint_74": "FORSE UN TERREMOTO POTREBBE METTERE ALLA PROVA LA LORO RESISTENZA.",
+    "endText_74": "WOW, QUESTO È UN EDIFICIO SOLIDO.",
+
+    "question_75": "nan",
+    "hint_75": "nan",
+    "endText_75": "nan",
+
+
+    "question_77": "Trova le coppie e vinci il gioco.",
+    "hint_77": "COME SI POSSONO ACCOPPIARE 9 CARTE?",
+    "endText_77": "OTTIMA PENSATA, DITO SAMURAI!",
+
+    "question_78": "",
+    "hint_78": "LEGGI LE DOMANDE CON MOLTA ATTENZIONE.",
+    "endText_78": "HAI UNA BUONA CONCENTRAZIONE!",
+    "custom1_78":"Scegli il colore rosso!",
+    "custom2_78":"Scegli il giallo!",
+    "custom3_78":"Scegli il colore \"rosso\"!",
+
+    "question_79": "Il blu deve vincere questa gara.",
+    "hint_79": "NON C'È FORSE LÌ UN POTENZIAMENTO?",
+    "endText_79": "WOW, MEGLIO DI FAST AND FURIOUS!",
+
+    "question_80": "Cosa succede una volta in una settimana, due volte in un mese e mai in un giorno?",
+    "hint_80": "GUARDA LE PAROLE. LA RISPOSTA È UNA LETTERA.",
+    "endText_80": "BENE!",
+
+    "question_81": "Elimina 5 fiammiferi per creare un 1.",
+    "hint_81": "SCRIVI \"UNO\" A LETTERE.",
+    "endText_81": "1 È UNO.",
+
+    "question_82": "Risolvi questa equazione.",
+    "hint_82": "PUOI TRASCINARE QUALSIASI NUMERO DALLO SCHERMO. FORSE IL LIVELLO?",
+    "endText_82": "OTTIMA PENSATA!",
+
+    "question_83": "Il nostro gatto ha ancora fame.",
+    "hint_83": "PRENDI UN FIAMMIFERO, ACCENDILO E INNESCA IL CANNONE.",
+    "endText_83": "SILVESTRO DIVENTERÀ PRESTO OBESO.",
+
+    "question_84": "Voglio 9 caramelle, per favore.",
+    "hint_84": "GIRALO PIÙ VOLTE PER OTTENERLE TUTTE.",
+    "endText_84": "ODIO QUELLE SCATOLE DI CARAMELLE!",
+
+    "question_85": "Tocca i numeri dal più basso al più alto.",
+    "hint_85": "578 È IL PIÙ BASSO.",
+    "endText_85": "TUTTO DIPENDEVA DALL'ALTITUDINE.",
+
+    "question_86": "Non dirmi che hai dimenticato di comprare il suo regalo di compleanno!",
+    "hint_86": "VEDO UN REGALO SULLO SCHERMO, GUARDA IN BASSO.",
+    "endText_86": "IL REGALO GIORNALIERO PUÒ FARE MIRACOLI!",
+
+    "question_87": "Deve raggiungere la sua macchina per sfuggire agli zombi!",
+    "hint_87": "USA IL DITO PER SPOSTARE L'UOMO.",
+    "endText_87": "L'HAI SALVATO!",
+
+    "question_88": "Quanti quadrati ci sono?",
+    "hint_88": "CE NE SONO???",
+    "endText_88": "SPERO CHE TU NON ABBIA PROVATO A CERCARE UN QUADRATO.",
+
+    "question_89": "Premere il pulsante 1     volte.",
+    "hint_89": "FORSE PUOI MODIFICARE LA DOMANDA PER RENDERLA PIÙ SEMPLICE.",
+    "endText_89": "SPERO CHE TU NON ABBIA PROVATO A PREMERLO 100 VOLTE!",
+
+    "question_90": "Il pescatore sta passando una giornata terribile, aiutalo a pescare un pesce.",
+    "hint_90": "POTREBBE ESSERCI UN VERME ALL'INTERNO DELLE MELE.",
+    "endText_90": "STASERA PESCE ALLA GRIGLIA PER CENA!",
+
+    "question_91": "È così triste che ha bruciato le uova, tirala su di morale.",
+    "hint_91": "PROVA A USARE L'OROLOGIO.",
+    "endText_91": "VIAGGI NEL TEMPO?!",
+
+    "question_92": "Aiuta questa rana a volare.",
+    "hint_92": "FALLE TRATTENERE IL RESPIRO PER UN PO'.",
+    "endText_92": "DEVI AVER VISTO SHREK.",
+
+
+    "question_94": "Quanti rettangoli ci sono?",
+    "hint_94": "MAGARI PUOI PROVARE A SEPARARLI.",
+    "endText_94": "SCOMMETTO CHE HAI PROVATO A CONTARLI PRIMA DI SEPARARLI, OPS.",
+
+    "question_95": "Cattura il topo!",
+    "hint_95": "NON DEVI ATTRAVERSARE IL LABIRINTO.",
+    "endText_95": "HAI APPENA IMBROGLIATO?!",
+
+    "question_96": "Tocca 3 volte il verde, 10 volte il blu e 5 volte il rosso.",
+    "hint_96": "IL CONTATORE DEL BLU STA MENTENDO!",
+    "endText_96": "NON FIDARTI DEI CONTATORI.",
+
+    "question_97": "Tocca i vitelli.",
+    "hint_97": "COME OTTENERE I VITELLI? FORSE CON UN PO' DI AMORE?",
+    "endText_97": "CHE FAMIGLIA FELICE!",
+
+    "question_98": "Quanti cubi ci sono?",
+    "hint_98": "GUARDA I BORDI E CONSIDERA QUELLI CHE NON SONO VISIBILI DA QUESTO ANGOLO.",
+    "endText_98": "SEI PERSPICACE!",
+
+    "question_99": "Trova le differenze.",
+    "hint_99": "UHM, SEMBRANO IDENTICI?",
+    "endText_99": "SONO ESATTAMENTE IDENTICI!",
+
+    "question_100": "Oggi è il secondo compleanno di Bruno. Accendi le candele per lui.",
+    "hint_100": "USA IL FUOCO DELLA CANDELA.",
+    "endText_100": "IMPARA A UTILIZZARE QUELLO CHE HAI.",
+
+    "question_101": "Dov'è il mio uovo di cioccolato?!",
+    "hint_101": "IL SOLE SCIOGLIE IL CIOCCOLATO.",
+    "endText_101": "GRAZIE PER AVER ROVINATO IL MIO UOVO DI CIOCCOLATO!",
+
+    "question_102": "Quante lettere rimangono se E e T lasciano l'alfabeto?",
+    "hint_102": "CI SONO 8 LETTERE IN \"ALFABETO\".",
+    "endText_102": "SCOMMETTO CHE HAI PROVATO A CONTARE TUTTE LE LETTERE DELL'ALFABETO, EHEH!",
+
+    "question_103": "Mostrami la tua pazienza.",
+    "hint_103": "PROVA AD ATTENDERE PAZIENTEMENTE.",
+    "endText_103": "LA PAZIENZA È UNA VIRTÙ.",
+
+    "question_104": "Dobbiamo essere pronti prima dell'arrivo degli ospiti!",
+    "hint_104": "STROFINA I BICCHIERI.",
+    "endText_104": "SONO SCINTILLANTI!",
+
+    "question_105": "L'uccellino non si è ancora svegliato. Prova a scuotere l'albero.",
+    "hint_105": "TIENI FERMO IL RAMO MENTRE AGITI.",
+    "endText_105": "BUONGIORNO UCCELLINO!",
+
+    "question_106": "Ohhh... Vuole anche lei un gelato.",
+    "hint_106": "LA COMBINAZIONE DI CAPPELLI E CAPELLI È DELIZIOSA.",
+    "endText_106": "BASTA CHE NON LE DICI CHE SONO I SUOI STESSI CAPELLI!",
+
+    "question_107": "Completa l'equazione correttamente.",
+    "hint_107": "LA PRIMA RIGA È 365.",
+    "endText_107": "ORA SEI UN MAESTRO IN MATEMATICA!",
+
+    "question_108": "Vorrei della maionese.",
+    "hint_108": "BISOGNERÀ AGITARE UN PO' LA BOTTIGLIA.",
+    "endText_108": "BASTA CHE NON LO DICI AL MIO DIETOLOGO!",
+
+    "question_109": "Aiutami a catturare quel coniglio.",
+    "hint_109": "PUOI SPOSTARE LA SCATOLA.",
+    "endText_109": "NON PREOCCUPARTI, LO TERRÒ COME ANIMALE DOMESTICO.",
+
+    "question_110": "Il bebè sta piangendo di nuovo. Sospetto sia una colichetta.",
+    "hint_110": "STROFINA LA PANCIA DEL BEBÈ.",
+    "endText_110": "CIELO... CHE ODORINO!",
+
+    "question_111": "Mia nonna vedova ha tre figli. Tutti sono sposati e hanno almeno 1 figlio. Mia zia ha tre nipoti. Qual è il numero minimo di sedie di cui abbiamo bisogno per la cena?",
+    "hint_111": "NONNA-TRE COPPIE-QUATTRO BAMBINI.",
+    "endText_111": "DECISAMENTE UNA RIUNIONE FAMILIARE NUMEROSA!",
+
+
+    "question_113": "Dai loro delle mele, ma non lasciare mai il piatto vuoto.",
+    "hint_113": "PUOI DARE L'ULTIMA MELA CON IL PIATTO.",
+    "endText_113": "NON ABBIAMO BISOGNO DEL PIATTO, DOPO TUTTO.",
+
+    "question_114": "Se Matta è M1, Palla è P1... Galla è...?",
+    "hint_114": "PER RISOLVERE PENSA COS'HANNO QUESTE COMBINAZIONI IN COMUNE.",
+    "endText_114": "CAMBIA LA PRIMA LETTERA, L'UNICA A NON RIPETERSI.",
+
+    "question_115": "Quante uova ci sono?",
+    "hint_115": "PROVA A RACCOGLIERE UN UOVO DA LÌ DIETRO.",
+    "endText_115": "PERCHÉ SI NASCONDEVA LÌ?!",
+
+    "question_116": "Silvestro, il gatto, vuole volare.",
+    "hint_116": "PROVA A FAR CADERE L'INCUDINE DALL'ALTO.",
+    "endText_116": "NON DOVREMO PIÙ PREOCCUPARCI DELLA FAME DI SILVESTRO.",
+
+    "question_117": "Sfamali tutti.",
+    "hint_117": "SEGUI LA CATENA ALIMENTARE, INIZIA AD ALIMENTARE LA CAVALLETTA.",
+    "endText_117": "UN GATTO PER MANGIARLI TUTTI.",
+
+    "question_118": "Si rifiuta di mangiare la deliziosa zuppa di sua mamma.",
+    "hint_118": "LA VITE DI DESTRA SEMBRA DEBOLE.",
+    "endText_118": "AVREBBE DOVUTO ASCOLTARE SUA MADRE.",
+
+    "question_119": "Qual è il costo totale?",
+    "hint_119": "IGNORA GLI ZERI EXTRA A SINISTRA.",
+    "endText_119": "SARESTI UN GRANDE CASSIERE!",
+
+    "question_120": "Oddio! Prendilo prima che mia mamma abbia un infarto!",
+    "hint_120": "USA LE VALVOLE PER INTRAPPOLARLO.",
+    "endText_120": "SILVESTRO, LA CENA È PRONTA!",
+
+    "question_121": "L'insegnante vuole un rettangolo.",
+    "hint_121": "TAGLIA IL TRAPEZIO PER CREARE UN RETTANGOLO.",
+    "endText_121": "ORA AVREMO UN 10 E LODE!",
+
+    "question_122": "Le forbici devono vincere.",
+    "hint_122": "SBARAZZATI PRIMA DELLE PIETRE.",
+    "endText_122": "AMO LA MORRA CINESE! SOPRATTUTTO QUANDO VINCO.",
+
+    "question_123": "Come può essere corretto?!",
+    "hint_123": "PROVA A SPARARE AI \"PER\".",
+    "endText_123": "CHE EQUAZIONE ESPLOSIVA!",
+
+    "question_124": "Aiutalo a recuperare il portafoglio, per favore.",
+    "hint_124": "UTILIZZA LE TUE DITA PER TENERE LE FAUCI DELL'ALLIGATORE E CON UN ALTRO DITO POTRAI SPOSTARE IL BRACCIO.",
+    "endText_124": "ERA MOLTO PERICOLOSO!",
+
+    "question_125": "nan",
+    "hint_125": "nan",
+    "endText_125": "nan",
+
+    "question_126": "Giacomo non ha studiato per l'esame, ma deve passare.",
+    "hint_126": "QUEL COLLO SEMBRA FLESSIBILE!",
+    "endText_126": "GIACOMO DOVREBBE SMETTERE DI BARARE E STUDIARE CORRETTAMENTE!",
+
+    "question_127": "Dai loro da mangiare. Una ciascuno, per favore.",
+    "hint_127": "PROVA A NUTRIRLI PARTENDO DAL PESCE PIÙ IN ALTO FINO AD ARRIVARE A QUELLO PIÙ IN BASSO.",
+    "endText_127": "BEN FATTO.",
+
+    "question_128": "Non riesco ad avviare il video!",
+    "hint_128": "VEDO UN PULSANTE DI RIPRODUZIONE IN BASSO.",
+    "endText_128": "ORA DI GODERSI LO SPETTACOLO!",
+
+    "question_129": "Il suo caffè si è raffreddato.",
+    "hint_129": "UTILIZZA GLI SPECCHI PER RIFLETTERE LA LUCE DELLA LANTERNA.",
+    "endText_129": "MMM... UN CAFFÈ CALDO AL MATTINO...",
+
+    "question_130": "Sistema questi oggetti colorati.",
+    "hint_130": "NON DEVI COMPLETARE TUTTE LE FORME.",
+    "endText_130": "UNA FORMA È SUFFICIENTE PER TUTTI.",
+
+    "question_131": "Risolvilo.",
+    "hint_131": "8-3=5",
+    "endText_131": "BEN FATTO, MAESTRO DEI FIAMMIFERI!",
+
+    "question_132": "Tocca i frutti in un determinato ordine.",
+    "hint_132": "GUARDA ATTENTAMENTE IL NUMERO DI FRUTTI. (AD ESEMPIO CI SONO 3 BANANE).",
+    "endText_132": "MATEMATICA FRUTTUOSA, BUONISSIMA!",
+
+    "question_133": "Giorno di compleanno! Quanti anni ha?",
+    "hint_133": "SOLLEVA LE CANDELE PER VEDERE LA TORTA.",
+    "endText_133": "CANDELE MAGICHE!!!",
+
+    "question_134": "Aiutala a centrare il bersaglio.",
+    "hint_134": "FORSE PUOI PROVARE A INGRANDIRE IL BERSAGLIO.",
+    "endText_134": "DOVREBBE SMETTERE DI PRATICARE IL TIRO CON L'ARCO.",
+
+    "question_135": "Aiuta il topolino a ottenere il formaggio.",
+    "hint_135": "APRI LE 4 PORTE NEL MEZZO.",
+    "endText_135": "PERCHÉ STIAMO AIUTANDO QUESTO TOPO?!",
+
+    "question_136": "Cosa dovremmo mettere al posto del punto interrogativo?",
+    "hint_136": "HAI MAI GUIDATO UN'AUTO CON CAMBIO MANUALE?",
+    "endText_136": "AH, I TEMPI DI UNA VOLTA!",
+
+    "question_137": "Qual è la macchina più lenta?",
+    "hint_137": "LA RISPOSTA È DI NUOVO NASCOSTA NELLA DOMANDA.",
+    "endText_137": "QUESTO MODO DI BARARE NON MUORE MAI, EHEH!",
+
+    "question_138": "Come funziona questa equazione?",
+    "hint_138": "COME OTTENERE 5=5?",
+    "endText_138": "MI CHIEDO COSA SUCCEDA A TUTTE LE COSE CHE BUTTI FUORI DALLO SCHERMO...",
+
+    "question_139": "Abbiamo bisogno di 5 comparse per girare una pubblicità, chi scartare?",
+    "hint_139": "CONTROLLA CON ATTENZIONE, UNO POTREBBE AVERE UN DIFETTO.",
+    "endText_139": "SPIACENTE, È UNO SPOT PER UNO SHAMPOO!",
+
+    "question_140": "Aiuta il bambino a destra a vincere la battaglia di palle di neve.",
+    "hint_140": "RACCOGLI LE PALLE DI NEVE SUL TERRENO.",
+    "endText_140": "FARÀ MALISSIMO!",
+
+    "question_141": "Aiutami, non so dove svoltare!",
+    "hint_141": "PROVA A GIRARE IL TELEFONO.",
+    "endText_141": "GRAZIE! NON AVREI TROVATO L'USCITA...",
+
+    "question_142": "Qual è il più lungo?",
+    "hint_142": "PROVA A SOFFIARCI DENTRO.",
+    "endText_142": "CHE RUMORE FASTIDIOSO!",
+
+    "question_143": "Da dove viene il miele delle api?",
+    "hint_143": "LA RISPOSTA È DI NUOVO NELLA DOMANDA.",
+    "endText_143": "OVVIAMENTE IL MIELE VIENE DALLE API!",
+
+    "question_144": "Ferma l'invasione aliena!",
+    "hint_144": "NON COLPIRE I GATTI. CI SONO 4 ALIENI.",
+    "endText_144": "I GATTI DOVREBBERO TENERSI ALLA LARGA DA UN CAMPO DI BATTAGLIA!",
+
+    "question_145": "Se 1 pollo viene cotto in 5 minuti, quanto tempo ci vorrebbe per cucinare 5 polli?",
+    "hint_145": "POSSIAMO CUCINARLI TUTTI INSIEME.",
+    "endText_145": "FORSE ERA MEGLIO FRIGGERLI!",
+
+    "question_146": "Scopri la gravità.",
+    "hint_146": "UNO SCOSSONE È QUEL CHE CI VUOLE!",
+    "endText_146": "HAI INAUGURATO UNA NUOVA ERA DI CONOSCENZA!",
+
+    "question_147": "Aiuta questo povero ragazzo, per favore.",
+    "hint_147": "MODIFICA IL SIMBOLO DELLA DONNA.",
+    "endText_147": "NON AVREBBE DOVUTO BERE COSÌ TANTO!",
+
+    "question_148": "Un altro poveretto ha bisogno del tuo aiuto.",
+    "hint_148": "HAI GIÀ ASCOLTATO LA STORIA DELLE ORIGINI DELL'UOMO RAGNO?",
+    "endText_148": "LA CULTURA GEEK SCORRE POTENTE IN TE!",
+
+    "question_149": "Cosa dovremmo mettere al posto del punto interrogativo?",
+    "hint_149": "UNO-DUE-TRE...",
+    "endText_149": "CONGRATULAZIONI SE CI SEI ARRIVATO SENZA SUGGERIMENTI.",
+    "custom1_149":"U-D-T-Q-C-S-S-O-?",
+
+    "question_150": "Avevo 10 pesci nel mio acquario e sono tornato a casa scoprendo che 6 di loro sono morti. Quanti ne rimangono nell'acquario?",
+    "hint_150": "I PESCI MORTI SONO ANCORA NELL'ACQUARIO.",
+    "endText_150": "ORA DOBBIAMO PULIRE QUESTO ACQUARIO!",
+
+    "question_151": "Dov’è il coniglio?",
+    "hint_151": "COMPONILO USANDO LE FORME.",
+    "endText_151": "SIAMO CIÒ CHE MANGIAMO, NON È FORSE VERO?",
+
+    "question_154": "Qual è il più lungo?",
+    "hint_154": "GUARDA ATTENTAMENTE, PER FAVORE.",
+    "endText_154": "FEBBRAIO È QUELLO CON PIÙ LETTERE, COME PUOI VEDERE.",
+
+    "question_155": "Dove nascondono il diamante che hanno rubato?",
+    "hint_155": "GUARDA TRA I CAPELLI.",
+    "endText_155": "OTTIMO LAVORO, ISPETTORE!",
+
+    "question_156": "Dove sta la pallina?",
+    "hint_156": "DISTRAILO CON IL SUO NASO.",
+    "endText_156": "STAVA IMBROGLIANDO!",
+
+    "question_157": "Aiuta l'automobile ad attraversare il fiume.",
+    "hint_157": "FA ABBASTANZA FREDDO, QUINDI SE NON CI FOSSE LUCE SOLARE...",
+    "endText_157": "COME SI SPOSTANO LE NUBI?!",
+
+    "question_158": "Abbina gli oggetti ai paesi corretti",
+    "hint_158": "TUTTI GLI OGGETTI APPARTENGONO A UN SINGOLO PAESE.",
+    "endText_158": "ORA VOGLIO VISITARE PARIGI!",
+    "custom1_158":"FRANCIA",
+    "custom2_158":"STATI UNITI",
+    "custom3_158":"GERMANIA",
+    "custom4_158":"NIGERIA",
+    
+    "question_159": "Come costruire una torre?",
+    "hint_159": "COSTRUISCI UNA TORRE CON QUESTI BLOCCHI.",
+    "endText_159": "PIÙ FACILE A FARSI CHE A DIRSI.",
+
+    "question_160": "Oddio! Sta piangendo un'altra volta! Aiutala...",
+    "hint_160": "LE RUOTE DELL'AUTOMOBILE SONO OCCHI SPALANCATI.",
+    "endText_160": "AHAHAHAH…",
+
+    "question_161": "nan",
+    "hint_161": "GUARDA CHE IL GATTO È SOTTOSOPRA.",
+    "endText_161": "È UN 6 SOTTOSOPRA A ESSERE UN 9, O È UN 9 SOTTOSOPRA A ESSERE UN 6?",
+
+    "question_162": "Aiuta il culturista!",
+    "hint_162": "TOGLI I PESI.",
+    "endText_162": "WOW! FORTISSIMO!",
+
+    "question_163": "La studentessa non riesce a pensare a una risposta per la domanda della prova.",
+    "hint_163": "POMPA SANGUE NEL SUO CERVELLO",
+    "endText_163": "NEL DUBBIO, CAPOVOLGI.",
+
+    "question_164": "Tommaso deve mangiare sano.",
+    "hint_164": "INGANNALO CON L'HAMBURGER",
+    "endText_164": "DEVI MANGIARE LE TUE VERDURE, TOMMASO.",
+
+    "question_166": "Come battere il mago?",
+    "hint_166": "FUOCO > FOGLIA > ACQUA > FUOCO",
+    "endText_166": "SEI UN MAGO, HARRY!",
+
+    "question_167": "Gli alieni si stanno infiltrando. Scovali!",
+    "hint_167": "CI SONO 9 ALIENI NASCOSTI.",
+    "endText_167": "LI ABBIAMO BECCATI, ORA CHIAMA LA POLIZIA!",
+
+    "question_168": "Cosa c'è in mezzo all'America?",
+    "hint_168": "GUARDA ATTENTAMENTE LE LETTERE DELLA PAROLA AMERICA.",
+    "endText_168": "PER FORTUNA NON HO CHIESTO IN MEZZO AL MASSACHUSETTS.",
+
+    "question_169": "Sembra così triste. Rallegralo per favore.",
+    "hint_169": "PROVA A FORZARLO A SORRIDERE.",
+    "endText_169": "METTIAMO UN SORRISO SU QUELLA FACCIA.",
+
+    "question_170": "Un vampiro! Aiuto! Aiuto!",
+    "hint_170": "I VAMPIRI SONO VULNERABILI ALLA LUCE SOLARE.",
+    "endText_170": "SEI UN CACCIATORE DI VAMPIRI ORA?",
+
+    "question_171": "Quanti triangoli ci sono?",
+    "hint_171": "PROVA A SCOMPORLO.",
+    "endText_171": "A VOLTE LA VERITÀ NON È QUELLO CHE SEMBRA!",
+
+    "question_172": "Dai da mangiare al nostro gatto da sinistra a destra.",
+    "hint_172": "IL MONDO È TONDO.",
+    "endText_172": "IL GATTO HA FATTO IL GIRO DEL MONDO PER RAGGIUNGERE IL SUO CIBO! WOW!",
+
+    "question_173": "Vogliono giustizia!",
+    "hint_173": "2 IN PIÙ A SINISTRA, 4 IN PIÙ A DESTRA.",
+    "endText_173": "LA GIUSTIZIA VA SERVITA FREDDA!",
+
+    "question_174": "Abbiamo bisogno di una palla verde.",
+    "hint_174": "BLU + GIALLO = VERDE, RICORDI?",
+    "endText_174": "QUESTE SFERE SONO SCIVOLOSE!",
+
+    "question_175": "Rompi la              con la          .",
+    "hint_175": "PROVA A USARE LA PIETRA NELLA DOMANDA.",
+    "endText_175": "CHE VANDALISMO!",
+
+    "question_176": "I vicini stanno organizzando una festa folle nel cuore della notte. Fermala.",
+    "hint_176": "PROVA A CHIAMARE LA POLIZIA.",
+    "endText_176": "DARANNO LORO UNA LEZIONE!",
+
+    "question_177": "Come può essere vero?!",
+    "hint_177": "QUALC1 NASCONDE QUALCOSA.",
+    "endText_177": "QUANDO TI SENTI DEBOLE, BASTA CLONARTI.",
+
+    "question_178": "Il blu deve vincere!",
+    "hint_178": "IL VERDE E IL ROSSO NON POSSONO VINCERE SE NON ATTRAVERSANO LA LINEA DEL TRAGUARDO.",
+    "endText_178": "SE NON PUOI SUPERARE L'OSTACOLO, AGGIRALO.",
+
+    "question_179": "Salvali tutti!",
+    "hint_179": "L'UOMO CON IL PARACADUTE PUÒ SALVARLI.",
+    "endText_179": "CHE MOMENTO EROICO!",
+
+    "question_180": "Aggiusta l'orologio.",
+    "hint_180": "DOVREBBERO ESSERE LE 14:00.",
+    "endText_180": "DEVO PASSARE A UN OROLOGIO DIGITALE!",
+
+    "question_181": "Rallegralo per favore.",
+    "hint_181": "I SUOI PIEDI SONO SENSIBILI AL SOLLETICO.",
+    "endText_181": "ORA SMETTI DI SOLLETICARE PRIMA CHE SI ARRABBI DI NUOVO!",
+
+    "question_182": "Il cavallo desidera essere un unicorno.",
+    "hint_182": "ESPRIMO SEMPRE UN DESIDERIO QUANDO VEDO UNA STELLA CADENTE.",
+    "endText_182": "QUEL MAGO ERA UN CIARLATANO!",
+
+    "question_183": "Trova tutti gli animali nella foto.",
+    "hint_183": "I CAVALLI HANNO PAURA DEI SERPENTI.",
+    "endText_183": "DA QUANTO TEMPO QUESTO TOPO È QUI?!",
+
+    "question_184": "Per favore, apri la porta, sono intrappolato fuori!",
+    "hint_184": "DOV'È CHE LA MAGGIOR PARTE DELLE PERSONE NASCONDE LE PROPRIE CHIAVI?",
+    "endText_184": "SPERO CHE TU NON ABBIA PERSO TEMPO A FORZARE LA SERRATURA.",
+
+    "question_185": "La tartaruga deve vincere!",
+    "hint_185": "LA TARTARUGA HA UN SEGRETO SOTTO IL SUO GUSCIO.",
+    "endText_185": "TARTARUGA RAZZO!",
+
+    "question_186": "Qual è il numero sotto il dado?",
+    "hint_186": "BASTA METTERE IL DADO DA PARTE.",
+    "endText_186": "O IL DADO È ENORME O LA CARTA È MOLTO PICCOLA.",
+
+    "question_187": "È         mia figlia! Scegli un nome per lei!",
+    "hint_187": "I NOMI PROPOSTI RICHIEDONO ALCUNE MODIFICHE.",
+    "endText_187": "OTTIMO! SICURAMENTE SEI MEGLIO DI ME A SCEGLIERE NOMI.",
+    "custom1_187":"SCEMA",
+    "custom2_187":"PAZZA COME LA MAMMA",
+    "custom3_187":"RE",
+    "custom4_187":"STREGA",
+    "custom5_187":"RENATA",
+
+    "question_188": "Rieccola! Cosa c'è che non va questa volta?!",
+    "hint_188": "I SUOI CAPELLI SONO STRANI, NON PENSI?",
+    "endText_188": "OH SANTO CIELO!",
+
+    "question_189": "Raccogli 3 mele per favore.",
+    "hint_189": "SCUOTILO PER FAR CADERE ALCUNE MELE.",
+    "endText_189": "CONTROLLA SE CI SONO VERMI PRIMA DI MANGIARLE!",
+
+    "question_190": "Arriva al 6° piano.",
+    "hint_190": "PUOI OTTENERE UN 6 SOTTOSOPRA.",
+    "endText_190": "QUESTO GIOCO STORDISCE IL TUO TELEFONO.",
+
+    "question_191": "Aiuta Silvestro a ottenere il suo pesce.",
+    "hint_191": "FAI ATTENZIONE A DOVE IL CANE RIVOLGE LO SGUARDO.",
+    "endText_191": "SILVESTRO È COSÌ FURTIVO.",
+
+    "question_192": "Vogliamo andare a Torino.",
+    "hint_192": "FAI ATTENZIONE ALLA MANIGLIA DELL'AUTO.",
+    "endText_192": "QUEST'AUTO È DAVVERO ACCONDISCENDENTE!",
+
+    "question_193": "La povera gazza non riesce a mangiare la noce.",
+    "hint_193": "QUELLA ROCCIA SEMBRA ABBASTANZA DURA PER ROMPERE IL GUSCIO.",
+    "endText_193": "QUESTA GAZZA HA BISOGNO DI ADDESTRAMENTO.",
+
+    "question_194": "Costruisci un pupazzo di neve, per favore.",
+    "hint_194": "LE NUBI POTREBBERO NASCONDERE IL NOSTRO PEZZO MANCANTE.",
+    "endText_194": "HAI SCOMODATO IL METEO PER FARE UN PUPAZZO DI NEVE?!",
+
+    "question_195": "Forma l'immagine sul puzzle.",
+    "hint_195": "FORSE BASTA COPIARE E INCOLLARE?",
+    "endText_195": "SUL SERIO?!",
+
+    "question_196": "M'ama o non m'ama?",
+    "hint_196": "CERCA UN ALTRO PETALO ALTROVE PER FARLA INNAMORARE DI LUI.",
+    "endText_196": "SEI UN PERFETTO CUPIDO!",
+
+    "question_197": "Il nostro cane è sporchissimo, ci aiuteresti a lavarlo?",
+    "hint_197": "NON DIMENTICARE CHE I CANI SI SCROLLANO PER ASCIUGARSI.",
+    "endText_197": "MA CHE BEL CUCCIOLO!",
+
+    "question_198": "L'auto blu ha fretta, aiutala.",
+    "hint_198": "SE SOLO AVESIMO UNA SIRENA DA EMERGENZE DA QUALCHE PARTE.",
+    "endText_198": "SÌ! ORA FARÀ IN TEMPO A VEDERE IL SUO PROGRAMMA PREFERITO ALLA TV.",
+
+    "question_199": "Aiuta l'acchiappafantasmi con le sue trappole per fantasmi.",
+    "hint_199": "TOCCA L'ACCHIAPPAFANTASMI PER VEDERE I FANTASMI.",
+    "endText_199": "CHE MEMORIA VISIVA, CASPITA!",
+
+    "question_200": "Qual'è il contrario di amor?",
+    "hint_200": "CONCENTRATI SOLO SULLA PAROLA.",
+    "endText_200": "TUTTE LE STRADE PORTANO A ROMA!",
+
+    "question_201": "Che cosa vede?",
+    "hint_201": "PROVA A GUARDARE DALLA SUA PROSPETTIVA.",
+    "endText_201": "NON È FORSE UNA METAFORA DELLA VITA?",
+
+    "question_202": "OK, è ora di decollare!",
+    "hint_202": "DOBBIAMO ANDARE SU.",
+    "endText_202": "CI VEDIAMO SU MARTE!",
+
+    "question_203": "Un tempo così malinconico...",
+    "hint_203": "USA IL QUADRO SULLA PARETE PER CAMBIARE IL TEMPO.",
+    "endText_203": "LA SUA VITA È UN'ILLUSIONE.",
+
+    "question_204": "Il pugile a sinistra deve vincere.",
+    "hint_204": "POTREBBE POTENZIARE IL SUO GUANTO CON QUALCOSA DI PESANTE.",
+    "endText_204": "CHI HA MESSO QUELLE SFERE DI FERRO SUL RING?!",
+
+    "question_205": "Silvestro deve saltare dall'altra parte.",
+    "hint_205": "PROVA QUEL FUNGO.",
+    "endText_205": "SUPER SILVESTRO!",
+
+    "question_206": "Qual è il 50% di 55?",
+    "hint_206": "PENSA VISIVAMENTE ALLA METÀ DI 55.",
+    "endText_206": "CONTINUI A SPACCARE IN MATEMATICA!",
+
+    "question_207": "Poni fine a questa guerra!",
+    "hint_207": "NON DOVREBBERO COLPIRE NIENTE.",
+    "endText_207": "UN ALTRO PASSO VERSO LA PACE DEL MONDO.",
+
+    "question_208": "Aiutami a trasportare questa scatola sul carrello, per favore.",
+    "hint_208": "GIRA IL TELEFONO PER FARLO.",
+    "endText_208": "LA MIA VECCHIA SCHIENA TI RINGRAZIA!",
+
+    "question_209": "Sei stato sorpreso ad accelerare, ops!",
+    "hint_209": "PROVA A FARLO FELICE.",
+    "endText_209": "BUONA GIORNATA A LEI, AGENTE!",
+
+    "question_210": "Aiuta la mamma leonessa.",
+    "hint_210": "SE SOLO POTESSE RIPOSARE COME IL LEONE.",
+    "endText_210": "VIVA LA PARITÀ DI GENERE!",
+
+    "question_211": "Hanno tutti bisogno di scaldarsi.",
+    "hint_211": "MUOVI IL FALÒ IN UNA POSIZIONE MIGLIORE.",
+    "endText_211": "RIPOSATE BENE, CAMPEGGIATORI.",
+
+    "question_212": "Dichiaro che oggi è il tuo compleanno, scegli un regalo!",
+    "hint_212": "FAI ATTENZIONE ALLE PAROLE.",
+    "endText_212": "IN QUESTA PAROLA TROVERAI IL MIO AMORE PER TE.",
+
+    "question_213": "Dobbiamo segnare un goal.",
+    "hint_213": "CAMBIA LA DIREZIONE DI LANCIO DEI TUOI GIOCATORI.",
+    "endText_213": "GOAAALLL!",
+    "custom1_213":"VIA!!",
+    
+    "question_214": "Cosa c'è sotto           ?",
+    "hint_214": "C'È QUALCOSA DA SCOPRIRE SOTTO \"L'ALBERO\".",
+    "endText_214": "CHE GATTO ADORABILE!",
+
+    "question_215": "Tocca rapidamente i numeri in ordine crescente!",
+    "hint_215": "IL 7 E L'8 SONO INGANNEVOLI, FAI ATTENZIONE.",
+    "endText_215": "QUANTA ADRENALINA!",
+
+    "question_216": "Risolvi il puzzle.",
+    "hint_216": "I NUMERI INDICANO IL NUMERO DI CERCHI DA ATTIVARE.",
+    "endText_216": "SEI UN GENIO!",
+
+    "question_217": "Insegna a cacciare al nostro gatto, per favore.",
+    "hint_217": "NASCONDI IL GATTO DIETRO ALLA SCATOLA, POI ATTIRA IL TOPO CON DEL FORMAGGIO.",
+    "endText_217": "IL NOSTRO GATTO DIVENTERÀ UN OTTIMO CACCIATORE!",
+
+    "question_218": "Trova il tesoro.",
+    "hint_218": "NON FIDARTI DEL METAL DETECTOR, CERCA DAPPERTUTTO.",
+    "endText_218": "SIAMO RICCHI!",
+
+    "question_219": "Non vanno i freni! AIUTO!",
+    "hint_219": "USA LA TUA MAESTRIA CON LE NUVOLE ANCORA UNA VOLTA.",
+    "endText_219": "LE NUVOLE RISOLVONO PARECCHI PROBLEMI.",
+
+    "question_220": "Dov'è la mamma leonessa?",
+    "hint_220": "ATTIRA L'ATTENZIONE DELLA MADRE FACENDO QUALCOSA AL CUCCIOLO. ",
+    "endText_220": "SCAPPA! SCAPPA!!!",
+
+    "question_221": "La tartaruga deve vincere la gara.",
+    "hint_221": "UNO DEGLI SPETTATORI HA CON SÉ UN OGGETTO UTILE.",
+    "endText_221": "GRAZIE, SCIMMIA!",
+
+    "question_222": "Dobbiamo conquistare il castello.",
+    "hint_222": "LA CATAPULTA HA BISOGNO DI INFIAMMARSI UN PO'.",
+    "endText_222": "VITTORIAAA!",
+
+    "question_223": "Aiutalo!",
+    "hint_223": "PROVA A SVEGLIARLO IN QUALCHE MODO.",
+    "endText_223": "CHE INCUBO REALISTICO!",
+
+    "question_224": "Prendi una decisione! ",
+    "hint_224": "PROVA A MODIFICARE IL DESIDERIO.",
+    "endText_224": "GODITI LA TUA RICCHEZZA VIRTUALE!",
+    "custom1_224":"AVERE LA CODA",
+    "custom2_224":"AVERE UN CORNO",
+    "custom3_224":"DIVENTARE RICCO",
+
+    "question_225": "Il lama è stato infastidito dal ragazzo, aiutalo a vendicarsi!",
+    "hint_225": "FAI PIOVERE SUL RAGAZZO.",
+    "endText_225": "BEL COLPO!",
+
+    "question_227": "Quanti denti ha?",
+    "hint_227": "ALCUNI DENTI POTREBBERO ESSERE FINTI, CONTROLLALI TUTTI.",
+    "endText_227": "HA BISOGNO DI QUALCHE IMPIANTO DENTALE!",
+
+    "question_228": "La macchina rossa deve vincere.",
+    "hint_228": "PROVA A SABOTARE IL CONTATORE DI GIRI.",
+    "endText_228": "HAI PERFEZIONATO L'ARTE DELL'IMBROGLIO, INIZIO AD AVERE PAURA DI TE!",
+    "custom1_228":"GIRO",
+
+    "question_229": "Bisogna riempire tutte le griglie in questa fabbrica.",
+    "hint_229": "INIZIA CON L'EROGATORE A SINISTRA.",
+    "endText_229": "SEI IL GENIO DELLA MACCHINA!",
+
+    "question_230": "Prova a seguire la giusta sequenza.",
+    "hint_230": "PUOI PRENDERE NOTA MENTRE GUARDI.",
+    "endText_230": "SARESTI UN OTTIMO MUSICISTA!",
+    "custom1_230":"GUARDA",
+    
+    "question_231": "Il cavallo ora vuole delle ali!",
+    "hint_231": "C'È UNA STELLA CHE POSSIAMO POSIZIONARE NEL CIELO.",
+    "endText_231": "FINALMENTE IL MAGO HA FATTO QUALCOSA DI UTILE!",
+
+    "question_233": "Separa i colori, per favore.",
+    "hint_233": "METTI IL BLU NELLA PROVETTA VUOTA, POI CAPIRAI LA SOLUZIONE.",
+    "endText_233": "SEI UNO SCIENZIATO BRILLANTE!",
+
+    "question_234": "Aiutala! Non riesce a smettere di saltare!",
+    "hint_234": "UN MATERASSO L'AIUTEREBBE A FERMARSI.",
+    "endText_234": "E ORA, VIA A FARE I COMPITI!",
+
+    "question_235": "La caramella deve raggiungere la bocca.",
+    "hint_235": "GIRA IL TUO TELEFONO PER SFRUTTARE LA GRAVITÀ.",
+    "endText_235": "LA CARAMELLA È ANDATA INCONTRO AL SUO DESTINO!",
+
+    "question_236": "Silvestro vuole saltare di nuovo, ma siamo a corto di funghi.",
+    "hint_236": "HAI IL POTERE DI FAR MUOVERE LE COLLINE.",
+    "endText_236": "LO STIAMO VIZIANDO, QUESTO GATTO!",
+
+    "question_237": "Il gatto deve raggiungere nuovamente il pesce.",
+    "hint_237": "CONFONDI IL CANE CON L'OSSO.",
+    "endText_237": "POVERO CANE!",
+
+    "question_238": "Aiuta il nostro amico ad attraversare la strada.",
+    "hint_238": "CI SONO DELLE STRISCE PEDONALI NASCOSTE DA QUALCHE PARTE.",
+    "endText_238": "QUESTI GUIDATORI RISPETTANO LA LEGGE A MERAVIGLIA!",
+
+    "question_239": "Vorrei una frittata, per favore.",
+    "hint_239": "SPAVENTA LA GALLINA IN MODO CHE DEPONGA UN UOVO.",
+    "endText_239": "E NON DIMENTICARE LA PANCETTA.",
+
+    "question_240": "Ha perso il suo palloncino!",
+    "hint_240": "PROVA A GUARDARE IN ALTO.",
+    "endText_240": "CHISSÀ COSA AVRÀ DA PIANGERE, LA PROSSIMA VOLTA.",
+
+    "question_241": "Quanti cani ci sono?",
+    "hint_241": "ALCUNI DI LORO POTREBBERO NASCONDERSI SOTTO A QUALCOSA.",
+    "endText_241": "CAGNOLINI BIRICHINI!",
+
+    "question_243": "Silvestro ha trovato un altro burrone da saltare!",
+    "hint_243": "GUARDA LE NUVOLE, NON SEMBRANO \"RIMBALZOSE\"?",
+    "endText_243": "MA TUTTO CIÒ NON VA CONTRO LE LEGGI DELLA FISICA?",
+
+    "question_244": "Dobbiamo sbarazzarci di questi microbi!",
+    "hint_244": "RACCOGLILI CON LA SALVIETTA, POI BRUCIALA.",
+    "endText_244": "COME È POSSIBILE VEDERE DEI MICROBI?!",
+
+    "question_245": "Non riesco a entrare in casa, aiuto!",
+    "hint_245": "PROVA A INGRANDIRE LA CASA.",
+    "endText_245": "E ANT-MAN MUTO!",
+
+    "question_246": "Aiutami a sfamare la mia lucertola.",
+    "hint_246": "LA MIA LUCERTOLA ADORA LE MOSCHE, E LE MOSCHE ADORANO IL CIBO LASCIATO ALL'APERTO.",
+    "endText_246": "E ORA MANGERÒ IL POLLO.",
+
+    "question_247": "Soffro di disturbo ossessivo compulsivo, aiutami!",
+    "hint_247": "SEPARA I COLORI IN CIOTOLE SEPARATE.",
+    "endText_247": "FIÙ, MENO MALE, ORA POSSO TRANQUILLIZZARMI!",
+
+    "question_248": "Trova tutti gli animali.",
+    "hint_248": "UNO SCOIATTOLO POTREBBE NASCONDERSI IN QUEL TRONCO CAVO.",
+    "endText_248": "CHE FORESTA AFFOLLATA!",
+
+    "question_249": "Come farà Silvestro a saltare questa volta?",
+    "hint_249": "FORSE HA SOLO BISOGNO DI AVVICINARSI AL BORDO.",
+    "endText_249": "È DIVENTATO UN ESPERTO SALTATORE!",
+
+    "question_251": "A quanto equivale X?",
+    "hint_251": "ABBIAMO BISOGNO DI UNO ZERO.",
+    "endText_251": "A CHI NON PIACE LA MATEMATICA INTERATTIVA?",
+
+    "question_254": "Vuole    bicchieri di latte e    biscotti.",
+    "hint_254": "CAMBIA LA RICHIESTA IN MODO CHE RISPECCHI GLI OGGETTI SUL TAVOLO.",
+    "endText_254": "SAPPIAMO MEGLIO DI LUI DI COSA HA VOGLIA!",
+
+    "question_255": "Aiutalo a scappare!",
+    "hint_255": "PROVA A BLOCCARE LO ZOMBI NELL'ANGOLO OLTRE IL MURO.",
+    "endText_255": "ZOMBI TONTI!",
+
+    "question_256": "Aiuta il nostro eroe!",
+    "hint_256": "IL NOSTRO EROE PUÒ SCONFIGGERE LA GRAVITÀ.",
+    "endText_256": "UN NUOVO GIORNO, UNA NUOVA IMPRESA EROICA.",
+
+    "question_257": "Trova una soluzione prima che altri vedano la sua faccia.",
+    "hint_257": "USA IL FAZZOLETTO NELLA TASCA.",
+    "endText_257": "CHE GENTILUOMO!",
+
+    "question_258": "È esausta, dalle una mano, per favore.",
+    "hint_258": "METTI VIA I PIATTI PULITI, POI CARICA QUELLI SPORCHI.",
+    "endText_258": "TUTTI VORREBBERO UN AIUTANTE COME TE!",
+
+    "question_259": "Aiutala a colpire il bersaglio.",
+    "hint_259": "PRIMA SPOSTA IL BERSAGLIO.",
+    "endText_259": "STA DIVENTANDO UN'ARCIERA NIENTE MALE.",
+
+    "question_260": "Aiuta di nuovo il pugile blu.",
+    "hint_260": "PROVA A DISTRARRE IL PUGILE ROSSO.",
+    "endText_260": "UN'ALTRA VITTORIA PER IL NOSTRO PUGILE INCAPACE!",
+
+    "question_261": "Dobbiamo fermare questo mostro!",
+    "hint_261": "FORSE POSSIAMO FARE AMICIZIA CON LUI.",
+    "endText_261": "ORA SIAMO AMICI!",
+
+    "question_262": "Il cavallo ora vuole una principessa.",
+    "hint_262": "SE STORDIAMO IL MAGO, QUALCHE STELLA APPARIRÀ.",
+    "endText_262": "NON C'È FINE AI SUOI DESIDERI!",
+
+    "question_263": "Raccogli le mele.",
+    "hint_263": "ATTENZIONE AL POMODORO \"MELOSO\"!",
+    "endText_263": "NON TI SEI FATTO FREGARE DAL SUBDOLO POMODORO!",
+
+    "question_264": "Abbiamo bisogno di accendere il fuoco.",
+    "hint_264": "UNA TESTA CALVA POTREBBE RIFLETTERE LA LUCE SOLARE.",
+    "endText_264": "CHE TESTA RIFLESSIVA!",
+
+    "question_265": "Disegna un triangolo, per favore.",
+    "hint_265": "PROVA A MUOVERE I PUNTI DI ANCORAGGIO.",
+    "endText_265": "OTTIMA PENSATA!",
+
+    "question_266": "Stanno accadendo strane cose, qui.",
+    "hint_266": "I PESCI NON HANNO PALPEBRE NÉ ALI, E I GRANCHI HANNO SOLO 10 ZAMPE.",
+    "endText_266": "DEVONO AVER SCARICATO RIFIUTI RADIOATTIVI IN QUESTE ACQUE!",
+
+    "question_267": "Ha bisogno di        !",
+    "hint_267": "DEVE URLARE \"AIUTO!\"",
+    "endText_267": "QUANDO SEI IN PERICOLO, URLA PIÙ FORTE CHE PUOI!",
+    "custom1_267": "AIUTO!",
+    "custom2_267": "URRÀ!",
+
+    "question_269": "Come è possibile che sia corretto?!",
+    "hint_269": "PROVA A GUARDARE DA UN ALTRO PUNTO DI VISTA.",
+    "endText_269": "SAI CHE LA GILDA DEI MATEMATICI CI HA FATTO CAUSA?",
+
+    "question_270": "Quale scimmia ha la coda più lunga?",
+    "hint_270": "PROVA A VEDERE DOVE FINISCONO LE CODE.",
+    "endText_270": "QUELLA DIVENTERÀ LA REGINA DELLE SCIMMIE!",
+
+    "question_271": "Vuole lo stesso hamburger.",
+    "hint_271": "GUARDA ATTENTAMENTE IL BURGER GIÀ PRONTO E RICREANE UNO UGUALE.",
+    "endText_271": "FAST-FOOD FAST-PRONT!",
+
+    "question_272": "Il computer va troppo lento e lo rende infelice.",
+    "hint_272": "LE VENTOLE NON RIESCONO A RAFFREDDARE IL COMPUTER A CAUSA DELLA POLVERE.",
+    "endText_272": "DEVE IMPARARE A TENERE PULITO IL SUO PC!",
+
+    "question_273": "Oh no! È in super ritardo per l'ufficio, oggi.",
+    "hint_273": "SE SOLO FOSSE GIÀ FINE SETTIMANA...",
+    "endText_273": "POTRAI INGANNARE LUI, MA NON IL SUO CAPO!",
+    "custom1_273":"GIOVEDÌ",
+    "custom2_273":"VENERDÌ",
+    "custom3_273":"SABATO",
+
+    "question_274": "Qual è la soluzione?",
+    "hint_274": "ANCHE 13+7 FA 20.",
+    "endText_274": "SE ANCORA NON DETESTI LA MATEMATICA DOPO QUESTE LEZIONI, DEVI ESSERE UN VERO APPASSIONATO!",
+
+    "question_276": "Aiutalo a raggiungere la sua casa.",
+    "hint_276": "USA L'ALTRA PIATTAFORMA PER CREARE DEI PASSAGGI.",
+    "endText_276": "QUESTO PERCORSO È COMUNQUE PIÙ SICURO DI QUELLO CHE FACCIO PER ANDARE A LAVORO!",
+
+    "question_277": "Dove si sta nascondendo il cane?",
+    "hint_277": "DAI UN'OCCHIATA TRA I DUE ARMADI.",
+    "endText_277": "MI SPIACE, MA DOBBIAMO ANDARE DAL VETERINARIO.",
+
+    "question_278": "Sbarazziamoci di questo traffico!",
+    "hint_278": "LA GRAVITÀ POTREBBE TORNARCI UTILE.",
+    "endText_278": "IL SINDACO DI MILANO VORREBBE INCONTRARTI.",
+
+    "question_279": "Completa il tuo addestramento con la spada.",
+    "hint_279": "SCORRI IL DITO IN DIREZIONE DELLA SPADA.",
+    "endText_279": "HAI RESO ORGOGLIOSO IL TUO MAESTRO, NINJA!",
+
+    "question_280": "Il fantasma deve scappare dalle trappole.",
+    "hint_280": "PUOI PROVARE A TRACCIARE IL GIUSTO PERCORSO SU CARTA, PRIMA.",
+    "endText_280": "È DAVVERO UNA BUONA IDEA AIUTARE UN FANTASMA?",
+
+    "question_281": "Oh no, il suo fiore sta morendo!",
+    "hint_281": "IL FIORE HA BISOGNO DI ACQUA E FERTILIZZANTE.",
+    "endText_281": "CRESCI E SPLENDI, FIORELLINO!",
+
+    "question_282": "Aiutami a trovare una               per la mia macchina!",
+    "hint_282": "DOVE POTER TROVARE UNA \"SOLUZIONE\"?",
+    "endText_282": "ALCUNE PAROLE SONO PROPRIO POTENTI IN QUESTO GIOCO!",
+
+    "question_284": "Salva la cittadina!",
+    "hint_284": "SE SOLO LA MONTAGNA FOSSE PIÙ ALTA...",
+    "endText_284": "SCOMMETTO CHE HAI PROVATO DI NUOVO A USARE LE NUVOLE!",
+
+    "question_285": "Aiutalo a difendere le tartarughine.",
+    "hint_285": "USA IL CARAPACE DELLA TARTARUGA PER ATTACCARE IL SERPENTE.",
+    "endText_285": "BUON VOLO, SERPENTE!",
+
+    "question_286": "Devi ricreare il volto.",
+    "hint_286": "QUELLO AL CENTRO È UNO SPECCHIO, USALO.",
+    "endText_286": "SE TI È PIACIUTO QUESTO QUADRO, PROVA IL NOSTRO GIOCO CREATIVO: <link=\"mirror_puzzle\"><u><color=blue>MIRROR PUZZLE!</color></u></link>",
+
+    "question_287": "Devi vincere la partita, in qualche modo.",
+    "hint_287": "PROVA A SPOSTARE QUELL\"O\".",
+    "endText_287": "TRANQUILLO, NESSUNO TI HA VISTO BARARE, A PARTE L'FBI.",
+    "custom1_287":": TU",
+    "custom2_287":": AVVERSARIO",
+
+    "question_288": "Aiutalo a superare questo noiosissimo lunedì.",
+    "hint_288": "PREPARA DEL CAFFÈ CON LA POLVERE DI CAFFÈ E L'ACQUA CALDA.",
+    "endText_288": "ACCETTIAMO SPONSOR PER IL CAFFÈ. CONTATTARE IL RESPONSABILE DI MARKETING SILVESTRO.",
+
+    "question_289": "Aiuta questa coppia a riunirsi.",
+    "hint_289": "PROVA A USARE QUEL TRONCO COME PONTE.",
+    "endText_289": "UNA STORIA SEMPRE MIGLIORE DI TWILIGHT.",
+
+    "question_290": "Sta piangendo di nuovo, tanto per cambiare.",
+    "hint_290": "PROVA A CAMBIARE IL CANALE TV.",
+    "endText_290": "IN EFFETTI IL SUO PIANTO È MENO FASTIDIOSO DI QUEGLI STUPIDI CARTONI.",
+
+    "question_291": "Sir Brancafifone ha bisogno del tuo aiuto per sconfiggere il drago.",
+    "hint_291": "ATTIRA IL DRAGO CON IL CAVALIERE, POI METTIGLI DELL'ACQUA IN BOCCA.",
+    "endText_291": "CHE GIORNO FANTASTICO PER IL NOSTRO PRODE CAVALIERE.",
+
+    "question_292": "Cosa c'è su Giove",
+    "hint_292": "LA RISPOSTA È SCONOSCIUTA. PROVA A INDICARLO CON UN SIMBOLO.",
+    "endText_292": "GIÀ, È PROPRIO UN MISTERO.",
+
+    "question_293": "Oh, no! Impedisci l'incidente!",
+    "hint_293": "PROVA A FAR FISCHIARE IL TRENO.",
+    "endText_293": "PERCHÉ MAI QUALCUNO DOVREBBE DORMIRE LÌ?",
+
+    "question_294": "È furioso, prova a calmarlo.",
+    "hint_294": "METTI GIÙ IL TUO TELEFONO.",
+    "endText_294": "SE SEI IN COLLERA, METTITI UN PO' GIÙ E RILASSATI.",
+
+    "question_295": "Dobbiamo aprire la cassaforte.",
+    "hint_295": "CI SARÀ QUALCHE INDIZIO SU QUALCHE FOGLIETTO.",
+    "endText_295": "CHISSÀ COSA CONTIENE. GLI SVILUPPATORI NON POSSONO MOSTRARLO A CAUSA DELLE RISTRETTEZZE ECONOMICHE.",
+
+    "question_296": "Sir Brancafifone stavolta deve sconfiggere l'orco.",
+    "hint_296": "INDUCI L'ORCO A COLPIRE IL PONTE.",
+    "endText_296": "IL RE LO RICOMPENSERÀ ABBONDANTEMENTE NONOSTANTE SIAMO STATI NOI A FARE TUTTO IL LAVORO.",
+
+    "question_297": "Perché la macchina davanti non si muove?",
+    "hint_297": "MUOVI LA VISUALE PER VEDERE CHI È ALLA GUIDA.",
+    "endText_297": "MA GUARDA TU CHE GENTE!",
+
+
+
+
+    
+    "question_299": "Il coniglio deve raccogliere tutte le monete d'oro.",
+    "hint_299": "ATTIRA IL CONIGLIO CON LA CAROTA.",
+    "endText_299": "ORA CON TUTTE QUESTE MONETE D'ORO POTRÀ COMPRARE MIGLIAIA DI CAROTE.",
+
+    "question_307": "Stavolta niente salti, Silvestro.",
+    "hint_307": "PUOI PROVARE A SPARARLO CON IL CANNONE.",
+    "endText_307": "QUESTO GATTO HA DAVVERO 9 VITE!",
+
+    "question_308": "Questo pagliaccio sta imbrogliando di nuovo. Dimostralo.",
+    "hint_308": "UTILIZZA IL TAVOLO.",
+    "endText_308": "LA FEDERAZIONE INTERNAZIONALE DEI PAGLIACCI DOVREBBE PUNIRE QUESTO TIZIO.",
+
+    "question_322": "QUESTO È UN CERCHIO ROSSO QUESTO È UN TRIANGOLO BLU QUESTO È UN QUADRATO ROSSO",
+    "hint_322": "È UN QUADRATO O UN RETTANGOLO?",
+    "endText_322": "LE DOMANDE A RISPOSTA \"SÌ\" O \"NO\" SONO SEMPRE TOSTE!",
+    "custom1_322":"QUESTO È UN CERCHIO ROSSO",
+    "custom2_322":"QUESTO È UN TRIANGOLO BLU",
+    "custom3_322":"QUESTO È UN QUADRATO ROSSO",
+
+    "question_306": "Come possiamo far sì che sia corretto?",
+    "hint_306": "POSSIAMO RENDERLO MAGGIORE COME \"DIMENSIONE\".",
+    "endText_306": "ORA IL 6 È DECISAMENTE PIÙ GRANDE.",
+
+    "question_312": "Deve catturare altri fantasmi.",
+    "hint_312": "POSIZIONA LE TRAPPOLE LUNGO IL LORO CAMMINO.",
+    "endText_312": "GLI ACCHIAPPAFANTASMI LI CHIAMEREMO LA PROSSIMA VOLTA.",
+
+    "question_318": "Quale sarà la risposta corretta.",
+    "hint_318": "C'È PER CASO UN PUNTO INTERROGATIVO?",
+    "endText_318": "- LA RISPOSTA È QUALE. - QUALE?! - INTENDO PROPRIO QUALE!",
+    "custom1_318":"A) MELA",
+    "custom2_318":"B) FRUTTO",
+    "custom3_318":"C) BANANA",
+    "custom4_318":"D) GAZZA",
+
+    "question_323": "Trova la gallina più pesante.",
+    "hint_323": "USA LO SGABELLO PER MISURARE IL LORO PESO.",
+    "endText_323": "OTTIMO, STAVO GIUSTO CERCANDO QUALCOSA PER SOSTITUIRE I MIEI PESI DA PALESTRA.",
+
+    "question_324": "Trova il suo vero amore.",
+    "hint_324": "CESTINA I BENI DI VALORE PER METTERE ALLA PROVA QUESTE DONNE.",
+    "endText_324": "E ORA SBRIGATI, RECUPERALI DAL CESTINO!",
+
+    "question_332": "Qual è la risposta?",
+    "hint_332": "5 - 1 = 4 E 5 + 1 = 6, CAPITO?",
+    "endText_332": "I MATEMATICI CONSIGLIANO DI ESERCITARSI QUOTIDIANAMENTE CON QUESTO GIOCO.",
+
+    "question_298": "È ora di andare a scuola, sveglialo.",
+    "hint_298": "APRI ENTRAMBE LE PALPEBRE NELLO STESSO MOMENTO.",
+    "endText_298": "BEN SVEGLIATO, TESORO!",
+
+    "question_300": "Puoi soddisfare il cliente?",
+    "hint_300": "PROVA A OFFRIRGLI TUTTO IL CIBO SUL VASSOIO.",
+    "endText_300": "UNA TORTA CON DEL POLLO? MA SERIAMENTE?!",
+
+    "question_301": "A cosa equivale il punto interrogativo?",
+    "hint_301": "8 + 3 + 1= 12",
+    "endText_301": "QUESTI LIVELLI TI INGANNANO PERCHÉ NON TI INGANNANO QUANDO TI ASPETTI DI ESSERE INGANNATO.",
+
+    "question_303": "Arggh! Sbarazzati di quelle mosche!",
+    "hint_303": "NON AMANO IL FREDDO.",
+    "endText_303": "PREFERIREI BUSCARMI UN RAFFREDDORE CHE SOPPORTARE DELLE MOSCHE!",
+
+    "question_304": "Scegli i colori corretti sugli schermi.",
+    "hint_304": "GUARDA ATTENTAMENTE E TI ACCORGERAI CHE IL GIALLO È COLLEGATO A DUE SCHERMI.",
+    "endText_304": "QUALCUNO SBROGLI QUESTO GARBUGLIO!",
+
+    "question_310": "Aiutaci, non riusciamo a trovare la nostra casa!",
+    "hint_310": "DEV'ESSERE OLTRE IL SOLE.",
+    "endText_310": "NON VEDO L'ORA DI RIABBRACCIARE MIA FIGLIA, CHE ORMAI SARÀ PIÙ VECCHIA DI ME.",
+
+    "question_313": "Quale di questi pesci è il più grande?",
+    "hint_313": "I PESCI PALLA AUMENTANO DI DIMENSIONE QUANDO SONO MINACCIATI.",
+    "endText_313": "SCOMMETTO CHE TI ASPETTAVI UNA BALENA O QUALCOSA DI SIMILE.",
+
+    "question_315": "Qual è il numero sopra al 4?",
+    "hint_315": "IGNORA QUELLE SFERE SE VUOI TROVARE LA SOLUZIONE.",
+    "endText_315": "IL 5 È IL NUMERO SOPRA AL 4, OVVIO!",
+
+    "question_316": "Dai una mano a questo tizio in modo da risparmiargli una multa.",
+    "hint_316": "SISTEMA IL FARO SOSTITUENDO LA LAMPADINA.",
+    "endText_316": "VISTO? I MIEI FARI SONO PERFETTI, AGENTE!",
+
+    "question_320": "Regola la visuale laterale rispettando la visuale dall'alto.",
+    "hint_320": "FAI SCORRERE I BLOCCHI E SISTEMALI NELLA STESSA POSIZIONE DEI CORRISPETTIVI NELL'IMMAGINE IN CIMA.",
+    "endText_320": "TU SÌ CHE SEI IN GRADO DI GUARDARE LE COSE DA DIVERSE PROSPETTIVE!",
+
+    "question_321": "Fai in modo che la sesta figura segua la serie logica.",
+    "hint_321": "DUE PALLINI NELLA RIGA CENTRALE.",
+    "endText_321": "IL TUO Q.I. È OVER 9000!"
+,
+    "question_325": "Oh-oh, non può assistere alla parata.",
+    "hint_325": "USA LE SCATOLE PER PERMETTERGLI DI GUARDARE.",
+    "endText_325": "NON FARTI FERMARE DA NESSUN IMPEDIMENTO.",
+
+    "question_326": "Uno di questi orsi non è un vero orso.",
+    "hint_326": "METTILI ALLA PROVA CON DEL MIELE.",
+    "endText_326": "DEV'ESSERE UNO ZOOLOGO MASCHERATO!",
+
+    "question_328": "Aiutalo a pulirsi, per favore.",
+    "hint_328": "NON DIMENTICARE L'ALTRO LATO DEL VOLTO.",
+    "endText_328": "IMPARA A MANGIARE CIOCCOLATA COME SI DEVE, MATTIA!",
+
+    "question_329": "C'è un fantasma da qualche parte. Aiutami a trovarlo!",
+    "hint_329": "USA DELLA FARINA PER TROVARE IL FANTASMA.",
+    "endText_329": "ECCO FATTO. E ORA POSSIAMO CHIAMARE L'ACCHIAPPA FANTASMI.",
+
+    "question_330": "Acciuffa  uccelli che volano verso destra.",
+    "hint_330": "GIRA IL TUO TELEFONO PER FAR SÌ CHE VOLINO VERSO DESTRA.",
+    "endText_330": "DUE PICCIONI CON... NEANCHE UNA FAVA!",
+
+    "question_331": "Qui c'è qualcosa che non va.",
+    "hint_331": "RIPRISTINA LA GIUSTA ALTEZZA DEL PODIO.",
+    "endText_331": "ORA VA MEGLIO!",
+
+    "question_334": "Riccardino dovrebbe starsene a casa a finire i compiti!",
+    "hint_334": "NON PUÒ USCIRE, SE NON C'È UNA PORTA.",
+    "endText_334": "ORA PROVERÀ A USCIRE DALLA FINESTRA.",
+
+    "question_335": "Silvestro vuole mangiare tutto il pesce.",
+    "hint_335": "COMINCIA DAL PESCE PIÙ PICCOLO.",
+    "endText_335": "DI QUESTO PASSO, FINIRÀ COL MANGIARE UNA BALENA!",
+
+    "question_336": "È tempo di passare a un'alimentazione sana.",
+    "hint_336": "IL CIOCCOLATO NON È PROPRIO SALUTARE.",
+    "endText_336": "È RIUSCITO A RESISTERE A UN IMPLACABILE ATTACCO DI FAST FOOD!",
+
+    "question_337": "Queste persone non si sopportano e devono entrare nel palazzo senza incontrarsi.",
+    "hint_337": "METTI OGGETTI SULLA STRADA PER IMPEDIR LORO DI AVANZARE.",
+    "endText_337": "HAI SVENTATO UNA RISSA SUL NASCERE.",
+
+    "question_338": "È ora di bruciare un po' di grasso.",
+    "hint_338": "TRASCINA L'HAMBURGER PER FAR CORRERE IN GIRO L'UOMO.",
+    "endText_338": "FARE ESERCIZIO TI FA SENTIRE BENE.",
+    "daily_gift": "Regalo giornaliero.",
+
+    "question_10": "Trova la risposta.",
+    "hint_10": "FAI ATTENZIONE: LE EQUAZIONI IN ALTO INCLUDO FRUTTI DI OGNI TIPO.",
+    "endText_10": "TE LA CAVI BENE, IN MATEMATICA! COMPLIMENTI!",
+
+    "question_22": "nan",
+    "hint_22": "CONTA I CERCHI.",
+    "endText_22": "OSSERVA SEMPRE I DETTAGLI.",
+
+    "question_25": "Qual è il numero nascosto?",
+    "hint_25": "GUARDA DA UN'ANGOLAZIONE DIVERSA.",
+    "endText_25": "AVERE NUOVE PROSPETTIVE AIUTA SEMPRE.",
+
+    "question_36": "Premi ogni pulsante.",
+    "hint_36": "C'È ANCHE UN ALTRO \"PULSANTE\".",
+    "endText_36": "SÌ, ANCHE QUELLA PAROLA È UN \"PULSANTE\".",
+
+    "question_40": "nan",
+    "hint_40": "GUARDA ATTENTAMENTE I FRUTTI.",
+    "endText_40": "LA MATEMATICA È UTILE, MA UNO SGUARDO ATTENTO È MEGLIO!",
+
+    "question_54": "Accendi i pulsanti giusti.",
+    "hint_54": "I NUMERI INDICANO QUANTE LUCI DEVONO ESSERE ACCESE SU QUELLA RIGA O COLONNA.",
+    "endText_54": "DAVVERO BRILLANTE!",
+
+    "question_76": "Cerca di ottenere il minor numero possibile.",
+    "hint_76": "USA IL SIMBOLO MENO PER RENDERLO NEGATIVO.",
+    "endText_76": "ORA SÌ CHE LE EQUAZIONI TORNANO UTILI!",
+
+    "question_93": "Scegli il numero maggiore tra tutti.",
+    "hint_93": "PROVA NUOVE ANGOLAZIONI PER TROVARE IL NUMERO MAGGIORE.",
+    "endText_93": "VERSO L'INFINITO E OLTRE!",
+
+    "question_112": "Aiutali a passare dall'altro lato. Ma non lasciare da sole le prede con il predatore.",
+    "hint_112": "MANTIENI LA PECORA SULLA BARCA MENTRE TRASFERISCI IL CAVOLO E IL LUPO.",
+    "endText_112": "HAI FANTASTICHE DOTI DI RISOLUZIONE PROBLEMI!",
+
+    "question_153": "Tocca il gatto in basso.",
+    "hint_153": "C'È PIÙ DI UN GATTO.",
+    "endText_153": "USA LE TUE DITA CON SAGGEZZA, GIOVANE JEDI!",
+
+    "question_165": "\"Mia madre cuoce una patata in 25 minuti. Quanto impiegherebbe a cuocere 5 patate?\"",
+    "hint_165": "PUÒ CUCINARLE NELLA STESSA PENTOLA.",
+    "endText_165": "AVREI PREFERITO LE FRIGGESSE.",
+
+    "question_226": "Apri la cassaforte.",
+    "hint_226": "ESAMINA IL MURO PER TROVARE INDIZI.",
+    "endText_226": "ORA PUOI PERMETTERTI IL TUO PASS DA MEMBRO VIP.",
+
+    "question_232": "Ferma il lupo mannaro!",
+    "hint_232": "I LUPI MANNARI OTTENGONO IL LORO POTERE DALLA LUNA.",
+    "endText_232": "PERCHÉ NON LI CHIAMIAMO UOMINI LUPO?",
+
+    "question_242": "Risolvi questo caso di omicidio, detective.",
+    "hint_242": "FORSE POTRESTI PROVARE A SVEGLIARLO.",
+    "endText_242": "ERA SOLO KETCHUP! MENO MALE!",
+
+    "question_250": "Il mago blu deve vincere!",
+    "hint_250": "IL MAGO NERO HA UNO UNO SCUDO CONTRO GLI INCANTESIMI, MA NON SI PUÒ DIFENDERE DAGLI OGGETTI FISICI.",
+    "endText_250": "UN MAGO IN GRADO DI RAGIONARE RAPIDAMENTE VINCE SEMPRE.",
+
+    "question_252": "Il topo ha bisogno di un bagno.",
+    "hint_252": "AGGIUNGI LE TUBATURE MANCANTI.",
+    "endText_252": "NON DITE A SILVESTRO CHE STIAMO AIUTANDO QUESTO TOPO.",
+
+    "question_253": "Vuole i capelli viola.",
+    "hint_253": "PUOI MISCHIARE DUE COLORI PER OTTENERE IL VIOLA.",
+    "endText_253": "TI DARÀ UNA BELLA MANCIA. BELLA QUANTO LEI.",
+
+    "question_314": "Quale strada conduce all'uscita?",
+    "hint_314": "PROVA A PERCEPIRE IL VENTO CON LA TORCIA.",
+    "endText_314": "SE C'È VENTO, CI DEVE ESSERE L'USCITA!",
+
+    "question_317": "Uh! C'è qualcosa di sbagliato, qui!",
+    "hint_317": "SOLITAMENTE, GLI ELFI SONO ARCIERI E I MAGHI USANO SCETTRI.",
+    "endText_317": "TOLKIEN SI STARÀ RIVOLTANDO NELLA TOMBA.",
+
+    "question_319": "Vorrei qualcosa da mangiare.",
+    "hint_319": "PUOI PREPARARE UNA FRITTATA COMBINANDO ALCUNE DELLE FORME PRESENTI.",
+    "endText_319": "LA FRITTATA DI FANTASMA È LA MIGLIORE!",
+
+    "question_327": "Salvala!",
+    "hint_327": "TIENI SALDAMENTE IL TELONE DA ENTRAMBE LE ESTREMITÀ.",
+    "endText_327": "NON FIDARTI MAI DI CHI TIENE IL TELONE DI SALVATAGGIO!",
+
+    "question_333": "Bleah! Questa scimmia puzza!",
+    "hint_333": "USA QUALCOSA PER FAR TRABOCCARE L'ACQUA.",
+    "endText_333": "ORA ABBIAMO BISOGNO DI BAGNOSCHIUMA.",
+
+    "question_339": "Silvestro vuole mangiare tutto il pesce.",
+    "hint_339": "COMINCIA DAL PESCE PIÙ PICCOLO.",
+    "endText_339": "DI QUESTO PASSO, FINIRÀ COL MANGIARE UNA BALENA!",
+
+    "question_340": "Chi tra loro è la madre?",
+    "hint_340": "PROVA A FAR PIANGERE IL BAMBINO.",
+    "endText_340": "BEN FATTO! ORA DOVRAI AFFRONTARE L'IRA DI UNA MADRE!",
+
+    "question_341": "Chi è stato a far questo?",
+    "hint_341": "FORSE NON È MORTO?",
+    "endText_341": "È STATO MESSO K.O. DOPO LA 34ESIMA FETTA DI PIZZA.",
+
+    "question_342": "Chi di loro ha mangiato il mio gelato?",
+    "hint_342": "OSSERVA L'ALTRA GUANCIA.",
+    "endText_342": "TANA!",
+
+    "question_343": "Chi di loro ha versato il latte?",
+    "hint_343": "IL VERO COLPEVOLE SI NASCONDE DA QUALCHE PARTE.",
+    "endText_343": "COME HA FATTO AD APRIRE IL FRIGO?",
+
+    "question_344": "Chi tra loro è un vero super eroe?",
+    "hint_344": "PUOI METTERLI ALLA PROVA CON UNA SITUAZIONE D'EMERGENZA.",
+    "endText_344": "BENE, PUOI COMPILARE IL MODULO DI REGISTRAZIONE PER GLI AVENGERS, GRAZIE.",
+
+    "question_345": "Tocca in ordine: Ragazzo - Coniglio - Uccello - Lama - Gallo - Gatto",
+    "hint_345": "IL GALLO SI NASCONDE DA QUALCHE PARTE.",
+    "endText_345": "CHE STRANA COMBRICCOLA.",
+    "custom1_345": "Tocca in ordine",
+
+    "question_354": "Qual è la sua ombra?",
+    "hint_354": "FAI ATTENZIONE: LE OMBRE INVERTONO LA POSIZIONE.",
+    "endText_354": "UN'OMBRA NON MENTE MAI.",
+
+    "question_356": "Quale di questi è un gelato?",
+    "hint_356": "PROVA A FARLI SQUAGLIARE.",
+    "endText_356": "GLI ALTRI SONO RIPRODUZIONI IN PLASTICA. AVRESTI POTUTO PROVARE A LECCARLE.",
+
+    "question_357": "Quale uovo è crudo?",
+    "hint_357": "POTREBBERO ROMPERSI, SE LI FAI CADERE DALL'ALTO.",
+    "endText_357": "MANGIAMO LE UOVA SODE!",
+
+    "question_358": "Devi mischiare questi due liquidi.",
+    "hint_358": "SCUOTI LA PROVETTA MENTRE LA TIENI TAPPATA.",
+    "endText_358": "QUESTA FORMULA VIOLA TI LIBERERÀ DALL'ACNE.",
+
+    "question_359": "Qual è il codice PIN?",
+    "hint_359": "PROVA A INGRANDIRE IL FUMETTO.",
+    "endText_359": "QUESTO TELEFONO HA UNO SCHERMO DAVVERO PICCOLO.",
+
+    "question_360": "Non sopporto questo frastuono!",
+    "hint_360": "PROVA A TAPPARLO COL TUO DITO.",
+    "endText_360": "VAI A SUONARE ALTROVE, PER CORTESIA.",
+
+    "question_361": "Ha troppo caldo! Aiutalo, per favore!",
+    "hint_361": "CONTROLLA I SUOI CALZINI.",
+    "endText_361": "IL POVERO RAGAZZO HA QUALCHE PROBLEMA DI TERMOREGOLAZIONE.",
+
+    "question_362": "Sveglialo, per favore.",
+    "hint_362": "SE SOLO LE CUFFIE FOSSERO CONNESSE AL CELLULARE...",
+    "endText_362": "MAI FIDARSI DI UNA CONNESSIONE BLUETOOTH.",
+
+    "question_363": "Fai smettere il bullo!",
+    "hint_363": "LA LATTINA DI SODA POTREBBE ESSERE PERICOLOSA.",
+    "endText_363": "QUESTO GLI SARÀ DI LEZIONE.",
+
+    "question_364": "Porta la pallina al centro.",
+    "hint_364": "TOCCA PER GIRARE E PER FERMARE. USA LE BANDE COLORATE PER ACCEDERE AI CERCHI INTERNI.",
+    "endText_364": "SI È FATTA UN BEL VIAGGETTO, LA NOSTRA PALLINA.",
+
+    "question_366": "Rendili tutti felici.",
+    "hint_366": " IBLU VOGLIONO STARE IN CIMA. I GIALLI VOGLIONO STARE IN BASSO. AI ROSSI NON PIACCIONO I GIALLI.",
+    "endText_366": "RENDE FELICI VEDERLI FELICI.",
+
+    "question_367": "Dov'è il coniglio?",
+    "hint_367": "I CONIGLI HANNO LUNGHE ORECCHIE.",
+    "endText_367": "STAVA CERCANDO DI CAMUFFARSI DA GATTO, O QUALCOSA DI SIMILE.",
+
+    "question_368": "Dov'è la principessa?",
+    "hint_368": "QUELLA SPADA PUÒ ESSERE USATA PER RADERSI.",
+    "endText_368": "PRINCIPESSA, TUO PADRE TI ORDINA DI TORNARE AL CASTELLO, IMMEDIATAMENTE!",
+
+    "question_369": "Aiutami ad aprire la cassaforte.",
+    "hint_369": "TOCCA I PULSANTI IN UN CERTO ORDINE.",
+    "endText_369": "ABBIAMO APERTO UN MUCCHIO DI CASSEFORTI, MA ANCORA NON SIAMO RICCHI.",
+
+    "question_370": "Ferma il mostro!",
+    "hint_370": "A QUEL BRACCIO MECCANICO MANCA UNA VITE.",
+    "endText_370": "COME HA FATTO QUELLA VITE A FINIRE LÌ?",
+
+    "question_371": "Quale gatto dovrebbe andare lì?",
+    "hint_371": "CONTROLLA BENE. NON DEVI PER FORZA SCEGLIERE UNO DI QUEI DUE.",
+    "endText_371": "IL GATTO ARANCIONE È L'INIZIO E LA FINE.",
+
+    "question_372": "Aiutala a passare l'esame.",
+    "hint_372": "FA' IN MODO CHE LA CLESSIDRA NON SI SVUOTI.",
+    "endText_372": "SCAPPIAMO DI CORSA PRIMA CHE L'INSEGNANTE SI INSOSPETTISCA.",
+
+    "question_373": "Trova il numero segreto 2285.",
+    "hint_373": "UNO DEI LIBRI È CAPOVOLTO.",
+    "endText_373": "NEL 2285 ARRIVERANNO GLI ALIENI. TIKTOK È STATO IL PRIMO PASSO VERSO LA LORO INVASIONE.",
+
+    "question_375": "Aiutami a scegliere una data per incontrare il mio fastidiosissimo cugino.",
+    "hint_375": "PROVA A SCEGLIERE UNA DATA IMPOSSIBILE. PUOI ANCHE CAMBIARE MESE.",
+    "endText_375": "EHEHEHEH, COSÌ NON DOVRÒ MAI INCONTRARLO!",
+
+    "question_377": "Dobbiamo dipingere tutto di rosso.",
+    "hint_377": "USA IL SECCHIO PER FERMARE IL PENNELLO.",
+    "endText_377": "QUESTO PENNELLO È DIFFICILISSIMO DA GESTIRE!",
+
+    "question_378": "nan",
+    "hint_378": "3=2+1",
+    "endText_378": "NIENTE TRUCCHI NÉ INGANNI, SOLO VECCHIA CARA MATEMATICA.",
+
+    "question_380": "Come può fare per attraversare la strada?",
+    "hint_380": "TROVA UN MODO PER ATTIRARE LA POLIZIA.",
+    "endText_380": "CIAMBELLE APPENA SFORNATEPER INIZIARE LA GIORNATA.",
+
+    "question_381": "Colpisci tutti i bersagli.",
+    "hint_381": "UN DOPPIO COLPO PUÒ DVIDERE UNA FRECCIA.",
+    "endText_381": "QUESTO DEV'ESSERE IL SEGRETO DI LEGOLAS PER NON ESAURIRE MAI LE FRECCE!",
+
+    "question_382": "Dev'esserci una porta segreta.",
+    "hint_382": "PROVA A CONTROLLARE SOTTO AL TAPPETO.",
+    "endText_382": "DOVE CONDURRÀ? AL DEPOSITO SEGRETO DI CARTA IGIENICA DI QUALCUNO?",
+
+    "question_383": "Queste macchine devono uscire dal parcheggio.",
+    "hint_383": "FALLE SCORRERE PER SPOSTARLE. COMINCIA DALLE AUTO POSTE NEGLI ANGOLI.",
+    "endText_383": "DOVE AVRANNO PRESO LA LORO PATENTE QUESTE PERSONE?",
+
+    "question_384": "Aiutami a fare tris e vincere il jackpot!",
+    "hint_384": "PROVA A USARE DEGLI ADESIVI SULLA SLOT MACHINE.",
+    "endText_384": "È COSÌ CHE BISOGNEREBBE GIOCARE CON LE MACCHINETTE TRUCCATE!",
+
+    "question_385": "Chi è l'impostore?",
+    "hint_385": "UN IMPOSTORE AGISCE QUANDO È DA SOLO CON LA SUA VITTIMA.",
+    "endText_385": "È ORA DI UNA RIUNIONE DI EMERGENZA! ",
+
+    "question_386": "Aiuta il Regno Rosso a vincere.",
+    "hint_386": "IL LANCIERE BATTE IL CAVALIERE. IL CAVALIERE BATTE LO SPADACCINO.",
+    "endText_386": "E QUESTI ERANO SOLO TRE SOLDATI. IMMAGINA DI DOVERNE GESTIRE CENTINAIA!",
+
+    "question_388": "Accendi tutti i pulsanti.",
+    "hint_388": "SEGUI UN CERTO SCHEMA. INIZIA DA QUELLO IN ALTO A SINISTRA E TERMINA CON QUELLO IN BASSO A SINISTRA.",
+    "endText_388": "PROCEDERE PER TENTATIVI È SEMPRE UN'OTTIMA SOLUZIONE.",
+
+    "question_389": "La musica è troppo alta! Interrompila!",
+    "hint_389": "PUOI REGOLARE IL VOLUME DELL'ALTOPARLANTE. PROVA A SPINGERLO AL LIMITE.",
+    "endText_389": "NON PENSARE CHE TI COMPRIAMO UNA NUOVA CASSA!",
+
+    "question_390": "Completa il parkour.",
+    "hint_390": "TOCCA IL RAGAZZO PER FARLO SALTARE. UNO DEGLI OSTACOLI NECESSITA DI UNA SOLUZIONE DIVERSA.",
+    "endText_390": "SAREBBE BELLO POTER ABBASSARE I DOSSI STRADALI ALLO STESSO MODO.",
+
+    "question_391": "I bambini non visitano casa sua. Aiutalo.",
+    "hint_391": "HA BISOGNO DI UNA ZUCCA SERIA, INTAGLIATA E ILLUMINATA.",
+    "endText_391": "DOLCETTO O SCHERZETTO?!",
+
+    "question_392": "Quanti fantasmi veri ci sono?",
+    "hint_392": "SMASCHERALI PER CONTARLI.",
+    "endText_392": "NESSUNO; OVVIAMENTE. MICA CREDERAI AI FANTASMI!",
+
+    "question_393": "È tempo del'ispezione dei dolcetti. Tutte le caramelle nel cestino della mamma, presto!",
+    "hint_393": "QUEL BAMBINO STA NASCONDENDO DEI DOLCETTI SOTTO IL COSTUME.",
+    "endText_393": "POVERI BAMBINI. I GENITORI SI PAPPERANNO TUTTI I DOLCETTI DI NASCOSTO.",
+
+    "question_394": "Sono arrabbiati e affamati. Diamo inizio al cenone del Ringraziamento.",
+    "hint_394": "AFFETTA IL TACCHINO E DISTRIBUISCILO NEI LORO PIATTI.",
+    "endText_394": "BASTA CON QUEI MUSI! QUESTO È UN GIORNO IN CUI RINGRAZIARE!",
+    
+    "question_396":"Dottore, curi questo paziente!",
+    "hint_396":"USA I RAGGI X PER CONTROLLARE IL PAZIENTE. STROFINA LO SCHERMO IN CORRISPONDENZA DEI PROBLEMI PER SISTEMARLI.",
+    "endText_396":"HAI SALDATO MAGICAMENTE LE SUE OSSA!",
+    
+    "question_397":"Trova il criminale.",
+    "hint_397":"PUOI USARE LO SCHERMO A RAGGI X PER CONTROLLARE BORSE E ALTRE COSE.",
+    "endText_397":"CHI HA ASSUNTO QUESTA GUARDIA?!",
+    
+    "question_398":"Tra loro si nasconde un alieno!",
+    "hint_398":"USA LO SCHERMO A RAGGI X PER SMASCHERARE L'ALIENO.",
+    "endText_398":"GLI ALIENI STANNO DIVENTANDO CREATIVI, CON I LORO TRAVESTIMENTI!",
+
+    
+    "question_399":"Il gatto vuole dei biscotti.",
+    "hint_399":"IL MONDO È SFERICO.",
+    "endText_399":"VIVE SU UN PIANETA PICCOLISSIMO.",
+    
+    "question_400":"Tocca  macchine blu che procedono in avanti verso sinistra.",
+    "hint_400":"NON TOCCARE L'AUTO BLU MENTRE È IN RETROMARCIA.",
+    "endText_400":"I MIEI TRASFERIMENTI QUOTIDIANI VERSO L'UFFICIO ASSOMIGLIANO A QUESTO.",
+    
+    "question_401":"Vorrei uno scoiattolo.",
+    "hint_401":"TOCCA IL MAGO PER LANCIARE UN INCANTESIMO. GLI ANIMALI POSSONO SCAMBIARSI DI POSTO.",
+    "endText_401":"CHE STRANO INCANTESIMO!",
+    
+    "question_402":"Sistema l'equazione, per favore.",
+    "hint_402":"SPARA UN COLPO DI CANNONE PER CORREGGERE L'OPERAZIONE.",
+    "endText_402":"PUOI USARE QUESTO CANNONE ANCHE PER I TUOI ESAMI DI MATEMATICA.",
+    
+    "question_403":"La macchina blu deve vincere la corsa.",
+    "hint_403":"TROPPO TURBO PUÒ DIVENTARE PERICOLOSO!",
+    "endText_403":"LA VITTORIA PIÙ FACILE DELLA MIA VITA.",
+    
+    "question_404":"Ecco un'altra vallata da far attraversare al nostro gatto salterino.",
+    "hint_404":"IL PULSANTE DEL SALTO PUÒ TORNARE UTILE!",
+    "endText_404":"È LETTERALMENTE UN PULSANTE PER IL SALTO!",
+    
+    "question_405":"Fai un gol.",
+    "hint_405":"CALCIA LA PALLA TOCCANDO IL PULSANTE 'VIA!'. EVITA GLI AVVERSARI.",
+    "endText_405":"MOURINHO SAREBBE FIERO DI TE.",
+    
+    "question_406":"Tocca gli animali in questo ordine:",
+    "hint_406":"PRIMA È MEGLIO ANNOTARLI.",
+    "endText_406":"CHE MARE BRULICANTE DI VITA!",
+    
+    "question_407":"Salva il topo dai gatti.",
+    "hint_407":"IL FORMAGGIO RENDE IL TOPO PIÙ FORTE.",
+    "endText_407":"ECCO CHE ARRIVA TOPOZILLA!",
+    
+    "question_408":"Aiutala a raggiungere sua madre.",
+    "hint_408":"SCORRI IL DITO SULLO SCHERMO PER FARLA MUOVERE. USA LA PIETRA PER CONTROLLARE IL SUO CAMMINO.",
+    "endText_408":"PERCHÉ STA SCAPPANDO DA SUA FIGLIA?",
+    
+    "question_409":"Tocca gli animali, dal più piccolo al più grande.",
+    "hint_409":"POTREBBE ESSERCI UN QUARTO ANIMALE DA QUALCHE PARTE.",
+    "endText_409":"MAI FIDARSI DI UN ALBERO PER NASCONDERSI.",
+    
+    "question_410":"Qual è il numero più alto?",
+    "hint_410":"PER POTERLI MISURARE DEVI METTERLI SULLO STESSO LIVELLO.",
+    "endText_410":"QUEL NUMERO HA BEVUTO UN SACCO DI LATTE.",
+    
+    "question_411":"Il gatto vuole nuovamente provare l'ebbrezza del volo.",
+    "hint_411":"DEVI FAR CADERE QUALCOSA DI PESANTE PER LANCIARE IL GATTO DAL DONDOLO.",
+    "endText_411":"STIAMO RIEMPIENDO LA STRATOSFERA DI GATTI.",
+    
+    "question_412":"Aiuta il fantasma a uscire dal labirinto.",
+    "hint_412":"SEGUI LA POSIZIONE DEL FANTASMA CON IL TUO DITO.",
+    "endText_412":"IL FANTASMA HA PROMESSO DI NON PERSEGUITARTI, PER L'AIUTO CHE GLI HAI FORNITO.",
+    
+    "question_413":"Affetta gli zombi!",
+    "hint_413":"SCORRI IL DITO SUL NINJA PER FARGLI CAMBIARE POSIZIONE. PRESTA ATTENZIONE ALLA DIREZIONE DELLA SPADA.",
+    "endText_413":"QUESTO È L'EPISODIO PILOTA PER 'THE WALKING DEAD: GIAPPONE'.",
+    
+    "question_414":"Aiuta il gatto ad acchiappare il topo.",
+    "hint_414":"NON ENTRARE NEL LABIRINTO. PASSA DA FUORI.",
+    "endText_414":"È SOLO UN ADDESTRAMENTO DI CACCIA. IN REALTÀ SONO AMICI.",
+    
+    "question_415":"Dov'è la mia pecora bianca?",
+    "hint_415":"LO SPUTO DEL LAMA PUÒ PULIRE LA VERNICE SULLE PECORE.",
+    "endText_415":"IL LAMA HA UN SACCO DI SALIVA!",
+    
+    "question_416":"Come si vedrebbero queste scatole da davanti?",
+    "hint_416":"TRE IN BASSO, DUE AL DI SOPRA.",
+    "endText_416":"SAI BENE COME FUNZIONA LA PROSPETTIVA.",
+    
+    "question_417":"Dobbiamo tenerci al caldo durante la notte.",
+    "hint_417":"PUOI ACCENDERE UN ALTRO FALÒ.",
+    "endText_417":"AVREBBERO DOVUTO DORMIRE PIÙ VICINI.",
+    
+    "question_418":"L'esercito blu deve vincere.",
+    "hint_418":"MUOVI I CAVALIERI BLU. LE SPADE BATTONO LE LANCE, LE LANCE BATTONO I CAVALLI E I CAVALLI BATTONO LE SPADE.",
+    "endText_418":"SEI UN GENIO DELLA TATTICA!",
+    
+    "question_419":"Dov'è la spia?!",
+    "hint_419":"CONTROLLA IL QUADRO.",
+    "endText_419":"TRADITO DAI SUOI OCCHI!",
+    
+    "question_420":"Salva il ragazzo!",
+    "hint_420":"QUALCOSA POTREBBE CALMARE IL MOSTRO.",
+    "endText_420":"TUTTO QUESTO TRAMBUSTO PER UN ORSACCHIOTTO.",
+    
+    "question_421":"È ora di dimagrire!",
+    "hint_421":"STRINGI LA CINTURA!",
+    "endText_421":"ACQUISTA IL NOSTRO LIBRO: 'LA DIETA DELLA CINTURA MIRACOLOSA'!",
+    
+    "question_422":"Svela il segreto.",
+    "hint_422":"I SUOI CAPELLI NASCONDONO QUALCOSA.",
+    "endText_422":"TORNERÀ!",
+    
+    "question_423":"La mia macchina è in panne!",
+    "hint_423":"LA FORZA DI GRAVITÀ POTREBBE TORNARE UTILE.",
+    "endText_423":"SPERIAMO CHE IL RESTO DELLA STRADA SIA IN DISCESA...",
+    
+    "question_424":"Metti in equilibrio la leva.",
+    "hint_424":"PROVA A RIMUOVERE UN NUMERO IN ECCESSO.",
+    "endText_424":"COME PUÒ PESARE UNO ZERO?",
+    
+    "question_425":"Vuole avere dei            possenti.",
+    "hint_425":"PROVA A INGRANDIRE I 'MUSCOLI'.",
+    "endText_425":"NON PROVATE A CASA QUESTA FORMULA PER LA CRESCITA MUSCOLARE!",
+    
+    "question_426":"È tempo di arricchirsi!",
+    "hint_426":"ATTIRA L'ATTENZIONE DEL CANE E TRASFORMALO IN UNA CRIPTOVALUTA.",
+    "endText_426":"ELON MUSK SI È RIFIUTATO DI SPONSORIZZARE QUESTO LIVELLO, CHE CANAGLIA.",
+    
+    "question_427":"Ha esaurito tutti i suoi cosmetici.",
+    "hint_427":"IL FAZZOLETTO PUÒ COLORARSI GRAZIE AL ROSSETTO. RECUPERA DELLE CIGLIA FINTE TRA I SUOI CAPELLI.",
+    "endText_427":"STAVA MEGLIO IN VERSIONE ACQUA E SAPONE.",
+    
+    "question_428":"Fa troppo caldo! Aiuta il povero ragazzo.",
+    "hint_428":"TROVA QUALCOSA DI APPUNTITO PER FAR SCOPPIARE IL SOLE.",
+    "endText_428":"HO UTILIZZATO GLI OMBRELLI NEL MODO SBAGLIATO PER TUTTA LA VITA!",
+    
+    "question_429":"Il cane vuole assaggiare un po' di neve.",
+    "hint_429":"LA PIOGGIA SI TRASFORMA IN NEVE AD ALTA QUOTA.",
+    "endText_429":"FATE ATTENZIONE A QUELLI GIALLI!",
+    
+    "question_430":"Vuole essere più alto.",
+    "hint_430":"L'ELETTRICITÀ STATICA PUÒ SOLLEVARE I SUOI CAPELLI. ELETTRIZZA IL PETTINE STROFINANDOLO SULLA MAGLIETTA.",
+    "endText_430":"COME CRESCERE IN ALTEZZA: IL METODO MARGE SIMPSONS.",
+    
+    "question_431":"Salva il Titanic!",
+    "hint_431":"SE SOLO LA LUNA PIENA POTESSE ILLUMINARE L'ICEBERG...",
+    "endText_431":"HAI CAMBIATO LA STORIA!",
+    
+    "question_432":"Rendi entrambi felici.",
+    "hint_432":"NON CREDI CHE IL TIPO A DESTRA ABBIA UN PO' DI BARBA IN ECCESSO?",
+    "endText_432":"CONDIVIDERE PER SORRIDERE.",
+    
+    "question_433":"Uno di loro è sospetto.",
+    "hint_433":"PULISCI LE VISIERE PER GUARDARE ATTRAVERSO.",
+    "endText_433":"SE AMI ESSERE L'IMPOSTORE, <link=\"imposter\"><u><color=blue>DIVENTA UN IMPOSTORE!</color></u></link>",
+    
+    "question_434":"L'agente Smith deve acciuffare il ladro!",
+    "hint_434":"IL LADRO NON RIUSCIRÀ A TRASPORTARE UNA BORSA PESANTE.",
+    "endText_434":"SE VUOI AFFRONTARE ALTRE AVVENTURE ASSIEME ALL'AGENTE SMITH, PROVA <link=\"bt2\"><u><color=blue>BRAIN TEST 2!</color></u></link>",
+    
+    "question_435":"Dov'è il cane con quattro macchie?",
+    "hint_435":"UNA DELLE MACCHIE È SOLO UN PO' DI SPORCO!",
+    "endText_435":"VIENI QUI, BRAVO CAGNETTO!",
+    
+    "question_436":"Chi è birbante?",
+    "hint_436":"POTREBBE ESSERCI UN TERZO BEBÈ DA QUALCHE PARTE.",
+    "endText_436":"SE AMI I ROMPICAPI SOCIAL, PROVA <link=\"whois\"><u><color=blue>WHO IS!</color></u></link>",
+    
+    "question_437":"Dov'è lo squalo?",
+    "hint_437":"GLI SQUALI SONO ATTRATTI DAL SANGUE.",
+    "endText_437":"EVITEREMO DI MOSTRARE IL SEGUITO, PER I NOSTRI GIOCATORI PIÙ GIOVANI.",
+    
+    "question_438":"Avvicina i due innamorati.",
+    "hint_438":"ALLINEA GLI OGGETTI UGUALI SULLE STESSE FILE.",
+    "endText_438":"SE SAI GIOCARE AI ROMPICAPI MATCH 3, PERCHÉ NON PROVI <link=\"blast_friends\"><u><color=blue>BLAST FRIENDS</color></u></link>?",
+    
+    "question_449":"Aiutalo a vincere il gioco della cialda caramellata.",
+    "hint_449":"DEVE LECCARE LA CIALDA.",
+    "endText_449":"CHE LINGUA ENORME!",
+    
+    "question_450":"Aiutalo a battere l'anziano.",
+    "hint_450":"FAI LA TUA SCELTA, POI CHIUDI IL SUO PUGNO PER SCEGLIERE DI NUOVO.",
+    "endText_450":"È IMPERDONABILE INGANNARE UN POVERO VECCHIETTO A QUEL MODO.",
+    "odd":"DISPARI",
+    "even":"PARI",
+    
+    "question_451":"Deve completare il gioco del salto sulle lastre di vetro.",
+    "hint_451":"TOCCA LE LASTRE PER TESTARE LA LORO RESISTENZA.",
+    "endText_451":"È L'UNICO A ESSERE ARRIVATO ALLA FINE, VUOL DIRE CHE SFIDERÀ SE STESSO NELLA FINALE?!",
+    
+    "question_452":"Deve arrivare sano e salvo al traguardo.",
+    "hint_452":"LA SABBIA POTREBBE COPRIRE GLI OCCHI DELLA BAMBOLA.",
+    "endText_452":"BARARE QUANDO SI PARTECIPA A GIOCHI COSÌ BRUTALI NON È DAVVERO BARARE.",
+    
+    "question_453":"La sua squadra deve battere quella del bulletto.",
+    "hint_453":"PROVA A SFRUTTARE LA FORZA DI GRAVITÀ.",
+    "endText_453":"PERCHÉ NON HANNO UTILIZZATO QUESTA TATTICA NELLA SERIE TV?",
+    
+    "question_454":"Aiuta Babbo Natale a decollare.",
+    "hint_454":"PROVA A TROVARE UN NASO ROSSO PER RUDOLPH.",
+    "endText_454":"BABBO NATALE DOVREBBE SMETTERLA DI RUBARE IL NASO A RUDOLPH!",
+    
+    "question_455":"Aiuto, stanno cadendo!",
+    "hint_455":"RIORDINA LE RENNE IN BASE AL LORO PESO. BILANCIA LE DUE FILE.",
+    "endText_455":"FIÙ! HAI SALVATO IL NATALE!",
+    
+    "question_456":"Fa freddo, c'è bisogno di un fuoco più grande nel caminetto.",
+    "hint_456":"FAI SCARTARE I REGALI PER AGGIUNGERE UN PO' DI CARBONE AL CAMINETTO.",
+    "endText_456":"UNA VOLTA TANTO, LE MARACHELLE DI TOMMY SONO TORNATE UTILI.",
+    
+    "question_457":"Completa le decorazioni dell'albero di Natale.",
+    "hint_457":"PUOI TROVARE UNA STELLA STORDENDO IL GATTO. UTILIZZA L'INTERRUTTORE.",
+    "endText_457":"L'INDUSTRIA DELLE DECORAZIONI NATALIZIE DETESTA QUESTO GATTO!",
+    
+    
+    
+    
+    
+"closed":"CHIUSO",
+"open":"APERTO",
+"custom1_375": "MAGGIO",
+"custom2_375": "GIUGNO",
+"custom1_359":"Il codice è... ",
+"custom2_359":"Il codice è... 4285",
+    "weekly_available": "LIVELLI SETTIMANALI DISPONIBILI!",
+    "weekly_week": "SETTIMANA",
+    "weekly_title": "SETTIMANA ",
+    "weekly_page_title": "LIVELLI SETTIMANALI",
+    "weekly_new": "NUOVO",
+    "weekly_missed": "mancato",
+    "weekly_save": "  SALVA LA SETTIMANA",
+    "weekly_not_available": "TORNA LA PROSSIMA SETTIMANA!",
+    "bulb_notification_title_completed": "Nuovi livelli presto in arrivo!",
+    "bulb_notification_title_normal": "Non bloccarti al livello !",
+    "bulb_notification_text_completed": "Apri il gioco per ottenere lampadine gratis da usare nei nuovi livelli.",
+    "bulb_notification_text_normal": "Apri il gioco e ottieni lampadine gratis per indizi aggiuntivi.",
+    "reward_wheel_title": "GIRA LA RUOTA PER LA RICOMPENSA!",
+    "reward_wheel_spin": "GIRA!",
+    "reward_wheel_spin_again": "GIRA ANCORA!",
+    "reward_wheel_1_day_hint": "<line-height=190%>SCONTO <size=70>%",
+    "reward_wheel_1_day_hint2": "SCONTO %",
+    "reward_wheel_1_day_vip": "PASS VIP 1 giorno",
+    "settings_try_our_other_games":"ALTRI GIOCHI",
+    "other_games_title":"ALTRI GIOCHI",
+    "other_games_play_now":"GIOCA ORA!",
+
+    "gdpr_consent_title":"Ti diamo il benvenuto!",
+    "gdpr_consent_text":"Toccando Accetta e Continua, confermi di aver letto e accettato le nostre <link=\"https://unicostudio.co/terms.html\"><#C7F463>Condizioni di Utilizzo</color></link> e <link=\"https://unicostudio.co/privacy.html\"><#C7F463>Normativa sulla Privacy</color></link>. ",
+    "gdpr_consent_button":"ACCETTA E CONTINUA"
+}

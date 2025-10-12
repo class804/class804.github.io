@@ -1,0 +1,1732 @@
+{
+    "gifts":"AJÁNDÉKOK",
+    "watch_video_title":"SZERETNÉL MEGTEKINTENI EGY VIDEÓT?",
+    "watch_video_button":"MEGTEKINTÉS",
+    "skip_level_title":"ÁT SZERETNÉD UGRANI EZT A SZINTET?",
+    "skip_level_button":"ÁTUGRÁS",
+    "gift_tomorrow":"GYERE VISSZA HOLNAP!",
+    "level_title":"SZINT ",
+    "settings_english":"Magyar",
+    "settings_title":"BEÁLLÍTÁSOK",
+    "settings_sound":"HANG",
+    "settings_music":"ZENE",
+    "settings_notification":"ÉRTESÍTÉSEK",
+    "settings_support":"SEGÍTSÉG",
+    "settings_share":"MEGOSZTÁS",
+    "settings_restore":"VISSZAÁLLÍTÁS",
+    "settings_language":"NYELV",
+    "settings_share_text":"Nagyszerű játék! Ajánlom mindenkinek{0}",
+    "settings_email_text":"Kérlek, üzenetedet ide írd be________Please Do Not Modify ThisModel: {0}OS: {1}Application Version: {2}________",
+    "levels_title":"SZINTEK",
+    "levels_skipped":"ÁTUGORVA",
+    "nextLevel_next_button":"KÖVETKEZŐ",
+    "shop_title":"VÁSÁRLÁS",
+    "shop_bundle1_title":"LEGMENŐBB AJÁNLAT!",
+    "shop_bundle2_title":"LEGJOBB VÁLASZTÁS",
+    "shop_sale":"{0}% KEDVEZMÉNY",
+    "shop_remove_ads":"hirdetések eltávolítása",
+    "shop_purchased":"MEGVÁSÁROLVA",
+    "shop_loading":"betöltés...",
+    "startScreen_title":"BRAIN TEST",
+    "startScreen_text":"KÉSZEN ÁLLSZ TESZTELNI AZ AGYAD?",
+    "startScreen_button":"KÉSZ",
+    "rateScreen_title":"ÉRTÉKELÉS",
+    "rateScreen_hint":"LEGJOBB ÉRTÉKELÉS",
+    "rateScreen_question":"Mennyire tetszett a játékunk?",
+    "rateScreen_thanks":"Köszönjük, hogy támogatsz minket!",
+    "vipPanel_becomevip":"LEGYÉL VIP TAG!",
+    "vipPanel_get":"SZEREZZ",
+    "vipPanel_and":"ÉS...",
+    "vipPanel_unlockWeekly":"OLDJ FEL HETI SZINTEKET",
+    "vipPanel_remove_ads":"hirdetésmentességet",
+    "vipPanel_double_daily_gifts":"olcsóbb napi ajándékokat",
+    "vipPanel_cheaper_skips":"olcsóbb átugrásokat",
+    "vipPanel_cheaper_hints":"olcsóbb tippeket",
+    "vipPanel_try_for_free":"PRÓBÁLD KI INGYEN",
+    "vipPanel_3_days_free":"3 nap ingyenesen",
+    "vipPanel_price":"{0} hetente",
+    "vipPanel_disclaimer":"A heti prémium a 3 napos ingyenes próbaidőszak után heti {2} automatikusan megújul. A fizetés a vásárlás próbaidőszakának végén a {0}-fiókra lesz terhelve. Az előfizetés automatikusan megújul, hacsak az automatikus megújítás nem kerül kikapcsolásra legalább 24 órával az aktuális időszak vége előtt. Az előfizetés automatikus megújítását a vásárlás után a {1}-ben a fiók beállításai között kezelheted és kapcsolhatod ki.",
+    "vipPanel_privacy_policy":"ADATVÉDELMI IRÁNYELVEK",
+    "vipPanel_terms_of_use":"FELHASZNÁLÁSI FELTÉTELEK",
+    "bonusPanel_pick_bonus":"VÁLASSZ BÓNUSZJUTALMAT",
+    "bonusPanel_no_thanks":"NEM, KÖSZI",
+    "bonusPanel_collect":"BEGYŰJTÉS",
+    "noti_text1": "Gyere és tedd próbára tudásod vicces feladványokkal.",
+    "noti_text2": "Ezek a játék garantáltan mosolyt csalnak az arcodra :)",
+    "noti_text3": "Itt az ideje egy kis szórakozásnak :)",
+    "crosspromo_play":"JÁTÉK",
+    "crosspromo_title":"TOVÁBBI JÁTÉKAINK",
+    "free":"INGYENES",
+
+    "title_Tom":"Félix kalandja",
+    "info_Tom":"Félix csak egy lusta házimacska, akinek élete fenekestül felfordul, mikor találkozik Pedróval, az egérrel. Kettejük kalandja egészen Afrikáig vezet, ahol nem mással, mint magával az állatok királyával kell szembenézniük.",
+    "title_Virus":"Naughty Microbes",
+    "info_Virus":"There are so many microbes around us. We must be careful about them. Play this adventure to learn more.",
+    "title_Emily":"Emma tanyája",
+    "info_Emily":"Emma egy csodálatos tanyán él, mely tele van különféle állatokkal és növényekkel. Csatlakozz hozzá, és segíts neki gondoskodni a jószágokról és a birtokról.",
+    "title_Joe":"Szörnyvadász Joe",
+    "info_Joe":"Joe egy hivatásos szörnyvadász, kire nehéz nap virrad, miután a Sötét Nagyúr csatlósai ellepték a várost. Segíts neki a küzdelemben, és győzzétek le együtt a szörnyeket ebben az izgalmas kalandban.",
+    "title_Family":"Az Eszesi-család",
+    "info_Family":"Légy egy napra az Eszesi-család tagja, és segíts nekik megbirkózni a hétköznapok nyújtotta problémákkal.",
+    "title_Agent":"Smith ügynök",
+    "info_Agent":"Smith ügynök a világ legmenőbb titkosügynöke. Csatlakozz hősies kalandjához, és húzzátok keresztül együtt a rosszfiúk számításait!",
+    "title_Betty":"Balszerencsés Betti",
+    "info_Betty":"Betti egy felettébb szerencsétlen lány. Csak horgászni szeretne menni, de semmi sem alakul a tervei szerint. A te feladatod lesz vigyázni rá.",
+    "title_Prison":"Szökés a börtönből",
+    "info_Prison":"Arnold ártatlanként került börtönbe. Segíts neki és két társának a szökésben.",
+    "title_Fitness":"Fitnesz Lizivel",
+    "info_Fitness":"Legyél Lizi személyi edzője, és segíts neki az egészséges életmód kialakításában!",
+    "title_SmithJoe":"Smith és Joe - Első rész",
+    "info_SmithJoe":"Gaz M. Bernát új ördögi tervvel állt elő. Állítsd meg Smith ügynök és Szörnyvadász Joe segítségével.",
+    "title_SmithJoe2":"Smith és Joe - Második rész",
+    "info_SmithJoe2":"Smith felfedte, hogy Drakula és Gaz M. Bernát a Sötét Nagyúr megidézésén munkálkodik. Az ügynöknek Joe-val közösen kell megállítania őket.",
+    "title_CaptainMary":"Helen kapitány",
+    "info_CaptainMary":"Helen kapitány az egyik legjobb tengerész a  hét tengeren. Csatlakozz expedíciójához, melyben az Elátkozott Kalóz kincsét szeretné megkaparintani.",
+    "title_HighSchool":"Őrült középsuli",
+    "info_HighSchool":"Segíts Majának, Reginának és Martinnak megbirkózni a középsulis élet nehézségeivel.",
+    "title_Eddie":"Bernát bosszúja",
+    "info_Eddie":"Gaz M. Bernát revansot vesz a Brain Test hősein. Kiváltképp Smith ügynökön!",
+    
+    "choose_adventure":"VÁLASSZ TÖRTÉNETET",
+    "title_coming_soon":"Az új kalandokmár úton vannak!",
+    "start":"START",
+    "shoot":"TŰZ!",
+
+    "info_Joe_locked": "A feloldáshoz teljesítsd az összes kalandot, vagy vásárold meg a VIP-tagságot.",
+    "info_Agent_locked": "Complete Monster Hunter Joe or buy VIP to unlock.",
+    "info_Betty_locked": "Complete Agent Smith or buy VIP to unlock.",
+    "info_Prison_locked": "Complete Bad Luck Betty or buy VIP to unlock.",
+    "info_Fitness_locked": "Complete Prison Escape or buy VIP to unlock.",
+    "info_General_locked": "Complete {0} or buy VIP to unlock.",
+
+    "day3_gift_notif_title1":"Tom the Cat misses you. You haven't tested your brain recently.",
+    "day3_gift_notif_title2":"Rég találkoztunk, Smith ügynöknek szüksége van a segítségedre!",
+    "day3_gift_notif_title3":"Rég találkoztunk, Szörnyvadász Joe-nak szüksége van a segítségedre!",
+    "day3_gift_notif_title4":"Merre vagy? Lizinek edzőpartnerre van szüksége!",
+    "day3_gift_notif_title5":"Hiányzol Emmának. Egy ideje nem tornáztattad az agyadat.",
+    "day3_gift_notif_title6":"Hiányzol Bettinek. Egy ideje nem tornáztattad az agyadat.",
+    "day3_gift_notif_title7":"Rég találkoztunk, Arnoldnak szüksége van a segítségedre!",
+
+    "day3_gift_title1":"Félix, a macska különleges ajándékot küldött neked!",
+    "day3_gift_title2":"Smith ügynök különleges ajándékot küldött neked!",
+    "day3_gift_title3":"Szörnyvadász Joe különleges ajándékot küldött neked!",
+    "day3_gift_title4":"Lizi különleges ajándékot küldött neked!",
+
+    "daily_gift":"Napi ajándék",
+
+    "reward_wheel_1_day_vip":"1 napos VIP",
+    "reward_wheel_1_day_hint":"<line-height=50%><size=70>{0}%-OS</size>AKCIÓ",
+    "reward_wheel_1_day_hint2":"{0}%-OS AKCIÓ",
+    "reward_wheel_spin":"PÖRGETÉS!",
+    "reward_wheel_spin_again":"PÖRGETÉS MÉG EGYSZER!",
+    "reward_wheel_skip":"NEM, KÖSZI!",
+    "reward_wheel_title":"PÖRGESD MEG A KEREKET, HOGY JUTALMAT KAPJ!",
+
+    "submit":"KÉSZ",
+    "reset":"VISSZAÁLLÍTÁS",
+    "next_levels":"ÚJ SZINTEK",
+    "coming_soon":"HAMAROSAN!",
+
+    "go":"RAJTA!",
+
+    "battle":"HARC",
+    "fight":"HARC!",
+    "jump":"UGRÁS!",
+    "fire":"TŰZ!",
+
+    "vipPanel_unlockAll":"Oldd fel az összes történetet",
+
+    "feedback_controller_title":"Choose your favourite adventure!",
+    "feedback_controller_info":"Your feedback will help us in making new adventures.",
+
+    "settings_try_our_other_games":"PRÓBÁLD KI A TÖBBI JÁTÉKUNKAT IS!",
+    "other_games_title":"JÁTÉKAINK",
+    "other_games_play_now":"JÁTSSZ MOST!",
+    
+    
+    "question_Tom1":"Ő itt Félix. Próbálj megbarátkozni vele.",
+    "tip1_Tom1":"A macskák szeretik, ha simogatják őket.",
+    "tip2_Tom1":"Dörzsöld megfelelő ideig a képernyőt.",
+    "endText_Tom1":"'Ettől a sok simogatástól megéheztem.' - Félix",
+    
+    
+    "question_Tom2":"Félix éppen valami harapnivaló után kutakodik.",
+    "tip1_Tom2":"Húzd az ételt a szájához.",
+    "tip2_Tom2":"A csirke az almák alá van rejtve.",
+    "endText_Tom2":"'Oda kell figyelnem a fehérjebevitelemre.' - Félix",
+    
+    
+    "question_Tom3":"Nem igazság! Félixnek is jár hal!",
+    "tip1_Tom3":"Próbáld meg elterelni a férfi figyelmét a tévével.",
+    "tip2_Tom3":"Félix szájához kell húznod a halat.",
+    "endText_Tom3":"'A macskakaja kutyáknak való!' - Félix",
+    
+    
+    "question_Tom4":"Félix egy hatalmas gombolyagot akar.",
+    "tip1_Tom4":"Egyesítheted a kis gombolyagokat.",
+    "tip2_Tom4":"Húzd össze az összes gombolyagot, hogy megkapd a megfelelő méretűt.",
+    "endText_Tom4":"'A kapzsiság jó dolog.' - Félix",
+    
+    
+    "question_Tom5":"Félix gazdája dühös, mert ez az egér szabadon jár-kel a lakásban.",
+    "tip1_Tom5":"Egy kipukkasztott lufi talán felébresztheti a macskát.",
+    "tip2_Tom5":"A férfi fel tudja fújni a lufit.",
+    "endText_Tom5":"'Mégis meddig tűröd, hogy ez az ember dirigáljon, Félix? A halat is sajnálja tőled!' - Pedró",
+    
+    
+    "question_Tom6":"Adj egy kis sajtot az éhes egérnek.",
+    "tip1_Tom6":"Fordítsd a tálat fejjel lefelé.",
+    "tip2_Tom6":"Rázd meg a tálat, hogy kihulljon belőle a sajt.",
+    "endText_Tom6":"'Most már barátok vagyunk!' - Pedró",
+    
+    
+    "question_Tom7":"Valahogy ki kell jutniuk a házból...",
+    "tip1_Tom7":"Az ajtó kulccsal nyílik. A kulcs a férfi zsebében van.",
+    "tip2_Tom7":"Próbáld meg rávenni a férfit, hogy lecserélje a nadrágját. Miközben áll, önts vizet a kanapéra.",
+    "endText_Tom7":"'Hmm... A szabadság még a halnál is kellemesebb!' - Félix",
+    
+    
+    "question_Tom8":"Át kell jutniuk ezen a veszélyes kutyákkal teli sikátoron.",
+    "tip1_Tom8":"Rázd meg a készüléked, hogy a kukáról leessen az alvó kutya.",
+    "tip2_Tom8":"Rakj középre egy csontot, hogy a kutyák összeverekedjenek.",
+    "endText_Tom8":"'Ilyen ütemben a sikátorok Macskeresztapája leszel!' - Pedró",
+    
+    
+    "question_Tom9":"Félix elfáradt, de nem időzhetnek sokáig, folytatniuk kell útjukat.",
+    "tip1_Tom9":"Egy erős illat talán felébresztheti.",
+    "tip2_Tom9":"Próbáld meg a hús illatát a macskához húzni.",
+    "endText_Tom9":"'Egy halakkal és sült csirkékkel teli világról álmodtam...' - Félix",
+    
+    
+    "question_Tom10":"Félix első látásra szerelembe esett. Segíts neki elhódítani szíve választottját.",
+    "tip1_Tom10":"A kutya elkergetheti a többi macskát.",
+    "tip2_Tom10":"A macskalány szereti a csokoládét. Egy egér elrághatná a pad rossz lábát.",
+    "endText_Tom10":"'Elfogadom az ajánlatodat, ha legyőzöd az állatok királyát!' - Alíz",
+    
+    
+    "question_Tom11":"Álruhára van szükségük, hogy feljussanak a repülőgépre.",
+    "tip1_Tom11":"Félixnek megteszi egy kalap és egy kabát.",
+    "tip2_Tom11":"Tedd csúszóssá a padlót, hogy megállítsd a biztonsági őrt.",
+    "endText_Tom11":"'Remélem, nem botlunk bele rendőrkutyákba.' - Pedró",
+    
+    
+    "question_Tom12":"A gépnek veszélyes légörvényen kell áthaladnia!",
+    "tip1_Tom12":"A repülőgép nem érhet a tengerhez, és nem lehet túlságosan magasan sem.",
+    "tip2_Tom12":"Próbáld meg úgy forgatni a készüléked, hogy a gép középen maradjon.",
+    "endText_Tom12":"'Huhh... Félek, hogy nemsokára viszontlátom azt a lazacot!' - Félix",
+    
+    
+    "question_Tom13":"Tedd kényelmesebbé számukra az utazást.",
+    "tip1_Tom13":"Valami lehet a bőrönd mögött.",
+    "tip2_Tom13":"Egy pár büdös zokni talán felébresztené a férfit.",
+    "endText_Tom13":"'Kár volt a fapados osztályra jegyet venni!' - Pedró",
+    
+    
+    "question_Tom14":"Rossz járatra szálltak fel! Le kell ugraniuk, miközben Afrika felett haladnak.",
+    "tip1_Tom14":"A felhők segíthetnek.",
+    "tip2_Tom14":"Rendezz 4 felhőt egy függőleges vonalba, majd koppints Félixre az ugráshoz.",
+    "endText_Tom14":"'Fenébe! Lemaradtunk a kajafelszolgálásról!' - Félix",
+    
+    
+    "question_Tom15":"Egy majom elkapta Pedrót! Utána!",
+    "tip1_Tom15":"Az átjutáshoz használd a békát.",
+    "tip2_Tom15":"Keress további tavirózsákat, hogy utat alakíts ki a békának. A lyukban lehet valami, ami felkelti az érdeklődését.",
+    "endText_Tom15":"'Hé! Jegyet váltani ki fog?!' - Béka",
+    
+    
+    "question_Tom16":"Félixnek nyakon kell csípnie ezt a pimasz majmot.",
+    "tip1_Tom16":"Használd a kókuszdiót, hogy kiüsd a majmot.",
+    "tip2_Tom16":"Figyeld meg a menekülésének irányát, majd álld el az útját.",
+    "endText_Tom16":"'Majdnem belepusztultam ebbe a hajszába! Egy évre kimozogtam most magam...' - Félix",
+    
+    
+    "question_Tom17":"Hogyan lesznek képesek átjutni ezen a forró sivatagon?",
+    "tip1_Tom17":"Egy felhő el tudná takarni a Napot.",
+    "tip2_Tom17":"A keselyű tollát felgyújthatja a Nap melege.",
+    "endText_Tom17":"'Tüzet tűzzel!' - Pedró",
+    
+    
+    "question_Tom18":"Korog a gyomruk az éhségtől, miközben az a kölyök egy szaftos húst falatozik!",
+    "tip1_Tom18":"A vakond csak nyitott lyukon tud kibújni.",
+    "tip2_Tom18":"A kölyök alatt is lehet egy lyuk.",
+    "endText_Tom18":"'Nagy bajban vagytok! Ez az Oroszlánkirály kölyke volt!' - Vakond",
+    
+    
+    "question_Tom19":"Az oroszlánok dühösek a kölyökkel történtek miatt. Félixéknek el kell bújniuk!",
+    "tip1_Tom19":"Érd el, hogy lehulljanak a fa levelei és rejtekhelyet képezzenek.",
+    "tip2_Tom19":"Figyeld meg, merre néznek az oroszlánok.",
+    "endText_Tom19":"'Csak most ne kelljen tüsszentenem!' - Pedró",
+    
+    
+    "question_Tom20":"Az oroszlánok a nyomukban vannak, át kell jutniuk!",
+    "tip1_Tom20":"A zsiráf nyaka nagyszerű híd lehet.",
+    "tip2_Tom20":"Próbáld meg a fával kilőni a vízilovat.",
+    "endText_Tom20":"'Remélem, a biztosítása fedezi a repülő vízilovak okozta sérüléseket.' - Pedró",
+    
+    
+    "question_Tom21":"A farkasok is a királynak dolgoznak!",
+    "tip1_Tom21":"Dobj valamit az elefánt fejére, hogy felkeltsd.",
+    "tip2_Tom21":"Az elefántok félnek az egerektől.",
+    "endText_Tom21":"'Ha ez így megy tovább, az összes afrikai állat gyűlölni fog minket!' - Félix",
+    
+    
+    "question_Tom22":"Segíts nekik megmenekülni!",
+    "tip1_Tom22":"Az a híd gyengének tűnik.",
+    "tip2_Tom22":"Rázd meg a készüléked, miközben az oroszlán a hídon van.",
+    "endText_Tom22":"'A legjobbkor jött ez a földrengés!' - Pedró",
+    
+    
+    "question_Tom23":"Szövetségest kell találniuk.",
+    "tip1_Tom23":"Gyanús, hogy a bölény alszik valamin.",
+    "tip2_Tom23":"A szamarak nagyon hangosak.",
+    "endText_Tom23":"'Ti most megpróbáltok lekenyerezni?!' - Gorilla",
+    
+    
+    "question_Tom24":"Vigyázz! A kígyók megérzik a <color=white>félelem</color> szagát!",
+    "tip1_Tom24":"A félelem elégetése segíthetne.",
+    "tip2_Tom24":"Próbálj meg felhasználni valamit a kérdésből.",
+    "endText_Tom24":"'Még jó, hogy napok óta nem fürödtünk, így a bűzünk biztosan elfedte a félelem szagát.' - Pedró",
+    
+    
+    "question_Tom25":"A banán bevált! A gorilla úgy döntött, hogy Félixék oldalán fog harcolni.",
+    "tip1_Tom25":"Nagyobb izmokra van szüksége.",
+    "tip2_Tom25":"Keress valamit, amivel megvédheted a fejét.",
+    "endText_Tom25":"'Semmi szteroid, kizárólag banán.' - Gorilla ",
+    
+    
+    "question_Tom26":"Már csak a Király van talpon! Harcra fel!",
+    "tip1_Tom26":"A gomba fel tudja repíteni a gorillát.",
+    "tip2_Tom26":"A vaddisznó érzékeny az almára. A barlangban lévő kígyók megzavarására használj botot.",
+    "endText_Tom26":"Ez volt a király uralkodásának legrosszabb napja... Győzelmük után Félix és Pedró előtt az összes állat fejet hajtott.'Jó, de hogyan jutunk haza?' - Félix'Felejtsd el, cimbora! Itt királyokként élhetünk!' - Pedró",
+
+
+    "question_Emily14":"Légy üdvözölve Emma tanyáján! Keltsd fel, hogy megkezdődhessen a mai nap.",
+    "tip1_Emily14":"A kakas a napkeltét várja.",
+    "tip2_Emily14":"Csukott ablaknál nem hallja a kukorékolást.",
+    "endText_Emily14":"Elkéne erre a kakasra egy szundi üzemmód.",
+    
+    
+    "question_Emily1":"Az állatok éhesek.",
+    "tip1_Emily1":"A csirkék eledele a kukorica, a kutyáé a csont.",
+    "tip2_Emily1":"Vizsgáld meg alaposan a hajtűjét.",
+    "endText_Emily1":"Most kereshet magának egy új hajtűt...",
+    
+    
+    "question_Emily2":"Találd meg az összes csirkét.",
+    "tip1_Emily2":"Lehet, hogy egymás mögé bújtak.",
+    "tip2_Emily2":"Összesen 6-ot kell keresned.",
+    "endText_Emily2":"Szóval így bújócskáznak a csirkék?",
+    
+    
+    "question_Emily3":"Elég hűvös a mai reggel. Ne hagyd, hogy Emma megfázzon.",
+    "tip1_Emily3":"A gyapjú melegít.",
+    "tip2_Emily3":"Keresd meg az ollót, és nyírd meg a bárányt.",
+    "endText_Emily3":"Köszönjük, kedves bárány!",
+    
+    
+    "question_Emily4":"Nem jut elég széna az összes tehénnek!",
+    "tip1_Emily4":"Nagyobb bálára lenne szükség.",
+    "tip2_Emily4":"Próbáld meg felnagyítani a szénabálát.",
+    "endText_Emily4":"Ez bizonyára egy varázslatos szénabála!",
+    
+    
+    "question_Emily5":"Segíts felnevelni Emma virágait.",
+    "tip1_Emily5":"A virágoknak vízre és napsütésre van szükségük.",
+    "tip2_Emily5":"Bökd meg a tehenet, hogy felébreszd.",
+    "endText_Emily5":"Az a tehén készül valamire!",
+    
+    
+    "question_Emily6":"Ebédre készítsünk hamburgert.",
+    "tip1_Emily6":"Gyűjtsd össze a bucival a hozzávalókat.",
+    "tip2_Emily6":"Ne hagyj ki egy hozzávalót se.",
+    "endText_Emily6":"Jó étvágyat ehhez a finom hamburgerhez, Emma!",
+    
+    
+    "question_Emily7":"Emma azt szeretné, hogy kinyíljanak a virágok.",
+    "tip1_Emily7":"A méhek a pollent virágról virágra szállítják.",
+    "tip2_Emily7":"Csalogass elő egy méhet a mézcsepp segítségével.",
+    "endText_Emily7":"Még véletlenül se várjatok egy nevetséges szerelmi történetet közte és a méhecske között! Ez nem a Mézengúz!",
+    
+    
+    "question_Emily8":"Mit mondtam az előbb?! Gyorsan, állítsd meg őket!",
+    "tip1_Emily8":"Keresd meg az elrejtett fűrészt, és vess véget az ebédnek.",
+    "tip2_Emily8":"Fűrészeld el az asztal lábát.",
+    "endText_Emily8":"Menj vissza a kaptárba, te szemtelen méhecske!",
+    
+    
+    "question_Emily9":"Mindegyiknek az anyukája mellett a helye.",
+    "tip1_Emily9":"Légy óvatos, a karok össze vannak keveredve.",
+    "tip2_Emily9":"A lónak nincs kicsinye. A birkának 2, a tehénnek 1 van.",
+    "endText_Emily9":"Ha már itt tartunk, hol lehet a kiscsikó?",
+    
+    
+    "question_Emily10":"Emmának segítségre van szüksége az almaszedésben.",
+    "tip1_Emily10":"Próbálj meg erőteljes ütést mérni a fára.",
+    "tip2_Emily10":"Csald a bikát a fához a tehénnel. ",
+    "endText_Emily10":"A szerelem vak...",
+    
+    
+    "question_Emily11":"Szükségünk van egy kis friss tejre.",
+    "tip1_Emily11":"A tehénnek először meg kell nyugodnia.",
+    "tip2_Emily11":"Simogasd meg a tehenet, hogy megnyugtasd.",
+    "endText_Emily11":"Kösz, tehén, hogy nem rúgtad arcon Emmát.",
+    
+    
+    "question_Emily12":"Keresd meg a ritka piros mókust, amelyről Emma már olyan sokszor hallott!",
+    "tip1_Emily12":"A mókusok figyelmét felkelti a makk.",
+    "tip2_Emily12":"Mozgasd a fákat, hogy megtaláld a rejtett lyukakat.",
+    "endText_Emily12":"Új kedvenc a láthatáron.",
+    
+    
+    "question_Emily13":"Készítsünk limonádét!",
+    "tip1_Emily13":"Rázd meg a készüléked, hogy a citromok lehulljanak a fáról.",
+    "tip2_Emily13":"Ne felejtsd el kinyitni a csapot, és megtölteni a vödröt vízzel.",
+    "endText_Emily13":"Ki kér egy kis bio limonádét? ",
+    
+    
+    "question_Emily15":"Emmának földet kéne művelnie, de a traktorja felmondta a szolgálatot.",
+    "tip1_Emily15":"Mozgasd a megművelendő területet, ha a traktort nem sikerül.",
+    "tip2_Emily15":"A karók erősen tartják a földet.",
+    "endText_Emily15":"Feltaláltad a hordozható gazdálkodást!",
+    
+    
+    "question_Emily16":"Lovaglásra fel!",
+    "tip1_Emily16":"A ló teli hassal kezelhetőbb lesz.",
+    "tip2_Emily16":"Emma kesztyűjét a nyereghez kell rögzíteni.",
+    "endText_Emily16":"JÍHÁ!",
+    
+    
+    "question_Emily17":"Ideje betakarítani a répát.",
+    "tip1_Emily17":"Védd meg a répákat a nyúltól.",
+    "tip2_Emily17":"Vidd a nyúl üregét olyan helyre, ahol annak bejárata el lesz torlaszolva.",
+    "endText_Emily17":"Mintha valaki azt mondta volna, hogy 'Mi a hézag, hapsikám?'?!",
+    
+    
+    "question_Emily18":"A bárány kíváncsi a tanyán túli világra.",
+    "tip1_Emily18":"Azok a magok nagyon gyorsan kikelnek.",
+    "tip2_Emily18":"Érd el, hogy a növény kinőjön a bárány alatt.",
+    "endText_Emily18":"Mától a neved legyen: 'Fürkész'.",
+    
+    
+    "question_Emily19":"Emma boldog, hogy havat láthat, viszont sehol nem találja a csirkéit.",
+    "tip1_Emily19":"Takarítsd el a havat a lapáttal.",
+    "tip2_Emily19":"Két csirke nem a hó alatt van.",
+    "endText_Emily19":"Vissza a pajtába, mielőtt tojások helyett jégen fogtok kotlani!",
+    
+    
+    "question_Emily20":"Egy hosszú, dolgos nap után Emma már csak a jól megérdemelt tévézésre vágyik.",
+    "tip1_Emily20":"Próbálj meg súrlódással elektromosságot létrehozni.",
+    "tip2_Emily20":"Használd a fésűt a haján, hogy statikus elektromosságot kapj.",
+    "endText_Emily20":"Ints búcsút a magas villanyszámláknak!",
+    
+    
+    "question_Emily21":"Ünnepeljük meg Emma születésnapját egy almatortával!",
+    "tip1_Emily21":"Szükségünk lesz tojásra, tejre, lisztre és almára.",
+    "tip2_Emily21":"Rázd meg a készüléked, hogy az almák lepotyogjanak a fáról.",
+    "endText_Emily21":"Boldog születésnapot, Emma! Rászolgáltál erre a partira, miután ilyen keményen dolgoztál.",
+    
+
+    "question_Joe1":"A várost ellepték a szörnyek! Joe-nak fel kell ébrednie!",
+    "tip1_Joe1":"Húzd szét a függönyt, hogy beszűrődjön a napfény.",
+    "tip2_Joe1":"Öltöztesd fel egy bizonyos sorrendben.",
+    "endText_Joe1":"'Lefogadom, hogy Van Helsing sem szokott ilyen korán felkelni!' - Joe",
+    
+    
+    "question_Joe2":"Az egyikük egy álruhába bújt vámpír. Találd meg valahogy!",
+    "tip1_Joe2":"A vámpírok nem tudnak ellenállni a vérnek.",
+    "tip2_Joe2":"Szúrd meg Joe egyik kezét a szöges deszkával.",
+    "endText_Joe2":"'Aú! Ez fájt!' - Joe",
+    
+    
+    "question_Joe3":"Hol lehet a vámpír?",
+    "tip1_Joe3":"Kövesd a nyomokat.",
+    "tip2_Joe3":"Húzd a képernyőt a nyomok irányába.",
+    "endText_Joe3":"'Elfuthatsz, de el nem menekülhetsz!' - Joe",
+    
+    
+    "question_Joe4":"Csudába! A vámpír ismét elbújt.",
+    "tip1_Joe4":"Próbáld máshova terelni az embereket.",
+    "tip2_Joe4":"A vámpírokon kívül mindenki szereti az ingyen hot dogot.",
+    "endText_Joe4":"'Ne aggódjon, uram, a Szörnyügyi Hivatal megtéríti a hot dogjait.' - Joe",
+    "custom1_Joe4":"HOTDOG",
+    
+    
+    "question_Joe5":"Vadászd le a vámpírt!",
+    "tip1_Joe5":"A fal túl erős egy nyílvesszőnek.",
+    "tip2_Joe5":"A hordó felrobban, ha meglövik.",
+    "endText_Joe5":"'Úgy szeretem a sült vámpír illatát.' - Joe",
+    
+    
+    "question_Joe6":"Zombitámadás!",
+    "tip1_Joe6":"Koppints a tűz gombra, amikor a nyíl a zöld sávban van.",
+    "tip2_Joe6":"Koppints, mielőtt a zöld sávba érne a nyíl.",
+    "endText_Joe6":"'Jobban bírom a vámpírokat, nekik legalább van egy kis stílusuk!' - Joe",
+    
+    
+    "question_Joe7":"A zombik túl sokan vannak! Mentsd meg Joe-t!",
+    "tip1_Joe7":"Mozgasd Joe-t, hogy a zombikat a csatornanyílás felé tereld.",
+    "tip2_Joe7":"Nyisd ki a csatornafedelet, hogy a zombik lezuhanjanak.",
+    "endText_Joe7":"'A csatornapatkányok nagy lakomát fognak csapni!' - Joe",
+    
+    
+    "question_Joe8":"Utolsó nyílvessző... Próbáld meg kiiktatni őket egy lövéssel.",
+    "tip1_Joe8":"A tüzeléshez koppints a nyílpuskára.",
+    "tip2_Joe8":"Húzd középre az összes zombifejet.",
+    "endText_Joe8":"'Egy lövés, négy találat.' - Joe",
+    
+    
+    "question_Joe9":"Joe kifogyott a lőszerből. Haza kell vezetnie utánpótlásért.",
+    "tip1_Joe9":"Számos zombit kell elütnöd úgy, hogy közben kikerülöd az embereket.",
+    "tip2_Joe9":"Húzd oldalra az autót a sávváltáshoz.",
+    "endText_Joe9":"'A forgalomban nincs különbség zombi és ember között!' - Joe",
+    
+    
+    "question_Joe10":"Nagykoponya professzor megtalálta az ellenszert! Állítsd meg vele a hordát.",
+    "tip1_Joe10":"Nem fújhatod rájuk közvetlenül.",
+    "tip2_Joe10":"Fújd le a felhőt, majd érd el, hogy eleredjen az eső.",
+    "endText_Joe10":"'Aggodalomra semmi ok, nem tartalmaz mesterséges adalékot!' - Joe",
+    
+    
+    "question_Joe11":"Egy óriási pók! Mi jöhet még?!",
+    "tip1_Joe11":"Hogyan bánnak el a háziasszonyok a csúnya bogarakkal?",
+    "tip2_Joe11":"Növeld meg a papucs méretét, majd csapd le vele a pókot.",
+    "endText_Joe11":"'Anyukám büszke lenne rám.' - Joe",
+    
+    
+    "question_Joe12":"Joe-nak fel kell jutnia, hogy megmenthesse a nőt.",
+    "tip1_Joe12":"Nézd meg az autót.",
+    "tip2_Joe12":"Használd katapultként az autó csomagtartóját.",
+    "endText_Joe12":"'Ezt legközelebb egy Halálos iramban-filmben fogjuk látni...' - Joe",
+    
+    
+    "question_Joe13":"Mentsd meg a nőt!",
+    "tip1_Joe13":"Próbáld széthúzni őket.",
+    "tip2_Joe13":"Egyik ujjaddal húzd a nő karját, a másikkal a vérfarkas farkát.",
+    "endText_Joe13":"'Ketten maradtunk, farkasfej!' - Joe",
+    
+    
+    "question_Joe14":"Győzd le a vérfarkast.",
+    "tip1_Joe14":"Cselekedj gyorsan, mielőtt megtámad.",
+    "tip2_Joe14":"A szíveket lődd.",
+    "endText_Joe14":"'Hová ment ez a nő? Még csak meg sem csókolt!' - Joe",
+    
+    
+    "question_Joe15":"Egy múmia támadt Joe-ra!",
+    "tip1_Joe15":"Valakinek WC-papírra van szüksége.",
+    "tip2_Joe15":"Lődd le a múmiát, miután eltűnt róla a papír.",
+    "endText_Joe15":"'Mégis ki használ ennyi WC-papírt?!' - Joe",
+    
+    
+    "question_Joe16":"Lődd le a szörnyeket.",
+    "tip1_Joe16":"Ne találd el a macskákat.",
+    "tip2_Joe16":"Azt a dobozt 3 lövéssel tudod megsemmisíteni.",
+    "endText_Joe16":"'Chh... Gyáva!' - Joe",
+    
+    
+    "question_Joe17":"Micsoda nap! Joe-nak most egy trollal kell farkasszemet néznie.",
+    "tip1_Joe17":"A zongora megsebesíthetné a trollt.",
+    "tip2_Joe17":"Rázd meg a készüléked, hogy leessen a zongora.",
+    "endText_Joe17":"'Ezért szeretem a zongorákat.' - Joe",
+    
+    
+    "question_Joe18":"Még több ellenség közeledik!",
+    "tip1_Joe18":"Lődd le a vérfarkasokat, amint célkeresztbe kerülnek.",
+    "tip2_Joe18":"A ketrecben van egy kutya, amely képes legyőzni a csontvázat.",
+    "endText_Joe18":"'Ezekkel a csontokkal egy évig elleszel, barátom.' - Joe",
+    
+    
+    "question_Joe19":"Most egy csontvázhorda támad Joe-ra!",
+    "tip1_Joe19":"Az autó meg tudná állítani őket.",
+    "tip2_Joe19":"Fordítsd el a készüléked, hogy elinduljon az autó.",
+    "endText_Joe19":"'Hála a jó égnek, nem volt behúzva a kézifék!' - Joe",
+    
+    
+    "question_Joe20":"Joe elfogott egy szörnyet. Meg kell tudnia, ki a vezetőjük.",
+    "tip1_Joe20":"Egy árnyéktrükkel szóra bírhatod.",
+    "tip2_Joe20":"Gyújtsd meg a farakást, majd vess Joe-ról egy nagy árnyékot a falra.",
+    "endText_Joe20":"'Rendben, beszélek! A vezetőnk az Elm utcában tartózkodik!' - Szörny",
+    
+    
+    "question_Joe21":"Joe-nak le kell győznie a Sötét Nagyurat, hogy véget vessen a szörnyek inváziójának.",
+    "tip1_Joe21":"A kutya elbánik a csontvázakkal, a víztócsa pedig a múmiákkal.",
+    "tip2_Joe21":"Próbáld meg a tűzgolyót a szellőzőnyílásokkal visszairányítani a Sötét Nagyúrra.",
+    "endText_Joe21":"'Végre! Most már hazamehetek, vár rám a pihenés és a jó öreg Brain Test!' - Joe",
+    
+
+    "question_Family1":"Üdvözöllek az Eszesi-család házában! Párosítsd össze a neveket a család tagjaival, hogy megismerd őket.",
+    "tip1_Family1":"Húzd a neveket a megfelelő személyhez.",
+    "tip2_Family1":"Az apa neve István, az anyát Csillának hívják.",
+    "endText_Family1":"Örvendek a találkozásnak.",
+    "custom5_Family1":"Csilla",
+    "custom4_Family1":"István",
+    "custom2_Family1":"Bence",
+    "custom3_Family1":"Zsófi",
+    "custom1_Family1":"Dóri",
+    
+    
+    "question_Family2":"Istvánnak munkába kell mennie.",
+    "tip1_Family2":"A nyakkendője és a nadrágja nincs megfelelő állapotban.",
+    "tip2_Family2":"Húzd meg a nyakkendőt, és tedd a nadrágot a vasalódeszkára, hogy kivasalhasd.",
+    "endText_Family2":"Mikor megy már ki végre a nyakkendő a divatból?!",
+    
+    
+    "question_Family3":"Vigyázz, egyes játékok fulladásveszélyt okozhatnak!",
+    "tip1_Family3":"Tedd a kockákat a dobozba.",
+    "tip2_Family3":"Az egyik kocka a maci mögött rejtőzik.",
+    "endText_Family3":"Ha azt hiszed, hogy ez rossz, várd meg, amíg el nem kezd járni!",
+    
+    
+    "question_Family4":"Ideje reggelizni!",
+    "tip1_Family4":"Bence gabonapelyhet szeretne, Zsófi pedig tükörtojást.",
+    "tip2_Family4":"Nyisd ki a hűtőt, hogy tejet szerezz a gabonapehelyhez, add a cumisüveget Dórinak és üsd a tojást a serpenyőbe.",
+    "endText_Family4":"Az anyák mesterien tudnak egyszerre több dologra figyelni.",
+    
+    
+    "question_Family5":"Dóri elszenderedett, segíts neki elaludni.",
+    "tip1_Family5":"Hintáztasd a széket az ujjaddal.",
+    "tip2_Family5":"Tedd félre a széket akadályozó kockát.",
+    "endText_Family5":"Shhhhh...",
+    
+    
+    "question_Family6":"Segíts Zsófinak tornázni az édesanyjával.",
+    "tip1_Family6":"Koppints a megfelelő karra, hogy leutánozd Csilla mozdulatait.",
+    "tip2_Family6":"Pukkaszd ki a lufit a fésűvel.",
+    "endText_Family6":"Ki ébresztette fel Dórit?! BENCEEE!",
+    
+    
+    "question_Family7":"Segíts Zsófinak legyőzni Bencét.",
+    "tip1_Family7":"Húzd ki a lila építőkockát, hogy megnyerd a játékot.",
+    "tip2_Family7":"Tartsd meg a piros kockát, miközben kihúzod a lilát.",
+    "endText_Family7":"Olyan jó látni egymással békésen játszó testvéreket!",
+    
+    
+    "question_Family8":"Bence bosszúból tönkretette Zsófi babáit!",
+    "tip1_Family8":"Párosítsd a fejeket a testekhez a színeknek megfelelően.",
+    "tip2_Family8":"Az egyik fej a dobozban van. Fordítsd meg, hogy kiessen belőle.",
+    "endText_Family8":"Ennyit arról, hogy a testvérek 'békésen' játszanak...",
+    
+    
+    "question_Family9":"Valaki elrontotta a sorrendet a családi albumban!",
+    "tip1_Family9":"Kezdd István diplomaosztójával, majd tedd időrendi sorrendbe a többi képet.",
+    "tip2_Family9":"Figyelj a gyerekek számára, hogy megkapd a helyes sorrendet.",
+    "endText_Family9":"Jobb lenne lakatot tenni az albumra, hogy megóvjuk Bence csínytevéseitől.",
+    
+    
+    "question_Family10":"Bence ma túl sokat játszott. Be kell fejeznie.",
+    "tip1_Family10":"Keresd meg a routert, és kapcsold ki az internetet.",
+    "tip2_Family10":"Emeld fel a kanapét, hogy megtaláld a routert.",
+    "endText_Family10":"Bence e-sport-karrierjének lőttek...",
+    
+    
+    "question_Family11":"Zsófinak 8 érmére van szüksége, hogy új babát tudjon venni magának.",
+    "tip1_Family11":"Törd össze a kalapáccsal a malacperselyt.",
+    "tip2_Family11":"Keress a mágnessel érméket a homokozóban.",
+    "endText_Family11":"Ki korán kel, aranyat lel.",
+    
+    
+    "question_Family12":"A fürdővíz túl meleg. Találj ki valamit!",
+    "tip1_Family12":"Tedd a zuhanyrózsát a fürdőkádba.",
+    "tip2_Family12":"Nyisd meg a hideg vizet a jobb oldali csappal.",
+    "endText_Family12":"Az emberiség egyik legnagyobb problémája: eltalálni a fürdővíz hőmérsékletét.",
+    
+    
+    "question_Family13":"Mennyi kosz! Takarítsunk fel!",
+    "tip1_Family13":"Takarítsd fel a port a porszívóval.",
+    "tip2_Family13":"Ürítsd a porszívó tartalmát a szemetesbe. Van egy kis por a kanapé alatt is.",
+    "endText_Family13":"Otthon, tiszta otthon!",
+    
+    
+    "question_Family14":"István hazatért a munkából. Családi ölelés!",
+    "tip1_Family14":"Tárd szét a karjait.",
+    "tip2_Family14":"Húzd oldalra a kezeit, hogy megnyúljanak a karjai.",
+    "endText_Family14":"Ööö... István, minden rendben van a karoddal?",
+    
+    
+    "question_Family15":"Csillának hosszú napja volt, megérdemel egy kis pihenést.",
+    "tip1_Family15":"Állítsd meg Dórit Istvánnal.",
+    "tip2_Family15":"Tedd fel a fejhallgatót Csilla fejére.",
+    "endText_Family15":"Kellemes időtöltést, Csilla!",
+    
+    
+    "question_Family16":"Bowlingozni szeretnének, de nincs hozzá golyó.",
+    "tip1_Family16":"Rakd össze a zoknikat, hogy egy golyót kapj belőlük.",
+    "tip2_Family16":"Add Bencének a zoknigolyót.",
+    "endText_Family16":"Ez egy elég büdös bowlinggolyó.",
+    
+    
+    "question_Family17":"Segíts Zsófinak megnyerni a bújócskát.",
+    "tip1_Family17":"Nézz körül a jobb oldalon, hogy lásd a szoba többi részét.",
+    "tip2_Family17":"István a padláson rejtőzik, rázd meg a készüléked, hogy lenyíljon az ajtó. Bence a medvében lehet.",
+    "endText_Family17":"Hogy kerültél oda, István?!",
+    
+    
+    "question_Family18":"Hogyan érhetnénk el, hogy abbahagyja a sírást?",
+    "tip1_Family18":"Bohócorrok segíthetnének.",
+    "tip2_Family18":"Tedd a labdákat az orrukra, majd koppints rájuk egyszerre.",
+    "endText_Family18":"Dóri a király, ti pedig az udvari bolondjai vagytok.",
+    
+    
+    "question_Family19":"Itt az ideje készíteni egy családi fotót!",
+    "tip1_Family19":"Fésüld meg a gyerekek haját, állítsd be a fényt és etesd meg Dórit.",
+    "tip2_Family19":"Miután minden kész, koppints a fényképezőgép gombjára.",
+    "endText_Family19":"Ajjaj... Elfelejtették mondani, hogy 'cheese'.",
+    
+    
+    "question_Family20":"Villanyoltás! Mindenkinek a szobájában a helye.",
+    "tip1_Family20":"Ellenőrizd a doboz belsejét, majd használd a tárgyakat, hogy a megfelelő helyiségekbe csalogasd a család tagjait.",
+    "tip2_Family20":"Istváné a táska, Csilláé a fejhallgató, Bencéé az autó, Zsófié pedig a baba. Figyelj az ajtókon lévő szimbólumokra!",
+    "endText_Family20":"Szép álmokat, Eszesiék! Hosszú és tartalmas nap van mögöttetek. Egyszer a jövőben még találkozunk!",
+    
+
+    "question_Agent1":"Hol van Smith ügynök?",
+    "tip1_Agent1":"Smith mindig menő napszemüveget visel.",
+    "tip2_Agent1":"Színezd be a szemüveget a filctollal, hogy napszemüveg legyen belőle.",
+    "endText_Agent1":"Smith ügynök megérkezett! Öveket becsatolni, ez rázós menet lesz!",
+    
+    
+    "question_Agent2":"Az ügynök csomagot kapott, ez felettébb gyanús.",
+    "tip1_Agent2":"Nyisd ki a csomagot.",
+    "tip2_Agent2":"Egy széfbe helyezett bomba ártalmatlan.",
+    "endText_Agent2":"Újabb sikertelen merénylet Smith ellen. A rosszfiúk ki nem állhatják.",
+    
+    
+    "question_Agent3":"Kell, hogy legyen valami nyom a csomag maradványai között.",
+    "tip1_Agent3":"Ha egymás mellé teszed a darabokat, egy számot kapsz.",
+    "tip2_Agent3":"A számsor első eleme 1, az utolsó 2.",
+    "endText_Agent3":"Az ügynök ezen a nyomon elindulhat a tettes után.",
+    
+    
+    "question_Agent4":"Az 1792-es házat kell megtalálnia.",
+    "tip1_Agent4":"Koppints az autóra, hogy megállítsd a megfelelő ház előtt.",
+    "tip2_Agent4":"Használd egy másik ház számát, hogy megkapd az 1792-est.",
+    "endText_Agent4":"Rosszfiúk fedezékbe, Smith megérkezett.",
+    
+    
+    "question_Agent5":"A ház elhagyatott. Nyomkeresésre fel!",
+    "tip1_Agent5":"Három nyomot kell összegyűjteni.",
+    "tip2_Agent5":"Egy fegyvert, egy igazolványt és egy telefont kell keresned.",
+    "endText_Agent5":"Smith elől egyetlen gazember sem bújhat el.",
+    
+    
+    "question_Agent6":"Ez csapda! Újabb bomba!",
+    "tip1_Agent6":"A bomba alatt van egy cetli.",
+    "tip2_Agent6":"Vágd el színük szerint a kábeleket, a felírt időnek megfelelően.",
+    "endText_Agent6":"Valaki nagyon fel akarja robbantani Smith ügynököt.",
+    
+    
+    "question_Agent7":"Ideje megvizsgálni a begyűjtött nyomokat.",
+    "tip1_Agent7":"Használd a púdert, hogy lásd az ujjlenyomatokat.",
+    "tip2_Agent7":"Púderezd be az ecsetet, majd használd a tárgyakon.",
+    "endText_Agent7":"Ügynökünknek nincs szüksége helyszínelőkre, egyedül is képes minden feladatot elvégezni.",
+    
+    
+    "question_Agent8":"Minden nyom egy kopasz, a szemén heget viselő férfira mutat.",
+    "tip1_Agent8":"Használd a ventilátort, hogy ellenőrizd, van-e valakin paróka.",
+    "tip2_Agent8":"Vedd le a szemüveget, hogy megtaláld a sebhelyes szemet.",
+    "endText_Agent8":"'Szép kis álruha.' - Smith ügynök",
+    
+    
+    "question_Agent9":"Smithnek el kell kapnia a férfit.",
+    "tip1_Agent9":"A közlekedési lámpák segíthetnek.",
+    "tip2_Agent9":"Használd a közlekedési lámpa vezérlőjét, hogy a lámpa zöldre váltson, és az autó elüsse a gazfickót.",
+    "endText_Agent9":"Smith imádja a KRESZ-t.",
+    
+    
+    "question_Agent10":"Ez a cetli volt a férfinál. Fejtsd meg.",
+    "tip1_Agent10":"Figyelj a különböző betűkre. Húzd a megfelelőket a lenti részre.",
+    "tip2_Agent10":"6 nagybetűből egy nevet tudsz kirakni. Tedd őket megfelelő sorrendbe.",
+    "endText_Agent10":"Ki lehet ez a Bernát?",
+    
+    
+    "question_Agent11":"Smithnek ki kell hallgatnia a férfit, hogy megtudja, kicsoda Bernát.",
+    "tip1_Agent11":"Smith nem kedveli az erőszakos kihallgatásokat.",
+    "tip2_Agent11":"Vedd le a cipőjét, majd csiklandozd meg valamivel a talpát.",
+    "endText_Agent11":"'Elég! A neve Gaz M. Bernát. Nagy tervei vannak, ezért előbb meg akart szabadulni tőled.' - Megcsiklandozott rosszfiú",
+    
+    
+    "question_Agent12":"Az ügynöknek be kell szivárognia Gaz M. Bernát villájába, hogy leleplezhesse a terveit.",
+    "tip1_Agent12":"Húzd Smitht az ablakhoz.",
+    "tip2_Agent12":"Az ügynök egy ideig elbújhat a hordóban.",
+    "endText_Agent12":"Smith is egy ilyen villát szeretne, miután nyugdíjba vonult.",
+    
+    
+    "question_Agent13":"Smithnek be kell valahogy kapcsolnia a laptopot.",
+    "tip1_Agent13":"A gyertyatartó talán egy kapcsoló lehet.",
+    "tip2_Agent13":"Kapcsold be a laptopot a széfben lévő kártyával.",
+    "endText_Agent13":"'Remélem, van benne SSD...' - Smith ügynök",
+    
+    
+    "question_Agent14":"Fel kell törni a laptop biztonsági rendszerét, hogy be lehessen jelentkezni.",
+    "tip1_Agent14":"Koppints a körökre, hogy összekapcsold őket.",
+    "tip2_Agent14":"Húzd az egyik kimaradt elemet az üres területre, hogy összekösd a felső köröket.",
+    "endText_Agent14":"Ügynökünk képességeinek tárháza határtalan.",
+    
+    
+    "question_Agent15":"Smith lebukott! A fegyverét pedig otthon felejtette...",
+    "tip1_Agent15":"Mozgasd Smitht, hogy kitérj a golyók elől.",
+    "tip2_Agent15":"Húzd Smitht olyan helyre, hogy a két fegyveres lelője egymást.",
+    "endText_Agent15":"'Többet ésszel, mint erővel.'' - Smith ügynök",
+    
+    
+    "question_Agent16":"Smithnek el kell menekülnie a villából.",
+    "tip1_Agent16":"Nyisd ki a kaput.",
+    "tip2_Agent16":"Használd a szöges deszkát, hogy kilyukaszd üldözőid kerekeit.",
+    "endText_Agent16":"Szörnyvadász Joe bizonyára tiszteletét tette ezen a helyen.",
+    
+    
+    "question_Agent17":"Smith rájött, hogy Bernát bombát helyezett el egy felhőkarcoló alagsorában. Meg kell találnod.",
+    "tip1_Agent17":"Használd a szkennert, hogy megtaláld a falban elrejtett bombát.",
+    "tip2_Agent17":"A fal feltöréséhez használd a kalapácsot.",
+    "endText_Agent17":"'Ints búcsút az ördögi tervednek, te gazember...' - Smith ügynök",
+    
+    
+    "question_Agent18":"Bernát helikopteren menekül! Állítsd meg!",
+    "tip1_Agent18":"Az épületet az ujjaddal feljebb tudod emelni.",
+    "tip2_Agent18":"Törd el a víztartály megfelelő lábát, hogy az a helikopterre zuhanjon.",
+    "endText_Agent18":"'Én vagyok a legrosszabb rémálmod, Bernát!' - Smith ügynök",
+    
+    
+    "question_Agent19":"Smithnek le kell jutnia, hogy szembeszálljon Bernáttal.",
+    "tip1_Agent19":"Dobd le az ügynököt az épületről.",
+    "tip2_Agent19":"Használd az esernyőt, hogy lelassítsd a zuhanást.",
+    "endText_Agent19":"'Én vagyok Mary Poppins!' - Smith ügynök",
+    
+    
+    "question_Agent20":"Elérkezett a végső leszámolás ideje Smith és Bernát között!",
+    "tip1_Agent20":"A golyók elől úgy tudsz kitérni, hogy hátrahajlítod Smitht.",
+    "tip2_Agent20":"A fémdobozokról visszapattanhatnak a golyók.",
+    "endText_Agent20":"Így húzta keresztül ügynökünk Gaz M. Bernát aljas számításait. Bombákat hatástalanított, golyók elől tért ki és még egy magas épületről is leugrott. Ilyen  a világ legjobb titkosügynökének egy átlagos napja.",
+    
+
+    "question_Betty1":"Ő itt Betti, aki eldöntötte, hogy ma horgászni szeretne menni.",
+    "tip1_Betty1":"Tedd szabaddá az útját.",
+    "tip2_Betty1":"A tócsát itasd fel az asztalon lévő ruhával.",
+    "endText_Betty1":"'Eddig minden rendben. Úgy érzem, ma nagyon szerencsés napom lesz!' - Betti",
+    
+    
+    "question_Betty2":"Léket kapott a csónakja!",
+    "tip1_Betty2":"Merd ki a vizet a vödörrel.",
+    "tip2_Betty2":"Keress valamit a csónakon, amivel betömheted a lyukat.",
+    "endText_Betty2":"'Ezt elkiabáltam!' - Betti",
+    
+    
+    "question_Betty3":"Betti a csónakról a vízbe esett, segíts rajta!",
+    "tip1_Betty3":"Húzd ki a csápokat.",
+    "tip2_Betty3":"Zárd le tengeri csillagokkal a csápok töveit.",
+    "endText_Betty3":"'A szörnynek annyi, viszont nem tudom, hogyan kell úszni!' - Betti",
+    
+    
+    "question_Betty4":"Segítség, megfullad!",
+    "tip1_Betty4":"Abba a deszkába bele tud kapaszkodni.",
+    "tip2_Betty4":"Kerüld ki a sziklákat.",
+    "endText_Betty4":"'Azt hiszem, lenyeltem néhány halat!' - Betti",
+    
+    
+    "question_Betty5":"Betti nagy nehezen kijutott a partra... Lélegzik egyáltalán?!",
+    "tip1_Betty5":"Használd a békát a lélegeztetéshez.",
+    "tip2_Betty5":"Fújd fel a békát úgy, hogy visszatartod a lélegzetét.",
+    "endText_Betty5":"'Fúj! Ez nem is egy herceg!' - Betti",
+    
+    
+    "question_Betty6":"Az a medve elég fenyegetően közeledik.",
+    "tip1_Betty6":"Halottnak kell tettetnie magát, hogy becsapja a medvét.",
+    "tip2_Betty6":"Húzd Bettit a fa alá, majd ejts egy almát a fejére a készüléked megrázásával.",
+    "endText_Betty6":"'Ez az ember halszagú!' - Medve",
+    
+    
+    "question_Betty7":"Meg kell szabadulnunk ettől a medvétől.",
+    "tip1_Betty7":"A fán fentebb van egy méhkas.",
+    "tip2_Betty7":"Tedd a méhkast a medve fejére.",
+    "endText_Betty7":"'ANYUUU! ...' - Medve",
+    
+    
+    "question_Betty8":"A medve elment, ideje felébreszteni Bettit.",
+    "tip1_Betty8":"A gyümölcsök beindítják a madár emésztését.",
+    "tip2_Betty8":"Törd le az egyik ágat, hogy átrepüljön a másikra.",
+    "endText_Betty8":"'Bocsi, anyukám sosem tanított szobatisztaságra.' - Neveletlen madár",
+    
+    
+    "question_Betty9":"Meg kell mosnia az arcát a 'kellemes' ébresztő után.",
+    "tip1_Betty9":"Húzd össze mindkét kezét, hogy víz kerüljön a tenyerébe.",
+    "tip2_Betty9":"Mosakodás után egy levéllel töröld meg az arcát.",
+    "endText_Betty9":"'Amilyen mázlista vagyok, lefogadom, hogy ez a levél egy mérgező növényé!' - Betti",
+    
+    
+    "question_Betty10":"Betti elveszett és éhes. Add neki a kedvenc gyümölcsét.",
+    "tip1_Betty10":"Nézd meg figyelmesen a gondolataiban megjelenő alma alakját.",
+    "tip2_Betty10":"Van néhány rejtett alma a fán.",
+    "endText_Betty10":"'Most pedig jussunk ki valahogy ebből az erdőből!' - Betti",
+    
+    
+    "question_Betty11":"Talált egy utat. Ideje stoppolni.",
+    "tip1_Betty11":"Emeld fel a hüvelykujját.",
+    "tip2_Betty11":"Csalj egy méhet az ujjára.",
+    "endText_Betty11":"'Aú! Szükséges áldozat!' - Betti",
+    
+    
+    "question_Betty12":"Rosszfiúk mellé ült be! Ki kell szabadulnia a kocsiból!",
+    "tip1_Betty12":"Keresd meg a kéziféket, majd húzd be.",
+    "tip2_Betty12":"Kapcsold be a biztonsági övét, mielőtt megállítod az autót.",
+    "endText_Betty12":"'Ezért utálok stoppolni!' - Betti",
+    
+    
+    "question_Betty13":"Bettinek menekülnie kell!",
+    "tip1_Betty13":"Keress valamit, amivel lelökheted a sziklát.",
+    "tip2_Betty13":"Koppints Bettire, hogy átugord a sziklát.",
+    "endText_Betty13":"'Nem tudtam, hogy képes vagyok ilyen magasra ugrani!' - Betti",
+    
+    
+    "question_Betty14":"A környéken köröz egy helikopter, de nem hallják Betti segélykiáltását.",
+    "tip1_Betty14":"Dühítsd fel a kosokat azzal, hogy kiveszed a szájukból az ételt.",
+    "tip2_Betty14":"Használd kürtként a szarvat.",
+    "endText_Betty14":"'Juhé! Potya helikopterezés!' - Betti",
+    
+    
+    "question_Betty15":"A helikopter lezuhant egy hófödte hegycsúcson, és farkasordító hideg van!",
+    "tip1_Betty15":"Keress egy lapátot, és kezdj el ásni.",
+    "tip2_Betty15":"Lapátold 5 másodpercig a jobb oldali kupacot, hogy rábukkanj az iglura.",
+    "endText_Betty15":"'Brrr... Brrr...' - Betti",
+    
+    
+    "question_Betty16":"Bettinek fel kell ébresztenie az eszkimót, hogy segítséget kapjon.",
+    "tip1_Betty16":"Fordítsd meg a készüléked, hogy lásd az eszkimó arcát.",
+    "tip2_Betty16":"Süsd meg a halat, majd ébreszd fel az illatával.",
+    "endText_Betty16":"'Egy angyalt látok tán?!' - Eszkimó",
+    
+    
+    "question_Betty17":"A kedves eszkimó elviszi őt a legközelebbi repülőtérre.",
+    "tip1_Betty17":"A kutyákat a színük szerint kell párba állítani.",
+    "tip2_Betty17":"Az induláshoz koppints az eszkimóra.",
+    "endText_Betty17":"'Hová tűnt?!' - Eszkimó",
+    
+    
+    "question_Betty18":"Fel kell jutnia.",
+    "tip1_Betty18":"A jéghegyek olvadásával emelkedni fog a vízszint.",
+    "tip2_Betty18":"A felhő mögött lévő Nappal elolvaszthatod a jéghegyeket.",
+    "endText_Betty18":"'Úgy tűnik, nem angyal volt, hanem egy űrlény...' - Eszkimó",
+    
+    
+    "question_Betty19":"Szabadulj meg az idegenektől.",
+    "tip1_Betty19":"Törd be az ablakot a csavarkulccsal.",
+    "tip2_Betty19":"A gombokkal növeld meg a sisak méretét, majd tedd Betti fejére.",
+    "endText_Betty19":"'Ezt az izét hogyan kell vezetni?!' - Betti",
+    
+    
+    "question_Betty20":"Bettinek vissza kell térnie a Földre.",
+    "tip1_Betty20":"Használd a bolygók gravitációját az utazáshoz. ",
+    "tip2_Betty20":"Vigyázz az aszteroidákkal.",
+    "endText_Betty20":"'Legalább van egy klassz űrhajóm.' - BettiAztán lezuhant az űrhajóval a házára.'Oké, legalább van hova hazamennem... Vagyis volt...' - Betti",
+
+    
+    "question_Prison1":"Arnoldot hamis vádakkal börtönbe zárták. Éppen most készítik róla a rendőrségi fotókat.",
+    "tip1_Prison1":"A fényképezéshez koppints a fényképezőre.",
+    "tip2_Prison1":"Fordítsd balra a második fényképhez.",
+    "endText_Prison1":"Arnoldnak minél hamarabb ki kell jutnia innen.",
+    
+    
+    "question_Prison2":"Meg kell valahogy védenie magát ebben a fenyegető környezetben.",
+    "tip1_Prison2":"Vedd fel a banda kendőjét, hogy elvegyülj.",
+    "tip2_Prison2":"Vedd le a fenti férfi sapkáját, majd tedd a bandatag fejére, hogy megszerezd a kendőjét.",
+    "endText_Prison2":"'Mizu, tesók?' - Arnold",
+    
+    
+    "question_Prison3":"A fegyencek között kosarazással válhat népszerűbbé.",
+    "tip1_Prison3":"Add Arnoldnak a labdát, majd koppints rá az ugráshoz.",
+    "tip2_Prison3":"Koppints rá akkor, amikor a legmagasabban van.",
+    "endText_Prison3":"'Gimiben Hárompontos Arnold volt a becenevem.' - Arnold",
+    
+    
+    "question_Prison4":"Arnoldnak társakra van szüksége a szökéshez.",
+    "tip1_Prison4":"Adj egy könyvet Morgannek.",
+    "tip2_Prison4":"Készíts súlyzót Ivánnak két kerékből és egy vízszintes rúdból.",
+    "endText_Prison4":"'Örvendek a találkozásnak, Arnold. Tiéd az elmém.' - Morgan'És az én izmaim!' - Iván",
+
+    
+    "question_Prison5":"Meg kell szereznie azt a vésőt.",
+    "tip1_Prison5":"Add a fánkokat Ivánnak, hogy megszerezd a kenyeret.",
+    "tip2_Prison5":"Rejtsd el a vésőt a kenyérben.",
+    "endText_Prison5":"'Nem javaslom, hogy megkóstold ezt a kenyeret, Iván! Véső van benne.' - Arnold",
+    
+    
+    "question_Prison6":"Lyukat kell vésnie a falba.",
+    "tip1_Prison6":"A véséshez tartsd ujjadat a képernyőn.",
+    "tip2_Prison6":"Hagyd abba a vésést, amikor az őr elhalad a cella előtt.",
+    "endText_Prison6":"'Hé! Mi ez a hang?!' - Őr",
+    
+    
+    "question_Prison7":"Arnoldnak el kell rejtenie a vésőt.",
+    "tip1_Prison7":"Tedd a vésőt a vécébe úgy, hogy ne érje fény.",
+    "tip2_Prison7":"Miután elhelyezted a vésőt, csukd le a fedelet.",
+    "endText_Prison7":"'Ööö... Csak a rácsokat rágcsáltam.' - Arnold'Beléd meg mi ütött, ember?' - Őr",
+    
+    
+    "question_Prison8":"Áss alagutat a kiszabaduláshoz.",
+    "tip1_Prison8":"Az ásáshoz koppints a képernyőre.",
+    "tip2_Prison8":"Kerüld el az őröket. Használd az akadályt a második őr megállítására.",
+    "endText_Prison8":"'A sokévnyi Minecraftozás végre kifizetődött!' - Arnold",
+    
+    
+    "question_Prison9":"Ki kell nyitnia az ajtót.",
+    "tip1_Prison9":"A zár feltöréséhez használd a vésőt.",
+    "tip2_Prison9":"Húzd fel a zár rugóit a következő sorrendben: (balról jobbra) 2, 4, 3, 1",
+    "endText_Prison9":"'Eltévedtél, komám?' - Őr",
+    
+    
+    "question_Prison10":"Az első kísérlet kudarcba fulladt. Arnoldnak át kell jutnia az ellenőrzőponton, hogy újra nekifuthasson a szökésnek.",
+    "tip1_Prison10":"Ürítsd ki a szennyeskocsit.",
+    "tip2_Prison10":"Tedd Arnoldot az üres kocsiba.",
+    "endText_Prison10":"'A szennyeskocsi ma kifejezetten nehéz...' - Rab",
+    
+    
+    "question_Prison11":"Szüksége van a csavarhúzóra.",
+    "tip1_Prison11":"Egy csontot kapsz, ha megeteted a csirkecombot Ivánnal.",
+    "tip2_Prison11":"Cseréld ki a csontot a csavarhúzóval, majd add a szerszámot Arnoldnak.",
+    "endText_Prison11":"'Miért nem tudom használni ezt a csavarhúzót?! Várjunk csak, ez egy csont!' - Tanácstalan szerelő",
+    
+    
+    "question_Prison12":"Van valahol egy rejtett panel, amelyet Arnold a csavarhúzóval ki tud nyitni.",
+    "tip1_Prison12":"Told félre a vécét, és távolítsd el a csavarokat.",
+    "tip2_Prison12":"Tedd vissza a vécét a helyére, ha közeledik az őr.",
+    "endText_Prison12":"'Nos, kétségkívül ez lehet a legundorítóbb módja a menekülésnek...' - Arnold",
+    
+    
+    "question_Prison13":"Ezúttal a szellőzőn keresztül kell elindulnia.",
+    "tip1_Prison13":"Koppints a képernyőre a mozgáshoz.",
+    "tip2_Prison13":"A dobozokkal tudod szabályozni, hogy Arnold merre haladjon. Vigyázz az őrökkel!",
+    "endText_Prison13":"'Remélem, ez alkalommal egy őrbe sem botlom bele!' - Arnold",
+    
+    
+    "question_Prison14":"Az ajtót a kapcsolókkal lehet kinyitni.",
+    "tip1_Prison14":"Koppints az egérlyukra, hogy elijeszd az szerelőt.",
+    "tip2_Prison14":"Állítsd be a kapcsolókat a papíron lévő mintának megfelelően.",
+    "endText_Prison14":"'Nagyszerű! Megtaláltam a börtön vezérlőtermét!' - Arnold",
+    
+    
+    "question_Prison15":"Arnoldnak ki kell engednie két társát.",
+    "tip1_Prison15":"Nyisd ki a gombokkal a kapukat úgy, hogy közben elkerülöd az őröket.",
+    "tip2_Prison15":"Engedd ki a harmadik rabot, hogy lefoglald az egyik őrt.",
+    "endText_Prison15":"'Szép munka, Arnold. Veled tartunk a továbbiakban!' - Morgan",
+    
+    
+    "question_Prison16":"Fel kell jutniuk a fenti ajtóhoz.",
+    "tip1_Prison16":"Tedd őket egymásra.",
+    "tip2_Prison16":"Tedd alájuk a dobozt, majd koppints a kötélre, amikor már elég magasan vannak.",
+    "endText_Prison16":"'Mi vagyunk a brémai muzsikusok!' - Morgan'STRÉÉÉBER!' - Iván",
+    
+    
+    "question_Prison17":"El kell kerülniük az őröket.",
+    "tip1_Prison17":"Fordítsd az őröket egymás ellen a gumibottal.",
+    "tip2_Prison17":"Miután megütötted az elöl álló őrt, tedd a botot a másik kezébe.",
+    "endText_Prison17":"'Oszd meg és uralkodj!' - Morgan'Oké, vettük a lapot! Szoktál olvasni.' - Iván",
+    
+    
+    "question_Prison18":"Át kell jutniuk a rácson.",
+    "tip1_Prison18":"Nyisd ki a vezérlőpanelt, majd nyomd meg a gombot.",
+    "tip2_Prison18":"Tedd Ivánt a rács alá, hogy nyitva tartsd.",
+    "endText_Prison18":"'HODOR!' - Morgan'Még egy kocka utalás, és a fejedre ejtem ezt a rácsot!' - Iván",
+    
+    
+    "question_Prison19":"Arnoldnak és Ivánnak meg kell állítania az őröket, míg Morgan az ajtó kinyitásán dolgozik.",
+    "tip1_Prison19":"A szekrényben találsz egy ásót. Áss lyukakat a szürke csempék alá.",
+    "tip2_Prison19":"Ne felejtsd el ásás után visszahelyezni a csempéket.",
+    "endText_Prison19":"'Itt úgysem jössz á...' - Morgan'Ááát!' - Arnold'Komolyan, Arnold, már te is kezded?!' - Iván",
+    
+
+    "question_Prison20":"El kell érniük az erdőt.",
+    "tip1_Prison20":"A képernyőre koppintva tudod elindítani és megállítani őket. Kerüld el a fényeket.",
+    "tip2_Prison20":"Ne mozogj, amíg őrt látsz.",
+    "endText_Prison20":"'Megcsináltuk! De szökevényekként semmi esélyünk a városban. Meg kell tanulnunk, hogyan éljünk túl a vadonban.' - Arnold'Úgy tűnik, új kaland veszi most kezdetét.' - Morgan",
+
+
+    "question_Fitness1":"Chipset szeretne, de nem éri el a polc tetejét.",
+    "tip1_Fitness1":"Menj a kocsival a polcnak.",
+    "tip2_Fitness1":"Húzd hátra a kocsit, és menj nagyobb lendülettel a polcnak.",
+    "endText_Fitness1":"Lizi jobbat érdemel. Segítsünk neki egészségesebben élni.",
+    
+    
+    "question_Fitness2":"Használd ki a chips iránti szeretetét, hogy futásra bírd.",
+    "tip1_Fitness2":"Ne hagyd, hogy elérje a dobozt.",
+    "tip2_Fitness2":"5 másodpercig kell futnia.",
+    "endText_Fitness2":"Kapott egy kis ízelítőt a mozgásból, de ez még csak a kezdet.",
+    
+    
+    "question_Fitness3":"Ne engedd, hogy használja a liftet.",
+    "tip1_Fitness3":"Keress valamit, ami nyitva tartja a lift ajtaját.",
+    "tip2_Fitness3":"Fogd a sétapálcát, fordítsd el, majd tedd a liftajtóhoz.",
+    "endText_Fitness3":"'Valami gonosz fitneszfantom kínoz engem! Ki vagy te?!' - Lizi",
+    
+    
+    "question_Fitness4":"Segíts neki felmenni a lépcsőn.",
+    "tip1_Fitness4":"A lépcsőket felhúzva segíthetsz neki.",
+    "tip2_Fitness4":"Egészen a legtetejéig kell eljutnia.",
+    "endText_Fitness4":"'Oké, már csak 57 lépcsőfok! ...' - Lizi",
+    
+    
+    "question_Fitness5":"Szörnyen fáj a lába a sok lépcsőzéstől, segíts rajta.",
+    "tip1_Fitness5":"Tedd a lábait a lavórba.",
+    "tip2_Fitness5":"Önts a hűtőszekrényből hideg vizet a lavórba. ",
+    "endText_Fitness5":"'Uhh... Ez nagyon jó! Köszi, Fitneszfantom.' - Lizi",
+    
+    
+    "question_Fitness6":"Lizi szeretne könnyedén kalóriákat égetni.",
+    "tip1_Fitness6":"Keress egy öngyújtót, hogy elégesd a kalóriákat.",
+    "tip2_Fitness6":"Nézd meg a kérdésben szereplő 'kalóriákat'.",
+    "endText_Fitness6":"Sajnálom, aranyom, de ilyen kibúvókra nincs lehetőség.",
+    
+    
+    "question_Fitness7":"Szeretne edzeni, de nem tudja, hogyan kezdjen hozzá.",
+    "tip1_Fitness7":"Keresd meg a mobilját a nagy rendetlenségben, és add oda neki, hogy telefonálhasson.",
+    "tip2_Fitness7":"Keresd meg a kondibérletét, majd add oda neki.",
+    "endText_Fitness7":"'Irány az edzőterem!' - Lizi",
+    
+    
+    "question_Fitness8":"Kezdésnek megteszi a futópad.",
+    "tip1_Fitness8":"A sebesség növeléséhez nyomd meg a gombot.",
+    "tip2_Fitness8":"Kösd be a cipőjét, és ne növeld túl gyorsan a sebességet.",
+    "endText_Fitness8":"'Jöhet a következő, állok elébe!' - Lizi",
+    
+    
+    "question_Fitness9":"Pilátesz közben fontos jól kinyújtóztatni a végtagokat.",
+    "tip1_Fitness9":"Húzd ki a kezeit és a lábait.",
+    "tip2_Fitness9":"Húzd a végtagjait a kijelölt helyekre.",
+    "endText_Fitness9":"'Úgy érzem magam, mint Nyúlányka!' - Lizi",
+    
+    
+    "question_Fitness10":"Meg kell szabadulnia az egészségtelen ételektől.",
+    "tip1_Fitness10":"Keresd meg, és dobd a szemétbe az egészségtelen ételeket. Egyet a háta mögött rejteget.",
+    "tip2_Fitness10":"Tartsd meg az egészséges ételeket. Összesen 6 dolgot kell a kukába tenned.",
+    "endText_Fitness10":"Ki kellene vinnünk a szemetet, mielőtt meggondolja magát.",
+    
+    
+    "question_Fitness11":"Néhány szabadtéri gyakorlat jót tesz majd neki.",
+    "tip1_Fitness11":"Add neki a súlyzókat.",
+    "tip2_Fitness11":"Nagyítsd fel a Holdat, hogy megváltozzon a gravitáció.",
+    "endText_Fitness11":"'Hátborzongató képességek birtokában vagy, Fitneszfantom.' - Lizi",
+    
+    
+    "question_Fitness12":"Jó lassan sétál... futtasd meg valahogy!",
+    "tip1_Fitness12":"Keresd meg az elrejtett kulcsot, majd nyisd ki a kaput.",
+    "tip2_Fitness12":"Miután kinyitottad, törd be a kaput a kővel.",
+    "endText_Fitness12":"'Ki engedte ki a kutyát?!' - Lizi'Vau! Vau! Vau!' - Dühös házőrző",
+    
+    
+    "question_Fitness13":"Ne hagyd, hogy a többi kondizó rossz érzést keltsen benne.",
+    "tip1_Fitness13":"Engedd szabadjára a gömbsúlyzót.",
+    "tip2_Fitness13":"Tegyél fel plusz súlyokat a lány súlyzójára.",
+    "endText_Fitness13":"'Haha! De bénák!' - Lizi",
+    
+    
+    "question_Fitness14":"Követnie kell az edző utasításait.",
+    "tip1_Fitness14":"Figyelj az edző ujjára.",
+    "tip2_Fitness14":"Koppints Lizi felsőtestére, ha a hüvelykujj felfelé mutat, az alsótestére, ha a hüvelykujj lefelé mutat.",
+    "endText_Fitness14":"'Szép munka, ifjú tanítványom.' - Személyi edző",
+    
+    
+    "question_Fitness15":"Több önbizalomra van szüksége.",
+    "tip1_Fitness15":"Nyisd meg a közösségimédia-appot a telefonon. Koppints a gombra, hogy visszatérj a kezdőlapra.",
+    "tip2_Fitness15":"Áraszd el lájkokkal a posztját.",
+    "endText_Fitness15":"'Híres lettem! Most már csomó embernek sírhatok a neten.' - Lizi",
+    
+    
+    "question_Fitness16":"Meg kell tartania az egyensúlyát.",
+    "tip1_Fitness16":"Ne hagyd, hogy bármelyik fele leérkezzen.",
+    "tip2_Fitness16":"Húzd fel a leérő oldalát. 10 másodpercig kell egyensúlyban maradnia.",
+    "endText_Fitness16":"'Jól van, ennyi elég volt. Megyek, eszek egy kis fagylaltot.' - Lizi",
+    
+    
+    "question_Fitness17":"Meg kell utáltatnunk vele a fagyit.",
+    "tip1_Fitness17":"Lehet, hogy van valami a szatyorban.",
+    "tip2_Fitness17":"Lökd le a szatyrot a padról, majd tedd bele a kelbimbót a fagylaltjába.",
+    "endText_Fitness17":"'Fúj! Mi van ezzel a fagyival?! Ezt muszáj kiposztolnom!' - Lizi",
+    
+    
+    "question_Fitness18":"Nem fekhet le addig, amíg nem végzett néhány gyakorlatot.",
+    "tip1_Fitness18":"Kapcsold fel a villanyt, hogy felkeltsd.",
+    "tip2_Fitness18":"Van egy tartalék izzó a fiókban. ",
+    "endText_Fitness18":"'Oké, rendben! Remélem, tudod, hogy egy végtelenül bosszantó szellem vagy!' - Lizi",
+    
+    
+    "question_Fitness19":"Lizi szépen lefogyott. Itt az ideje az izomépítésnek!",
+    "tip1_Fitness19":"Emeld fel a vízszintes rudat, és töltsd fel a jobb oldali mutatót.",
+    "tip2_Fitness19":"Ne hagyd túl sokáig lógni. Tarts szüneteket.",
+    "endText_Fitness19":"'Most megyek, és ellátom a baját azoknak, akik cikiztek engem a gimiben!' - Lizi",
+    
+    
+    "question_Fitness20":"Lizinek kemény munka árán sikerült egészséges életmódra váltania. Ezért jutalmat érdemel.",
+    "tip1_Fitness20":"Tegyél 5 egészséges hozzávalót a turmixgépbe.",
+    "tip2_Fitness20":"Turmixolj össze bogyós gyümölcsöket, epret, tejet, banánt és almát. Miután minden kész, add a kezébe a turmixot.",
+    "endText_Fitness20":"'Mennyei! Köszönök mindent, Fitneszfantom!' - LiziÉn nem fantom vagyok, csupán az akaraterőd hangja. Bárki élhet egészségesen, ha kellően hisz önmagában.'Nagy szavak ezek. Muszáj megosztanom őket a követőimmel!' - Lizi",
+    
+    
+    "question_SmithJoe1":"Smith éppen a megérdemelt nyaralását tölti, azonban valami bűzlik.",
+    "tip1_SmithJoe1":"Nézz be a bokor mögé.",
+    "tip2_SmithJoe1":"A rákok megcsípik az embereket.",
+    "endText_SmithJoe1":"'Én csak egy paparazzi vagyok!' - Gyanús fickó",
+    
+    
+    "question_SmithJoe2":"Smithnek nyakon kell csípnie a fickót!",
+    "tip1_SmithJoe2":"Vigyázz a taposóaknákkal.",
+    "tip2_SmithJoe2":"Koppints Smith mozgatásához. Használd a detektort az aknák megtalálásához.",
+    "endText_SmithJoe2":"'Azt hiszed, meg tudsz állítani ilyen kispályás csapdákkal?!' - Smith",
+    
+    
+    "question_SmithJoe3":"Az ügynöknek ki kell hallgatnia a rosszfiút.",
+    "tip1_SmithJoe3":"Lógasd fejjel lefelé.",
+    "tip2_SmithJoe3":"A kő mögött egy kígyó rejtőzik.",
+    "endText_SmithJoe3":"'Bernát küldött, hogy likvidáljalak téged! Megszökött a börtönből, és egy új gonosz terven dolgozik...' - Berezelt bandita",
+    
+    
+    "question_SmithJoe4":"Ezen a szigeten található Bernát trópusi villája, Smithnek le kell ugrania ide.",
+    "tip1_SmithJoe4":"Koppints a repülőgépre.",
+    "tip2_SmithJoe4":"Smithnek a szigeten kell landolnia. Koppints rá, hogy kinyíljon az ejtőernyője.",
+    "endText_SmithJoe4":"'Ezt a Fortnite-ból tanultam.' - Smith",
+    
+    
+    "question_SmithJoe5":"Smithnek ki kell iktatnia az őröket.",
+    "tip1_SmithJoe5":"Dobj rájuk cserepeket.",
+    "tip2_SmithJoe5":"A második őrnek előbb le kell venni a sisakját.",
+    "endText_SmithJoe5":"'Nézzük, miben mesterkedik ezúttal Bernát.' - Smith",
+    
+    
+    "question_SmithJoe6":"Ügynökünknek most a tetőn kell átjutnia.",
+    "tip1_SmithJoe6":"Az ugráshoz koppints Smithre a megfelelő pillanatban.",
+    "tip2_SmithJoe6":"Intézd el az őrt a cseréptrükkel.",
+    "endText_SmithJoe6":"'Ezt pedig az Assassin's Creedből lestem el.' - Smith",
+    
+    
+    "question_SmithJoe7":"Smith bejutott a villába, de nincs egyedül. Rejtőzz el gyorsan!",
+    "tip1_SmithJoe7":"A szobor mögé remekül el lehetne bújni.",
+    "tip2_SmithJoe7":"Állítsd be Smith karjait a szobornak megfelelően.",
+    "endText_SmithJoe7":"'Lovagnak sem lennék utolsó.' - Smith",
+    
+    
+    "question_SmithJoe8":"Gyanús, hogy ebben a szobában rejtegetnek valamit.",
+    "tip1_SmithJoe8":"Rakd ki a kirakóst.",
+    "tip2_SmithJoe8":"A darabok a cserépben, a könyvben és a vázában vannak elrejtve.",
+    "endText_SmithJoe8":"'Szezám tárulj!' - Smith",
+    
+    
+    "question_SmithJoe9":"Bernát és Drakula összedolgoznak! Foglyul ejtették Joe-t!",
+    "tip1_SmithJoe9":"Smith büdös lába megállíthatja Drakulát.",
+    "tip2_SmithJoe9":"Vedd le a cipőjét, majd használd a zokniját, hogy elkábítsd a grófot.",
+    "endText_SmithJoe9":"'Köszönöm, hogy megmentett, kedves...?' - Joe'Most nincs idő csevejre, kapjuk el Bernátot!' - Smith",
+    
+    
+    "question_SmithJoe10":"Bernát helikopteren menekül a szigetről!",
+    "tip1_SmithJoe10":"Koppints Joe-ra, hogy kilőj egy nyílvesszőt.",
+    "tip2_SmithJoe10":"Koppints Smithre a megfelelő időben, hogy elkapd a nyilat.",
+    "endText_SmithJoe10":"'Azta! Ez a pasas nagyon menő!' - Joe",
+    
+    
+    "question_SmithJoe11":"Állítsd meg Bernátot!",
+    "tip1_SmithJoe11":"A cápákat vonzza a vér szaga.",
+    "tip2_SmithJoe11":"Kend a vért a helikopter talpára.",
+    "endText_SmithJoe11":"'Hé, Bernát, láttad már A cápa című filmet?!' - Smith",
+    
+    
+    "question_SmithJoe12":"Joe-nak Smith segítségére kell sietnie, de nem tud úszni!",
+    "tip1_SmithJoe12":"Próbáld a kalapját csónakként használni.",
+    "tip2_SmithJoe12":"Fordítsd meg a kalapot, majd tedd a vízre.",
+    "endText_SmithJoe12":"'Ezért viselem mindig ezt a fejfedőt.' - Joe",
+    
+    
+    "question_SmithJoe13":"Valahogy túl kell élniük a cápatámadást.",
+    "tip1_SmithJoe13":"Használd a halat a cápa elcsalogatásához. Add oda Joe-nak vagy Smithnek.",
+    "tip2_SmithJoe13":"Váltogasd a hal gazdáját gyorsan, hogy a cápa elszédüljön.",
+    "endText_SmithJoe13":"'Jó móka egy cápával fogócskázni!' - Smith'Ami azt illeti, én ezt jobban szeretem vérfarkasokkal játszani.' - Joe",
+    
+
+    "question_SmithJoe14":"A nagy lárma a felszínre vonzott még egy tengeri ragadozót!",
+    "tip1_SmithJoe14":"Lődd meg Joe-val a csápjait.",
+    "tip2_SmithJoe14":"Forgasd el a szörnyet, hogy eltaláld a többi csápját is.",
+    "endText_SmithJoe14":"'Mi jön ezután? Egy kraken?!' - Smith'Amiatt ne aggódj, már kihaltak.' - Joe",
+    
+    
+    "question_SmithJoe15":"Ki kell jutniuk a szárazföldre.",
+    "tip1_SmithJoe15":"Használd evezőként a szörny csápjait.",
+    "tip2_SmithJoe15":"Evezz a csápokkal felváltva.",
+    "endText_SmithJoe15":"'Talán könnyebb lenne megtanulnod úszni.' - Smith'Igen, de abban mi a poén!' - Joe",
+    
+    
+    "question_SmithJoe16":"Smithnek be kell jutnia Drakula éjszakai klubjába, hogy leleplezze a tervét.",
+    "tip1_SmithJoe16":"Csak Smithnek kell bejutnia. Joe-t használd valami másra.",
+    "tip2_SmithJoe16":"Csald el őket Joe-val, majd juttasd be Smitht.",
+    "endText_SmithJoe16":"'Rossz környékre tévedtél, Joe!' - Vámpírkidobó",
+    
+    
+    "question_SmithJoe17":"Az ügynöknek észrevétlenül kell továbbhaladnia.",
+    "tip1_SmithJoe17":"Használd a hordót álruhaként.",
+    "tip2_SmithJoe17":"Koppints az elinduláshoz és a megálláshoz. Csak akkor mozogj, amikor a vámpír elfordul.",
+    "endText_SmithJoe17":"'Meg kell találnom Drakulát, mielőtt valaki észrevesz!' - Smith",
+    
+    
+    "question_SmithJoe18":"Joe-nak le kell foglalnia a vámpírokat, hogy időt nyerjen Smithnek.",
+    "tip1_SmithJoe18":"Mozgasd Joe-t, hogy a vámpírok üldözőbe vegyék.",
+    "tip2_SmithJoe18":"Nyisd fel a csatornafedelet, hogy a vámpírok átváltozzanak. Joe el tud bánni a denevérekkel.",
+    "endText_SmithJoe18":"'Normális esetben sosem bántanék denevéreket. Kivétel persze, ha vámpírok.' - Joe",
+    
+    
+    "question_SmithJoe19":"Smith rálelt Drakulára, de meg kell találnia a módját, hogy belenézhessen a laptopjába.",
+    "tip1_SmithJoe19":"Drakula szereti azokat a vörös italokat.",
+    "tip2_SmithJoe19":"Told a könyvespolcot a vécé elé, hogy Drakula ne tudjon kijönni.",
+    "endText_SmithJoe19":"'Hé! Ez nem vicces, Vladimír!' - Drakula",
+    
+    
+    "question_SmithJoe20":"Smithnek fel kell törnie Drakula laptopját.",
+    "tip1_SmithJoe20":"Koppints a körökre, hogy összekapcsold őket.",
+    "tip2_SmithJoe20":"Három oldalról kell csatlakoznod a bekapcsológombhoz.",
+    "endText_SmithJoe20":"Smith átböngészte a fájlokat, és rájött, hogy Drakula Bernáttal együtt a Sötét Nagyúr megidézésén dolgozik. Ez a történet Smith és Joe kalandjának második részében folytatódik.",
+    
+
+    "question_SmithJoe21":"Drakulának sikerült kiszabadulnia a vécéből!",
+    "tip1_SmithJoe21":"Használd Smith rugalmas testét, hogy megdobd Drakulát.",
+    "tip2_SmithJoe21":"Hajlítsd hátra Smitht, majd tegyél a testére egy könyvet.",
+    "endText_SmithJoe21":"'Részmunkaidőben katapult vagyok.' - Smith",
+    
+    
+    "question_SmithJoe22":"Még több vámpír támad Joe-ra!",
+    "tip1_SmithJoe22":"Koppints a tűz gombra, mikor Joe közelébe érnek a vámpírok.",
+    "tip2_SmithJoe22":"A páncélt viselő vámpír nagyon lassan fog járni, ha leöntöd vízzel.",
+    "endText_SmithJoe22":"'Gyerünk már, Smith! Mi tart ennyi ideig?!' - Joe",
+    
+    
+    "question_SmithJoe23":"Smith mindent megtudott Bernát terveiről. Ideje megszöknie a klubból.",
+    "tip1_SmithJoe23":"Mozgasd körbe Smitht, hogy kitérj a támadások elől.",
+    "tip2_SmithJoe23":"Ahhoz, hogy kiugorhass az ablakon, először érd el, hogy a rosszfiú eltalálja az üveget.",
+    "endText_SmithJoe23":"'Fel kéne írnom valahova, hogy a küldetésekre hozzak magammal fegyvert.' - Smith",
+    
+    
+    "question_SmithJoe24":"Smith zuhan, segíts rajta!",
+    "tip1_SmithJoe24":"Húzd ki a napellenzőket, hogy lassíts a zuhanáson.",
+    "tip2_SmithJoe24":"Tedd a megfelelő helyre a szénakazalt, hogy legyen hova érkezni az ügynöknek.",
+    "endText_SmithJoe24":"'Jó újra látni! Mit sikerült kideríteni?' - Joe'Bernát egy portált tervez kinyitni, hogy visszahozza a Sötét Nagyurat!' - Smith",
+    
+    
+    "question_SmithJoe25":"El kell jutniuk a régi gyárhoz, hogy megállítsák Bernátot.",
+    "tip1_SmithJoe25":"Válts sávot, hogy elkerüld a többi kocsit.",
+    "tip2_SmithJoe25":"Ne hagyd, hogy a denevérek utolérjék az autót.",
+    "endText_SmithJoe25":"'Hé, az övet ki fogja becsatolni?!' - Smith'Csak fogd be és vezess...' - Joe",
+    
+
+    "question_SmithJoe26":"Kifogytak az üzemanyagból! Iktasd ki valahogy a denevéreket.",
+    "tip1_SmithJoe26":"A csomagtartó ajtajával eldobhatsz valamit.",
+    "tip2_SmithJoe26":"Tedd a benzinkannát a csomagtartóra, majd nyisd fel az ajtaját.",
+    "endText_SmithJoe26":"'Azta!' - Smith'Számtalanszor használtam már ezt a módszert.' - Joe",
+    
+    
+    "question_SmithJoe27":"Vonattal kell folytatniuk útjukat a gyárba.",
+    "tip1_SmithJoe27":"Tegyél valamit a sínekre, hogy a vonat megálljon.",
+    "tip2_SmithJoe27":"Egy macska van a szemetesben. A kutyát odacsalogathatod a csonttal.",
+    "endText_SmithJoe27":"'Nem semmi reflexek!' - Smith'Majd mutatok én neked olyan reflexeket, hogy megemlegeted!' - Mérges mozdonyvezető",
+    
+    
+    "question_SmithJoe28":"Meg kell szabadulniuk a vámpíroktól.",
+    "tip1_SmithJoe28":"Válaszd el egymástól a két kocsit.",
+    "tip2_SmithJoe28":"Először tedd Joe-t és Smitht a jobb oldali kocsira.",
+    "endText_SmithJoe28":"'Esetleg lemehetnénk a kocsiba.' - Joe'Ki van zárva! Nem váltottunk menetjegyet!' - Smith",
+    
+
+    "question_SmithJoe29":"Drakula utolérte őket!",
+    "tip1_SmithJoe29":"A jelzőtáblát felfelé és lefelé is mozgathatod.",
+    "tip2_SmithJoe29":"Találd el Drakulát a táblával.",
+    "endText_SmithJoe29":"'Ez a vonat már elment, Drakula.' - Joe'Hé! A menő szójátékokat hagyd csak meg nekem!' - Smith",
+    
+
+    "question_SmithJoe210":"Be kell jutniuk a gyárba anélkül, hogy észrevennék őket.",
+    "tip1_SmithJoe210":"A kapuhoz kell menni mindkettőjüknek.",
+    "tip2_SmithJoe210":"Először menj a jobb oldali kapcsolóhoz, hogy kinyisd a kaput. Ezután balról is bejuthatsz.",
+    "endText_SmithJoe210":"'Oda kell érnünk, mielőtt visszahozza a Sötét Nagyurat! Bűzös lehelete felér egy halálos ítélettel!' - Joe",
+    
+    
+    "question_SmithJoe211":"Joe leesett! Smithnek egyedül kell elbánnia ezzel a bűnözővel.",
+    "tip1_SmithJoe211":"Használd a kalapot, hogy látásképtelenné tedd a gonosztevőt.",
+    "tip2_SmithJoe211":"Elveheted a fegyverét, amíg nem lát.",
+    "endText_SmithJoe211":"'Most már van fegyverem. Rossz hír a rosszfiúknak.' - Smith",
+    
+    
+    "question_SmithJoe212":"Segíts Joe-nak biztonságban földet érni.",
+    "tip1_SmithJoe212":"Mozgasd Joe-t oldalirányba, hogy elkerüld a veszélyeket.",
+    "tip2_SmithJoe212":"A zuhanás végén a vízbe kell érkezned.",
+    "endText_SmithJoe212":"'Soha többet nem dobok zombikat a csatornába!' - Joe",
+    
+    
+    "question_SmithJoe213":"Ezeket a zombikat dobta le Joe a csatornába. Most bosszúra éhesek.",
+    "tip1_SmithJoe213":"Joe a barátjukká válhat, ha ő is úgy bűzlik, mint a csatorna.",
+    "tip2_SmithJoe213":"Használd a vödröt, hogy leöntsd Joe-t a csatorna vizével.",
+    "endText_SmithJoe213":"'Legalább Smith ezt nem látja...' - Joe",
+    
+    
+    "question_SmithJoe214":"Ennyit a lopakodásról... Smithnek móresre kell tanítania őket!",
+    "tip1_SmithJoe214":"Koppints az ellenségekre, hogy lelődd őket.",
+    "tip2_SmithJoe214":"A páncélozott ellenséget a csapda segítségével iktathatod ki. A hordó mögött találsz egy gombot.",
+    "endText_SmithJoe214":"'Remélem, nem Joe fejére esik ez a zsivány.' - Smith",
+    
+    
+    "question_SmithJoe215":"Joe-nak fel kell jutnia a csatorna kijáratához.",
+    "tip1_SmithJoe215":"Építs tornyot a zombikból.",
+    "tip2_SmithJoe215":"A lezárt kijáratot a csavarkulccsal tudod kinyitni.",
+    "endText_SmithJoe215":"'Köszönöm, srácok! Nemsokára visszajövök az ellenszérummal, csak előbb ellátom Bernát baját.' - Joe",
+    
+    
+    "question_SmithJoe216":"Joe-nak el kell jutnia Smithhez.",
+    "tip1_SmithJoe216":"Használd a kapcsolókat.",
+    "tip2_SmithJoe216":"A rosszfiút a bal alsó sarokba kell eljuttatni.",
+    "endText_SmithJoe216":"'Örülök, hogy itt vagy, épp kifogytam a lőszerből.' - Smith",
+    
+    
+    "question_SmithJoe217":"Ennél az őrültnél bomba van!",
+    "tip1_SmithJoe217":"Koppints rájuk, hogy eldobd a bombát.",
+    "tip2_SmithJoe217":"Dobd  a bombát az őrült fickó kezébe a megfelelő pillanatban.",
+    "endText_SmithJoe217":"'Imádok robbanószerkezetekkel kidobózni. Egyébként szörnyen bűzlesz!' - Smith",
+    
+    
+    "question_SmithJoe218":"Egy troll vette üldözőbe őket!",
+    "tip1_SmithJoe218":"Koppints rájuk az akadályok átugrásához.",
+    "tip2_SmithJoe218":"A felső akadály leteríti a trollt. Nyomd meg a gombot, hogy elmozdítsd/megállítsd.",
+    "endText_SmithJoe218":"'Ez a troll személyes bosszúhadjáratot indított ellenem.' - Joe'Igen, láttam a hírekben azt a bizonyos zongorás incidenst.' - Smith",
+    
+    
+    "question_SmithJoe219":"Körbevették őket!",
+    "tip1_SmithJoe219":"Zárd el valamivel a tank kipufogóját.",
+    "tip2_SmithJoe219":"A fogóval szabadítsd ki a hordókat.",
+    "endText_SmithJoe219":"'Bernátnak az ajtó mögött kell lennie! Tegyünk pontot az ügy végére.' - Smith",
+    
+    
+    "question_SmithJoe220":"Az energiagömbök táplálják a Sötét Nagyúr megidézését. Be kell zárniuk a portált, mielőtt még túl késő lesz!",
+    "tip1_SmithJoe220":"Az energiagömbök színe megváltozik, amikor Bernát eltalálja őket.",
+    "tip2_SmithJoe220":"Nézd meg a portál alatti mintát, hogy lásd a megfelelő színeket.",
+    "endText_SmithJoe220":"'Gyűlöllek!!!' - Bernát'Ettől most megszakadt a szívem... Mész szépen vissza a börtönbe, Bernát.' - Smith'És meg ne próbáld újra megidézni a Sötét Nagyurat! Elájulnál, ha kinyitná a száját.' - Joe",
+    
+    
+    "question_CaptainMary1":"Ő itt Helen kapitány. Kell neki egy kis ösztönzés, hogy kincsvadászatra induljon.",
+    "tip1_CaptainMary1":"Add neki a kincses térképet a könyvespolcról.",
+    "tip2_CaptainMary1":"Használd a gyertyát, hogy felfedd a titkos rajzot a térképen.",
+    "endText_CaptainMary1":"'De hisz ez az Elátkozott Kalóz kincse! Meg kell kaparintanom!' - Helen",
+    
+    
+    "question_CaptainMary2":"Ideje vitorlát bontani!",
+    "tip1_CaptainMary2":"Húzd fel a horgonyt a csörlővel.",
+    "tip2_CaptainMary2":"A vitorlák kibontásához húzd meg a kötelet. ",
+    "endText_CaptainMary2":"'Jo-ho-hó!' - Helen",
+    
+    
+    "question_CaptainMary3":"A hajónak át kell jutnia a sziklákon túlra.",
+    "tip1_CaptainMary3":"A hajót az ujjaddal tudod mozgatni.",
+    "tip2_CaptainMary3":"Próbáld meg az egyik örvényt a túloldalra áthelyezni.",
+    "endText_CaptainMary3":"'Ezer ördög és pokol! Ez meg mi volt?!' - Helen",
+    
+    
+    "question_CaptainMary4":"Kalózhajó közelít! Harcra fel!",
+    "tip1_CaptainMary4":"Állítsd megfelelő szögbe az ágyút.",
+    "tip2_CaptainMary4":"Tedd a csőbe az ágyúgolyót, majd gyújtsd meg a fáklyával a kanócot.",
+    "endText_CaptainMary4":"'Ma a halakkal alszotok, semmirekellő kalózok! - Helen",
+    
+    
+    "question_CaptainMary5":"Egy szirén az énekével csábítja magához a legénység tagjait!",
+    "tip1_CaptainMary5":"Visszahúzhatod őket, hogy időt nyerj.",
+    "tip2_CaptainMary5":"Tegyél gombát a fülükbe, hogy ne hallják a szirén énekét.",
+    "endText_CaptainMary5":"'Kapjátok össze magatokat, fiúk!' - Helen",
+    
+    
+    "question_CaptainMary6":"Elállt a szél, így nem tudnak továbbhajózni.",
+    "tip1_CaptainMary6":"Próbáld az ágyú erejével mozgásra bírni a hajót.",
+    "tip2_CaptainMary6":"Lőj az ágyúval háromszor hátrafelé, hogy elinduljon a hajó.",
+    "endText_CaptainMary6":"'Feltaláltunk egy új vitorlázási módot, de kész ágyúgolyó-pocsékolás!' - Helen",
+    
+    
+    "question_CaptainMary7":"Tartsd egyensúlyban a hajót, míg tart a vihar!",
+    "tip1_CaptainMary7":"Kedvedre mozgathatod a legénységet a hajón.",
+    "tip2_CaptainMary7":"Mozgasd őket oda-vissza a hajó két vége között, hogy megmaradjon az egyensúly.",
+    "endText_CaptainMary7":"'Fedélzeti nyílásokat lezárni!' - Helen",
+    
+    
+    "question_CaptainMary8":"A térképet követve meg kell találniuk a szigetet.",
+    "tip1_CaptainMary8":"Fordítsd a kormánykereket a térképen megadott iránynak megfelelően.",
+    "tip2_CaptainMary8":"Menj délkeletnek, míg el nem haladsz egy sziget mellett, majd tarts nyugat felé.",
+    "endText_CaptainMary8":"'Föld a láthatáron!' - Helen",
+    
+    
+    "question_CaptainMary9":"Végre meglelték a kincses szigetet. De mindenekelőtt találniuk kell valamit, amivel szomjukat olthatják.",
+    "tip1_CaptainMary9":"A majmot a banánokkal csalogatva tudod mozgatni.",
+    "tip2_CaptainMary9":"Koppints a majom farkára, hogy megnyúljon a nyaka és leverje a kókuszdiót.",
+    "endText_CaptainMary9":"'Töltsétek meg a hasatokat, fiúk. Hosszú út vár még ránk.' - Helen",
+    
+    
+    "question_CaptainMary10":"Nézd meg a térképet, hogy megleld a kincses barlang bejáratát.",
+    "tip1_CaptainMary10":"Húzd a legénység tagját oda, ahol ásni szeretnél. Helen fejjel lefelé tartja a térképet.",
+    "tip2_CaptainMary10":"A szikla és a tó között kell keresned.",
+    "endText_CaptainMary10":"'Ott a bejárat!' - Helen",
+    
+    
+    "question_CaptainMary11":"Védd meg őket a denevérektől, miközben másznak a létrán.",
+    "tip1_CaptainMary11":"Fel és le is mozgathatod őket.",
+    "tip2_CaptainMary11":"Próbáld elérni, hogy egymásnak szembe repüljenek a denevérek.",
+    "endText_CaptainMary11":"'Nincs kegyelem a repülő rágcsálóknak!' - Helen'Ami azt illeti, nem rágcsálók, hanem...' - Matróz'Elhallgass, te agyoniskolázott! - Helen",
+    
+    
+    "question_CaptainMary12":"Valahogy ki kell nyitnod ezt a mágikus ajtót.",
+    "tip1_CaptainMary12":"A fényt az ajtó felé kell irányítanod.",
+    "tip2_CaptainMary12":"Vedd le a matrózok kendőjét, majd tükrözd vissza a fényt a fejükről.",
+    "endText_CaptainMary12":"'Végre jóra használtátok a fejeteket, cimborák!' - Helen",
+    
+    
+    "question_CaptainMary13":"Vigyázz! Egy óriáspók!",
+    "tip1_CaptainMary13":"Rázd meg a készüléked, hogy leessen a cseppkő a barlang mennyezetéről.",
+    "tip2_CaptainMary13":"Tartsd meg a baloldali cseppkövet, hogy megvédd a legénységet.",
+    "endText_CaptainMary13":"'A teringettét, mennyi szörny! Szörnyvadász Joe-nak is helyet kellett volna szorítanunk a hajón.' - Helen",
+    
+    
+    "question_CaptainMary14":"Még egy fejtörő. Próbáld megfejteni.",
+    "tip1_CaptainMary14":"Forgasd a köröket, míg a szimbólumok egy vonalba nem kerülnek.",
+    "tip2_CaptainMary14":"A hiányzó darabot a sziklák mögött találod meg.",
+    "endText_CaptainMary14":"'Az Elátkozott Kalóz aztán szerette a feladványokat!' - Helen",
+    
+    
+    "question_CaptainMary15":"Próbálj meg kijáratot találni erről a sötét folyosóról.",
+    "tip1_CaptainMary15":"Keress egy másik fáklyát, mielőtt a mostani elaludna.",
+    "tip2_CaptainMary15":"A fáklyák elalszanak, miközben jobbra mozgatod őket.",
+    "endText_CaptainMary15":"'Az ördögbe! Végre magunk mögött hagytuk ezt a nagy sötétséget!' - Helen",
+    
+    
+    "question_CaptainMary16":"Mindannyiuknak át kell jutnia a túloldalra.",
+    "tip1_CaptainMary16":"Megállíthatod őket, ha köveket raksz az útjukba.",
+    "tip2_CaptainMary16":"A legalsónak kell először végigmennie. Ezután a felsőnek, aki így elintézi a pókot.",
+    "endText_CaptainMary16":"'Ezer árbóc és vitorla, elvesztettem a társaimat! Úgy látom, innentől egyedül kell folytatnom.' - Helen",
+    
+    
+    "question_CaptainMary17":"Helennek meg kell küzdenie a szörnyekkel!",
+    "tip1_CaptainMary17":"Húzd a fegyvert Helen üres kezébe, hogy mindkét oldalra tudj tüzelni.",
+    "tip2_CaptainMary17":"A rúgáshoz koppints a lábára.",
+    "endText_CaptainMary17":"'Ezután a kiadós összecsapás után kijár nekem a zsákmány!' - Helen",
+    
+    
+    "question_CaptainMary18":"A bányavasút segítségével el kell jutnia a kincseskamrába.",
+    "tip1_CaptainMary18":"Az induláshoz koppints a csillére.",
+    "tip2_CaptainMary18":"Tedd jó helyre a sín hiányzó darabjait, hogy elvezesd Helent a kincshez.",
+    "endText_CaptainMary18":"'Arrr! Ez jó móka volt!' - Helen",
+    
+    
+    "question_CaptainMary19":"Helennek át kell jutnia ezen a mágikus platformon.",
+    "tip1_CaptainMary19":"Helent ujjad csúsztatásával tudod mozgatni.",
+    "tip2_CaptainMary19":"A kék kör a vízen, a barna a hegyen, a piros pedig a tűzön való járást teszi lehetővé.",
+    "endText_CaptainMary19":"'Igazán ostoba varázslat védi ezt a kincset!' - Helen",
+    
+    
+    "question_CaptainMary20":"Helen végre megtalálta az áhított kincsesládát. Légy óvatos az Elátkozott Kalóz szellemével!",
+    "tip1_CaptainMary20":"Helennek három kiegészítőt kell viselnie, mielőtt kinyitná a ládát.",
+    "tip2_CaptainMary20":"Lődd meg a kalapot és a nyakláncot, hogy megszerezd őket. A láda kinyitásához találd el a zárat.",
+    "endText_CaptainMary20":"'Ennyi kincset csak több hajóval tudok elszállítani! Most pedig irány Tortuga, ideje rázendíteni néhány jó öreg tengerésznótára!' - Helen",
+    
+    
+    "question_HighSchool1":"Ő itt Maja. Segíts neki elkészülni az iskolába.",
+    "tip1_HighSchool1":"Tedd a tankönyveit az iskolatáskába.",
+    "tip2_HighSchool1":"Szedd rendbe a haját a hajgumival.",
+    "endText_HighSchool1":"Maja egy kitűnő tanuló, aki mindig keményen dolgozik.",
+    
+    
+    "question_HighSchool2":"Ő itt Regina. Késésben van, de nem képes elszakadni a tükör elől.",
+    "tip1_HighSchool2":"Próbáld meg bepárásítani a tükröt.",
+    "tip2_HighSchool2":"Állítsd a víz hőmérsékletét melegre, majd nyisd meg a kád csapját.",
+    "endText_HighSchool2":"Regina mindent megtesz azért, hogy ő legyen a legnépszerűbb lány a suliban. ",
+    
+    
+    "question_HighSchool3":"Ő Martin. Ne hagyd, hogy lekésse az iskolabuszt!",
+    "tip1_HighSchool3":"Tedd fel a lábára a görkorcsolyát.",
+    "tip2_HighSchool3":"Húzd a busz hátuljához.",
+    "endText_HighSchool3":"Martin az iskola legsportosabb tanulója. ",
+    
+    
+    "question_HighSchool4":"Egy újabb nyüzsgő reggel a gimnáziumban. Segíts karaktereinknek megtalálni a barátaikat.",
+    "tip1_HighSchool4":"Keresd meg, és húzd hozzájuk a barátaikat. Regina a csinos lányokkal lóg.",
+    "tip2_HighSchool4":"Martin a csapattársaival szokott bandázni. Majának nincsenek barátai.",
+    "endText_HighSchool4":"'Az én barátaim a könyvek és a matekpéldák!' - Maja",
+    
+    
+    "question_HighSchool5":"Reginának szüksége van Maja tankönyvére, mert elfelejtette megcsinálni a házi feladatot.",
+    "tip1_HighSchool5":"Érd el, hogy Maja hasra essen.",
+    "tip2_HighSchool5":"Vedd ki a banánhéjat a szemetesből, és tedd Maja útjába.",
+    "endText_HighSchool5":"'Hupsz! Nézz a lábad elé, nyomi!' - Regina",
+    
+    
+    "question_HighSchool6":"Reginának ki kell cserélnie a könyvét Majáéval.",
+    "tip1_HighSchool6":"Maja nem lát jól a szemüvege nélkül.",
+    "tip2_HighSchool6":"Cseréld ki a piros könyveket, amíg nincs rajta a szemüveg.",
+    "endText_HighSchool6":"'Az összes feladatot megcsinálta. Csúcs!' - Regina",
+    
+    
+    "question_HighSchool7":"Martin kajacsatát akar kezdeni.",
+    "tip1_HighSchool7":"Használd a krumplipürét, hogy felhergeld az egyik diákot.",
+    "tip2_HighSchool7":"Miután eldobtad a krumplipürét, add a kanalat a melletted ülő fiúnak.",
+    "endText_HighSchool7":"'Hehehe! Végre valami akció!' - Martin",
+    
+    
+    "question_HighSchool8":"Regina szerelmes levelet írt Martinnak, melyet papírrepülőként szeretne eljuttatni hozzá.",
+    "tip1_HighSchool8":"A repülő eldobásához csúsztasd végig ujjadat a kezén. Szél nélkül nem fog célba érni a levél.",
+    "tip2_HighSchool8":"Nyisd ki az ablakot és kapcsold be a ventilátort.",
+    "endText_HighSchool8":"'A szemétbe dobta anélkül, hogy elolvasta volna! Micsoda bunkó!' - Regina",
+    
+    
+    "question_HighSchool9":"Regina nehezen boldogul a mai számonkéréssel, segíts neki ellopni Maja dolgozatát.",
+    "tip1_HighSchool9":"Próbáld meg elterelni Maja figyelmét, mielőtt kicseréled a dolgozatokat.",
+    "tip2_HighSchool9":"Lökd le a tolltartót, hogy eltereld Maja figyelmét.",
+    "endText_HighSchool9":"'MICSODA!? Ez nem az én dolgozatom?! Mindegy, megcsinálom újra az egészet, már nem több egy sima ujjgyakorlatnál.' - Maja",
+    
+    
+    "question_HighSchool10":"Segíts Martinnak elkerülni az ellenfeleket.",
+    "tip1_HighSchool10":"Szabotáld a védőket, hogy segíts Martinnak.",
+    "tip2_HighSchool10":"Az első ellenfélnek kilazult a cipőfűzője, a másodiknak elfordítható a sisakja.",
+    "endText_HighSchool10":"'Touchdown, bébi!' - Martin",
+    
+    
+    "question_HighSchool11":"Segíts Reginának követni a pomponlányok koreográfiáját.",
+    "tip1_HighSchool11":"Koppints a karjára és a testére, hogy kövesd a mozdulatokat.",
+    "tip2_HighSchool11":"A harmadik kör után megváltozik a séma.",
+    "endText_HighSchool11":"'Nemsokára én leszek a pomponlányok kapitánya!' - Regina",
+    
+    
+    "question_HighSchool12":"Segíts nekik piramist formálni.",
+    "tip1_HighSchool12":"Először tedd egymás mellé a kék ruhás lányokat.",
+    "tip2_HighSchool12":"Tedd középre a sárga ruhásokat, majd legfelülre Reginát.",
+    "endText_HighSchool12":"'Ezután biztosan én leszek a gimi legnépszerűbb lánya!' - Regina",
+    
+    
+    "question_HighSchool13":"Maja bosszút akar állni Reginán.",
+    "tip1_HighSchool13":"Martin figyelmét el kell terelni valahogyan.",
+    "tip2_HighSchool13":"Változtasd meg Maja megjelenését azzal, hogy leveszed a szemüvegét és a hajgumiját.",
+    "endText_HighSchool13":"'Ki ez a csinos lány?!' - Martin",
+    
+    
+    "question_HighSchool14":"Regina ismét Maját zaklatja. Ideje ennek véget vetni!",
+    "tip1_HighSchool14":"Az asztal veszélyes lehet.",
+    "tip2_HighSchool14":"Távolítsd el az asztallábat merevítő vasakat.",
+    "endText_HighSchool14":"'Fizetni fogsz a tönkretett ebédünkért, hallod?!' - Regina",
+    
+    
+    "question_HighSchool15":"Martin késik az ebédről. Segíts neki átjutni a tömegen.",
+    "tip1_HighSchool15":"A korlát alkalmas lehet csúszásra.",
+    "tip2_HighSchool15":"Távolítsd el az ülő diákot, mielőtt Martint a korláthoz húznád.",
+    "endText_HighSchool15":"'Jíhá!' - Martin'Most mit kell menőzni?' - Diák a lépcsőn",
+    
+    
+    "question_HighSchool16":"Segíts Majának megnyerni a vitaversenyt.",
+    "tip1_HighSchool16":"Érd el, hogy ellenfele egyetértsen Maja érveivel.",
+    "tip2_HighSchool16":"Keress négyzeteket, hogy ki tudd cserélni a háromszögeket.",
+    "endText_HighSchool16":"'Én leszek az első női miniszterelnök!' - Maja",
+    
+    
+    "question_HighSchool17":"Martin ki akarja békíteni Maját és Reginát.",
+    "tip1_HighSchool17":"Regina odaszalad az integető Martinhoz.",
+    "tip2_HighSchool17":"Koppints Martinra, hogy integessen. Helyezd őt olyan helyre, hogy Regina Maja felé szaladjon.",
+    "endText_HighSchool17":"'Most pedig kérlek, bocsássatok meg egymásnak!' - Martin",
+    
+    
+    "question_HighSchool18":"Martin terve nem vált be. Le kell állítania a verekedést.",
+    "tip1_HighSchool18":"Meg kell szólaltatnod a riasztót.",
+    "tip2_HighSchool18":"A riasztó gombja az egyik diák mögött van elrejtve.",
+    "endText_HighSchool18":"'Ezt mégis mire véljem?!' - Irtózatosan ideges igazgató",
+    
+    
+    "question_HighSchool19":"Ne hagyd, hogy az igazgató bármelyiküket elkapja.",
+    "tip1_HighSchool19":"A hozzá legközelebb lévő lány felé fog futni.",
+    "tip2_HighSchool19":"Mozgasd őket addig, amíg a férfi el nem fárad.",
+    "endText_HighSchool19":"'Azta, nagyszerűen dolgoztunk csapatként!' - Maja'Talán mégsem vagy egy született vesztes!' - Regina",
+    
+    
+    "question_HighSchool20":"Mindketten büntetésbe kerültek. Itt az alkalom, hogy összebarátkozzanak.",
+    "tip1_HighSchool20":"Keress ragasztót, hogy megjavítsd Maja szemüvegét.",
+    "tip2_HighSchool20":"Tegyél ragasztót a törött szemüvegdarabokra, majd illeszd össze őket. Maja megcsinálhatja Regina feladatát.",
+    "endText_HighSchool20":"'Köszi, hogy megjavítottad a szemüvegemet.'' - Maja'Én pedig köszönöm, hogy segítettél megcsinálni a feladatot.' - ReginaÍgy váltak hamar barátokká a történtek után.",
+
+    
+    "question_Eddie1":"Gaz M. Bernátnak meg kell szabadulnia az őrtől.",
+    "tip1_Eddie1":"Távolítsd el a csatorna fedelét.",
+    "tip2_Eddie1":"Tedd a csatornát az őr útjába.",
+    "endText_Eddie1":"'Rühellem ezt a börtönt! Én léptem!' - Gaz M. Bernát",
+    "question_Eddie2":"Állítsd meg az őröket!",
+    "tip1_Eddie2":"Nyisd ki a kulccsal a cellát.",
+    "tip2_Eddie2":"Koppints a fegyencre, hogy megsokszorozd.",
+    "endText_Eddie2":"'Kösz, haver! Hívj fel, ha letöltötted a büntetésed, hasznát tudnám venni a képességeidnek.' - Gaz M. Bernát",
+    "question_Eddie3":"Segíts lejutni Bernátnak.",
+    "tip1_Eddie3":"Húzd le az épületet a talaj szintjére.",
+    "tip2_Eddie3":"Húzd felfelé az épületet, hogy az őrök rajta maradjanak.",
+    "endText_Eddie3":"'Hogy jutottam ilyen erő birtokába?! Mindegy, SZABAD VAGYOOOK!' - Gaz M. Bernát",
+    "question_Eddie4":"Meg kell kaparintania azt a kocsikulcsot.",
+    "tip1_Eddie4":"Vedd el a sétabotot az öregúrtól.",
+    "tip2_Eddie4":"Add Bernátnak a botot.",
+    "endText_Eddie4":"'Remélem, van elég lóerő a kocsidban, lúzer!' - Gaz M. Bernát",
+    "question_Eddie5":"A rendőrök Bernát nyomában vannak. Le kell hagynia őket.",
+    "tip1_Eddie5":"Az ujjaddal tudsz sávot váltani.",
+    "tip2_Eddie5":"Válts az utolsó pillanatban sávot, hogy a rendőrautó összeütközzön a szembejövő kocsival.",
+    "endText_Eddie5":"'Na, a zsarukat leráztam! Most elégtételt veszek Smithen és a kis barátain!' - Gaz M. Bernát",
+    "question_Eddie6":"Bernátnak tönkre kell tennie Eszesiék napját.",
+    "tip1_Eddie6":"Készíts golyót a zoknikból.",
+    "tip2_Eddie6":"Tegyél egy könyvet a zoknik közé.",
+    "endText_Eddie6":"'Hupsz! A gyereknevelés néha fájdalmas, hehehe' - Gaz M. Bernát",
+    "question_Eddie7":"Most Félixen, a macskán a sor.",
+    "tip1_Eddie7":"Hergeld fel a rákkal az elefántot.",
+    "tip2_Eddie7":"Tedd a teknőspáncélt az elefánt útjába.",
+    "endText_Eddie7":"'Elég a szunyálásból, lusta macska!' - Gaz M. Bernát",
+    "question_Eddie8":"Bernátnak romba kell döntenie Lizi eddigi diétáját.",
+    "tip1_Eddie8":"Nyisd ki a hűtőt, és adj egy epret Lizinek.",
+    "tip2_Eddie8":"Növeld meg az eper méretét.",
+    "endText_Eddie8":"'Ne aggódj, Lizi! Kölcsön adom neked a kondibérletemet, hehehe!' - Gaz M. Bernát",
+    "question_Eddie9":"Bernátnak most Emmát kell móresre tanítania.",
+    "tip1_Eddie9":"A mézcseppet egy méhecske követi.",
+    "tip2_Eddie9":"Húzd Emmát a tehén mögé, majd érd el, hogy a méh megcsípje az állatot.",
+    "endText_Eddie9":"'Talán egy kicsit most túlzásba estem, kislányokat nem illik bántani. Na mindegy...' - Gaz M. Bernát",
+    "question_Eddie10":"Bettire is egy kellemetlen meglepetés vár.",
+    "tip1_Eddie10":"Nyisd ki a ház mögött lévő esernyőt.",
+    "tip2_Eddie10":"Add az esernyőt Bettinek.",
+    "endText_Eddie10":"'Jó repülést! Hehehe!' - Gaz M. Bernát",
+    "question_Eddie11":"Bettinek le kell zuhannia.",
+    "tip1_Eddie11":"Húzd egymáshoz a felhőket.",
+    "tip2_Eddie11":"Bettinek neki kell szállnia a sötét felhőnek.",
+    "endText_Eddie11":"'Egyszer fent, egyszer lent. Szó szerint, hehehe!' - Gaz M. Bernát",
+    "question_Eddie12":"Bernát ki nem állhatja a pomponlányokat.",
+    "tip1_Eddie12":"A pomponokat Bernátnak tudod adni.",
+    "tip2_Eddie12":"Mindegyik pompon más utasítást ad a lányoknak. Tereld őket arra a helyre, ahová Betti fog zuhanni.",
+    "endText_Eddie12":"'Ezt nevezem telitalálatnak! Hehehe!' - Gaz M. Bernát",
+    "question_Eddie13":"Ne hagyd, hogy Martin letarolja Bernátot.",
+    "tip1_Eddie13":"Keresd meg a csatornanyílást a bokor mögött.",
+    "tip2_Eddie13":"Helyezd a csatornanyílást Martin útjába.",
+    "endText_Eddie13":"'Ne felejts el köszönni a zombiknak, kölyök!' - Gaz M. Bernát",
+    "question_Eddie14":"Bernátnak el kell lopnia Helen kapitány kincsesládáját.",
+    "tip1_Eddie14":"Dobd ki a gyertyát az ablakon.",
+    "tip2_Eddie14":"Nyisd ki a kulccsal a ládát.",
+    "endText_Eddie14":"'Hát, Helen, ezt a zsákmányt lenyúlom!' - Gaz M. Bernát",
+    "question_Eddie15":"Védd meg Bernátot Helen támadásától.",
+    "tip1_Eddie15":"Húzd félre Bernátot a becsapódás helyéről.",
+    "tip2_Eddie15":"Hatástalanítsd az ágyút a kókuszdióval.",
+    "endText_Eddie15":"'Ez az! A kincs csak az enyém! Ideje meglátogatnom Joe-t és Smitht!' - Gaz M. Bernát",
+    "question_Eddie16":"Bernátnak elő kell csalogatnia Szörnyvadász Joe-t, hogy elbánhasson vele.",
+    "tip1_Eddie16":"Növeld meg a pók méretét.",
+    "tip2_Eddie16":"Érd el, hogy Joe belelőjön a hordóba.",
+    "endText_Eddie16":"'Mondd meg, hol van Smith!' - Gaz M. Bernát'Úton van, hogy véget vessen az ámokfutásodnak!' - Szörnyvadász Joe",
+    "question_Eddie17":"Bernátnak meg kell állítania Smith ügynököt.",
+    "tip1_Eddie17":"Az eldugott mágnessel megmozdíthatsz egy súlyos tárgyat.",
+    "tip2_Eddie17":"Egy kalapács van a szikla mögött. Találd el vele Smitht.",
+    "endText_Eddie17":"'Nem csak neked vannak agyafúrt ötleteid, Smith!' - Gaz M. Bernát",
+    "question_Eddie18":"Bernátnak le kell löknie Smitht az épületről, hogy végezzen vele egyszer s mindenkorra.",
+    "tip1_Eddie18":"Húzd be a ponyvát.",
+    "tip2_Eddie18":"Etesd meg a lóval a szénát.",
+    "endText_Eddie18":"'Viszlát a pokolban, Smith. Hahahahaha!' - Gaz M. Bernát",
+    "question_Eddie19":"Itt az ideje megidézni a Sötét Nagyurat.",
+    "tip1_Eddie19":"Koppints az energiagömbökre, hogy megváltoztasd a színüket.",
+    "tip2_Eddie19":"Változtasd meg a színüket a portálénak megfelelően.",
+    "endText_Eddie19":"'Szép munka, Bernát! Emberfeletti erővel ruházlak fel, és együtt leigázzuk a világot!' - Sötét Nagyúr'Végre valahára sikerült! IGEN!' - Gaz M. Bernát",
+    "question_Eddie20":"Keltsd fel Bernátot.",
+    "tip1_Eddie20":"Keresd meg azt az álomképet, amelyikkel jókedvre bírhatod.",
+    "tip2_Eddie20":"Világíts a zseblámpa fényével Bernát arcába.",
+    "endText_Eddie20":"'EZ NEM LEHET! Az egészet csak álmodtam! NEEEEEEEEE!' - Gaz M. BernátÚjabb Brain Test-sztori ér véget happy enddel. Véssétek az eszetekbe, srácok: a rosszfiúk soha nem győzhetnek!",
+
+    
+    "gdpr_consent_title":"Üdv!",
+    "gdpr_consent_text":"Az Elfogadás és folytatás gomb megnyomásával megerősíted, hogy átnézted és elfogadtad a <link=\"https://unicostudio.co/terms.html\"><#C7F463>Felhasználási feltételeket</color></link> és az <link=\"https://unicostudio.co/privacy.html\"><#C7F463>Adatvédelmi irányelveket</color></link>.",
+    "gdpr_consent_button":"ELFOGADÁS És FOLYTATÁS",
+
+    "bonus_screen_super_bulb":"Szuperégő",
+    "north":"É",
+    "south":"D",
+    "west":"N",
+    "east":"K"
+}

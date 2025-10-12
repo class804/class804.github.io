@@ -1,0 +1,1888 @@
+{
+    "watch_video_title":"BẠN CÓ MUỐN XEM VIDEO KHÔNG?",
+    "watch_video_button":"XEM",
+    "skip_level_title":"BẠN CÓ MUỐN BỎ QUA CẤP NÀY?",
+    "skip_level_button":"BỎ QUA",
+    "gift_tomorrow":"NGÀY MAI LẠI CHƠI NHÉ!",
+    "level_title":"CẤP ĐỘ ",
+    "settings_english":"tiếng việt",
+    "settings_title":"CÀI ĐẶT",
+    "settings_sound":"ÂM THANH",
+    "settings_music":"ÂM NHẠC",
+    "settings_notification":"THÔNG BÁO",
+    "settings_support":"ỦNG HỘ",
+    "settings_share":"CHIA SẺ",
+    "settings_restore":"KHÔI PHỤC",
+    "settings_language":"NGÔN NGỮ",
+    "settings_share_text":"Trò chơi thật tuyệt vời! Hãy chơi trò này cùng với mình nhé. ",
+    "settings_email_text":"Nhập thông điệp của bạn ở đây.    ________  Please Do Not Modify This  Model:   OS: {1}  Application Version: {2}  ________",
+    "levels_title":"CÁC CẤP ĐỘ",
+    "levels_skipped":"ĐÃ BỎ QUA",
+    "nextLevel_next_button":"KẾ TIẾP",
+    "shop_title":"CỬA HÀNG",
+    "shop_bundle1_title":"ƯU ĐÃI CỰC ĐỈNH",
+    "shop_bundle2_title":"LỰA CHỌN TỐI ƯU",
+    "shop_sale":"GIẢM GIÁ %",
+    "shop_remove_ads":"loại bỏ các quảng cáo",
+    "shop_purchased":"MUA",
+    "shop_loading":"Đang tải",
+    "startScreen_title":"KIỂM TRA TRÌNH ĐỘ",
+    "startScreen_text":"BẠN ĐÃ SẴN SÀNG ĐỂ KIỂM TRA TRÌNH ĐỘ CỦA MÌNH CHƯA",
+    "startScreen_button":"SẴN SÀNG",
+    "rateScreen_title":"ĐÁNH GIÁ",
+    "rateScreen_hint":"CHO 5 SAO :)",
+    "rateScreen_question":"Bạn thích trò chơi của chúng tôi chứ?",
+    "rateScreen_thanks":"Cảm ơn đã ủng hộ trò chơi của chúng tôi!",
+    "vipPanel_becomevip":"TRỞ THÀNH VIP!",
+    "vipPanel_get":"NHẬN",
+    "vipPanel_and":"VÀ ...",
+    "vipPanel_remove_ads":"loại bỏ các quảng cáo",
+    "vipPanel_double_daily_gifts":"nhân đôi quà tặng hàng ngày",
+    "vipPanel_cheaper_skips":"bỏ qua rẻ hơn",
+    "vipPanel_cheaper_hints":"gợi ý rẻ hơn",
+    "vipPanel_try_for_free":"DÙNG THỬ MIỄN PHÍ",
+    "vipPanel_3_days_free":"3 ngày miễn phí",
+    "vipPanel_price":" mỗi tuần",
+    "vipPanel_disclaimer":"Gói Cao Cấp Tuần sẽ tự động gia hạn với giá {2} mỗi tuần sau khi dùng thử miễn phí trong 3 ngày. Hóa đơn sẽ được trừ vào tài khoản  của bạn sau khi thời gian dùng thử chấm dứt. Việc đăng ký mua sẽ tự động gia hạn, trừ khi tự động gia hạn bị tắt ít nhất 24 giờ trước khi giai đoạn hiện tại kết thúc. Bạn có thể quản lý và tắt tự động gia hạn đăng ký trong cài đặt tài khoản của bạn trên {1} sau khi mua.",
+    "vipPanel_privacy_policy":"CHÍNH SÁCH BẢO MẬT",
+    "vipPanel_terms_of_use":"ĐIỀU KHOẢN SỬ DỤNG",
+    "bonusPanel_pick_bonus":"CHỌN MỘT PHẦN THƯỞNG",
+    "bonusPanel_no_thanks":"KHÔNG, CÁM ƠN",
+    "bonusPanel_collect":"NHẬN THƯỞNG",
+    "noti_text1": "Đã đến lúc Vui chơi tí rồi nhỉ :)",
+    "noti_text2": "Câu đố này sẽ khiến bạn cười banh họng luôn :)",
+    "noti_text3": "Đến đây và thách thức bản thân với các câu đố mẹo nào.",
+    "crosspromo_play":"CHƠI NGAY!",
+    "crosspromo_title":"TRÒ CHƠI KHÁC",
+    "free":"MIỄN PHÍ",
+
+    "submit":"GỬI",
+    "reset":"RESET",
+    "next_levels":"CÁC CẤP ĐỘ MỚI",
+    "coming_soon":"SẮP RA MẮT",
+
+    "level_50_title":"CẤP ĐỘ",
+    "knights":"KỊ SĨ",
+    "barbarians":"KẺ HUNG BẠO",
+    "leve":"LEVE ",
+    "red":"MÀU ĐỎ",
+    "purple":"MÀU TÍM",
+    "blue":"MÀU XANH",
+    "black":"ĐEN",
+    "yellow":"MÀU VÀNG",
+    "orange":"MÀU CAM",
+    "front":"CẢ TRƯỚC",
+    "back":"LẪN SAU",
+    "go":"CHẠY!",
+
+    "dog":"CHÓ",
+    "kit":"CHIM",
+    "calf":"GÀ",
+    "mitty":"BÒ",
+
+    "march":"THÁNG BA",
+    "february":"THÁNG HAI",
+    "may":"THÁNG TƯ",
+
+    "victory_1":"VIC",
+    "victory_2":"TO",
+    "victory_3":"RY",
+
+    "turn_right":"RẼ PHẢI",
+
+    "jamaica":"Trung Quốc",
+    "france":"Pháp",
+    "madagascar":"Ai Cập",
+    "usa":"Mỹ",
+    "mars":"Mặt Trăng",
+    "mordor":"Tất cả các đáp án trên",
+
+    "out_of_order":"KHÔNG THỂ SỬ DỤNG",
+
+    "battle":"ĐẤU",
+
+    "fight":"ĐẤU!",
+    "jump":"NHẢY!",
+    "fire":"BẮN!",
+
+    "new_york":"Hà Nội",
+    "new_jersey":"Sài Gòn",
+
+    "question_1": "Đâu là con vật to nhất?",
+    "hint_1": "ĐỂ Ý VÀO KÍCH CỠ ĐI NÀO.",
+    "endText_1": "SƯ TỬ CÓ KÍCH CỠ TO NHẤT.",
+
+    "question_2": "Số bị ẩn là số mấy nhỉ?",
+    "hint_2": "NHÌN THEO MỘT GÓC ĐỘ KHÁC ĐI.",
+    "endText_2": "GÓC NHÌN KHÁC LUÔN GIÚP TA GIẢI QUYẾT VẤN ĐỀ.",
+
+    "question_3": "Đốt cháy mọi thứ thành tro tàn!",
+    "hint_3": "ĐỪNG CHỈ CHÚ Ý VÀO CÁC HÌNH ẢNH.",
+    "endText_3": "GIỜ THÌ BẠN ĐÃ ĐỐT CHÁY \"MỌI THỨ\" RỒI ĐẤY.",
+
+    "question_4": "Có bao nhiêu lỗ trên áo? CẢ TRƯỚC LẪN SAU",
+    "hint_4": "NHỚ ĐẾM Ở MẶT SAU NỮA NHÉ.",
+    "endText_4": "THỈNH THOẢNG CŨNG NÊN PHÁT HUY TRÍ TƯỞNG TƯỢNG NHÉ.",
+
+    "question_5": "Hãy làm hoa nở.",
+    "hint_5": "MÂY XANH THÌ NẮNG, MÂY TRẮNG THÌ MƯA.",
+    "endText_5": "BÔNG HOA MỚI ĐẸP LÀM SAO!",
+
+    "question_6": "Cái gì gần với chúng ta nhất?",
+    "hint_6": "\"CHÚNG TA\"",
+    "endText_6": "HÃY NHỚ KĨ MỖI TỪ NGỮ TRONG CÂU HỎI ĐỀU LÀ MỘT PHẦN CỦA CÂU TRẢ LỜI.",
+
+    "question_7": "Hãy nhấp vào các con vật, từ nhỏ nhất đến lớn nhất.",
+    "hint_7": "ĐÃ BẢO LÀ CON VẬT MÀ :)",
+    "endText_7": "CÂY CỐI KHÔNG PHẢI LÀ CON VẬT NHÉ!",
+
+    "question_8": "Hãy chụp lấy  quả táo đang rơi xuống!",
+    "hint_8": "NHỚ LÀ CHỈ CHỤP NHỮNG QUẢ NÀO RƠI THÔI.",
+    "endText_8": "THẬT VI DIỆU NẾU MẤY QUẢ TÁO BIẾT BAY NHỈ!",
+
+    "question_9": "Tôi đã vượt qua tay đua thứ 2, hiện tại tôi đứng thứ mấy?",
+    "hint_9": "MỘT TRONG NHỮNG CÂU ĐỐ MẸO KINH ĐIỂN NHẤT ĐẤY.",
+    "endText_9": "ĐÃ ĐẾN LÚC DẪN ĐẦU CUỘC ĐUA RỒI.",
+
+    "question_11": "Hãy trượt sang trái để mở khóa.",
+    "hint_11": "NHỚ ĐỌC KỸ ĐỀ TRƯỚC KHI LÀM.",
+    "endText_11": "LỪA ĐƯỢC BẠN RỒI NHÉ!",
+
+    "question_12": "Mèo Mun đang đói, hãy cho nó ăn nhé!",
+    "hint_12": "TRÊN MÀN HÌNH ĐÂU CHỈ CÓ MỘT MÈO ĐÂU.",
+    "endText_12": "TỪ \"MÈO \"CŨNG LÀ MÈO MÀ.",
+
+    "question_13": "Quả bóng màu xanh lá ở đâu?",
+    "hint_13": "LÀM SAO ĐỂ CÓ ĐƯỢC MÀU XANH LÁ NHỈ?",
+    "endText_13": "XANH LAM+VÀNG= XANH LÁ, PHỐI MÀU CƠ BẢN ĐẤY…",
+
+    "question_14": "Hãy tìm ra lỗi trong câu này.",
+    "hint_14": "THỬ NHÌN CÂU HỎI KĨ NHÉ.",
+    "endText_14": "TỰ VẤN LẠI LÀ CÁCH TỐT NHẤT.",
+
+    "question_15": "Người ta thường nói           hại chết mèo, nhưng bạn thì có thể làm điều đó không nhỉ?",
+    "hint_15": "ĐIỀU GÌ ĐÃ GIẾT CHẾT CHÚ MÈO! DÙNG NÓ LẠI LÀ ĐƯỢC.",
+    "endText_15": "ĐỪNG LO, NÓ VẪN CÒN ĐẾN 8 MẠNG NỮA MÀ.",
+
+    "question_16": "Chúng ta có bao nhiêu lát pizza nào?",
+    "hint_16": "TÌM PHÍA SAU NỮA NHÉ.",
+    "endText_16": "NHỚ NHÉ, LUÔN NHÌN KĨ.",
+
+    "question_17": "Nguy hiểm quá! Tắt đi!",
+    "hint_17": "NHÌN KỸ CÁI ẤM ĐUN NƯỚC ẤY!",
+    "endText_17": "DỄ NHƯ ĂN KẸO PHẢI KHÔNG NÀO!",
+
+    "question_18": "Ai thắng trận chiến này?",
+    "hint_18": "CỨ ĐỂ BỌN HỌ ĐÁNH NHAU XEM NÀO.",
+    "endText_18": "TRẬN CHIẾN TỪ NGỮ.",
+
+    "question_19": "4 + 5 x 5 - 2 =?",
+    "hint_19": "NHỚ NHÉ, NHÂN CHIA TRƯỚC, CỘNG TRỪ SAU.",
+    "endText_19": "TOÁN CƠ BẢN ĐẤY!",
+
+    "question_20": "Nhấn vào chúng theo thứ tự: 1, 49, 80, 5, 7, 11, 101",
+    "hint_20": "BẠN CÓ THỂ VIẾT RA GIẤY TRƯỚC MÀ.",
+    "endText_20": "TRÍ NHỚ TỐT ĐẤY!",
+    "custom1_20":"Nhấn vào chúng theo thứ tự",
+
+    "question_21": "Cho Mun vào nhà với, ở ngoài này lạnh quá trời.",
+    "hint_21": "MỞ CỬA BẰNG TRỌNG LỰC.",
+    "endText_21": "GiỜ MUN CÓ THỂ NGỦ ĐƯỢC RỒI.",
+
+    "question_23": "Có bao nhiêu tháng có 28 ngày?",
+    "hint_23": "31 > 28",
+    "endText_23": "THÁNG NÀO MÀ CHẢ CÓ ÍT NHẤT 28 NGÀY!",
+
+    "question_24": "Hãy cứu cậu bé này!",
+    "hint_24": "ĐÀO KHÚC XƯƠNG LÊN.",
+    "endText_24": "BẠN ĐÃ CỨU MỘT MẠNG NGƯỜI!",
+
+    "question_26": "Con cừu        sẽ ở đâu nào?",
+    "hint_26": "TÔ MỘT CON THÀNH MÀU ĐEN LÀ ĐƯỢC MÀ.",
+    "endText_26": "Á À, ĐÂY RỒI NHÉ!",
+
+    "question_27": "Tấm hình này có gì đó sai sai?",
+    "hint_27": "XÒE BÀN TAY, ĐẾM NGÓN TAY!",
+    "endText_27": "6 NGÓN NHÉ.",
+
+    "question_28": "Hãy bật tất cả các đèn.",
+    "hint_28": "TẤT CẢ CÁC ĐÈN ‘TRONG’ MÀN HÌNH ẤY.",
+    "endText_28": "CÁI THỨ BA BỊ LỖI RỒI, CÂU ĐỐ BÁ ĐẠO THẬT!",
+
+    "question_29": "10 = 25",
+    "hint_29": "PHÉP TÍNH BẰNG THÌ HAI BÊN NHƯ NHAU MÀ.",
+    "endText_29": "ĐỪNG NGHĨ NGHIÊM TÚC QUÁ VỀ MẤY CÂU ĐỐ.",
+
+    "question_30": "Chữ cái cuối cùng trong bảng chữ cái là gì?",
+    "hint_30": "\"BẢNG CHỮ CÁI\"",
+    "endText_30": "MONG LÀ BẠN KHÔNG NÓI LÀ CHỮ \"Z\"",
+
+    "question_31": "Làm sao để xe buýt đi qua được đây?",
+    "hint_31": "LÀM SAO ĐỂ PHÓNG TO VÀ THU NHỎ HÌNH ẢNH NHỈ?",
+    "endText_31": "CHIẾC XE BUS NÀY ĐÚNG LÀ KÌ DIỆU!",
+
+    "question_32": "Một vị khách không mời mà đến đang ẩn nấp trong buổi tiệc mèo này!",
+    "hint_32": "THỬ NHẤP ĐẠI LUNG TUNG XEM NÀO.",
+    "endText_32": "ĐÂY RỒI NHÉ! CHÚ CHUỘT HƯ ĐỐN!",
+
+    "question_33": "Cứu cô ấy nhanh lên!",
+    "hint_33": "SẤM SÉT NỔI LÊN KHI MÂY ĐEN KÉO ĐẾN.",
+    "endText_33": "HÃY NHẬN SỰ TRỪNG PHẠT TỪ CÁC VỊ THẦN!",
+
+    "question_34": "Nhấp vào nút màu xanh  lần.",
+    "hint_34": "TÌM CÁI NÚT MÀU XANH ĐANG BỊ ẨN ĐI.",
+    "endText_34": "MẸO TÍ THÔI MÀ!",
+
+    "question_37": "Có bao nhiêu quả bóng?",
+    "hint_37": "BẠN KHÔNG THỂ NHÌN BÊN TRONG RỔ BÓNG ĐƯỢC.",
+    "endText_37": "ĐÚNG RỒI ĐẤY, ĐỪNG TIN MẤY CÁI RỔ.",
+
+    "question_38": "Sửa lại phép toán này.",
+    "hint_38": "SỐ NÀO THỪA THÌ XÓA.",
+    "endText_38": "SAI LÀ NHỚ PHẢI XÓA ĐẤY!",
+
+    "question_39": "Mèo Mun lại đói rồi, hãy giúp bạn ấy.",
+    "hint_39": "CÓ KHI TRONG HỘP THỨC ĂN CÓ CHUỘT ĐẤY!",
+    "endText_39": "MUN KHÔNG NÊN ĂN QUÁ NHIỀU!",
+
+    "question_41": "Hãy làm cho họ yêu nhau đi nào.",
+    "hint_41": "BONG BÓNG NỔ SẼ ĐÁNH THỨC ANH CHÀNG MÊ NGỦ NÀY.",
+    "endText_41": "YÊU NGAY TỪ CÁI NHÌN ĐẦU TIÊN!",
+
+    "question_42": "Hãy hoàn thành cấ độ này.",
+    "hint_42": "CÂU HỎI THIẾU CÁI GÌ ĐẤY THÌ PHẢI.",
+    "endText_42": "MỌI THỨ ĐỀU BÊN BẠN.",
+    "custom1_42":"Hãy hoàn thành cấp độ này.",
+
+    "question_43": "Lắc xí ngầu dở quá! Giúp tôi với!",
+    "hint_43": "LẮC LÊN NÀO.",
+    "endText_43": "CHÀ, BẠN MAY PHẾT NHỈ.",
+
+    "question_44": "Con của mèo thì gọi là gì?",
+    "hint_44": "CÂU TRẢ LỜI ĐÃ NẰM NGAY TRONG CÂU HỎI.",
+    "endText_44": "CHỈ THẾ THÔI!",
+
+    "question_45": "Con mèo nào ở bên phải?",
+    "hint_45": "MỞ RỘNG TẦM NHÌN ĐI, VÀ BẠN SẼ THẤY CÂU TRẢ LỜI.",
+    "endText_45": "HẮN TA KIA KÌA!",
+
+    "question_46": "Tôi thấy câu đố này trên reddit. Con bò ở đâu?",
+    "hint_46": "LOÀI BÒ GHÉT MÀU ĐỎ LẮM.",
+    "endText_46": "NÓ KIA RỒI.",
+
+    "question_47": "Khi tôi 6 tuổi, em gái tôi bằng một nửa số tuổi tôi và anh trai tôi gấp đôi tuổi tôi. 5 năm sau, tổng số tuổi của em gái và anh trai tôi là bao nhiêu?",
+    "hint_47": "EM GÁI 3 TUỔI, ANH TRAI 12 TUỔI. 5 NĂM SAU THÌ HAI NGƯỜI MẤY TUỔI NHỈ?",
+    "endText_47": "KHÔNG CÓ ĐỐ MẸO GÌ ĐÂU.",
+
+    "question_48": "3 + 8 = 11",
+    "hint_48": "CỨ THẾ MÀ CỘNG!",
+    "endText_48": "CÁC PHÉP TOÁN KHÁC SAI HẾT.",
+
+    "question_49": "Các thú cưng của bạn sắp chết đuối rồi, bạn sẽ cứu con nào đây?",
+    "hint_49": "BẠN CÓ 5 NGÓN TAY, DÙNG CẢ ĐI!",
+    "endText_49": "HAHA! CỨU ĐƯỢC HẾT RỒI NHÉ!",
+
+    "question_50": "Hãy sửa phép toán này lại cho đúng.",
+    "hint_50": "CHÚNG TA ĐANG Ở CẤP ĐỘ MẤY NHỈ? CON SỐ NÀY LÀ MỘT GỢI Ý ĐẤY.",
+    "endText_50": "GIẢI PHÁP CÓ Ở KHẮP NƠI QUANH TA!",
+
+    "question_51": "Giúp tớ tìm tất với!",
+    "hint_51": "NHÌN GÓC RỘNG HƠN THỬ XEM.",
+    "endText_51": "CẢM ƠN NHÉ! CHÂN TỚ LẠNH CÓNG CẢ RỒI!",
+
+    "question_52": "Giúp xe qua cầu nào.",
+    "hint_52": "BẠN PHẢI GIA CỐ MẤY VIÊN GẠCH YẾU ỚT ĐÓ BẰNG CÁC NGÓN TAY MÌNH.",
+    "endText_52": "WAO! NGUY HIỂM QUÁ!",
+
+    "question_53": "Tí đói rồi, cho bé ăn thôi.",
+    "hint_53": "CANH NÓNG QUÁ, THÊM ÍT MUỐI ĐI NÀO",
+    "endText_53": "CUỐI CÙNG THÌ TÍ CŨNG ĐƯỢC ĂN RỒI!",
+
+    "question_55": "Mở chai soda.",
+    "hint_55": "THỬ LẮC NÓ LÊN NÀO.",
+    "endText_55": "UỐNG ĐI NÀO!",
+
+    "question_56": "Có con mèo nào ở trên dòng này không?",
+    "hint_56": "ĐẶT CÂU HỎI XUỐNG DƯỚI CON MÈO ĐI.",
+    "endText_56": "ĐÔI KHI BẠN PHẢI NGHĨ ĐƠN GIẢN ĐỂ CÓ CÂU TRẢ LỜI.",
+
+    "question_57": "nan",
+    "hint_57": "ĐẾM SỐ GIAO ĐIỂM ẤY.",
+    "endText_57": "VỚI MỘT NGƯỜI THÔNG MINH NHƯ BẠN THÌ QUÁ DỄ!",
+
+    "question_58": "Tối quá! Tôi không thể tìm thấy con mèo của mình!",
+    "hint_58": "GIÁ MÀ CÓ NGUỒN SÁNG Ở ĐÂY!",
+    "endText_58": "BẠN LẠI GIẢI CỨU CHÚ MÈO THÀNH CÔNG RỒI!",
+
+    "question_59": "Hãy đến đích trước khi hết thời gian.",
+    "hint_59": "ƯỚC GÌ KHÔNG CÓ ĐỒNG HỒ TÍNH GiỜ NHỈ!",
+    "endText_59": "KHOAN! VẬY CŨNG ĐƯỢC TÍNH HẢ?",
+
+    "question_60": "Lấy số lớn nhất có thể.",
+    "hint_60": "CỨ VIẾT RA CON SỐ LỚN NHẤT THÔI.",
+    "endText_60": "VẬY MẤY CÁI PHƯƠNG TRÌNH ĐÓ DÙNG ĐỂ LÀM GÌ?",
+
+    "question_61": "DỖ em bé nín khóc giúp tôi với!",
+    "hint_61": "HÃY DÙNG ĐIỆN THOẠI CỦA BẠN ĐỂ ĐẢO NGƯỢC TRỌNG LỰC.",
+    "endText_61": "ÔI EM BÉ NGỪNG KHÓC RỒI!",
+
+    "question_62": "Hãy dừng cuộc chiến này lại!",
+    "hint_62": "CHIA CÁI BÁNH RA ĐI NÀO.",
+    "endText_62": "BÁNH QUY CÓ THỂ GIẢI QUYẾT MỌI VẤN ĐỀ, HEHE!",
+
+    "question_63": "Mỗi anh chàng này có đều một chị gái. Có bao nhiêu anh chị em ở đây?",
+    "hint_63": "HỌ CÓ MỘT CHỊ THÔI THÌ SAO?",
+    "endText_63": "ĐỪNG NÓI ĐÁP ÁN CỦA BẠN LÀ 10 ĐẤY NHÉ!",
+
+    "question_64": "Con khỉ nào bị say xe?",
+    "hint_64": "QUẨY ĐIỆN THOẠI LÊN NHƯ CÁI XE HƠI ẤY.",
+    "endText_64": "ÔI BẠN QUẨY NHIỆT TÌNH QUÁ, TỘI NGHIỆP CHÚ KHỈ.",
+
+    "question_65": "Hãy cho con voi vào tủ lạnh.",
+    "hint_65": "TRƯỚC TIÊN PHẢI MỞ TỦ LẠNH ĐÃ CHỨ!",
+    "endText_65": "ĐƠN GIẢN THẾ THÔI MÀ.",
+
+    "question_66": "Chúng tôi cần 10 đô la!",
+    "hint_66": "VÍ ANH TA CÓ VẺ CĂNG.",
+    "endText_66": "BẠN LÀ ĂN TRỘM ĐẤY À?",
+
+    "question_67": "Có bao nhiêu vòng tròn?",
+    "hint_67": "NHÌN KỸ VÀO.",
+    "endText_67": "Ô, MỘT QUẢNG CÁO KHÉO CHO AUDI À?",
+
+    "question_68": "Giúp anh chàng tội nghiệp này với!",
+    "hint_68": "HÃY QUAY MÒNG MÒNG ANH CHÀNG NÀY ĐI.",
+    "endText_68": "BẠN THẬT LÀ TỐT BỤNG.",
+
+    "question_69": "Hãy giúp cho             chiến thắng đi.",
+    "hint_69": "TÔI NÓI \"ĐỎ THẮNG\" CHỨ CÓ NÓI \"XE ĐỎ\" ĐÂU?",
+    "endText_69": "ĐỎ THẮNG RỒI!",
+
+    "question_70": "Chúng tôi cần    quả táo.",
+    "hint_70": "THAY ĐỔI CÁI MÌNH \"CẦN\" ĐI.",
+    "endText_70": "ĐỪNG THAM LAM NHƯ VẬY CHỨ!",
+
+    "question_71": "Hãy bật TV lên.",
+    "hint_71": "CƠ THỂ NGƯỜI CŨNG DẪN ĐIỆN ĐẤY.",
+    "endText_71": "BẠN THẬM CHÍ DÁM DÙNG THÂN MÌNH LÀM ĐƯỜNG TRUYỀN TI VI Ư?",
+
+    "question_72": "Có bao nhiêu đốm ở đây nhỉ?",
+    "hint_72": "LÀ ĐỐM HAY LÀ CHẤM?",
+    "endText_72": "CHÓ ĐỐM GIAN MANH!",
+
+    "question_73": "Mun đang đói, hãy bắt con chuột đó cho Mun đi!",
+    "hint_73": "CẦU TRƯỢT NÀY ĐỔI HƯỚNG ĐƯỢC CHỨ NHỈ?",
+    "endText_73": "CON MÈO NÀY HÁO ĂN LẮM.",
+
+    "question_74": "Tòa nhà nào vững chắc nhất?",
+    "hint_74": "ĐỘNG ĐẤT SẼ LÀ LIỀU THUỐC THỬ CHO CHÚNG.",
+    "endText_74": "Ồ, TÒA NHÀ NÀY TỐT THẬT.",
+
+    "question_75": "Tôi ghét điều này! Đứa bé lại khóc rồi! Hãy giúp tôi ngưng tiếng thét của nó lại đi!",
+    "hint_75": "MỘT QUE KEM SẼ GIÚP ÍCH ĐẤY.",
+    "endText_75": "TÔI KÊU, BẠN GÀO, CHÚNG TA YÊU QUE KEM!",
+
+    "question_77": "Hãy tìm ra các cặp giống nhau và giành chiến thắng trong trò chơi.",
+    "hint_77": "9 LÁ THÌ SAO MÀ TẠO THÀNH ĐỦ CẶP ĐƯỢC?",
+    "endText_77": "NGHĨ HAY LẮM, NHỮNG NGÓN TAY SAMURAI!",
+
+    "question_78": "",
+    "hint_78": "ĐỌC KĨ CÁC CÂU HỎI NHÉ.",
+    "endText_78": "ĐỘ TẬP TRUNG THẬT TUYỆT VỜI!",
+    "custom1_78":"Chọn màu đỏ!",
+    "custom2_78":"Chọn màu vàng!",
+    "custom3_78":"Chọn 'màu đỏ'.",
+
+    "question_79": "Xe màu xanh lam phải dành chiến thắng cuộc đua này.",
+    "hint_79": "HÌNH NHƯ CÓ BÌNH NI-TƠ Ở ĐÂU ĐÂY?",
+    "endText_79": "CÒN HAY HƠN CẢ PHIM FAST AND FURIOUS NỮA!",
+
+    "question_80": "KÍ tự nào có mặt hai lần trong một tuần (twice in a week), một lần trong một năm , (once in a year) nhưng lại không bao giờ xảy ra trong một tháng (never in a month)?",
+    "hint_80": "NHÌN MẤY CHỮ TIẾNG ANH ẤY, CÂU TRẢ LỜI ĐẤY.",
+    "endText_80": "TUYỆT VỜI!",
+
+    "question_81": "Bỏ 6 que tính ra và sắp xếp sao cho những que tính này thành 10.",
+    "hint_81": "10 VIẾT THÀNH CHỮ LÀ GÌ NÀO.",
+    "endText_81": "MƯỜI LÀ 10.",
+
+    "question_82": "Tìm X và Y để phương trình đúng.",
+    "hint_82": "SỐ CẤP ĐỘ HÌNH NHƯ KHÁ LÀ HỮU DỤNG ĐẤY!",
+    "endText_82": "GIỎI ĐẤY!",
+
+    "question_83": "Ôi Mun vẫn đói đấy.",
+    "hint_83": "LẤY RA MỘT QUE DIÊM, THẮP SÁNG, VÀ BÙM!",
+    "endText_83": "MUN SẼ BÉO PHÌ SỚM THÔI!",
+
+    "question_84": "Con muốn muốn 9 viên kẹo cơ.",
+    "hint_84": "LẮC MỘT LẦN THÌ LÀM SAO RỚT XUỐNG HẾT ĐƯỢC.",
+    "endText_84": "TÔI CỰC GHÉT MẤY HỘP KẸO NÀY!",
+
+    "question_85": "Nhấn theo thứ tự từ thấp đến cao.",
+    "hint_85": "578 LÀ CẤP ĐỘ THẤP NHẤT.",
+    "endText_85": "CHỈ LÀ ĐỘ CAO THÔI MÀ!",
+
+    "question_86": "Đừng nói là bạn quên mua quà sinh nhật rồi đấy nhé!",
+    "hint_86": "TÔI ĐÃ THẤY MỘT HỘP QUÀ TRÊN MÀN HÌNH, NHÌN XUỐNG ĐI.",
+    "endText_86": "QUÀ TẶNG HÀNG NGÀY, THẬT VI DIỆU!",
+
+    "question_87": "Phải vào trong xe mới trốn bọn zombie được!",
+    "hint_87": "DÙNG NGÓN TAY ĐỂ DI CHUYỂN ANH TA.",
+    "endText_87": "ĐƯỢC CỨU RỒI!",
+
+    "question_88": "Có bao nhiêu hình vuông nào?",
+    "hint_88": "CÓ HÌNH NÀO ĐÂU?",
+    "endText_88": "HY VỌNG BẠN KHÔNG TÌM KIẾM TRONG VÔ VỌNG.",
+
+    "question_89": "Nhấn nút 1      lần.",
+    "hint_89": "HAY LÀ SỬA LẠI CÂU HỎI NHỈ?",
+    "endText_89": "ĐỪNG BẢO LÀ BẠN NHẤN CÁI NÚT ĐÓ 100 LẦN THẬT ĐẤY CHỨ!",
+
+    "question_90": "Một ngày thất thu của người đi câu, giúp anh ấy một tay đi.",
+    "hint_90": "CÓ THỂ CÓ VÀI CON SÂU TRONG MẤY QUẢ TÁO ĐẤY.",
+    "endText_90": "CHÚNG TA SẼ ĂN CÁ NƯỚNG TỐI NAY NHÉ!",
+
+    "question_91": "Cô ấy buồn vì đã làm cháy món trứng chiên, an ủi cô ấy đi.",
+    "hint_91": "THỬ DÙNG CÁI ĐỒNG HỒ XEM.",
+    "endText_91": "BẠN LÀ NHÀ DU HÀNH THỜI GIAN Ư?",
+
+    "question_92": "Giúp chú ếch này bay lên nào!",
+    "hint_92": "THỬ LÀM NÓ NGỪNG THỞ MỘT LÚC XEM SAO.",
+    "endText_92": "BẠN XEM PHIM SHREK RỒI CHỨ GÌ!",
+
+    "question_94": "Có bao nhiêu hình chữ nhật nào?",
+    "hint_94": "TÁCH CHÚNG RA THỬ XEM.",
+    "endText_94": "TÔI CÁ LÀ BẠN ĐÃ ĐẾM RỒI MỚI TÁCH CHÚNG RA, HỨ!",
+
+    "question_95": "Bắt chuột đi nào!",
+    "hint_95": "SAO PHẢI ĐI QUA CÁI MÊ CUNG ĐẤY NHỈ?",
+    "endText_95": "BẠN ĂN GIAN ĐÚNG KHÔNG?",
+
+    "question_96": "Nhấp vào màu xanh lá 3 lần, xanh lam 10 lần, và đỏ 5 lần.",
+    "hint_96": "MÁY ĐẾM CỦA MÀU XANH LAM LÀ HÀNG ĐỂU ĐẤY!",
+    "endText_96": "ĐỪNG TIN VÀO MẤY CÁI MÁY ĐẾM.",
+
+    "question_97": "Hãy nhấn vào các con bê.",
+    "hint_97": "LÀM SAO ĐỂ CÓ ĐƯỢC BÊ CON ĐÂY? CÓ THỂ LÀ TÌNH YÊU?",
+    "endText_97": "THẬT LÀ MỘT GIA ĐÌNH HẠNH PHÚC!",
+
+    "question_98": "Có bao nhiêu hình khối nào?",
+    "hint_98": "NHÌN VÀO VIỀN ĐIỆN THOẠI, VÀ NHỚ TÍNH LUÔN MẤY CÁI ĐANG BỊ CHE NHÉ!",
+    "endText_98": "MỘT BỘ NÃO THẬT HOÀN HẢO!",
+
+    "question_99": "Tìm sự khác biệt.",
+    "hint_99": "HMM, CHÚNG CÓ VẺ GIỐNG NHAU ĐẤY.",
+    "endText_99": "CÓ KHÁC TÍ NÀO ĐÂU.",
+
+    "question_100": "Hôm nay là sinh nhật 2 tuổi của Tèo. Thắp nến cho cậu nào.",
+    "hint_100": "DÙNG LỬA TỪ CÂY NẾN ĐÃ CHÁY ẤY.",
+    "endText_100": "NHỚ HÃY DÙNG TẤT CẢ NHỮNG GÌ MÌNH CÓ NHÉ.",
+
+    "question_101": "Trứng sô cô la của tôi đâu?!",
+    "hint_101": "MẶT TRỜI ĐÃ LÀM TAN CHẢY SÔ CÔ LA.",
+    "endText_101": "CẢM ƠN VÌ ĐÃ LÀM HỎNG TRỨNG SÔ CÔ LA CỦA TÔI =.=",
+
+    "question_102": "Có bao nhiêu chữ cái còn lại nếu E và T rời khỏi bảng chữ cái Alphabet?",
+    "hint_102": "CÓ TÁM CHỮ CÁI TRONG BẢN CHỮ CÁI ‘ALPHABET.’",
+    "endText_102": "TÔI CÁ LÀ BẠN ĐÃ ĐẾM THỬ BẢN CHỮ CÁI CÓ MẤY CHỮ THẬT ĐẤY, HAHA!",
+
+    "question_103": "Hãy cho tôi thấy sự kiên nhẫn của bạn.",
+    "hint_103": "BÌNH TĨNH CHỜ NHÉ.",
+    "endText_103": "NHẪN LÀ MỘT ĐỨC HẠNH.",
+
+    "question_104": "Chúng ta phải sẵn sàng trước khi khách đến!",
+    "hint_104": "LAU MẤY CÁI LY ĐI.",
+    "endText_104": "SÁNG QUÁ, CHÓI QUÁ!",
+
+    "question_105": "Chú chim nhỏ ngủ quên mất rồi. Thử rung cái cây xem.",
+    "hint_105": "NHỚ GIỮ CÀNH CÂY KHI RUNG NHÉ.",
+    "endText_105": "CHÀO BUỔI SÁNG NHÉ CHIM NHỎ!",
+
+    "question_106": "À ... Cô ấy cũng muốn ăn kem.",
+    "hint_106": "MŨ VÀ TÓC LÀ MỘT COMBO KHÔNG TỒI ĐÂU.",
+    "endText_106": "ĐỪNG NÓI CHO CON BÉ VỀ CHUYỆN MÁI TÓC NHÉ!",
+
+    "question_107": "Hãy hoàn thành phương trình một cách chính xác.",
+    "hint_107": "HÀNG ĐẦU TIÊN LÀ 365.",
+    "endText_107": "BẠN ĐÃ LÀ THẦN TOÁN RỒI ĐẤY!",
+
+    "question_108": "Tôi muốn một ít mayonnaise.",
+    "hint_108": "CẦN PHẢI LẮC CÁI BÌNH LÊN NỮA.",
+    "endText_108": "ĐỪNG NÓI VỚI CHUYÊN GIA DINH DƯỠNG CỦA TÔI NHÉ.",
+
+    "question_109": "Giúp tôi bắt con thỏ đó đi.",
+    "hint_109": "THỬ DI CHUYỂN CÁI HỘP ĐI.",
+    "endText_109": "ĐỪNG LO, TÔI CHỈ BẮT NÓ LÀM THÚ CƯNG THÔI.",
+
+    "question_110": "Bé lại khóc nữa rồi. Lần này chắc là bị đầy hơi.",
+    "hint_110": "THỬ XOA BỤNG BÉ XEM.",
+    "endText_110": "ÚI... MÙI GHÊ QUÁ!",
+
+    "question_111": "Bà dì góa của tôi có ba đứa con. Họ đều kết hôn và có ít nhất 1 người con. Dì tôi có ba cháu trai. Số lượng ghế tối thiểu chúng tôi cần cho bữa tối là bao nhiêu nào?",
+    "hint_111": "BÀ DÌ-3 CẶP VỢ CHỒNG-4 ĐỨA CON.",
+    "endText_111": "MỘT BUỔI TỤ HỌP GIA ĐÌNH ĐÔNG ĐÚC.",
+
+
+    "question_113": "Chia táo cho bọn trẻ, nhưng đừng để đĩa trống.",
+    "hint_113": "ĐƯA TÁO VÀ ĐĨA CHO NGƯỜI CUỐI CÙNG LUÔN.",
+    "endText_113": "VẬY LÀ KHỎI PHẢI RỬA ĐĨA LUÔN.",
+
+    "question_114": "Tôi ghét toán! Loại bỏ con số này đi!",
+    "hint_114": "‘ONE’ TIẾNG ANH LÀ GÌ VÀ NẾU CÓ MỘT CHỮ CÁI PHÍA TRƯỚC NÀO ĐÓ ĐỂ CÓ NGHĨA GIỐNG NHƯ DẸP BỎ.",
+    "endText_114": "G-ONE WITH THE WIND - CUỐN THEO CHIỀU GIÓ.",
+
+    "question_115": "Có bao nhiêu quả trứng nào?",
+    "hint_115": "THỬ LẤY MỘT QUẢ TRỨNG Ở ĐẰNG SAU ĐI.",
+    "endText_115": "SAO THẰNG BÉ LẠI NẤP Ở ĐÓ?",
+
+    "question_116": "Mun, chú mèo muốn bay cao.",
+    "hint_116": "CỨ THỬ THẢ CÁI ĐE TỪ TRÊN CAO XUỐNG ĐỂ TẠO LỰC THẬT MẠNH NÀO.",
+    "endText_116": "GIỜ THÌ KHÔNG PHẢI LO CHO CÁI BỤNG ĐÓI CỦA MUN NỮA!",
+
+    "question_117": "Cho tất cả động vật ăn.",
+    "hint_117": "THEO THỨ TỰ CHUỖI THỨC ĂN ĐI, BẰNG ĐẦU BẰNG CON CHÂU CHẤU.",
+    "endText_117": "MỘT CON MÈO ĂN SẠCH MỌI THỨ.",
+
+    "question_118": "Cậu bé không muốn ăn món xúp mẹ nấu.",
+    "hint_118": "CON ỐC BÊN PHẢI HƠI LỎNG KÌA.",
+    "endText_118": "NGHE LỜI MẸ MỚI LÀ TRẺ NGOAN.",
+
+    "question_119": "Tổng chi phí là bao nhiêu?",
+    "hint_119": "DẸP MẤY CON SỐ KHÔNG PHÍA BÊN TRÁI ĐI.",
+    "endText_119": "BẠN SẼ LÀ MỘT KẾ TOÁN VIÊN TUYỆT VỜI!",
+
+    "question_120": "Eo ơi! Hãy bắt con chuột này trước khi mẹ tôi thấy nó!",
+    "hint_120": "DÙNG VAN KHÓA ĐỂ BẪY CON CHUỘT.",
+    "endText_120": "MUN ƠI, BỮA ĂN CỦA MÀY ĐẤY!",
+
+    "question_121": "Giáo viên muốn có một hình chữ nhật.",
+    "hint_121": "CẮT HÌNH THANG THÀNH HÌNH CHỮ NHẬT LÀ ĐƯỢC MÀ.",
+    "endText_121": "GIỜ THÌ NHẬN ĐIỂM TUYỆT ĐỐI THÔI!",
+
+    "question_122": "Giúp cây kéo giành chiến thắng.",
+    "hint_122": "CŨNG GIỐNG KÉO BÚA BAO THÔI, LOẠI HÒN ĐÁ RA TRƯỚC ĐI.",
+    "endText_122": "TÔI THÍCH CHƠI OẢN TÙ TÌ LẮM, ĐẶC BIỆT LÀ NHỮNG LÚC TÔI THẮNG ẤY.",
+
+    "question_123": "Sửa thành phép tính đúng.",
+    "hint_123": "THỬ BẮN VÀO DẤU NHÂN XEM.",
+    "endText_123": "PHƯƠNG TRÌNH THẬT BÁ ĐẠO!",
+
+    "question_124": "Hãy giúp anh ta lấy lại ví.",
+    "hint_124": "DÙNG MỘT NGÓN TAY ĐỂ GIỮ MIỆNG CÁ SẤU, RỒI DÙNG NGÓN KHÁC KÉO TAY CỦA ANH CHÀNG ĐÓ.",
+    "endText_124": "MẠO HIỂM ĐẤY!",
+
+    "question_125": "nan",
+    "hint_125": "nan",
+    "endText_125": "nan",
+
+    "question_126": "Nam không học bài, nhưng vẫn muốn được điểm cao.",
+    "hint_126": "CỔ HÌNH NHƯ CŨNG KHÁ DÀI ĐẤY NHỈ!",
+    "endText_126": "NAM NÊN DẸP TRÒ NÀY ĐI VÀ HỌC CHO NGHIÊM CHỈNH!",
+
+    "question_127": "Cho cá ăn. Mỗi con một miếng nhé.",
+    "hint_127": "THỬ CHO ĂN TỪ TRÊN XUỐNG DƯỚI XEM.",
+    "endText_127": "CHO ĂN CHUẨN KHÔNG CẦN CHỈNH!",
+
+    "question_128": "Không xem video được!",
+    "hint_128": "TÔI THẤY NÚT PHÁT Ở DƯỚI MÀ NHỈ.",
+    "endText_128": "THƯỞNG THỨC ĐI NÀO!",
+
+    "question_129": "Trà của anh ấy nguội rồi.",
+    "hint_129": "DÙNG GƯƠNG ĐỂ PHẢN CHIẾU ÁNH SÁNG TỪ ĐÈN.",
+    "endText_129": "ỪM... UỐNG TRÀ NÓNG VÀO BUỔI SÁNG...",
+
+    "question_130": "Tìm khung cho các vật thể được tô màu.",
+    "hint_130": "BẠN ĐÂU CẦN PHẢI TÔ HẾT CÁC KHUNG ĐÂU.",
+    "endText_130": "MỘT KHUNG LÀ ĐỦ.",
+
+    "question_131": "Sửa thành phép tính đúng.",
+    "hint_131": "8-3=5",
+    "endText_131": "SIÊU THÔNG MINH, CHUYÊN GIA XẾP QUE TÍNH!",
+
+    "question_132": "Nhấn vào các loại quả theo thứ tự nhất định.",
+    "hint_132": "ĐẾM SỐ QUẢ MỖI LOẠI (VÍ DỤ: CHUỐI CÓ 3 QuẢ)",
+    "endText_132": "NHÀ TOÁN HỌC HOA QUẢ, NGON GHÊ CHƯA!",
+
+    "question_133": "Ăn sinh nhật thôi! Nhưng mà cậu bé này mấy tuổi rồi ấy nhỉ?",
+    "hint_133": "KÉO MẤY CÂY NẾN LÊN ĐỂ THẤY CÁI BÁNH.",
+    "endText_133": "NHỮNG NGỌN NẾN LUNG LINH!!!",
+
+    "question_134": "Giúp cô ấy bắn trúng bảng.",
+    "hint_134": "HAY LÀ THỬ PHÓNG TO BẢNG LÊN?",
+    "endText_134": "BẢO CÔ ẤY ĐỔI NGHỀ ĐI!",
+
+    "question_135": "Giúp chuột lấy phô mai.",
+    "hint_135": "MỞ BỐN CÁI CỬA Ở GIỮA ĐI.",
+    "endText_135": "SAO BẠN LẠI GIÚP CON CHUỘT ẤY CHỨ?",
+
+    "question_136": "Nên đặt chữ cái nào ở chỗ dấu hỏi nhỉ?",
+    "hint_136": "BẠN ĐÃ BAO GIỜ LÁI XE Ô TÔ VỚI BỘ CHUYỂN SỐ BẰNG TAY CHƯA?",
+    "endText_136": "ÔI NHỮNG NGÀY XƯA ẤY!",
+
+    "question_137": "Xe nào chậm nhất?",
+    "hint_137": "MỘT LẦN NỮA, CÂU TRẢ LỜI NẰM NGAY TRONG CÂU HỎI.",
+    "endText_137": "TRÒ NÀY CŨ NHƯNG VẪN XÀI ĐƯỢC ĐẤY, HEHE!",
+
+    "question_138": "Chứng minh phép tính này đúng.",
+    "hint_138": "LÀM SAO ĐỂ 5=5?",
+    "endText_138": "TÔI TỰ HỎI CÁC NGƯỜI Ở BÊN KIA MÀN HÌNH ĐANG LÀM NHỮNG TRÒ GÌ...",
+
+    "question_139": "Cần 5 diễn viên cho bộ phim, ai sẽ bị loại đây?",
+    "hint_139": "KIỂM TRA KĨ VÀO, MỘT TRONG SỐ ĐÓ CÓ LỖI ĐẤY.",
+    "endText_139": "DẸP KẺ ĐÓ NGAY! DẸP NGAY!",
+
+    "question_140": "Giúp đứa trẻ bên phải chiến thắng trong trận đấu bóng tuyết.",
+    "hint_140": "NHẶT THÊM MẤY QUẢ BÓNG TUYẾT DƯỚI ĐẤT.",
+    "endText_140": "ÈO, ĐAU LẮM ĐÂY!",
+
+    "question_141": "Giúp tôi với, tôi không biết phải rẽ ở nơi nào! ",
+    "hint_141": "XOAY CÁI ĐIỆN THOẠI XEM NÀO.",
+    "endText_141": "THẬT TUYỆT, TÔI SẼ RẤT NHỚ LỐI RA ĐẤY!",
+
+    "question_142": "Cái nào dài nhất?",
+    "hint_142": "THỔI THỬ ĐI.",
+    "endText_142": "ỒN ÀO THẬT!",
+
+    "question_143": "Mật ong có từ đâu?",
+    "hint_143": "MỘT LẦN NỮA, CÂU TRẢ LỜI NẰM NGAY TRONG CÂU HỎI.",
+    "endText_143": "MẬT ONG CÓ TỪ ONG CHỨ ĐÂU!",
+
+    "question_144": "Ngăn chặn cuộc xâm lược của người ngoài hành tinh!",
+    "hint_144": "ĐỪNG BẮN VÀO MẤY CON MÈO. CHỈ CÓ 4 NGƯỜI NGOÀI HÀNH TINH THÔI.",
+    "endText_144": "MẤY CON MÈO ĐỪNG NÊN LẢNG VẢNG Ở CHIẾN TRƯỜNG CHỨ!",
+
+    "question_145": "Nếu 1 con gà được nấu trong 5 phút, thì sẽ mất bao lâu để nấu 5 con gà?",
+    "hint_145": "ĐÂU AI BẢO KHÔNG ĐƯỢC NẤU CÙNG MỘT LÚC?",
+    "endText_145": "LẼ RA NÊN LÀM MÓN GÀ RÁN.",
+
+    "question_146": "Khám phá trọng lực.",
+    "hint_146": "LẮC NÓ ĐI.",
+    "endText_146": "BẠN ĐÃ MỞ RA MỘT KỈ NGUYÊN TRI THỨC MỚI!",
+
+    "question_147": "Xin hãy giúp đỡ người đàn ông khốn khổ này.    ",
+    "hint_147": "THỬ ĐIỀU CHỈNH BIỂU TƯỢNG PHỤ NỮ ĐI.",
+    "endText_147": "ĐỪNG NÊN UỐNG QUÁ NHIỀU NƯỚC NGỌT!",
+
+    "question_148": "Một người đáng thương khác cũng cần bạn giúp.",
+    "hint_148": "BẠN CÓ BIẾT CÂU CHUYỆN VỀ NGƯỜI NHỆN KHÔNG?",
+    "endText_148": "BẠN HIỂU KHẢ NĂNG CỦA MỌT SÁCH QUÁ NHỈ!",
+
+    "question_149": "Dấu chấm hỏi là chữ gì?",
+    "hint_149": "MỘT-HAI-BA…",
+    "endText_149": "THẬT TUYỆT VỜI NẾU BẠN KHÔNG HỀ XEM GỢI Ý.",
+    "custom1_149":"M-H-B-B-N-S-B-T-?",
+
+    "question_150": "Tôi có 10 con cá trong bể. Khi tôi đi làm về thì 6 con đã chết. Hỏi trong bể cá còn lại bao nhiêu con?",
+    "hint_150": "MẤY CON CÁ CHẾT THÌ VẪN NẰM TRONG BỂ MÀ.",
+    "endText_150": "CẦN PHẢI DỌN BỂ CÁ NGAY THÔI!",
+
+    "question_151": "Con thỏ của tôi đâu rồi?",
+    "hint_151": "CHƠI GHÉP HÌNH THỬ XEM.",
+    "endText_151": "NGHĨ THẾ NÀO THÌ LÀM THẾ ẤY THÔI MÀ!",
+
+    "question_154": "Đâu là tháng dài nhất?",
+    "hint_154": "BẠN NHỚ ĐỌC KỸ NHÉ.",
+    "endText_154": "THÁNG HAI CÓ NHIỀU CHỮ CÁI NHẤT, PHẢI KHÔNG NÀO?",
+
+    "question_155": "Họ giấu kim cương lấy cắp được ở đâu?",
+    "hint_155": "TÌM TRONG TÓC XEM.",
+    "endText_155": "GIỎI LẮM, THÁM TỬ!",
+
+    "question_156": "Quả bóng ở đâu?",
+    "hint_156": "CÁI MŨI CỦA ANH TA THẬT NỔI BẬT.",
+    "endText_156": "ANH TA CHƠI ĂN GIAN RỒI!",
+
+    "question_157": "Giúp xe qua sông.",
+    "hint_157": "TRỜI KHÁ LÀ LẠNH, NÊN LÀ NẾU KHÔNG CÓ MẶT TRỜI THÌ...",
+    "endText_157": "BẠN CÓ THỂ HÔ MÂY HOÁN VŨ Ư?!",
+
+    "question_158": "Ghép nối các biểu tượng này với đúng quốc gia.",
+    "hint_158": "TẤT CẢ ĐỀU LÀ BIỂU TƯỢNG CỦA MỘT NƯỚC DUY NHẤT.",
+    "endText_158": "TÔI MUỐN ĐI PARIS NGAY BÂY GIỜ!",
+    "custom1_158":"PHÁP",
+    "custom2_158":"HOA KỲ",
+    "custom3_158":"NƯỚC ĐỨC",
+    "custom4_158":"NIGERIA",
+
+    "question_159": "Làm sao để xây tòa tháp?",
+    "hint_159": "XÂY THÁP BẰNG NHỮNG KHỐI NÀY.",
+    "endText_159": "PHẢI LÀM THÌ MỚI BIẾT ĐƯỢC CHỨ.",
+
+    "question_160": "Trời ơi! Bé lại khóc rồi! Giúp với...",
+    "hint_160": "BÁNH XE Ô TÔ ĐỒ CHƠI CHÍNH LÀ NÀY ĐÔI MẮT HÀI HƯỚC.",
+    "endText_160": "HAHAHAHA…",
+
+    "question_161": "nan",
+    "hint_161": "CHÚ Ý LÀ CON MÈO NẰM NGƯỢC NHÉ.",
+    "endText_161": "SỐ 6 LÀ SỐ 9 LỘN NGƯỢC, HAY SỐ 9 LÀ SỐ 6 LỘN NGƯỢC?",
+
+    "question_162": "Hãy giúp vận động viên thể hình!",
+    "hint_162": "BỎ BỚT TẠ RA.",
+    "endText_162": "QUÁ TUYỆT! ANH ẤY KHỎE GHÊ!",
+
+    "question_163": "Bạn học sinh này không biết đáp án của bài kiểm tra.",
+    "hint_163": "HÃY BƠM THÊM MÁU LÊN NÃO.",
+    "endText_163": "GẶP BÀI KHÓ THÌ CỨ TRỒNG CÂY CHUỐI THÔI.",
+
+    "question_164": "Cu Tí cần một chế độ ăn lành mạnh.",
+    "hint_164": "DÙNG BÁNH KẸP ĐỂ LỪA CẬU ẤY.",
+    "endText_164": "NHỚ LÀ PHẢI ĂN RAU NỮA NHÉ!",
+
+    "question_166": "Làm sao đánh bại phù thủy?",
+    "hint_166": "LỬA > LÁ > NƯỚC > LỬA",
+    "endText_166": "HARRY POTTER, CON LÀ MỘT PHÙ THỦY!",
+
+    "question_167": "Người ngoài hành tinh đang ẩn nấp. Hãy tìm bọn chúng!",
+    "hint_167": "CÓ 9 NGƯỜI NGOÀI HÀNH TINH ĐANG ẨN NẤP.",
+    "endText_167": "TÌM ĐƯỢC RỒI, GIỜ GỌI CẢNH SÁT THÔI!",
+
+    "question_168": "Cái gì nằm ở giữa Cam Ranh?",
+    "hint_168": "NHÌN CÁC CHỮ CÁI TRONG TỪ CAM RANH KỸ VÀO.",
+    "endText_168": "HÚ HỒN, MAY MÀ KHÔNG BỊ HỎI CÁI GÌ NẰM GIỮA THÀNH PHỐ HỒ CHÍ MINH.",
+
+    "question_169": "Chán quá nhỉ. Làm cậu ấy vui vẻ đi.",
+    "hint_169": "THỬ BẮT BẠN ẤY CƯỜI XEM NÀO.",
+    "endText_169": "“HÃY MỈM CƯỜI VỚI BAO CHUYỆN ĐỜI.”",
+
+    "question_170": "Ma cà rồng! Cứu với! Cứu với!",
+    "hint_170": "MA CÀ RỒNG SỢ ÁNH SÁNG MẶT TRỜI.",
+    "endText_170": "BẠN LÀ THỢ SĂN MA CÀ RỒNG HẢ?",
+
+    "question_171": "Có bao nhiêu hình tam giác?",
+    "hint_171": "THỬ CHIA NHỎ THÀNH CÁC MẢNH XEM NÀO.",
+    "endText_171": "BẠN BIẾT ĐẤY, HÌNH VUÔNG LÀ BỐ CỦA HÌNH CHỮ NHẬT!",
+
+    "question_172": "Cho mèo ăn từ trái sang phải.",
+    "hint_172": "TRÁI ĐẤT TRÒN MÀ.",
+    "endText_172": "CON MÈO ĐI VÒNG QUANH TRÁI ĐẤT ĐỂ KIẾM THỨC ĂN! WOW!",
+
+    "question_173": "Phải chia đều chứ!",
+    "hint_173": "THÊM 2 CHO BÊN TRÁI, THÊM 4 CHO BÊN PHẢI.",
+    "endText_173": "AI ĂN KEM KHÔNG!",
+
+    "question_174": "Cần một quả bóng màu xanh lá.",
+    "hint_174": "XANH LAM+VÀNG = XANH LÁ, BẠN NHỚ CHỨ?",
+    "endText_174": "MẤY QUẢ BÓNG NÀY DÍNH PHẾT!",
+
+    "question_175": "Dùng tảng      đập vỡ           .",
+    "hint_175": "SAO KHÔNG DÙNG ĐÁ CỦA ĐỀ BÀI NHỈ?",
+    "endText_175": "ĐÚNG LÀ PHÁ HOẠI!",
+
+    "question_176": "Hàng xóm đang quẩy ầm ĩ giữa đêm. Ngăn việc này lại.",
+    "hint_176": "HÃY THỬ GỌI CẢNH SÁT.",
+    "endText_176": "HỌ SẼ ĐƯỢC DẠY CHO MỘT BÀI HỌC!",
+
+    "question_177": "Biểu thức này đúng kiểu gì?!",
+    "hint_177": "CÓ GÌ ĐÓ PHÍA SAU SỐ 1.",
+    "endText_177": "KHI BẠN CẢM THẤY YẾU ĐUỐI, CHỈ CẦN NHÂN BẢN MÌNH LÊN NHIỀU LẦN.",
+
+    "question_178": "Xe màu xanh lam phải thắng!",
+    "hint_178": "XE XANH LÁ VÀ ĐỎ SẼ KHÔNG THẮNG NẾU CHÚNG KHÔNG VƯỢT QUA ĐƯỢC VẠCH ĐÍCH.",
+    "endText_178": "KHÔNG THẮNG ĐƯỢC THÌ MÌNH ĐỔI LUẬT VẬY.",
+
+    "question_179": "Cứu tất cả bọn họ!",
+    "hint_179": "NGƯỜI CÓ DÙ CÓ THỂ CỨU HỌ.",
+    "endText_179": "ĐÚNG LÀ MỘT ANH HÙNG!",
+
+    "question_180": "Hãy sửa đồng hồ.",
+    "hint_180": "PHẢI LÀ 2 GIỜ CHIỀU.",
+    "endText_180": "MÌNH CẦN MUA ĐỒNG HỒ ĐIỆN TỬ THÔI!",
+
+    "question_181": "Giúp em bé vui lên.",
+    "hint_181": "CÙ NGÓN CHÂN XEM SAO.",
+    "endText_181": "ĐỪNG CÙ NỮA, NẾU KHÔNG BẠN Ý LẠI TỨC GIẬN ĐẤY!",
+
+    "question_182": "Ngựa muốn trở thành kỳ lân.",
+    "hint_182": "ĐIỀU ƯỚC DƯỚI ÁNH SAO BĂNG SẼ THÀNH SỰ THẬT ĐẤY.",
+    "endText_182": "ÔNG PHÙ THỦY ĐÓ ĐÚNG LÀ VÔ DỤNG!",
+
+    "question_183": "Tìm tất cả các con vật trong hình.",
+    "hint_183": "NGỰA SỢ RẮN.",
+    "endText_183": "CON CHUỘT ĐÃ Ở ĐÓ TỪ KHI NÀO VẬY?!",
+
+    "question_184": "Mở khóa cửa giúp tôi với, tôi bị kẹt ở ngoài rồi!",
+    "hint_184": "NGƯỜI TA THƯỜNG GIẤU CHÌA KHÓA CỬA Ở ĐÂU NHỈ?",
+    "endText_184": "MONG LÀ BẠN KHÔNG TỐN THỜI GIAN ĐỂ PHÁ KHÓA.",
+
+    "question_185": "Rùa phải thắng!",
+    "hint_185": "VŨ KHÍ BÍ MẬT TRONG MAI RÙA.",
+    "endText_185": "RÙA TÊN LỬA!",
+
+    "question_186": "Số nào nằm ở mặt dưới của xúc xắc/xí ngầu?",
+    "hint_186": "CHỈ CẦN ĐẨY XÚC XẮC DỊCH QUA MỘT BÊN.",
+    "endText_186": "XÚC XẮC QUÁ TO HOẶC LÀ TỜ GIẤY QUÁ NHỎ.",
+
+    "question_187": "Con        tôi vừa chào đời! Chọn một cái tên thật hay cho nó nào!",
+    "hint_187": "MẤY CÁI TÊN NÀY ĐỀU CẦN SỬA LẠI MỘT CHÚT.",
+    "endText_187": "SAU NÀY PHẢI THƯƠNG VỢ NHƯ NGỌC TRAI ĐẤY NHÉ.",
+    "custom1_187":"Nam",
+    "custom2_187":"Nhân",
+    "custom3_187":"Ngọc",
+    "custom4_187":"Hoàng",
+    "custom5_187":"Ngọc trai",
+
+    "question_188": "Bé lại khóc nữa rồi! Lần này có vấn đề gì thế nhỉ?!",
+    "hint_188": "BẠN CÓ THẤY TÓC BÉ HƠI SAI SAI KHÔNG?",
+    "endText_188": "ỐI TRỜI ƠIIIII!",
+
+    "question_189": "Thu hoạch 3 quả táo.",
+    "hint_189": "RUNG CÂY ĐỂ TÁO RỤNG.",
+    "endText_189": "NHÌN XEM TÁO CÓ SÂU KHÔNG ĐẤY NHÉ!",
+
+    "question_190": "Lên tầng 6.",
+    "hint_190": "BẠN CÓ THỂ TẠO RA MỘT SỐ 6 LỘN NGƯỢC.",
+    "endText_190": "TRÒ NÀY KHIẾN ĐIỆN THOẠI CHÓNG MẶT LẮM ĐÂY.",
+
+    "question_191": "Giúp mèo Mun bắt được cá nào.",
+    "hint_191": "ĐỂ Ý XEM CON CHÓ NHÌN HƯỚNG NÀO.",
+    "endText_191": "MUN THẬT LÀ NHANH NHẸN.",
+
+    "question_192": "Tụi này muốn đi Hà Nội.",
+    "hint_192": "HÃY CHÚ Ý CÁI TAY NẮM CỬA.",
+    "endText_192": "CHIẾC XE NÀY THẬT LÀ DỄ ĐIỀU CHỈNH!",
+
+    "question_193": "Con quạ không ăn được hạt óc chó.",
+    "hint_193": "TẢNG ĐÁ ĐÓ TRÔNG CÓ VẺ ĐỦ CỨNG ĐỂ LÀM VỠ VỎ HẠT ÓC CHÓ ĐẤY.",
+    "endText_193": "CON QUẠ NÀY CẦN ĐƯỢC ĐÀO TẠO THÊM.",
+
+    "question_194": "Xây người tuyết cho tớ với.",
+    "hint_194": "HÌNH NHƯ CÓ THỨ GÌ ĐÓ SAU ĐÁM MÂY.",
+    "endText_194": "AI LẠI KHÔNG THÍCH XÂY NGƯỜI TUYẾT CƠ CHỨ!",
+
+    "question_195": "Ghép thành hình bên dưới.",
+    "hint_195": "CÓ LẼ BẠN CHỈ CẦN SAO CHÉP VÀ CẮT DÁN?",
+    "endText_195": "THẬT SAO?!",
+
+    "question_196": "Yêu hay không yêu, không yêu hay yêu nói một lời?",
+    "hint_196": "TÌM THÊM MỘT CÁNH HOA ĐỂ KHIẾN CÔ GÁI YÊU CHÀNG TRAI.",
+    "endText_196": "MAI MỐI MÁT TAY GHÊ!",
+
+    "question_197": "Cún nhà mình bẩn quá, đem nó đi tắm đi.",
+    "hint_197": "CHÓ CỨ TẮM XONG LÀ PHẢI LẮC NGƯỜI CHO KHÔ, QUÊN RỒI À.",
+    "endText_197": "CÚN CON DỄ THƯƠNG GHÊ!",
+
+    "question_198": "Xe màu xanh lam đang vội, hãy hỗ trợ nó.",
+    "hint_198": "GIÁ MÀ CÓ ĐÈN KHẨN CẤP NHỈ.",
+    "endText_198": "TUYỆT VỜI! VẬY LÀ CÓ THỂ KỊP VỀ XEM CHƯƠNG TRÌNH TV YÊU THÍCH RỒI.",
+
+    "question_199": "Giúp thầy pháp bắt ma.",
+    "hint_199": "NHẤN THẦY PHÁP ĐỂ THẤY MA.",
+    "endText_199": "MẮT TINH ĐẤY!",
+
+    "question_200": "Ngược lại với xấu?",
+    "hint_200": "TẬP TRUNG VÀO ĐỀ BÀI ẤY.",
+    "endText_200": "TRÒ NÀY THẬT LÀ UẤX!",
+
+    "question_201": "Bạn ấy nhìn thấy gì?",
+    "hint_201": "THỬ NHÌN THEO GÓC NHÌN CỦA CẬU ẤY XEM.",
+    "endText_201": "ĐÂY CÓ PHẢI LÀ ẨN DỤ VỀ CUỘC SỐNG KHÔNG?",
+
+    "question_202": "Ok, đã tới lúc xuất phát!",
+    "hint_202": "CHÚNG TA CẦN BAY LÊN.",
+    "endText_202": "HẸN GẶP BẠN TẠI SAO HỎA!",
+
+    "question_203": "Thời tiết thật là chán...",
+    "hint_203": "DÙNG BỨC TRANH TRÊN TƯỜNG ĐỂ THAY ĐỔI THỜI TIẾT.",
+    "endText_203": "CUỘC SỐNG NHƯ ẢO ẢNH.",
+
+    "question_204": "Giúp võ sĩ ở bên trái chiến thắng.",
+    "hint_204": "GĂNG TAY CHẮC CŨNG NHÉT ĐƯỢC VÀI THỨ ĐÂY.",
+    "endText_204": "AI CHO PHÉP NHÉT BÓNG SẮT VÀO GĂNG THI ĐẤU VẬY?!",
+
+    "question_205": "Mun cần phải nhảy sang vách núi bên kia.",
+    "hint_205": "THỬ CÂY NẤM KIA XEM.",
+    "endText_205": "MUN MARIO!",
+
+    "question_206": "50% của 55?",
+    "hint_206": "TÁCH NỬA SỐ 55 RA LÀ BIẾT NGAY ẤY MÀ.",
+    "endText_206": "BẠN LIÊN TỤC ĐÁNH BẠI MỌI QUY TẮC TOÁN HỌC!",
+
+    "question_207": "Kết thúc cuộc chiến này!",
+    "hint_207": "HỌ KHÔNG ĐƯỢC BẮN TRÚNG BẤT KỲ AI.",
+    "endText_207": "THẾ GIỚI SẮP ĐƯỢC YÊN ỔN RỒI.",
+
+    "question_208": "Giúp tôi mang hộp này đến chỗ xe đẩy.",
+    "hint_208": "XOAY ĐIỆN THOẠI ĐỂ LĂN HỘP.",
+    "endText_208": "THẬT LÀ MAY CHO CÁI LƯNG CỦA TÔI!",
+
+    "question_209": "Bạn bị phạt vì chạy quá tốc độ!",
+    "hint_209": "HÃY CỐ GẮNG LÀM ANH ẤY VUI.",
+    "endText_209": "CHÚC ANH CẢNH SÁT CÓ MỘT NGÀY TỐT LÀNH!",
+
+    "question_210": "Giúp sư tử mẹ.",
+    "hint_210": "NẾU ĐƯỢC NGHỈ NGƠI NHƯ SƯ TỬ BỐ THÌ TỐT QUÁ.",
+    "endText_210": "BÌNH ĐẲNG GIỚI!",
+
+    "question_211": "Mọi người đều cần hơi ấm.",
+    "hint_211": "DI CHUYỂN LỬA TRẠI ĐẾN VỊ TRÍ TỐT HƠN.",
+    "endText_211": "NGỦ NGON NHÉ, CÁC NHÀ CẮM TRẠI.",
+
+    "question_212": "Tôi nói hôm nay là sınh nhật của bạn, hãy chọn một món quà đi!",
+    "hint_212": "CHÚ Ý VÀO TỪ NGỮ ẤY.",
+    "endText_212": "BẠN SẼ TÌM THẤY TÌNH CẢM CỦA TÔI DÀNH CHO BẠN TRONG TỪ ĐÓ.",
+
+    "question_213": "Chúng ta phải ghi bàn.",
+    "hint_213": "THAY ĐỔI HƯỚNG CỦA CẦU THỦ ĐỘI MÌNH ĐI NÀO.",
+    "endText_213": "VÀOOOOOOO!",
+    "custom1_213":"BẮT ĐẦU!",
+    
+    "question_214": "Dưới       có gì nào?",
+    "hint_214": "XEM DƯỚI \"CÂY\" ẤY.",
+    "endText_214": "MÈO MÉO MEO!",
+
+    "question_215": "Chạm các số theo thứ tự, nhanh lên!",
+    "hint_215": "7 VÀ 8 THẬT XẢO QUYỆT, CẨN THẬN NHÉ.",
+    "endText_215": "HÚ HỒN!",
+
+    "question_216": "Giải câu đố.",
+    "hint_216": "CÁC CON SỐ BIỂU THỊ CHO SỐ VÒNG TRÒN ĐƯỢC KÍCH HOẠT.",
+    "endText_216": "BẠN LÀ THIÊN TÀI!",
+
+    "question_217": "Dạy mèo bắt chuột nhé.",
+    "hint_217": "GIẤU MÈO SAU HỘP, RỒI DÙNG PHÔ MAI DỤ CHUỘT RA.",
+    "endText_217": "CON MÈO NÀY BẮT CHUỘT GIỎI LẮM ĐÂY!",
+
+    "question_218": "Tìm kho báu thôi.",
+    "hint_218": "TIN MÁY DÒ LÀM GÌ, CỨ TÌM HẾT MỌI NƠI LÀ ĐƯỢC.",
+    "endText_218": "GIÀU RỒI!",
+
+    "question_219": "Hỏng phanh rồi! CỨU VỚI!",
+    "hint_219": "HÃY SỬ DỤNG QUYỀN NĂNG CỦA NHỮNG ĐÁM MÂY THÊM MỘT LẦN NỮA.",
+    "endText_219": "MÂY GIẢI QUYẾT ĐƯỢC NHIỀU VẤN ĐỀ GHÊ.",
+
+    "question_220": "Sư tử mẹ đi đâu rồi?",
+    "hint_220": "THỬ LÀM SƯ TỬ CON BỊ ĐAU XEM, BIẾT ĐÂU MẸ NÓ SẼ CHÚ Ý ĐẤY.",
+    "endText_220": "CHẠY! CHẠY MAUUU!!!!",
+
+    "question_221": "Rùa phải thắng cuộc đua này.",
+    "hint_221": "ĐỒ VẬT CỦA CÁC KHÁN GIẢ CŨNG HỮU DỤNG LẮM.",
+    "endText_221": "CẢM ƠN CHUỐI CON KHỈ!",
+
+    "question_222": "Chúng ta phải chiếm được lâu đài.",
+    "hint_222": "MÁY BẮN ĐÁ CẦN THÊM CHÚT LỬA.",
+    "endText_222": "CHIẾN THẮNGGG!",
+
+    "question_223": "Giúp cậu ấy với!",
+    "hint_223": "HAY LÀ GỌI CẬU ẤY BẰNG CÁCH KHÁC ĐI.",
+    "endText_223": "ÁC MỘNG NHƯ THẬT VẬY!",
+
+    "question_224": "Chọn một điều ước!",
+    "hint_224": "THỬ SỬA ĐIỀU ƯỚC XEM.",
+    "endText_224": "TẬN HƯỞNG SỰ GIÀU CÓ MỘNG ẢO ĐI NÀO!",
+    "custom1_224":"MỌC ĐUÔI",
+    "custom2_224":"MỌC SỪNG",
+    "custom3_224":"GIÀU CÓ",
+
+    "question_225": "Tên này đi chọc lạc đà llama, hãy cho hắn nếm mùi lợi hại!",
+    "hint_225": "KHIẾN MƯA RƠI TRÊN ĐẦU HẮN.",
+    "endText_225": "PHUN CHUẨN LẮM!",
+
+    "question_227": "Cậu ta có bao nhiêu cái răng nhỉ?",
+    "hint_227": "COI CHỪNG CÓ RĂNG GIẢ ĐẤY, KIỂM TRA KỸ VÀO.",
+    "endText_227": "CẬU TA PHẢI TRỒNG RĂNG SỨ MẤT THÔI!",
+
+    "question_228": "Xe màu đỏ phải thắng!",
+    "hint_228": "SỬA SỐ VÒNG ĐUA ĐI.",
+    "endText_228": "BẬC THẦY GIAN LẬN, TÔI BẮT ĐẦU SỢ BẠN RỒI ĐẤY.",
+    "custom1_228":"VÒNG ĐUA",
+
+    "question_229": "Cần phải lấp hết chỗ trống của nhà máy.",
+    "hint_229": "BẮT ĐẦU TỪ SỐ MỘT BÊN TRÁI.",
+    "endText_229": "HOAN NGHÊNH BẠN ĐẾN VỚI KỶ NGUYÊN MÁY MÓC!",
+
+    "question_230": "Lặp lại chính xác.",
+    "hint_230": "VIẾT LẠI LÀ ĐƯỢC RỒI.",
+    "endText_230": "BẠN SẼ TRỞ THÀNH MỘT NHẠC SĨ ĐẠI TÀI!",
+    "custom1_230":"XEM",
+    
+    "question_231": "Giờ thì ngựa con lại muốn có cánh đấy!",
+    "hint_231": "KHÔNG CÓ SAO TRÊN TRỜI THÌ LẤY MỘT CÁI ĐẶT VÀO LÀ XONG.",
+    "endText_231": "CUỐI CÙNG THÌ LÃO PHÙ THỦY CŨNG CÓ ÍCH!",
+
+    "question_233": "Hãy tách các màu ra.",
+    "hint_233": "ĐỔ MÀU XANH VÀO ỖNG NGHIỆM RỖNG ĐỂ THẤY SỰ VI DIỆU.",
+    "endText_233": "NHÀ KHOA HỌC THIÊN TÀI!",
+
+    "question_234": "Giúp với! Cô ấy không thể ngừng nhảy được!",
+    "hint_234": "CÁI ĐỆM CÓ THỂ GIÚP ĐƯỢC ĐẤY.",
+    "endText_234": "BÀI TẬP VỀ NHÀ VẪN ĐANG ĐỢI ĐÂY NÀY!",
+
+    "question_235": "Kẹo phải vào mồm thôi.",
+    "hint_235": "XOAY ĐIỆN THOẠI ĐỂ LỢI DỤNG TRỌNG LỰC.",
+    "endText_235": "VIÊN KẸO ĐÃ HOÀN THÀNH SỨ MỆNH CỦA MÌNH!",
+
+    "question_236": "Mun lại muốn nhảy sang rồi, nhưng không còn nấm nữa.",
+    "hint_236": "BẠN CÓ SỨC MẠNH DỜI NON LẤP BỂ MÀ.",
+    "endText_236": "CHÚNG TA ĐÃ DẠY HƯ CON MÈO NÀY RỒI!",
+
+    "question_237": "Mun lại muốn ăn cá nữa rồi.",
+    "hint_237": "LÀM CHÓ CHÓNG MẶT BẰNG KHÚC XƯƠNG.",
+    "endText_237": "CHÚ CHÓ TỘI NGHIỆP!",
+
+    "question_238": "Giúp ông bạn già sang đường.",
+    "hint_238": "VẠCH KẺ ĐƯỜNG NẰM Ở ĐÂU QUANH ĐÂY ẤY NHỈ.",
+    "endText_238": "TÀI XẾ TUÂN THỦ LUẬT GIAO THÔNG QUÁ CHỪNG!",
+
+    "question_239": "Tôi muốn ăn món trứng ốp la.",
+    "hint_239": "HÙ CON GÀ ĐỂ NÓ ĐẺ TRỨNG.",
+    "endText_239": "ĐỪNG QUÊN THỊT XÔNG KHÓI NHÉ.",
+
+    "question_240": "Cô bé làm mất bóng bay rồi!",
+    "hint_240": "THỬ NHÌN LÊN TRÊN XEM.",
+    "endText_240": "KHÔNG BIẾT LẦN TỚI LÀ KHÓC VÌ CÁI GÌ NỮA ĐÂY.",
+
+    "question_241": "Có bao nhiêu con chó ấy nhỉ?",
+    "hint_241": "CÓ VÀI CON ĐANG CHƠI TRỐN TÌM ĐẤY.",
+    "endText_241": "CHÓ HƯ!",
+
+    "question_243": "Mun lại tìm thấy một thung lũng nữa này!",
+    "hint_243": "ĐÁM MÂY KIA TRÔNG BỒNG BỀNH QUÁ NHỈ?",
+    "endText_243": "CÁC ĐỊNH LUẬT VẬT LÝ ĐÂU HẾT RỒI?",
+
+    "question_244": "Chúng ta phải loại bỏ những con vi khuẩn này!",
+    "hint_244": "LẤY KHĂN LAU RỒI THIÊU HỦY ĐI.",
+    "endText_244": "LÀM SAO MÀ THẤY ĐƯỢC VI KHUẨN HAY VẬY?!",
+
+    "question_245": "Tôi không vào nhà được, giúp tôi với!",
+    "hint_245": "NHÀ CÓ PHÓNG TO LÊN ĐƯỢC KHÔNG NHỈ.",
+    "endText_245": "KHÔNG ĐÂU TỐT BẰNG NHÀ MÌNH HẾT!",
+
+    "question_246": "Giúp tôi cho thằn lằn ăn.",
+    "hint_246": "THẰN LẰN THÍCH ĂN RUỒI, MÀ RUỒI THÌ THÍCH ĐẬU LÊN ĐỒ ĂN.",
+    "endText_246": "GIỜ THÌ MÌNH SẼ ĂN GÀ.",
+
+    "question_247": "Tôi bị chứng OCD đấy, gừ gừ.",
+    "hint_247": "TÁCH CÁC MÀU KHÁC NHAU VÀO CÁC TÔ RIÊNG.",
+    "endText_247": "PHÙ… GIỜ THÌ BÌNH TĨNH LẠI RỒI, CẢM ƠN NHÉ!",
+
+    "question_248": "Tìm tất cả các con thú.",
+    "hint_248": "TRÊN CÂY CÓ THỂ CÓ SÓC ĐẤY.",
+    "endText_248": "THẬT LÀ MỘT KHU RỪNG NHỘN NHỊP!",
+
+    "question_249": "Lần này thì làm sao Mun nhảy sang được nhỉ?",
+    "hint_249": "CÓ LẼ CHỈ CẦN TIẾN GẦN HƠN MỘT CHÚT NỮA.",
+    "endText_249": "MUN SẮP THÀNH BẬC THẦY NHẢY XA RỒI!",
+
+    "question_251": "Tìm X?",
+    "hint_251": "CHÚNG TA CẦN SỐ 0.",
+    "endText_251": "BẠN KHÔNG THÍCH TOÁN TƯƠNG TÁC À?",
+
+    "question_254": "Cậu bé muốn có    ly sữa và    cái bánh quy.",
+    "hint_254": "SỬA LẠI CÂU HỎI CHO KHỚP VỚI HÌNH THÔI.",
+    "endText_254": "TỤI MÌNH BIẾT ĐIỀU HƠN CẬU ẤY NHIỀU!",
+
+    "question_255": "Hãy giúp người đàn ông trốn thoát!",
+    "hint_255": "DỒN ZOMBIE VÀO CHÂN TƯỜNG LÀ XONG.",
+    "endText_255": "ZOMBIE NGỐC!",
+
+    "question_256": "Giúp người hùng của chúng ta nào!",
+    "hint_256": "ANH HÙNG THÌ CÓ THỂ CHỐNG LẠI TRỌNG LỰC ĐẤY.",
+    "endText_256": "MỖI NGÀY MỘT HÀNH ĐỘNG ANH HÙNG.",
+
+    "question_257": "Đừng để người khác thấy mặt cô ấy lúc này!",
+    "hint_257": "DÙNG KHĂN ĂN TRONG TÚI ÁO KIA KÌA.",
+    "endText_257": "MỘT QUÝ ÔNG LỊCH LÃM!",
+
+    "question_258": "Cô ấy mệt quá chừng.",
+    "hint_258": "LẤY ĐĨA SẠCH RA, RỒI BỎ ĐĨA BẨN VÀO.",
+    "endText_258": "AI CŨNG CẦN MỘT NGƯỜI GIÚP ĐỠ.",
+
+    "question_259": "Giúp cô ấy bắn trúng bia với.",
+    "hint_259": "DI CHUYỂN BIA TRƯỚC ĐÃ.",
+    "endText_259": "CÔ ẤY ĐANG DẦN TRỞ THÀNH MỘT CUNG THỦ HỢP LỆ.",
+
+    "question_260": "Giúp võ sĩ màu xanh thêm một lần nữa.",
+    "hint_260": "THỬ LÀM VÕ SĨ ĐỎ PHÂN TÂM ĐÃ NÀO.",
+    "endText_260": "LẠI MỘT CHIẾN THẮNG NỮA DÀNH CHO VÕ SĨ KHỐN KHỔ CỦA CHÚNG TA!",
+
+    "question_261": "Chúng ta phải ngăn con quái vật này lại!",
+    "hint_261": "HAY THÔI, LÀM BẠN CŨNG ĐƯỢC.",
+    "endText_261": "GIỜ THÌ CHÚNG MÌNH LÀ BẠN BÈ RỒI!",
+
+    "question_262": "Giờ thì ngựa con lại muốn gặp công chúa.",
+    "hint_262": "ĐẬP LÃO PHÙ THỦY MỘT TRẬN XEM SAO.",
+    "endText_262": "ƯỚC GÌ, ƯỚC NỮA, ƯỚC MÃI!",
+
+    "question_263": "Chọn táo thôi!",
+    "hint_263": "COI CHỪNG NHẦM TÁO VỚI CÀ CHUA NHÉ.",
+    "endText_263": "TRÁI CÀ CHUA LÉN LÚT ĐÓ KHÔNG LỪA ĐƯỢC BẠN RỒI.",
+
+    "question_264": "Chúng ta cần lửa.",
+    "hint_264": "ĐẦU TRỌC CÓ KHI CŨNG PHẢN CHIẾU ÁNH NẮNG ĐẤY.",
+    "endText_264": "ĐÚNG LÀ MỘT CÁI ĐẦU SÁNG SUỐT!",
+
+    "question_265": "Vẽ một hình tam giác.",
+    "hint_265": "THỬ DI CHUYỂN CÁC ĐIỂM XEM SAO.",
+    "endText_265": "TƯ DUY KHÔN NGOAN ĐẤY!",
+
+    "question_266": "Có gì đó sai sai ở đây, tìm xem.",
+    "hint_266": "CÁ CÓ CÁNH HOẶC NHẮM MẮT, CÒN CUA LẠI CÓ 10 CHÂN.",
+    "endText_266": "HẲN LÀ CÓ RÁC THẢI PHÓNG XẠ TRONG NƯỚC RỒI!",
+
+    "question_267": "Cậu ấy cần được      !",
+    "hint_267": "PHẢI LA \"CỨU\" ĐI CHỨ!",
+    "endText_267": "GẶP NGUY HIỂM THÌ NHỚ PHẢI LA HẾT SỨC NHÉ!",
+    "custom1_267": "CỨU!",
+    "custom2_267": "YEAH!",
+
+    "question_269": "Phép tính này thì đúng kiểu gì?!",
+    "hint_269": "THỬ NHÌN TỪ GÓC NHÌN KHÁC XEM.",
+    "endText_269": "CỨ NHƯ VẬY THÌ HỘI TOÁN HỌC SẼ PHẢI KIỆN TỤI NÀY MẤT THÔI!",
+
+    "question_270": "Chú khỉ nào có cái đuôi dài nhất?",
+    "hint_270": "PHẢI XEM ĐUÔI DÀI ĐẾN ĐÂU ĐÃ CHỨ.",
+    "endText_270": "CHÚ KHỈ ĐÓ SẼ LÀ VUA KHỈ!",
+
+    "question_271": "Cậu bé cũng muốn ăn burger giống người lớn.",
+    "hint_271": "NHÌN KỸ BURGER KIA RỒI BẮT CHƯỚC LÀM THEO.",
+    "endText_271": "ĐỒ ĂN NHANH, TỰ PHỤC VỤ!",
+
+    "question_272": "Máy tính hoạt động quá chậm khiến anh ấy rất buồn.",
+    "hint_272": "BỤI BÁM ĐẦY CÁNH QUẠT RỒI KIA KÌA.",
+    "endText_272": "PHẢI VỆ SINH MÁY TÍNH CHỨ!",
+
+    "question_273": "Ôi không! Hôm nay đi làm trễ mất!",
+    "hint_273": "GIÁ MÀ LÀ CUỐI TUẦN THÌ HAY BIẾT MẤY.",
+    "endText_273": "LỪA MÌNH THÌ ĐƯỢC, CHỨ KHÔNG LỪA ĐƯỢC SẾP ĐÂU!",
+    "custom1_273":"THỨ NĂM",
+    "custom2_273":"THỨ SÁU",
+    "custom3_273":"THỨ BẢY",
+
+    "question_274": "Đáp án là gì nhỉ?",
+    "hint_274": "13+7 CŨNG BẰNG 20 ĐẤY.",
+    "endText_274": "NẾU SAU CHỪNG ĐÓ CẤP ĐỘ MÀ BẠN VẪN KHÔNG GHÉT TOÁN, THÌ TÌNH YÊU TOÁN CỦA BẠN HẲN PHẢI CHÂN THÀNH LẮM LUÔN Á!",
+
+    "question_276": "Giúp cậu bé về nhà.",
+    "hint_276": "DI CHUYỂN NỀN ĐỂ LÀM CẦU.",
+    "endText_276": "SO VỚI ĐƯỜNG ĐẾN TRƯỜNG THÌ ĐƯỜNG NÀY VẪN CÒN AN TOÀN CHÁN.",
+
+    "question_277": "Cún nấp ở đâu ấy nhỉ?",
+    "hint_277": "THỬ TÌM GIỮA HAI CÁI TỦ ĐỨNG XEM.",
+    "endText_277": "THÔI NÀO, MÀY PHẢI ĐẾN PHÒNG KHÁM THÚ Y RỒI.",
+
+    "question_278": "Giải quyết tình trạng kẹt xe đi.",
+    "hint_278": "TRỌNG LỰC CÓ THỂ CÓ ÍCH ĐẤY.",
+    "endText_278": "CHỦ TỊCH THÀNH PHỐ HỒ CHÍ MINH MUỐN NÓI CHUYỆN VỚI BẠN.",
+
+    "question_279": "Hoàn thành bài luyện kiếm.",
+    "hint_279": "VUỐT THEO HƯỚNG CỦA THANH KIẾM.",
+    "endText_279": "CON ĐÃ KHIẾN SƯ PHỤ TỰ HÀO VỚI BÀI VÕ CÀO CÀO.",
+
+    "question_280": "Con ma cần phải thoát khỏi cái bẫy.",
+    "hint_280": "CÓ THỂ VẼ ĐƯỜNG ĐI LÊN GIẤY TRƯỚC MÀ NHỈ.",
+    "endText_280": "GIÚP MỘT CON MA LIỆU CÓ ĐÚNG KHÔNG TA?",
+
+    "question_281": "Ôi không! Hoa của cô ấy đang chết!",
+    "hint_281": "HOA CẦN ĐƯỢC TƯỚI NƯỚC VÀ BÓN PHÂN ĐẦY ĐỦ.",
+    "endText_281": "HÃY VƯƠN VAI THỨC DẬY, BÔNG HOA XINH ĐẸP.",
+
+    "question_282": "Giúp tôi       xe với.",
+    "hint_282": "\"SỬA\" NẰM Ở CHỖ NÀO NHỈ?",
+    "endText_282": "TRÒ CHƠI NÀY CÓ NHỮNG TỪ RẤT QUYỀN NĂNG!",
+
+    "question_284": "Hãy cứu thị trấn!",
+    "hint_284": "ƯỚC GÌ MẤY NGỌN NÚI CAO HƠN MỘT CHÚT.",
+    "endText_284": "CÁ LÀ BẠN LẠI XÀI MẤY ĐÁM MÂY CHỨ GÌ.",
+
+    "question_285": "Bảo vệ rùa con.",
+    "hint_285": "DÙNG MAI RÙA ĐỂ TẤN CÔNG CON RẮN.",
+    "endText_285": "TẬN HƯỞNG CHUYẾN BAY NHÉ, RẮN RỤT RÈ.",
+
+    "question_286": "Cần phải sửa lại khuôn mặt này.",
+    "hint_286": "DÙNG CÁI GƯƠNG Ở GIỮA ẤY.",
+    "endText_286": "NẾU THÍCH CẤP ĐỘ NÀY, BẠN CÓ THỂ CHƠI THỬ TRÒ CHƠI ĐẦY TÍNH NGHỆ THUẬT MỚI CỦA CHÚNG TÔI: <link=\"mirror_puzzle\"><u><color=blue>MIRROR PUZZLE!</color></u></link>",
+
+    "question_287": "Bạn phải thắng, bằng cách nào đó…",
+    "hint_287": "THỬ CHUYỂN DẤU O ĐI CHỖ KHÁC XEM.",
+    "endText_287": "ĐỪNG LO, KHÔNG AI THẤY BẠN ĂN GIAN ĐÂU, TRỪ FBI.",
+    "custom1_287":": BẠN",
+    "custom2_287":": ĐỐI THỦ",
+
+    "question_288": "Giúp anh ấy vượt qua sáng thứ Hai buồn chán này.",
+    "hint_288": "PHA CÀ PHÊ VỚI NƯỚC NÓNG VÀ BỘT CÀ PHÊ.",
+    "endText_288": "CHÚNG TÔI KÊU GỌI CÁC NHÃN HÀNG CÀ PHÊ TÀI TRỢ CHO CẤP ĐỘ NÀY. XIN VUI LÒNG LIÊN HỆ VỚI GIÁM ĐỐC MÈO MUN CỦA CHÚNG TÔI.",
+
+    "question_289": "Giúp đôi tình nhân này đến với nhau.",
+    "hint_289": "DÙNG GỖ ĐỂ LÀM CẦU ĐƯỢC KHÔNG NHỈ.",
+    "endText_289": "KHÔNG HAY NHƯ TITANIC NHƯNG VẪN CẢM ĐỘNG LẮM ĐÓ.",
+
+    "question_290": "Con bé vẫn khóc, như mọi khi!",
+    "hint_290": "THỬ ĐỔI KÊNH TIVI XEM THẾ NÀO.",
+    "endText_290": "NÓI THẬT THÌ TIẾNG KHÓC VẪN CÒN HAY HƠN BỘ PHIM HOẠT HÌNH NHẢM NHÍ ĐÓ.",
+
+    "question_291": "Hiệp sĩ cần bạn hỗ trợ để đánh bại con rồng.",
+    "hint_291": "DÙNG HIỆP SĨ LÀM MỒI NHỬ, RỒI TẠT NƯỚC VÀO MIỆNG RỒNG.",
+    "endText_291": "VINH QUANG CHO NHỮNG NGƯỜI CAN ĐẢM!",
+
+    "question_292": "Có gì trên Sao Mộc nhỉ",
+    "hint_292": "KHÔNG AI BIẾT ĐÁP ÁN. DÙNG MỘT BIỂU TƯỢNG ĐỂ THỂ HIỆN ĐIỀU ĐÓ.",
+    "endText_292": "ĐÚNG THẾ, CÂU TRẢ LỜI VẪN CÒN LÀ BÍ ẨN.",
+
+    "question_293": "Ôi không! Hãy ngăn tai nạn xảy ra!",
+    "hint_293": "KÉO CÒI TÀU NHANH ĐI.",
+    "endText_293": "SAO LẠI CÓ NGƯỜI NGỦ Ở ĐÓ ĐƯỢC NHỈ?!",
+
+    "question_294": "Cậu bé rất tức giận, hãy giúp cậu ấy bình tĩnh lại.",
+    "hint_294": "ĐỂ ĐIỆN THOẠI NẰM ÚP XUỐNG.",
+    "endText_294": "NẾU TỨC GIẬN, CỨ NẰM XUỐNG VÀ THƯ GIÃN THÔI.",
+
+    "question_295": "Cần phải mở được két sắt.",
+    "hint_295": "MANH MỐI PHẢI NẰM ĐÂU ĐÓ TRÊN GIẤY CHỨ NHỈ.",
+    "endText_295": "CÓ CÁI GÌ TRONG ĐÓ VẬY NHỈ?",
+
+    "question_296": "Lần này thì hiệp sĩ cần đánh bại tên khổng lồ đấy.",
+    "hint_296": "DỤ GÃ ĐÁNH VÀO CÂY CẦU LÀ XONG.",
+    "endText_296": "NHÀ VUA SẼ BAN THƯỞNG CHO ANH TA, TRONG KHI BỌN NÀY LẠI PHẢI ĐI SỬA CẦU!",
+
+    "question_297": "Tại sao chiếc xe đằng trước lại không di chuyển nhỉ?",
+    "hint_297": "DI CHUYỂN MÀN HÌNH ĐỂ XEM TÀI XẾ.",
+    "endText_297": "KHÔNG THỂ TIN LÀ ANH TA LẠI NGỦ GIỮA ĐƯỜNG NHƯ VẬY!",
+
+
+
+    
+    "question_299": "Để thỏ lượm hết xu vàng đi nào.",
+    "hint_299": "DÙNG CÀ RỐT ĐỂ DỤ THỎ.",
+    "endText_299": "VỚI CHỪNG ĐÓ XU VÀNG THÌ CHÚ THỎ CÓ THỂ MUA ĐƯỢC HÀNG TẤN CÀ RỐT LUÔN.",
+
+    "question_307": "Lần này thì Mun không nhảy được nữa rồi.",
+    "hint_307": "THỬ BẮN BẰNG ĐẠI BÁC XEM NÀO.",
+    "endText_307": "CON MÈO NÀY CÓ 9 MẠNG THẬT ĐẤY!",
+
+    "question_308": "Anh hề này lại ăn gian nữa rồi, chứng minh cho mọi người thấy đi.",
+    "hint_308": "KIỂM TRA CÁI BÀN XEM NÀO.",
+    "endText_308": "HIỆP HỘI HỀ QUỐC TẾ PHẢI PHẠT ANH CHÀNG NÀY ĐI CHỨ.",
+
+    "question_322": "ĐÂY LÀ HÌNH TRÒN MÀU ĐỎ ĐÂY LÀ HÌNH TAM GIÁC MÀU XANH ĐÂY LÀ HÌNH VUÔNG MÀU ĐỎ",
+    "hint_322": "ĐÓ LÀ HÌNH VUÔNG HAY HÌNH CHỮ NHẬT VẬY NHỈ?",
+    "endText_322": "MẤY CÂU HỎI ĐÚNG SAI LÚC NÀO CŨNG KHÓ CHƠI HẾT!",
+    "custom1_322":"ĐÂY LÀ HÌNH TRÒN MÀU ĐỎ",
+    "custom2_322":"ĐÂY LÀ HÌNH TAM GIÁC MÀU XANH",
+    "custom3_322":"ĐÂY LÀ HÌNH VUÔNG MÀU ĐỎ",
+
+    "question_306": "Làm sao mà cái này đúng được nhỉ?",
+    "hint_306": "‘KÍCH CỠ’ LỚN HƠN CŨNG ĐƯỢC TÍNH ĐẤY.",
+    "endText_306": "GIỜ THÌ SỐ 6 ĐÓ CHẮC CHẮN LÀ LỚN HƠN RỒI.",
+
+    "question_312": "Ông ấy cần phải bắt nhiều ma hơn.",
+    "hint_312": "ĐẶT BẪY TRÊN ĐƯỜNG ĐI CỦA MA ẤY.",
+    "endText_312": "BẠN CÓ THỂ ĐỂ DÀNH PHIẾU GIẢM GIÁ CỦA BIỆT ĐỘI SĂN MA CHO LẦN SAU RỒI.",
+
+    "question_318": "Đáp án đúng là cái gì nào.",
+    "hint_318": "CÓ DẤU CHẤM HỎI NÀO Ở ĐÂY SAO?",
+    "endText_318": "- ĐÁP ÁN LÀ CÁI GÌ. - CÁI GÌ?! - Ý TÔI LÀ CÁI GÌ ẤY!",
+    "custom1_318":"A) TÁO",
+    "custom2_318":"B) QUẢ",
+    "custom3_318":"C) CHUỐI",
+    "custom4_318":"D) CHIM CHÍCH",
+
+    "question_323": "Giúp tớ tìm con gà nặng nhất với.",
+    "hint_323": "DÙNG GHẾ ĐẨU ĐỂ ĐO CÂN NẶNG CỦA LŨ GÀ.",
+    "endText_323": "HAY LẮM, TỚ ĐANG TÌM THỨ ĐỂ THAY CHO QUẢ TẠ CỦA MÌNH ẤY MÀ.",
+
+    "question_324": "Tìm tình yêu đích thực cho anh chàng này.",
+    "hint_324": "QUẲNG MẤY THỨ ĐẮT TIỀN VÀO THÙNG RÁC LÀ BIẾT NHAU NGAY ẤY MÀ.",
+    "endText_324": "GIỜ THÌ LƯỢM ĐỒ LẠI NHANH LÊN!",
+
+    "question_332": "Đáp án là gì?",
+    "hint_332": "5-1=4 VÀ 5+1=6, HIỂU RỒI CHỨ?",
+    "endText_332": "CÁC GIÁO VIÊN TOÁN SẼ MUỐN HỌC SINH CHƠI TRÒ NÀY MỖI NGÀY LUÔN ĐẤY. ",
+
+    "question_298": "Đến giờ đi học rồi, gọi cậu ấy dậy thôi.",
+    "hint_298": "MỞ HAI MÍ MẮT CÙNG MỘT LÚC.",
+    "endText_298": "DẬY ĐI THÔI NÀO DẬY ĐI THÔI!",
+
+    "question_300": "Làm vị khách này hài lòng.",
+    "hint_300": "ĐẶT HẾT ĐỒ ĂN VÀO KHAY RỒI PHỤC VỤ LUÔN MỘT LẦN THỬ XEM SAO.",
+    "endText_300": "BÁNH NGỌT ĂN CHUNG VỚI THỊT GÀ Á, THẬT HAY GIỠN VẬY?!",
+
+    "question_301": "Dấu hỏi chấm là số mấy nhỉ?",
+    "hint_301": "8+3+1=12",
+    "endText_301": "MẤY CÁI CẤP ĐỘ NÀY TÍNH LỪA BẠN BẰNG CÁCH KHÔNG LỪA BẠN TRONG KHI BẠN NGHĨ LÀ MÌNH SẼ BỊ LỪA.",
+
+    "question_303": "Arggh! Giết mấy con muỗi này giúp mình với.",
+    "hint_303": "MUỖI THÌ KHÔNG THÍCH TRỜI LẠNH ĐÂU.",
+    "endText_303": "MÌNH THÀ BỊ CẢM LẠNH CÒN HƠN BỊ MUỖI CHÍCH NHÉ!",
+
+    "question_304": "Lựa chọn màu để khớp với các màn hình.",
+    "hint_304": "NHÌN CHO KỸ VÀO, CÓ HAI MÀN HÌNH MÀU VÀNG ĐẤY.",
+    "endText_304": "PHẢI CÓ NGƯỜI XỬ LÝ CÁI ĐỐNG LỘN XỘN NÀY ĐI CHỨ!",
+
+    "question_310": "Khẩn cấp khẩn cấp, chúng tôi không tìm thấy nhà mình!",
+    "hint_310": "HẲN LÀ Ở PHÍA XA MẶT TRỜI ẤY.",
+    "endText_310": "KHÔNG THỂ CHỜ ĐẾN LÚC ĐƯỢC NHÌN THẤY CON GÁI MÌNH GIÀ HƠN CẢ MÌNH.",
+
+    "question_313": "Không biết trong đây con cá nào là bự nhất nhỉ.",
+    "hint_313": "CÁ NÓC SẼ PHÌNH RA KHI CẢM THẤY MÌNH BỊ ĐE DỌA. ",
+    "endText_313": "DÁM CÁ LÀ CẬU CHỈ NGHĨ ĐẾN VIỆC ĐI TÌM MẤY CON CÁ VOI THÔI, ĐÚNG KHÔNG NÀO?",
+
+    "question_315": "Số nào cao hơn số 4?",
+    "hint_315": "ĐỪNG NHÌN MẤY QUẢ BÓNG LÀM GÌ.",
+    "endText_315": "TẤT NHIÊN LÀ XẾP THỨ 5 THÌ CAO HƠN XẾP THỨ 4 RỒI, NGỐC Ạ!",
+
+    "question_316": "Giúp anh chàng này không bị phạt.",
+    "hint_316": "DÙNG BÓNG ĐÈN ĐỂ SỬA LẠI ĐÈN PHA Y NHƯ MỚI.",
+    "endText_316": "‘NGÀI THẤY ĐẤY, ĐÈN PHA CỦA TÔI VẪN XÀI ĐƯỢC MÀ, THƯA NGÀI SĨ QUAN!’",
+
+    "question_320": "Điều chỉnh góc nhìn ở phía bên theo đúng góc nhìn từ trên xuống.",
+    "hint_320": "TRƯỢT CÁC KHỐI HỘP ĐỂ CHÚNG NẰM ĐÚNG VỊ TRÍ NHƯ HÌNH CHỤP TỪ TRÊN XUỐNG.",
+    "endText_320": "BẠN BIẾT CÁCH NHÌN NHẬN SỰ VIỆC Ở NHIỀU GÓC ĐỘ KHÁC NHAU RỒI ĐẤY. ",
+
+    "question_321": "Tìm hoa văn thích hợp cho hình số 6.",
+    "hint_321": "HAI CHẤM Ở HÀNG GIỮA.",
+    "endText_321": "IQ CỦA BẠN CHẮC PHẢI HƠN 9000 MẤT THÔI!"
+,
+
+"question_325": "Ui! Cậu bé chẳng xem được đoàn diễu hành!",
+"hint_325": "THỬ DÙNG MẤY CHIẾC HỘP XEM.",
+"endText_325": "ĐỪNG ĐỂ BẤT KỲ BỨC TƯỜNG NÀO CẢN BƯỚC CỦA BẠN.",
+
+"question_326": "Trong số này có một con gấu giả đấy.",
+"hint_326": "DÙNG MẬT ONG LÀ BIẾT THẬT GIẢ NGAY ẤY MÀ.",
+"endText_326": "CHÚ GẤU ĐÓ HẲN LÀ MỘT NHÀ ĐỘNG VẬT HỌC ĐANG HÓA TRANG RỒI!",
+
+"question_328": "Hãy lau mặt sạch sẽ cho cậu bé nhé.",
+"hint_328": "ĐỪNG QUÊN MẶT PHÍA BÊN KIA CHỨ.",
+"endText_328": "LÀM ƠN HỌC CÁCH ĂN SÔ CÔ LA CHO ĐÚNG GIÙM ĐI, MÍP!",
+
+"question_329": "Căn nhà này có ma! Giúp tớ tìm ra nó với!",
+"hint_329": "DÙNG BỘT MỲ ẤY.",
+"endText_329": "TÌM ĐƯỢC NHÀ NGƯƠI RỒI! GIỜ THÌ TA SẼ GỌI CHO THỢ SĂN MA.",
+
+"question_330": "Hãy bắt  con chim đang bay sang phải.",
+"hint_330": "XOAY ĐIỆN THOẠI ĐỂ KHIẾN CHÚNG BAY VỀ BÊN PHẢI.",
+"endText_330": "5 CON CHIM... VÀ KHÔNG CÓ HÒN ĐÁ NÀO CẢ.",
+
+"question_331": "Chỗ này có gì đó sai sai!",
+"hint_331": "ĐIỀU CHỈNH BẬC THỨ HẠNG VỀ VỊ TRÍ ĐÚNG ĐI.",
+"endText_331": "GIỜ THÌ HỢP LÝ HƠN RỒI ĐẤY!",
+
+"question_334": "Phát nên ở nhà và làm cho xong bài tập đi đã!",
+"hint_334": "NGƯỜI TA SẼ KHÔNG RA KHỎI NHÀ ĐƯỢC NẾU KHÔNG CÓ CỬA.",
+"endText_334": "GIỜ THÌ THẰNG NHÓC NÀY SẼ CHUYỂN SANG TRÈO CỬA SỔ MẤT THÔI.",
+
+"question_335": "Mun muốn ăn hết cá cơ.",
+"hint_335": "BẮT ĐẦU TỪ CON NHỎ NHẤT ẤY.",
+"endText_335": "VỚI TỐC ĐỘ NÀY THÌ MUN SẼ SỚM ĂN ĐƯỢC CẢ CÁ VOI LUÔN!",
+
+"question_336": "Đã đến lúc phải ăn ngủ lành mạnh rồi.",
+"hint_336": "SÔ CÔ LA KHÔNG PHẢI LÀ MÓN ĂN LÀNH MẠNH CHO LẮM ĐÂU",
+"endText_336": "CẬU ẤY ĐÃ KHÁNG CỰ ĐƯỢC SỰ CÁM DỖ CỦA CÁC CHIÊU THỨC ĂN NHANH.",
+
+"question_337": "Những người này không thích nhau và chẳng muốn chạm mặt nhau trên đường đi làm chút nào.",
+"hint_337": "ĐẶT CHƯỚNG NGẠI VẬT TRÊN ĐƯỜNG CỦA TỪNG NGƯỜI ĐỂ CẢN HỌ LẠI.",
+"endText_337": "HÚ HỒN, TÍ NỮA THÌ ĐÁNH NHAU TO RỒI.",
+
+"question_338": "Đến lúc phải đốt cháy chút mỡ thừa rồi.",
+"hint_338": "KÉO BÁNH KẸP THỊT ĐỂ KHIẾN CHÀNG TRAI PHẢI CHẠY THEO.",
+"endText_338": "MUỐN KHỎE ĐẸP LÀ PHẢI TẬP THỂ THAO."
+,
+"question_10": "Tìm đáp án.",
+"hint_10": "HÃY LƯU Ý LÀ TỔNG CỦA CÁC PHƯƠNG TRÌNH Ở TRÊN ĐỀU LÀ TỔNG CỦA HAI LOẠI HOA QUẢ.",
+"endText_10": "GIỎI TOÁN ĐẤY, XUẤT SẮC LUÔN.",
+
+"question_22": "nan",
+"hint_22": "HÃY ĐẾM SỐ VÒNG TRÒN.",
+"endText_22": "PHẢI LUÔN ĐỂ Ý ĐẾN CÁC CHI TIẾT NHÉ.",
+
+"question_25": "Số bị ẩn là số mấy nhỉ?",
+"hint_25": "THỬ NHÌN DƯỚI MỘT GÓC ĐỘ KHÁC XEM.",
+"endText_25": "GÓC ĐỘ KHÁC LÚC NÀO CŨNG CÓ TÁC DỤNG.",
+
+"question_36": "Nhấn nút.",
+"hint_36": "CÓ MỘT \"NÚT\" KHÁC NỮA CƠ MÀ.",
+"endText_36": "TỪ 'NÚT' CŨNG LÀ 'NÚT' MÀ, KHÔNG ĐÚNG SAO!",
+
+"question_40": "nan",
+"hint_40": "NHÌN SỐ TRÁI CÂY KỸ VÀO.",
+"endText_40": "GIỎI TOÁN CŨNG HAY ĐẤY, NHƯNG CẨN THẬN VẪN TỐT HƠN NHIỀU!",
+
+"question_54": "Thắp sáng đúng các nút.",
+"hint_54": "CÁC CON SỐ CHO BIẾT SỐ NÚT PHÁT SÁNG TRONG HÀNG/CỘT.",
+"endText_54": "THÔNG MINH ĐẤY!",
+
+"question_76": "Tìm số thấp nhất có thể.",
+"hint_76": "DÙNG DẤU TRỪ ĐỂ CHUYỂN THÀNH SỐ ÂM.",
+"endText_76": "GIỜ MỚI THẤY PHƯƠNG TRÌNH TOÁN HỌC CÓ ÍCH GHÊ!",
+
+"question_93": "Chọn số lớn nhất có thể.",
+"hint_93": "HÃY NHÌN Ở MỘT GÓC ĐỘ KHÁC ĐỂ XEM ĐÂU LÀ CON SỐ LỚN NHẤT NHÉ.",
+"endText_93": "ĐẾN VÔ CỰC VÀ XA HƠN NỮA.",
+
+"question_112": "Giúp tất cả qua sông. Nhưng không được để chúng ở một mình với thiên địch đâu nhé.",
+"hint_112": "GIỮ CỪU LẠI TRÊN THUYỀN TRONG KHI VẬN CHUYỂN BẮP CẢI VÀ SÓI.",
+"endText_112": "BẠN ĐÚNG LÀ BẬC THẦY TRONG VIỆC GIẢI QUYẾT VẤN ĐỀ!",
+
+"question_153": "Chạm vào con mèo bên dưới.",
+"hint_153": "CÓ NHIỀU HƠN 1 CON MÈO ĐẤY.",
+"endText_153": "HÃY DÙNG CÁC NGÓN TAY MỘT CÁCH KHÔN NGOAN.",
+
+"question_165": "Mẹ tôi nấu 1 củ khoai tây trong 25 phút. Phải mất bao lâu để nấu 5 củ khoai tây?",
+"hint_165": "NẤU CHUNG MỘT NỒI CŨNG ĐƯỢC MÀ.",
+"endText_165": "ƯỚC GÌ MẸ LÀM KHOAI TÂY CHIÊN NHỈ!",
+
+"question_226": "Mở cửa hầm kho báu.",
+"hint_226": "NHÌN TRÊN TƯỜNG ĐỂ TÌM MANH MỐI.",
+"endText_226": "GIỜ BẠN ĐÃ CÓ THỂ THAM GIA CHƯƠNG TRÌNH THÀNH VIÊN VIP CỦA CHÚNG TÔI RỒI ĐẤY.",
+
+"question_232": "Ngăn tên người sói đó lại!",
+"hint_232": "NGƯỜI SÓI NHẬN ĐƯỢC SỨC MẠNH KHI TRĂNG TRÒN.",
+"endText_232": "SAO KHÔNG GỌI LÀ SÓI NGƯỜI NHỈ?",
+
+"question_242": "Hãy phá giải vụ mưu sát này đi, thám tử.",
+"hint_242": "HAY LÀ THỬ GỌI ANH TA DẬY TRƯỚC ĐÃ NHỈ?",
+"endText_242": "CHỈ LÀ SỐT CÀ CHUA THÔI MÀ! HÚ HỒN HÚ VÍA!",
+
+"question_250": "Giúp phù thủy xanh chiến thắng!",
+"hint_250": "KHIÊN PHÉP CỦA PHÙ THỦY ĐEN CÓ THỂ CHỐNG LẠI CHẤN THƯƠNG VẬT LÝ ĐƯỢC KHÔNG NHỈ.",
+"endText_250": "ANH TA SẼ BỊ ĐUỔI KHỎI HOGWARTS.",
+
+"question_252": "Chú chuột này cần đi tắm.",
+"hint_252": "NỐI ỐNG NƯỚC LẠI VỚI NHAU.",
+"endText_252": "ĐỪNG NÓI NGƯỜI GIÚP CHÚ CHUỘT NÀY LÀ MÈO MUN ĐẤY NHÉ.",
+
+"question_253": "Cô ấy muốn nhuộm tóc màu tím.",
+"hint_253": "CÓ THỂ TRỘN HAI MÀU KHÁC NHAU ĐỂ RA MÀU TÍM MÀ.",
+"endText_253": "CÔ ẤY SẼ THƯỞNG CHO BẠN RẤT HẬU HĨNH ĐẤY.",
+
+"question_314": "Đi đường nào để thoát khỏi đây nhỉ?",
+"hint_314": "TÌM HƯỚNG GIÓ BẰNG NGỌN ĐUỐC.",
+"endText_314": "CÓ GIÓ NGHĨA LÀ CÓ ĐƯỜNG RA RỒI!",
+
+"question_317": "Úi! Hình như có gì đó không hợp lý cho lắm!",
+"hint_317": "TRONG HẦU HẾT MỌI TRƯỜNG HỢP, YÊU TINH SẼ BẮN TÊN CÒN PHÙ THỦY SẼ DÙNG GẬY PHÉP.",
+"endText_317": "TOLKIEN SẼ BẬT DẬY TỪ DƯỚI MỘ MẤT THÔI.",
+
+"question_319": "Muốn ăn gì đó ghê.",
+"hint_319": "CÓ THỂ LÀM MÓN TRỨNG ỐP LA BẰNG CÁCH GHÉP VÀI HÌNH LẠI VỚI NHAU ĐẤY.",
+"endText_319": "ỐP LA VỊ MA NGON NHẤT THẾ GIỚI.",
+
+"question_327": "Cứu cô ấy với!",
+"hint_327": "GIỮ HAI ĐẦU LƯỚI CHO CHẮC VÀO.",
+"endText_327": "ĐỪNG BAO GIỜ TIN NHỮNG ANH CHÀNG GIỮ LƯỚI.",
+
+"question_333": "Eo ơi! Con khỉ này hôi quá!",
+"hint_333": "LÀM NƯỚC CHẢY TRÀN RA NGOÀI ĐI.",
+"endText_333": "NHỚ PHẢI DÙNG XÀ PHÒNG NỮA ĐẤY.",
+
+"question_339": "Mun muốn ăn hết cá cơ.",
+"hint_339": "BẮT ĐẦU TỪ CON NHỎ NHẤT ẤY.",
+"endText_339": "VỚI TỐC ĐỘ NÀY THÌ MUN SẼ SỚM ĂN ĐƯỢC CẢ CÁ VOI LUÔN!",
+
+"question_340": "Ai mới là mẹ của bé đây.",
+"hint_340": "LÀM EM BÉ KHÓC LÀ RÕ NGAY THÔI.",
+"endText_340": "HAY LẮM! GIỜ HÃY ĐỐI MẶT VỚI SỰ GIẬN DỮ CỦA MẸ ĐI NHÉ.",
+
+"question_341": "Ai là thủ phạm?",
+"hint_341": "MÀ ANH CHÀNG ĐÓ ĐÃ CHẾT THẬT CHƯA THẾ?",
+"endText_341": "ANH TA CHỈ TẠM NGHỈ SAU MIẾNG PIZZA THỨ 34 THÔI ẤY MÀ.",
+
+"question_342": "Ai ăn kem của mình thế?!",
+"hint_342": "XEM MÁ PHÍA BÊN KIA ĐI NÀO.",
+"endText_342": "BẮT QUẢ TANG RỒI NHÉ!",
+
+"question_343": "Ai làm đổ sữa?",
+"hint_343": "THỦ PHẠM THỰC SỰ ĐANG NẤP Ở MỘT CHỖ KHÁC.",
+"endText_343": "SAO MÀ CON MÈO LẠI MỞ ĐƯỢC CỬA TỦ LẠNH NHỈ?!",
+
+"question_344": "Ai là siêu anh hùng thực sự?",
+"hint_344": "THỬ GẶP NGUY HIỂM LÀ BIẾT NGAY THÔI.",
+"endText_344": "ĐƯỢC RỒI, GIỜ THÌ VUI LÒNG ĐIỀN VÀO ĐƠN GIA NHẬP BIỆT ĐỘI BÁO THÙ NHÉ.",
+
+"question_345": "Chạm theo thứ tự: Bé Trai-Thỏ-Chim-Lạc Đà-Gà-Mèo",
+"hint_345": "CON GÀ ĐANG TRỐN Ở ĐÂU RỒI ẤY NHỈ.",
+"endText_345": "ĐÚNG LÀ MỘT TỔ HỢP KỲ LẠ.",
+"custom1_345": "Chạm theo thứ tự:",
+
+"question_354": "Đâu là bóng của cậu bé?",
+"hint_354": "NHỚ ĐỂ Ý CÁC CHI TIẾT NHỎ NHÉ.",
+"endText_354": "MỘT CÁI BÓNG KHÔNG BAO GIỜ NÓI DỐI.",
+
+"question_356": "Đâu mới là kem nhỉ?",
+"hint_356": "KEM THẬT SẼ TAN CHẢY ĐẤY.",
+"endText_356": "SỐ CÒN LẠI TOÀN LÀ ĐỒ CHƠI NHỰA. KHÔNG TIN THÌ BẠN CỨ THỬ LIẾM MÀ XEM.",
+
+"question_357": "Quả trứng nào còn sống?",
+"hint_357": "TRỨNG SỐNG SẼ VỠ NẾU BỊ THẢ TỪ TRÊN CAO.",
+"endText_357": "NHỚ ĂN TRỨNG ĐÃ LUỘC CHÍN NHÉ!",
+
+"question_358": "Trộn hai chất lỏng này lại giúp mình với.",
+"hint_358": "LẮC TRONG KHI DÙNG TAY BỊT MIỆNG ỐNG LẠI.",
+"endText_358": "CÔNG THỨC MÀU TÍM NÀY SẼ GIÚP TRỊ MỤN HIỆU QUẢ.",
+
+"question_359": "Mã PIN là số mấy đây?",
+"hint_359": "PHÓNG TO BONG BÓNG TRÒ CHUYỆN XEM NÀO.",
+"endText_359": "DO ĐIỆN THOẠI CỦA BẠN CÓ MÀN HÌNH NHỎ QUÁ ĐẤY.",
+
+"question_360": "Không thể chịu nổi âm thanh này nữa!",
+"hint_360": "THỬ DÙNG NGÓN TAY CỦA BẠN ĐỂ CHẶN LẠI XEM.",
+"endText_360": "ĐI CHỖ KHÁC MÀ THỔI, LÀM ƠN, XIN ANH ĐẤY.",
+
+"question_361": "Nóng quá trời nóng! Hãy giúp cậu ấy với.",
+"hint_361": "XEM TẤT CẬU ẤY ĐI ĐÃ.",
+"endText_361": "ANH CHÀNG TỘI NGHIỆP NÀY BỊ CHỨNG ÁM ẢNH SẠCH SẼ NẶNG QUÁ RỒI!",
+
+"question_362": "Hãy đánh thức anh chàng này.",
+"hint_362": "GIÁ MÀ ĐIỆN THOẠI ANH TA CÓ KẾT NỐI VỚI TAI NGHE NHỈ.",
+"endText_362": "ĐỪNG BAO GIỜ TIN TƯỞNG KẾT NỐI BLUETOOTH.",
+
+"question_363": "Ngăn cản hành vi bắt nạt lại!",
+"hint_363": "LON COCA ĐÓ CÓ THỂ TRỞ THÀNH VŨ KHÍ NGUY HIỂM ĐẤY.",
+"endText_363": "VỤ NÀY SẼ CHO CẬU TA MỘT BÀI HỌC!",
+
+"question_364": "Đưa quả bóng về vòng tròn trung tâm.",
+"hint_364": "CHẠM ĐỂ CHẠY VÀ DỪNG LẠI. DỪNG Ở CÁC HÀNG MÀU ĐỂ ĐI VÀO VÒNG BÊN TRONG.",
+"endText_364": "ĐÚNG LÀ MỘT HÀNH TRÌNH DÀI CHO QUẢ BÓNG BÉ NHỎ CỦA CHÚNG TA.",
+
+"question_366": "Khiến tất cả đều vui vẻ.",
+"hint_366": "XANH LAM MUỐN Ở HÀNG TRÊN CÙNG. VÀNG MUỐN Ở HÀNG DƯỚI CÙNG. ĐỎ KHÔNG THÍCH VÀNG.",
+"endText_366": "THẬT VUI KHI THẤY TẤT CẢ MỌI NGƯỜI VUI.",
+
+"question_367": "Thỏ đi đâu rồi?",
+"hint_367": "THỎ CÓ TAI DÀI.",
+"endText_367": "ĐÓNG GIẢ MÈO CŨNG KHÁ LÀ NỖ LỰC ĐẤY.",
+
+"question_368": "Công chúa đâu rồi?",
+"hint_368": "THANH KIẾM ĐÓ CHẮC CŨNG DÙNG ĐỂ CẠO RÂU ĐƯỢC NHỈ.",
+"endText_368": "THƯA CÔNG CHÚA, CHA CỦA NGƯỜI RA LỆNH NGƯỜI PHẢI QUAY VỀ LÂU ĐÀI NGAY LẬP TỨC!",
+
+"question_369": "Giúp mình mở két ra với.",
+"hint_369": "CHẠM VÀO CÁC NÚT THEO MỘT THỨ TỰ NHẤT ĐỊNH.",
+"endText_369": "CHÚNG TA ĐÃ MỞ RẤT NHIỀU KÉT AN TOÀN, NHƯNG VẪN KHÔNG CÓ XU NÀO TRONG TÚI!",
+
+"question_370": "Ngăn con quái vật lại!",
+"hint_370": "CÁNH TAY ROBOT ĐÓ BỊ MẤT MỘT CON ỐC VÍT THÌ PHẢI.",
+"endText_370": "SAO MÀ NÓ NẰM Ở ĐÓ ĐƯỢC NHỈ?!",
+
+"question_371": "Chỗ đó nên là hình gì nhỉ?",
+"hint_371": "HÃY QUAN SÁT KỸ. BẠN KHÔNG CẦN PHẢI CHỌN MỘT TRONG HAI ĐÁP ÁN ĐÂU.",
+"endText_371": "MÈO VÀNG LÀ KẺ KHỞI ĐẦU, CŨNG LÀ NGƯỜI KẾT THÚC.",
+
+"question_372": "Giúp cô ấy hoàn thành kỳ thi.",
+"hint_372": "LÀM ĐỒNG HỒ CÁT CHẢY MÃI KHÔNG NGỪNG.",
+"endText_372": "HÃY RA KHỎI ĐÂY TRƯỚC KHI GIÁO VIÊN BẮT ĐẦU NGHI NGỜ THÔI.",
+
+"question_373": "Tìm con số bí mật 2285.",
+"hint_373": "MỘT CUỐN SÁCH BỊ ĐẶT NGƯỢC.",
+"endText_373": "NGƯỜI NGOÀI HÀNH TINH SẼ XÂM CHIẾM HÀNH TINH CHÚNG TA VÀO NĂM 2285. TIKTOK LÀ BƯỚC ĐẦU TIÊN TRONG KẾ HOẠCH CỦA BỌN CHÚNG ĐẤY.",
+
+"question_375": "Giúp tôi chọn một ngày để gặp mặt vị em họ phiền phức của tôi đi nào.",
+"hint_375": "CHỌN MỘT NGÀY KHÔNG CÓ THẬT. BẠN CÓ THỂ ĐỔI THÁNG.",
+"endText_375": "HEHEHE! GIỜ THÌ MÌNH SẼ KHÔNG BAO GIỜ PHẢI GẶP MẶT CẬU TA NỮA!",
+
+"question_377": "Phải sơn tất cả ô thành màu đỏ.",
+"hint_377": "DÙNG THÙNG SƠN ĐỂ DỪNG CHỔI SƠN LẠI.",
+"endText_377": "CHỔI SƠN NÀY KHÓ ĐIỀU KHIỂN GHÊ!",
+
+"question_378": "nan",
+"hint_378": "3 = 2 + 1",
+"endText_378": "KHÔNG CÓ BẪY HAY CÂU ĐỐ MẸO NÀO Ở ĐÂY ĐÂU. CHỈ LÀ PHÉP TOÁN BÌNH THƯỜNG THÔI.",
+
+"question_380": "Làm sao để qua đường đây nhỉ?!",
+"hint_380": "TÌM CÁCH GỌI CẢNH SÁT ĐẾN ĐI.",
+"endText_380": "BÁNH MỲ TƯƠI SẼ BẮT ĐẦU MỘT NGÀY MỚI.",
+
+"question_381": "Bắn trúng tất cả mục tiêu.",
+"hint_381": "MỘT CÚ BẮN ĐÚP CÓ THỂ CHIA ĐÔI MŨI TÊN ĐẤY.",
+"endText_381": "ĐÂY CHẮC HẲN LÀ BÍ MẬT CỦA LEGOLAS RỒI. CHƯA TỪNG THẤY ANH TA HẾT MŨI TÊN LẦN NÀO CẢ!",
+
+"question_382": "Ở đây có một cánh cửa bí mật.",
+"hint_382": "KIỂM TRA DƯỚI THẢM THỬ XEM.",
+"endText_382": "NÓ DẪN ĐẾN ĐÂU NHỈ? PHÒNG CHỨA GIẤY VỆ SINH BÍ MẬT CỦA NGƯỜI NÀO ĐÓ CHĂNG?",
+
+"question_383": "Những chiếc xe này cần phải rời khỏi bãi đậu xe.",
+"hint_383": "QUẸT ĐỂ DI CHUYỂN. HÃY BẮT ĐẦU VỚI CÁC XE Ở TRONG GÓC TRƯỚC.",
+"endText_383": "NHỮNG NGƯỜI NÀY LẤY BẰNG LÁI Ở ĐÂU VẬY!?",
+
+"question_384": "Giúp tôi trúng giải độc đắc đi.",
+"hint_384": "DÙNG HÌNH DÁN TRÊN MÁY LÀ XONG NGAY ẤY MÀ.",
+"endText_384": "ĐÂY LÀ CÁCH XỬ LÝ MÁY TRÒ CHƠI BỊ HỎNG ĐẤY!",
+
+"question_385": "Ai là kẻ mạo danh?",
+"hint_385": "KẺ MẠO DANH SẼ HÀNH ĐỘNG KHI HẮN TA Ở MỘT MÌNH VỚI NẠN NHÂN.",
+"endText_385": "ĐẾN LÚC PHẢI HỌP KHẨN RỒI, CÁC ĐỒNG CHÍ!",
+
+"question_386": "Giúp Vương Quốc Đỏ chiến thắng.",
+"hint_386": "LÍNH CẦM THƯƠNG ĐÁNH BẠI KỴ SĨ, KỴ SĨ ĐÁNH BẠI KIẾM SĨ.",
+"endText_386": "MỚI CHỈ CÓ BA NGƯỜI LÍNH THÔI ĐẤY, CỨ TƯỞNG TƯỢNG VIỆC PHẢI CHỈ HUY HÀNG NGÀN BINH SĨ XEM.",
+
+"question_388": "Thắp sáng tất cả các nút.",
+"hint_388": "ĐI THEO MỘT HÌNH MẪU NHẤT ĐỊNH. BẮT ĐẦU TỪ PHÍA TRÊN CÙNG BÊN TRÁI, KẾT THÚC Ở PHÍA DƯỚI CÙNG BÊN TRÁI.",
+"endText_388": "THỬ VÀ SAI LÀ PHƯƠNG PHÁP ĐỂ GIẢI QUYẾT MỌI VẤN ĐỀ.",
+
+"question_389": "Nhạc ầm ĩ quá! Dừng lại ngay!",
+"hint_389": "BẠN CÓ THỂ ĐIỀU CHỈNH ÂM LƯỢNG CỦA LOA. HÃY THỬ VƯỢT QUÁ GIỚI HẠN.",
+"endText_389": "ĐỪNG CÓ MƠ ĐẾN CHUYỆN MUA LOA MỚI NỮA NHÉ!",
+
+"question_390": "Hoàn thành màn parkour.",
+"hint_390": "CHẠM VÀO CẬU BÉ ĐỂ NHẢY. MỘT CHƯỚNG NGẠI VẬT SẼ CẦN ĐẾN GIẢI PHÁP KHÁC.",
+"endText_390": "ƯỚC GÌ TÔI CŨNG GIẢM ĐƯỢC ĐỘ CAO CỦA GỜ GIẢM TỐC THEO CÁCH ĐÓ NHỈ.",
+
+"question_391": "Mấy đứa nhóc này không chịu đến nhà anh ta chơi. Hãy giúp chủ nhà nhé.",
+"hint_391": "ANH TA CẦN CÓ MỘT CHIÊU TRÒ HALLOWEEN CAO CẤP. HÃY KHẮC VÀ THẮP SÁNG BÍ NGÔ THÔI NÀO. ",
+"endText_391": "CHO KẸO HAY BỊ GHẸO!",
+
+"question_392": "Có bao nhiêu con ma thật ấy nhỉ?",
+"hint_392": "CỞI ĐỒ HÓA TRANG RA VÀ ĐẾM THÔI.",
+"endText_392": "TẤT NHIÊN LÀ KHÔNG CÓ CON MA NÀO RỒI! BẠN VẪN CÒN TIN VÀO MẤY CHUYỆN MA NHẢM NHÍ ĐÓ THẬT HẢ?",
+
+"question_393": "Đã đến lúc kiểm tra kẹo. Nộp tất cả kẹo cho mẹ, ngay lập tức!",
+"hint_393": "CÔ BÉ ĐÓ ĐANG GIẤU KẸO DƯỚI TRANG PHỤC CỦA MÌNH ĐẤY.",
+"endText_393": "NHỮNG ĐỨA TRẺ TỘI NGHIỆP. RỒI BỐ MẸ CHÚNG SẼ ĂN HẾT KẸO TRONG LẶNG LẼ.",
+
+"question_394": "Tất cả đều đói và cáu kỉnh. Hãy bắt đầu bữa tối Lễ Tạ Ơn thôi.",
+"hint_394": "CẮT VÀ CHIA GÀ TÂY VÀO ĐĨA CỦA TỪNG NGƯỜI.",
+"endText_394": "DẸP VẺ MẶT CÁU KỈNH ĐÓ ĐI! HÔM NAY LÀ NGÀY ĐỂ BÀY TỎ LÒNG BIẾT ƠN ĐẤY!",
+
+"question_396":"Bác sĩ, hãy chữa khỏi cho người bệnh này.",
+"hint_396":"DÙNG MÁY X-RAY ĐỂ KIỂM TRA. QUẸT ĐỂ CHỮA TRỊ CHO BỆNH NHÂN.",
+"endText_396":"XƯƠNG GÃY CỦA BẠN ẤY ĐÃ LÀNH LẠI, THẦN KỲ CHƯA!",
+
+"question_397":"Tìm kẻ phạm tội!",
+"hint_397":"CÓ THỂ SỬ DỤNG MÁY QUÉT ĐỂ KIỂM TRA TÚI XÁCH VÀ NHỮNG ĐỒ VẬT KHÁC.",
+"endText_397":"AI ĐÃ THUÊ GÃ BẢO AN NÀY VẬY HẢ?!",
+
+"question_398":"Trong đám người này có một người ngoài hành tinh!",
+"hint_398":"DÙNG MÀN HÌNH X-RAY ĐỂ TÌM NGƯỜI NGOÀI HÀNH TINH.",
+"endText_398":"ĐÁM NGƯỜI NGOÀI HÀNH TINH CÓ MẤY CHIÊU TRÒ HÓA TRANG KHÁ SÁNG TẠO ĐẤY CHỨ!",
+
+
+
+
+"question_399":"Chú mèo muốn ăn bánh quy.",
+    "hint_399":"TRÁI ĐẤT CÓ HÌNH TRÒN.",
+    "endText_399":"CHÚ MÈO NÀY HẲN PHẢI SỐNG TẠI MỘT HÀNH TINH RẤT NHỎ.",
+    
+    "question_400":"Chạm vào  xe xanh đang tiến về bên trái.",
+    "hint_400":"ĐỪNG ĐỤNG VÀO CÁC XE ĐI NGƯỢC.",
+    "endText_400":"ĐẤY CHÍNH LÀ CON ĐƯỜNG ĐI LÀM HẰNG NGÀY CỦA TÔI ĐẤY.",
+    
+    "question_401":"Giúp tôi tìm một chú sóc với.",
+    "hint_401":"VỊ PHÁP SƯ CÓ THỂ THI TRIỂN PHÁP THUẬT ĐẤY. CÓ THỂ ĐỔI VỊ TRÍ CỦA CÁC CON VẬT.",
+    "endText_401":"ĐÚNG LÀ MỘT BÙA CHÚ KỲ CỤC!",
+    
+    "question_402":"Vui lòng sửa lại phương trình.",
+    "hint_402":"BẮN ĐẠI BÁC ĐỂ ĐỔI CÁC BIỂU TƯỢNG LẠI CHO ĐÚNG.",
+    "endText_402":"BẠN CÓ THỂ SỬ DỤNG KHẨU ĐẠI BÁC NÀY TRONG KỲ THI TOÁN ĐẤY.",
+    
+    "question_403":"Giúp xe xanh chiến thắng cuộc đua.",
+    "hint_403":"XÀI QUÁ NHIỀU NITRO SẼ NGUY HIỂM LẮM.",
+    "endText_403":"CHIẾN THẮNG DỄ DÀNG NHẤT TRONG ĐỜI TÔI.",
+    
+    "question_404":"Lại thêm một thung lũng khác mà chú mèo nhanh nhẹn của chúng ta cần vượt qua.",
+    "hint_404":"NÚT NHẢY CÓ THỂ SẼ GIÚP ÍCH ĐẤY.",
+    "endText_404":"NHẢY ĐÚNG NGHĨA LÀ NHẢY LUÔN.",
+    
+    "question_405":"Hãy ghi bàn.",
+    "hint_405":"ĐÁ BÓNG BẰNG CÁCH NHẤN VÀO NÚT 'BẮT ĐẦU!'. TRÁNH NHỮNG CẦU THỦ ĐỘI ĐỐI THỦ.",
+    "endText_405":"MOURINHO SẼ RẤT TỰ HÀO VỀ CÁC BẠN.",
+    
+    "question_406":"Chạm các sinh vật theo thứ tự.",
+    "hint_406":"VIẾT THỨ TỰ XUỐNG GIẤY TRƯỚC ĐI.",
+    "endText_406":"ĐẠI DƯƠNG QUẢ LÀ MỘT NƠI SINH ĐỘNG.",
+    
+    "question_407":"Cứu chú chuột thoát khỏi lũ mèo béo.",
+    "hint_407":"PHÔ MAI SẼ GIÚP CHUỘT LỚN MẠNH HƠN.",
+    "endText_407":"CHUỘT SIÊU TO KHỔNG LỒ ĐẾN ĐÂY!",
+    
+    "question_408":"Giúp bé gái đến chỗ mẹ mình.",
+    "hint_408":"QUẸT ĐỂ DI CHUYỂN BÉ. DÙNG ĐÁ ĐỂ KIỂM SOÁT SỐ BƯỚC CHÂN.",
+    "endText_408":"SAO NGƯỜI MẸ LẠI MUÔN TRÁNH MẶT CON BÉ NHỈ?!",
+    
+    "question_409":"Nhấn vào các con vật, từ con nhỏ nhất đến con lớn nhất.",
+    "hint_409":"CÓ KHI CÒN MỘT CON VẬT THỨ TƯ ĐẤY.",
+    "endText_409":"ĐỪNG BAO GIỜ ẨN MÌNH SAU MỘT CÁI CÂY NHÉ.",
+    
+    "question_410":"Số nào cao nhất?",
+    "hint_410":"PHẢI ĐẶT HẾT Ở DƯỚI ĐẤT THÌ MỚI SO SÁNH ĐƯỢC CHỨ.",
+    "endText_410":"CON SỐ ĐÓ CHẮC LÀ ĐÃ UỐNG NHIỀU SỮA LẮM NHỈ.",
+    
+    "question_411":"Chú mèo muốn bay thêm một lần nữa.",
+    "hint_411":"MUỐN BAY THÌ PHẢI KIẾM THỨ GÌ CỰC NẶNG ĐỂ THẢ VÀO ĐẦU CÒN LẠI CỦA BẬP BÊNH NHÉ.",
+    "endText_411":"MÈO Ở ĐÂU SAO BAY LUNG TUNG, BAY LUNG TUNG BAY TRÊN KHÔNG TRUNG.",
+    
+    "question_412":"Hãy giúp bạn ma thoát khỏi mê cung này.",
+    "hint_412":"DÙNG NGÓN TAY ĐỂ LẦN THEO VỊ TRÍ CỦA MA.",
+    "endText_412":"VÌ ĐƯỢC SỰ GIÚP ĐỠ CỦA BẠN, BẠN MA HỨA LÀ SẼ KHÔNG HÙ BẠN NỮA ĐÂU.",
+    
+    "question_413":"Chém thây ma!",
+    "hint_413":"QUÉT NGƯỜI NINJA ĐỂ ĐỔI TƯ THẾ. NHỚ CHÚ Ý HƯỚNG KIẾM NHÉ.",
+    "endText_413":"ĐÂY LÀ TẬP MỞ ĐẦU CỦA THE WALKING DEAD: NHẬT BẢN.",
+    
+    "question_414":"Giúp mèo bắt chuột.",
+    "hint_414":"ĐỪNG BƯỚC VÀO MÊ CUNG, ĐI ĐƯỜNG VÒNG Ở BÊN NGOÀI ẤY.",
+    "endText_414":"CHỈ LÀ MỘT BUỔI TẬP LUYỆN THÔI. HỌ LÀ BẠN CỦA NHAU, THẬT ĐẤY.",
+    
+    "question_415":"Chú cừu trắng của tôi đi đâu rồi?",
+    "hint_415":"CÚ BẮN CỦA LẠC ĐÀ KHÔNG BỨU CÓ THỂ KHIẾN MÀU ĐEN BIẾN MẤT ĐẤY.",
+    "endText_415":"MIỆNG CON LẠC ĐÀ NÀY NHIỀU NƯỚC GHÊ!",
+    
+    "question_416":"Đống hộp này nhìn từ phía trước thì sẽ như thế nào nhỉ?",
+    "hint_416":"ĐÁY CÓ 3 HỘP, PHÍA TRÊN CÓ 2 HỘP.",
+    "endText_416":"BẠN BIẾT ĐẤY, CÁI ĐÓ NGƯỜI TA GỌI LÀ PHỐI CẢNH.",
+    
+    "question_417":"Chúng ta phải giúp bọn họ ấm áp trong buổi đêm giá lạnh.",
+    "hint_417":"CÓ THỂ ĐỐT THÊM MỘT CỤM LỬA TRẠI KHÁC MÀ.",
+    "endText_417":"LẼ RA HỌ NÊN NẰM NGỦ GẦN NHAU MỚI PHẢI!",
+    
+    "question_418":"Giúp Quân Xanh chiến thắng.",
+    "hint_418":"DI CHUYỂN CÁC CHIẾN BINH XANH. KIẾM SĨ SẼ CHIẾN THẮNG GIÁO BINH, GIÁO BINH ĐÁNH BẠI KỴ BINH VÀ KỴ BINH NGHIỀN NÁT KIẾM SĨ.",
+    "endText_418":"BẠN QUẢ LÀ MỘT THIÊN TÀI CHIẾN THUẬT!",
+    
+    "question_419":"Tên gián điệp đang trốn ở đâu?!",
+    "hint_419":"KIỂM TRA BỨC TRANH KÌA.",
+    "endText_419":"ĐÔI MẮT CỦA GÃ ĐÃ BÁN ĐỨNG GÃ!",
+    
+    "question_420":"Cứu cậu bé với!",
+    "hint_420":"PHẢI CÓ THỨ GÌ ĐÓ LÀM BẠN QUÁI VẬT BÌNH TĨNH LẠI CHỨ NHỈ.",
+    "endText_420":"GẤU BÔNG NUMBER ONE!",
+    
+    "question_421":"Đã đến lúc phải giảm cân rồi.",
+    "hint_421":"KÉO THẮT LƯNG CHẶT LẠI.",
+    "endText_421":"HÃY MUA SÁCH CHẾ ĐỘ ĂN KIÊNG CỦA CHÚNG TÔI, TỰA SÁCH LÀ 'CHẾ ĐỘ GIẢM CÂN THẮT LƯNG BUỘC BỤNG.'",
+    
+    "question_422":"Hãy vén bức màn bí mật.",
+    "hint_422":"VÉN TÓC MÁI CỦA CÔ ẤY SANG MỘT BÊN.",
+    "endText_422":"CÔ ẤY SẼ TRỞ LẠI!",
+    
+    "question_423":"Xe của tôi không nổ máy!",
+    "hint_423":"TRỌNG LỰC CÓ THỂ GIÚP MỘT TAY ĐẤY.",
+    "endText_423":"HY VỌNG PHẦN CÒN LẠI CỦA CON ĐƯỜNG LÀ DỐC ĐỔ XUỐNG.",
+    
+    "question_424":"Hãy giúp giữ thăng bằng cho bập bênh.",
+    "hint_424":"THỬ XÓA MỘT SỐ THỪA RA XEM NÀO.",
+    "endText_424":"SỐ KHÔNG THÌ LÀM QUÁI GÌ CÓ TRỌNG LƯỢNG CƠ CHỨ?!",
+    
+    "question_425":"Anh ấy muốn            mình to hơn.",
+    "hint_425":"HÃY PHÓNG TO 'CƠ BẮP'.",
+    "endText_425":"ĐỪNG BAO GIỜ THỬ CÔNG THỨC LUYỆN CƠ BẮP NÀY TẠI NHÀ NHÉ.",
+    
+    "question_426":"Đã đến lúc làm giàu RỒI!",
+    "hint_426":"KHIẾN CHÚ CHÓ CHÚ Ý ĐẾN BẠN RỒI KẾT HỢP VỚI ĐỒNG XU THÀNH TIỀN KỸ THUẬT SỐ.",
+    "endText_426":"ELON MUSK TỪ CHỐI TÀI TRỢ CHO MÀN CHƠI NÀY, ĐÚNG LÀ MỘT GÃ ĐẠO ĐỨC GIẢ!",
+    
+    "question_427":"Cô ấy hết đồ trang điểm mất rồi. Giúp cô ấy với.",
+    "hint_427":"CÓ THỂ DÙNG KHĂN TAY ĐỂ CHẤM BỚT SON. LẤY TÓC LÀM MI GIẢ CŨNG KHÔNG TỒI ĐÂU.",
+    "endText_427":"MẶT MỘC VẪN ĐẸP HƠN NHIỀU.",
+    
+    "question_428":"Nóng quá trời quá đất! Hãy giúp anh chàng tội nghiệp này với.",
+    "hint_428":"HÃY DÙNG MỘT THỨ SẮC NHỌN ĐỂ CHỌC THỦNG MẶT TRỜI.",
+    "endText_428":"HÓA RA CẢ ĐỜI NÀY TÔI ĐÃ DÙNG DÙ SAI CÁCH!",
+    
+    "question_429":"Chú chó muốn nếm vị của tuyết.",
+    "hint_429":"HẠT MƯA SẼ BIẾN THÀNH TUYẾT KHI MÂY Ở VỊ TRÍ CAO HƠN.",
+    "endText_429":"NHỚ CẨN THẬN VỚI MẤY BÔNG TUYẾT MÀU VÀNG ĐẤY NHÉ!",
+    
+    "question_430":"Cậu bé muốn cao hơn.",
+    "hint_430":"TĨNH ĐIỆN CÓ THỂ LÀM TÓC XÙ LÊN. HÃY TẠO RA TĨNH ĐIỆN BẰNG CHÀ LƯỢC VÀO ÁO.",
+    "endText_430":"TRỞ NÊN CAO LỚN: PHƯƠNG PHÁP CỦA ĐẦU XÙ",
+    
+    "question_431":"Hãy cứu tàu Titanic!",
+    "hint_431":"GIÁ MÀ CÓ ÁNH TRĂNG ĐỂ THẤY TẢNG BĂNG NHỈ.",
+    "endText_431":"BẠN ĐÃ THAY ĐỔI LỊCH SỬ RỒI!",
+    
+    "question_432":"Khiến cả hai người đều vui vẻ.",
+    "hint_432":"NGƯỜI KIA HÌNH NHƯ HƠI THỪA RÂU THÌ PHẢI?",
+    "endText_432":"CHIA SẺ LÀ YÊU THƯƠNG.",
+    
+    "question_433":"Một trong số những kẻ này rất đáng ngờ!",
+    "hint_433":"LAU KÍNH CHE MẶT LÀ BIẾT NGAY THÔI MÀ.",
+    "endText_433":"NẾU BẠN MUỐN TRỞ THÀNH KẺ MẠO DANH, HÃY THỬ <link=\"imposter\"><u><color=blue>BECOME THE IMPOSTER!</color></u></link>",
+    
+    "question_434":"Đặc vụ Bóng Đêm phải bắt cho được tên trộm!",
+    "hint_434":"MANG VÁC NẶNG THÌ KHÔNG CHẠY NHANH ĐƯỢC ĐÂU.",
+    "endText_434":"NẾU BẠN MUỐN THAM GIA VÀO CÁC CHUYẾN PHIÊU LƯU KHÁC CỦA ĐẶC VỤ BÓNG ĐÊM, HÃY CHƠI THỬ <link=\"bt2\"><u><color=blue>BRAIN TEST 2!</color></u></link> NHÉ!",
+    
+    "question_435":"Chú chó có 4 đốm chấm đi đâu rồi nhỉ?",
+    "hint_435":"CÓ MỘT ĐỐM LÀ VẾT BẨN ĐẤY.",
+    "endText_435":"ĐẾN ĐÂY NÀO, BẠN CÚN ƠI!",
+    
+    "question_436":"Ai là đứa trẻ nghịch ngợm nào?",
+    "hint_436":"HẲN LÀ PHẢI CÓ MỘT EM BÉ THỨ BA Ở ĐÂY CHỨ NHỈ.",
+    "endText_436":"NẾU BẠN THÍCH NHỮNG CÂU ĐỐ KIỂU NHƯ THẾ NÀY, HÃY CHƠI THỬ <link=\"whois\"><u><color=blue>WHO IS!</color></u></link> NHÉ!",
+    
+    "question_437":"Cá mập ở đâu rồi?",
+    "hint_437":"CÁ MẬP THƯỜNG BỊ MÁU THU HÚT.",
+    "endText_437":"CHÚNG TÔI SẼ KHÔNG CHIẾU PHẦN CÒN LẠI CỦA BỘ PHIM CHO NHỮNG KHÁN GIẢ TRẺ TUỔI ĐÂU.",
+    
+    "question_438":"Giúp cặp tình nhân này đến với nhau thôi nào.",
+    "hint_438":"XẾP CÁC VẬT THỂ GIỐNG NHAU VÀO CÙNG MỘT HÀNG.",
+    "endText_438":"NẾU BẠN ĐÃ BIẾT TRÒ CHƠI XẾP 3 VẬT THỂ HOẠT ĐỘNG NHƯ THẾ NÀO, TẠI SAO BẠN KHÔNG THỬ <link=\"blast_friends\"><u><color=blue>BLAST FRIENDS</color></u></link> NHỈ?",
+    
+    "question_449":"Giúp anh ta giành chiến thắng trong trò chơi kẹo dalgona.",
+    "hint_449":"CẦN PHẢI LIẾM KẸO MỚI ĐƯỢC.",
+    "endText_449":"LƯỠI GÌ MÀ DÀI DỮ VẬY TRỜI!",
+    
+    "question_450":"Giúp anh ta đánh bại ông già.",
+    "hint_450":"HÃY ĐƯA RA LỰA CHỌN, SAU ĐÓ NẮM TAY ÔNG GIÀ LẠI ĐỂ CHỌN LẠI.",
+    "endText_450":"LỪA NGƯỜI GIÀ NHƯ THẾ MÀ XEM ĐƯỢC À!",
+    "odd":"LẺ",
+    "even":"CHẴN",
+    
+    "question_451":"Anh ta cần phải hoàn thành trò chơi bước qua kính.",
+    "hint_451":"CHẠM VÀO KÍNH ĐỂ KIỂM TRA ĐỘ CHẮC CHẮN CỦA CHÚNG.",
+    "endText_451":"ANH TA LÀ NGƯỜI DUY NHẤT HOÀN THÀNH MÀN CHƠI, VẬY THÌ ANH TA SẼ ĐẤU VỚI CHÍNH MÌNH TRONG TRÒ CHƠI CUỐI CÙNG À?!",
+    
+    "question_452":"Cần phải giúp anh chàng này về đích an toàn.",
+    "hint_452":"CÁT CÓ THỂ CHE MẮT BÚP BÊ ĐẤY.",
+    "endText_452":"CHƠI ĂN GIAN TRONG NHỮNG TRÒ BẠO LỰC NHƯ THẾ NÀY THÌ KHÔNG TÍNH LÀ ĂN GIAN ĐÂU NHỈ.",
+    
+    "question_453":"Đội của anh ta cần phải giành chiến thắng trong trò chơi kéo co.",
+    "hint_453":"HAY LÀ THỬ LỢI DỤNG TRỌNG LỰC XEM SAO.",
+    "endText_453":"TẠI SAO NGƯỜI TA LẠI KHÔNG SỬ DỤNG THỦ THUẬT NÀY TRONG BỘ PHIM NHỈ?",
+    
+    "question_454":"Giúp ông già Noel khởi hành.",
+    "hint_454":"HÃY THỬ TẶNG RUDOLPH MỘT CHIẾC MŨI ĐỎ XEM SAO.",
+    "endText_454":"ÔNG GIÀ NOEL CẦN PHẢI BỎ CÁI TRÒ MƯỢN MŨI CỦA RUDOLPH LẠI ĐI!",
+    
+    "question_455":"Họ đang rơi xuống, giúp họ một tay với!",
+    "hint_455":"SẮP XẾP CÁC CHÚ TUẦN LỘC THEO TRỌNG LƯỢNG. CỐ GẮNG CÂN BẰNG HAI HÀNG KÉO.",
+    "endText_455":"PHÙ! BẠN ĐÃ CỨU MỘT MÙA GIÁNG SINH RỒI ĐẤY!",
+    
+    "question_456":"Trời lạnh rồi, lò sưởi cần thêm lửa.",
+    "hint_456":"HÃY TẶNG QUÀ ĐỂ LẤY THAN CHO LÒ SƯỞI.",
+    "endText_456":"HIẾM HOI LẮM MỚI THẤY TÈO TÍ TỞN GIÚP ÍCH ĐƯỢC MỘT LẦN ĐẤY!",
+    
+    "question_457":"Hãy hoàn thành công việc trang trí cây thông Noel.",
+    "hint_457":"BẠN CÓ THỂ TÌM RA NGÔI SAO BẰNG CÁCH LÀM CHO CHÚ MÈO CHÓNG MẶT. HÃY SỬ DỤNG CÔNG TẮC.",
+    "endText_457":"NGÀNH CÔNG NGHIỆP TRANG TRÍ GIÁNG SINH HẲN SẼ GHÉT CHÚ MÈO NÀY LẮM ĐÂY!",
+    
+
+
+
+
+"closed":"Đóng",
+"open":"Mở",
+"custom1_375": "THÁNG NĂM",
+"custom2_375": "THÁNG SÁU",
+"custom1_359":"Mật khẩu là",
+"custom2_359":"Mật khẩu là 4285",
+"daily_gift": "Quà Tặng Hàng Ngày",
+
+    "weekly_available": "ĐÃ CÓ CẤP ĐỘ CHƠI HÀNG TUẦN!",
+    "weekly_week": "TUẦN",
+    "weekly_title": "TUẦN ",
+    "weekly_page_title": "CẤP ĐỘ CHƠI HÀNG TUẦN",
+    "weekly_new": "MỚI",
+    "weekly_missed": "Đã bỏ lỡ",
+    "weekly_save": "CỨU MÀN CHƠI CỦA TUẦN NÀY",
+    "weekly_not_available": "NHỚ QUAY LẠI VÀO TUẦN TỚI NHÉ!",
+    "bulb_notification_title_completed": "Các cấp độ mới sẽ sớm ra mắt!",
+    "bulb_notification_title_normal": "Đừng dừng lại ở Cấp Độ  chứ!",
+    "bulb_notification_text_completed": "Truy cập trò chơi để nhận các gợi ý miễn phí và sử dụng chúng trong các cấp độ mới.",
+    "bulb_notification_text_normal": "Truy cập trò chơi và nhận bóng đèn miễn phí để có thêm gợi ý.",
+    "reward_wheel_title": "HÃY QUAY BÁNH XE ĐỂ NHẬN THƯỞNG!",
+    "reward_wheel_spin": "QUAY!",
+    "reward_wheel_spin_again": "QUAY LẠI!",
+    "reward_wheel_1_day_hint": "<line-height=130%>GIẢM GIÁ <size=50>%",
+    "reward_wheel_1_day_hint2": "GIẢM GIÁ %",
+    "reward_wheel_1_day_vip": "VIP 1 ngày",
+    "settings_try_our_other_games":"TRÒ CHƠI KHÁC",
+    "other_games_title":"TRÒ CHƠI KHÁC",
+    "other_games_play_now":"CHƠI NGAY!"
+    ,
+
+    "gdpr_consent_title":"Xin chào!",
+    "gdpr_consent_text":"Bằng cách nhấn vào Chấp nhận và Tiếp tục, bạn xác nhận rằng mình đã xem và chấp nhận <link=\"https://unicostudio.co/terms.html\"><#C7F463>Điều khoản Sử dụng</color></link> và <link=\"https://unicostudio.co/privacy.html\"><#C7F463>Chính sách Bảo mật</color></link> của chúng tôi.",
+    "gdpr_consent_button":"CHẤP NHẬN VÀ TIẾP TỤC"
+
+}

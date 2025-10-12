@@ -1,0 +1,1897 @@
+{
+    "watch_video_title":"VİDEO İZLEMEK İSTER MİSİN?",
+    "watch_video_button":"İZLE",
+    "skip_level_title":"BU SEVİYEYİ GEÇMEK İSTER MİSİN?",
+    "skip_level_button":"GEÇ",
+    "gift_tomorrow":"YARIN YİNE GEL!",
+    "level_title":"SEVİYE ",
+    "settings_english":"türkçe",
+    "settings_title":"AYARLAR",
+    "settings_sound":"SES",
+    "settings_music":"MÜZİK",
+    "settings_notification":"BİLDİRİMLER",
+    "settings_support":"DESTEK",
+    "settings_share":"PAYLAŞ",
+    "settings_restore":"RESTORE",
+    "settings_language":"DİL",
+    "settings_share_text":"Süper bir oyun! Oynamanı tavsiye ederim. ",
+    "settings_email_text":"Lütfen mesajınızı buraya yazınız.    ________  Lütfen Burayı Düzenlemeyin.  Model:   OS: {1}  Application Version: {2}  ________",
+    "levels_title":"SEVİYELER",
+    "levels_skipped":"ATLANDI",
+    "nextLevel_next_button":"SONRAKİ",
+    "shop_title":"MAĞAZA",
+    "shop_bundle1_title":"EN HAVALI TEKLİF",
+    "shop_bundle2_title":"EN ÇOK TERCİH EDİLEN",
+    "shop_sale":"% İNDİRİMLİ",
+    "shop_remove_ads":"reklamları kaldır",
+    "shop_purchased":"Satın alındı",
+    "shop_loading":"yükleniyor",
+    "startScreen_title":"ZEKA TESTİ",
+    "startScreen_text":"ZEKANI TEST ETMEYE HAZIR MISIN?",
+    "startScreen_button":"BAŞLA",
+    "rateScreen_title":"OY VER",
+    "rateScreen_hint":"TAM PUAN",
+    "rateScreen_question":"Oyunumuzu ne kadar beğendiniz?",
+    "rateScreen_thanks":"Oyunumuzu desteklediğiniz için teşekkür ederiz!",
+    "vipPanel_becomevip":"VIP OLUN!",
+    "vipPanel_get":"ANINDA",
+    "vipPanel_and":"VE...",
+    "vipPanel_unlockWeekly":"haftalık seviyeler",
+    "vipPanel_remove_ads":"reklamları kaldır",
+    "vipPanel_double_daily_gifts":"çifte günlük hediye",
+    "vipPanel_cheaper_skips":"indirimli geçişler",
+    "vipPanel_cheaper_hints":"indirimli ipuçları",
+    "vipPanel_try_for_free":"ÜCRETSİZ DENE!",
+    "vipPanel_3_days_free":"3 gün ücretsiz sonra",
+    "vipPanel_price":"haftalık ",
+    "vipPanel_disclaimer":"Haftalık özel üyelik 3 günlük deneme sürümü sonrası otomatik olarak {2} karşılığında yenilenir. Ödeme  hesabınızdan çekilir. Abonelik bulunduğunuz abonelik döneminin bitimine 24 saat kalmadan önce iptal edilmezse otomatik olarak devam eder. Aboneliklerinizi {1} hesap ayarları sayfasından düzenleyebilirsiniz.",
+    "vipPanel_privacy_policy":"GİZLİLİK POLİTİKASI",
+    "vipPanel_terms_of_use":"KULLANIM ŞARTLARI",
+    "bonusPanel_pick_bonus":"SÜRPRİZ ÖDÜLÜNÜ SEÇ!",
+    "bonusPanel_no_thanks":"HAYIR, TEŞEKKÜRLER",
+    "bonusPanel_collect":"TOPLA",
+    "noti_text1": "Gel ve komik bulmacalarla kendini test et!",
+    "noti_text2": "Bu bulmaca sizi gülümsetecek :)",
+    "noti_text3": "Biraz eğlenme zamanı :)",
+    "crosspromo_play":"OYNA",
+    "crosspromo_title":"DİĞER OYUNLARIMIZ",
+    "free":"BEDAVA",
+
+    "submit":"GÖNDER",
+    "reset":"SIFIRLA",
+    "next_levels":"YENİ SEVİYELER",
+    "coming_soon":"ÇOK YAKINDA!",
+
+    "level_50_title":"SEVİYE",
+    "knights":"YENİÇERİ",
+    "barbarians":"ŞÖVALYE",
+    "leve":"LEVE ",
+    "red":"KIRMIZI",
+    "purple":"MOR",
+    "blue":"MAVİ",
+    "black":"SİYAH",
+    "yellow":"SARI",
+    "orange":"TURUNCU",
+    "front":"ÖN",
+    "back":"ARKA",
+    "go":"BAŞLA!",
+
+    "dog":"KÖPEK",
+    "kit":"CİVCİV",
+    "calf":"OĞLAK",
+    "mitty":"TAY",
+
+    "march":"MART",
+    "february":"ŞUBAT",
+    "may":"EKİM",
+
+    "victory_1":"BA",
+    "victory_2":"ŞA",
+    "victory_3":"RI",
+
+    "turn_right":"SAĞA DÖN",
+
+    "jamaica":"ORDU",
+    "france":"MUĞLA",
+    "madagascar":"ADANA",
+    "usa":"AMERİKA",
+    "mars":"MARS",
+    "mordor":"HEPSİ",
+
+    "out_of_order":"KULLANIM DIŞI",
+
+    "battle":"SAVAŞ",
+
+    "fight":"BAŞLA!",
+    "jump":"ZIPLA!",
+    "fire":"ATEŞ!",
+
+    "new_york":"ANTALYA",
+    "new_jersey":"ANKARA",
+
+    "closed":"KAPALI",
+    "open":"AÇIK",
+
+    "weekly_title":"HAFTA ",
+    "weekly_page_title":"HAFTALIK SEVİYELER",
+    "weekly_missed":"kaçırdın",
+    "weekly_available":"HAFTALIK YENİ SEVİYELER!",
+    "weekly_week":"HAFTA",
+    "weekly_save":"HAFTAYI OYNA",
+    "weekly_new":"YENİ!",
+    "weekly_not_available":"HAFTAYA YİNE GEL!",
+
+    "bulb_notification_title_completed":"Yeni bölümler çok yakında",
+    "bulb_notification_title_normal":". seviyede takılma",
+    "bulb_notification_text_completed":"Yeni seviyelerde kullanmak için oyunu açarak ücretsiz ampuller kazan!",
+    "bulb_notification_text_normal":"Oyunu açarak ekstra ipuçları için bedava ampul kazan!",
+
+    "question_1":"Sence en büyük hangisi?",
+    "hint_1":"ŞEKİLLERE DİKKATLİ BAK.",
+    "endText_1":"ASLAN EN BÜYÜK ŞEKLE SAHİP.",
+    
+    "question_2":"Saklı sayı nedir?",
+    "hint_2":"TAŞI OYNATMAYI DENE!",
+    "endText_2":"AYNEN BU ŞEKİLDE TÜM SORULARI KURCALA.<sprite index=0>",
+    
+    "question_3":"Hadi her şeyi yakalım!",
+    "hint_3":"BENCE SADECE RESİMLERE ODAKLANMA.",
+    "endText_3":"İŞTE ŞİMDİ ‘HER ŞEYİ’ YAKTIN :)",
+    
+    "question_4":"Tişörtte kaç delik var bulabilir misin?",
+    "hint_4":"DİĞER TARAFI HESABA KATTIN MI?",
+    "endText_4":"BAZEN 3 BOYUTLU DÜŞÜNMELİSİN.",
+    
+    "question_5":"Bu çiçek nasıl açar?",
+    "hint_5":"BULUTLARIN GİZLEDİĞİ ŞEY SENCE NE?",
+    "endText_5":"NE GÜZEL BİR ÇİÇEK!",
+    
+    "question_6":"Hangisi bize en yakın olan?",
+    "hint_6":"‘BİZE’ EN YAKIN OLAN DEMİŞTİM.",
+    "endText_6":"HER ŞEYİN SORUNUN BİR PARÇASI OLDUĞUNU UNUTMA.",
+    
+    "question_7":"En küçükten en büyüğe doğru hayvanlara tıklayabilir misin?",
+    "hint_7":"“HAYVANLARA” DEDİM YA :)",
+    "endText_7":"AĞACA DA TIKLADIM DEME SAKIN:))",
+    
+    "question_8":"Hadi düşen elmalardan  tane yakala!",
+    "hint_8":"SADECE DÜŞENLERİ YAKALA!",
+    "endText_8":"BU ARADA BU ELMALAR NASIL UÇUYORLAR YAHU?!?!",
+
+    "question_9":"Yarışta 2. sıradakini geçtim, kaçıncı oldum?",
+    "hint_9":"BU EN KLASİK BİLMECELERDEN BİRİSİDİR!",
+    "endText_9":"HADİ ŞİMDİ DE LİDERİ GEÇ BAKALIM.",
+    
+    "question_10":"Cevap nedir?",
+    "hint_10":"TÜM DENKLEMLERİN TOPLAMI HER MEYVEDEN İKİŞER TANE İÇERMEKTE.",
+    "endText_10":"MATEMATİĞİN İYİ GALİBA, AFERİM SANA :)",
+    
+    "question_11":"Kilidi açmak için sola kaydır",
+    "hint_11":"DAHA DİKKATLİ OKU.",
+    "endText_11":"NABER? NASIL KANDIRDIM AMA :))",
+    
+    "question_12":"Kedi çok aç, lütfen onu doyur.",
+    "hint_12":"EKRANDA TEK BİR ‘KEDİ’ YOK.",
+    "endText_12":"DİKKAT ET, YAZILI OLAN ‘KEDİ’ DE BİR KEDİ.",
+    
+    "question_13":"Yeşil top nerede?",
+    "hint_13":"YEŞİL RENGİ NASIL ELDE EDERSİN?",
+    "endText_13":"MAVİ+SARI = YEŞİL. EN SEVDİĞİM RENK :)",
+    
+    "question_14":"Bu sorudaki hatayi bul.",
+    "hint_14":"SORUYA DİKKATLİ BAK.",
+    "endText_14":"BAZEN BÖYLE ÖZELEŞTİRİ YAPMAK LAZIM.",
+    
+    "question_15":"Kediyi           öldürür derler. Peki sen nasıl öldürebilirsin?",
+    "hint_15":"KEDİYİ NE ÖLDÜRÜRDÜ? İŞTE ONU KULLAN!",
+    "endText_15":"MERAK ETME, HALA 8 CANI DAHA VAR :)",
+    
+    "question_16":"Kaç tane pizza dilimi var?",
+    "hint_16":"BAZI DİLİMLER ÜST ÜSTE GELMİŞ OLABİLİRLER.",
+    "endText_16":"DETAYLAR HER ZAMAN ÖNEMLİDİR.",
+    
+    "question_17":"Çok tehlikeli!!! Hemen bir şey yap!",
+    "hint_17":"KETTLE'DA BİR DÜĞME VAR.",
+    "endText_17":"İŞTE, BU KADAR BASİT!",
+    
+    "question_18":"Kim kazanır?",
+    "hint_18":"SAYILARI ÇARPIŞTIR VE SONUCU GÖR.",
+    "endText_18":"BU BİR KELİME SAVAŞIYDI.",
+    
+    "question_19":"",
+    "hint_19":"4 İŞLEM SIRASINA DİKKAT ET.",
+    "endText_19":"BİLİRSİN, BUNLAR MATEMATİĞİN TEMELİ...",
+    
+    "question_20":"Bu sırayla tıkla: 1, 49, 80, 5, 7, 11, 101",
+    "hint_20":"BELKİ DE ÖNCE BİR KAĞIDA YAZABİLİRSİN.",
+    "endText_20":"HAFIZAN OLDUKÇA İYİ BENCE!",
+    "custom1_20":"Bu sırayla tıkla",
+    
+    "question_21":"Kediciği lütfen içeri al, dışarısı çok soğuk!",
+    "hint_21":"KAPIYI YERÇEKİMİNİ KULLANARAK AÇ.",
+    "endText_21":"NE KADAR İYİ KALPLİSİN :)",
+    
+    "question_22":"Altta cevabi yazip submitleme input alani olur. Cevap 6’dir.",
+    "hint_22":"HALKALARI SAY.",
+    "endText_22":"DETAYLARLARIN ÖNEMLİ OLDUĞUNU DAHA ÖNCE SÖYLEMİŞTİM.",
+    
+    "question_23":"Kaç ayda 28 gün vardır?",
+    "hint_23":"31 > 28",
+    "endText_23":"HEPSİNDE EN AZ 28 GÜN VAR YA İŞTE :)",
+    
+    "question_24":"Lütfen çocuğu kurtar!",
+    "hint_24":"KÜREKLE KEMİĞİ ÇIKAR.",
+    "endText_24":"HIZIR GİBİ YETİŞTİN!",
+    
+    "question_25":"Gizli sayı nedir?",
+    "hint_25":"TERS BİR AÇIDAN BAKMALISIN.",
+    "endText_25":"UNUTMA, OLAYLARA FARKLI AÇILARDAN BAKMAK HER ZAMAN İŞE YARAR.",
+    
+    "question_26":"        koyun nerede?",
+    "hint_26":"BİRİNİ SİYAHA BOYAMAYI DENE!",
+    "endText_26":"İŞTE ORADA!",
+    
+    "question_27":"Bu resimdeki tuhaflık nedir?",
+    "hint_27":"ELLERE DİKKATLİ BAK.",
+    "endText_27":"6 PARMAĞI VAR.",
+    
+    "question_28":"Lütfen ampülleri yak.",
+    "hint_28":"‘EKRANDA’ GÖRÜNEN AMPÜLLERİ DESEK DE OLUR.",
+    "endText_28":"O ZATEN BOZUKTU, İYİ Kİ ATTIN :))",
+    
+    "question_29":"",
+    "hint_29":"EŞİTLİKLER YER DEĞİŞTİREBİLİRLER.",
+    "endText_29":"İŞTE BU KADAR BASİT :)",
+    
+    "question_30":"Alfabedeki son harf nedir?",
+    "hint_30":"‘ALFABE’ DEKİ SON HARF.",
+    "endText_30":"UMARIM ‘Z’ Yİ DENEMEMİŞSİNDİR.",
+    
+    "question_31":"Bu otobüs buradan nasıl geçer?",
+    "hint_31":"FOTOĞRAFLARA BAKARKEN EKRANA NASIL YAKINLAŞIP UZAKLAŞIYORSUN?",
+    "endText_31":"OTOBÜSÜN İÇİNDEKİLERE NE OLDU PEKİ?!",
+    
+    "question_32":"Kedi partimizde davetsiz bir misafir var! Onu bul!",
+    "hint_32":"ETRAFA TIKLAYARAK BULMAYA ÇALIŞ.",
+    "endText_32":"İŞTE ORADA! YAKALAYINNNN!....",
+    
+    "question_33":"Kadını kurtarmalısın!",
+    "hint_33":"BULUTLAR TEMAS EDİNCE ŞİMŞEK ÇAKAR.",
+    "endText_33":"ÇARPILDI RESMEN!",
+    
+    "question_34":"Mavi düğmeye  kez tıkla.",
+    "hint_34":"SAKLANMAKTA OLAN MAVİ DÜĞMEYİ BULDUN MU?",
+    "endText_34":"NE YARAMAZ DÜĞMELER BUNLAR BÖYLE!",
+    
+    "question_35":"Bu objeler sana neyi hatırlatıyor?",
+    "hint_35":"SANKİ BİR GRUP SÜPERKAHRAMANA ATIFTA BULUNUYORLAR?",
+    "endText_35":"AVENGERS! TABİİ YA...",
+    
+    "question_36":"Düğmelere bas.",
+    "hint_36":"ORTADAKİNDEN BAŞKA BİR ‘DÜĞME’ DAHA VAR.",
+    "endText_36":"EVET, ASLINDA KELİME OLAN DA BİR “DÜĞME” :)",
+    
+    "question_37":"Sepette kaç tane top var?",
+    "hint_37":"SEPETLERİN İÇİNİ GÖREMİYORUZ.",
+    "endText_37":"İYİ DÜŞÜNDÜN, SEPETLERE GÜVEN OLMAZ :)",
+    
+    "question_38":"Lütfen bu denklemi düzeltir misin?",
+    "hint_38":"ORADAKİ GEREKSİZ SAYIYI SİLMEYİ DENE.",
+    "endText_38":"SAYILARI SİLMEKTEN KORKMA.",
+    
+    "question_39":"Tekir'in karnını doyur lütfen.",
+    "hint_39":"KONSERVEDEN FARE SESLERİ DUYDUM!",
+    "endText_39":"HADİ YİNE İYİSİN TEKİR :)",
+    
+    "question_40":"",
+    "hint_40":"MEYVELERE DİKKATLİ BAK.",
+    "endText_40":"MATEMATİK İŞE YARAR, AMA DİKKATLİ BİR GÖZ DAHA ÇOK İŞE YARAR. ",
+    
+    "question_41":"Bu gençler nasıl aşık olur?",
+    "hint_41":"ŞU BALONU PATLATIRSAK DELİKANLI UYANIR BELKİ.",
+    "endText_41":"İLK GÖRÜŞTE AŞK DİYE BEN BUNA DERİM! ",
+    
+    "question_42":"Seviyey tamamla lütfen.",
+    "hint_42":"SORUDA BİR ŞEYLER EKSİK SANKİ.",
+    "endText_42":"ARAYÜZ BİLE EMRİNE AMADE BAK :)",
+    "custom1_42":"Seviyeyi tamamla lütfen.",
+    
+    "question_43":"Tüh ya yine hep-yek, bir de sen denesen?",
+    "hint_43":"TELEFONU SALLAMAYI DENE.",
+    "endText_43":"DÜŞEŞ! BUGÜN ŞANSLI GÜNÜNDESİN BENCE.",
+    
+    "question_44":"Bir ineğin yavrusuna ne denir?",
+    "hint_44":"CEVAP BUZAĞI DEĞİLSE SENCE NE OLABİLİR?",
+    "endText_44":"AYNEN, FAZLA DÜŞÜNME :))",
+    
+    "question_45":"Hangi kedi en sağda?",
+    "hint_45":"EKRAN GÖRDÜĞÜNLE SINIRLI MI ACABA?",
+    "endText_45":"İŞTE ORADA SAKLANIYORDU YARAMAZ!",
+    
+    "question_46":"           ışıkta beklerken radyodan dinledim bu bilmeceyi: Bil bakalım boğa nerede?",
+    "hint_46":"KIRMIZI RENK BOĞALARI ÇILDIRTIR.",
+    "endText_46":"İŞTE ORDAYDI!",
+    
+    "question_47":"Ben 6 yaşımdayken kız kardeşimin yaşı benim yaşımın yarısı kadardı ve ağabeyimin yaşı benimkinin iki katıydı. 5 sene sonra kardeşlerimin toplam yaşı kaç olur? ",
+    "hint_47":"KIZ KARDEŞ 3, AĞABEY 12 YAŞINDAYMIŞ. 5 SENE SONRA TOPLAMLARI NE OLUR? ",
+    "endText_47":"BU SORUDA HİÇ ŞAŞIRTMACA YOKTU.",
+    
+    "question_48":"",
+    "hint_48":"ÇOK BASİT, CEVAP GÖZÜNÜN ÖNÜNDE!",
+    "endText_48":"DİĞER DENKLEMLER HATALIYDI!",
+    
+    "question_49":"Yavrular yüzme bilmiyor boğulacaklar! Hangisini kurtarırsın?",
+    "hint_49":"5 TANE PARMAĞIN VAR, KULLAN HEPSİNİ.",
+    "endText_49":"KAHRAMANIMIZSIN, BRAVO HEPSİNİ KURTARDIN!",
+    
+    "question_50":"Bu denklem nasıl çalışır?",
+    "hint_50":"KAÇINCI SEVİYEDEYİZ ACABA? ",
+    "endText_50":"UNUTMA, ÇÖZÜMÜ HER YERDE ARAYABİLİRSİN.",
+    
+    "question_51":"Lütfen çoraplarımı bulmama yardım et.",
+    "hint_51":"DAHA GENİŞ BİR AÇIYLA BAK.",
+    "endText_51":"TEMİZLER MERAK ETME, ÇOK SAĞOL :).",
+    
+    "question_52":"Arabanın köprüyü geçmesine yardım etmen lazım.",
+    "hint_52":"KÖPRÜNÜN ZAYIF AYAĞINI DESTEKLEMEYİ DENE.",
+    "endText_52":"BÜYÜK TEHLİKE ATLATTIK!",
+    
+    "question_53":"Eren’in karnı acıkmış, lütfen onu doyur.",
+    "hint_53":"ÇORBA HEM ÇOK SICAK HEM DE TUZSUZ.",
+    "endText_53":"EREN’İN KARNI SONUNDA DOYDU!",
+    
+    "question_54":"Doğru düğmeleri yak.",
+    "hint_54":"NUMARALAR O SÜTUN VEYA ÇİZGİDE KAÇ DÜĞME YANMASI GEREKTİĞİNİ GÖSTERİYOR. ",
+    "endText_54":"KESKİN BİR ZEKAN VAR, TEBRİKLER!",
+    
+    "question_55":"Gazozumu açabilir misin sana zahmet?",
+    "hint_55":"BİRAZ SALLAMAYI DENESENE.",
+    "endText_55":"TAMAM DA ŞİMDİ TÜM ASİDİ KAÇTI, SEN İÇ :)",
+    
+    "question_56":"Bu sorunun üstündeki kedi nerede?",
+    "hint_56":"SORUYU KEDİNİN ALTINA GÖTÜR.",
+    "endText_56":"BAZEN CEVAPLARI BÖYLE KENDİN OLUŞTURMALISIN...",
+    
+    "question_57":"",
+    "hint_57":"KESİŞME NOKTALARINI SAY.",
+    "endText_57":"SENİN GİBİ BİR DAHİ İÇİN ÇEREZ BİR SORUYDU.",
+    
+    "question_58":"Çok karanlık! Kedimi bulamıyorum!",
+    "hint_58":"KEŞKE EKRANI AYDINLATACAK BİR ŞEYİMİZ OLSAYDI.",
+    "endText_58":"ARAYÜZ YİNE İMDADINA YETİŞTİ.",
+    
+    "question_59":"Süre bitmeden bitişe ulaş.",
+    "hint_59":"KEŞKE ŞU SAYAÇ OLMASA.",
+    "endText_59":"BİR DAKİKA, BU KURALLARA AYKIRI DEĞİL Mİ?!",
+    
+    "question_60":"Mümkün olan en büyük sayıyı elde et.",
+    "hint_60":"RAKAMLARLA YAZILACAK EN BÜYÜK SAYIYI YAZ İŞTE.",
+    "endText_60":"O DENKLEMLER NE İŞE YARIYOR HİÇBİR FİKRİM YOK :))?!",
+    
+    "question_61":"Lütfen minik Ela’nın susmasına yardımcı ol :((",
+    "hint_61":"TELEFON EKRANINI AŞAĞI ÇEVİREREK GÖZYAŞLARINI DURDURMAYI DENE",
+    "endText_61":"OH BE, NİHAYET SUSTU!",
+    
+    "question_62":"Lütfen kavgayı durdur.",
+    "hint_62":"KURABİYEYİ İKİYE AYIRMALISIN.",
+    "endText_62":"BİR KURABİYE İÇİN DEĞER Mİ ÇOCUKLAR?",
+    
+    "question_63":"Bu kardeşlerden her birinin bir tane kızkardeşi var. Toplamda kaç kardeşler o zaman? ",
+    "hint_63":"TOPLAMDA 1 TANE KIZKARDEŞLERİ VAR.",
+    "endText_63":"SAKIN BANA ‘10’ DEDİĞİNİ SÖYLEME :))",
+    
+    "question_64":"Hangi maymunu araba tutar?",
+    "hint_64":"TELEFONU ARABA GİBİ SALLA VE GÖR.",
+    "endText_64":"FAZLA SALLADIN, ZAVALLI ÇARLİ.",
+    
+    "question_65":"Fili buzdolabına koy.",
+    "hint_65":"ÖNCE BUZDOLABININ KAPAĞINI AÇ.",
+    "endText_65":"BU KADAR BASİT!",
+    
+    "question_66":"10 liraya ihtiyacımız var.",
+    "hint_66":"CEBİ BAYA DOLGUN GÖRÜNÜYOR.",
+    "endText_66":"ÇOK AYIP HIRSIZ MISIN SEN? :))",
+    
+    "question_67":"Kaç tane daire var?",
+    "hint_67":"ARAYÜZÜ DE HESABA KAT.",
+    "endText_67":"BU KADAR DAİREM OLSA YAN GELİR YATARDIM :))",
+    
+    "question_68":"Zavallı kaplumbağaya yardım et.",
+    "hint_68":"TELEFONU KULLANARAK TERS DÖNDÜRMEYİ DENE.",
+    "endText_68":"NE İYİ BİR İNSANSIN SEN!",
+    
+    "question_69":"          yarışı kazanmalı.",
+    "hint_69":"Bİ DAKİKA ‘KIRMIZI ARABA’ MI DEDİM, YOKSA ‘KIRMIZI’ MI?",
+    "endText_69":"KIRMIZI KAZANDI!",
+    
+    "question_70":"  tane elmaya ihtiyacımız var.",
+    "hint_70":"İHTİYACIMIZI GÖZDEN GEÇİRMELİYİZ.",
+    "endText_70":"AÇGÖZLÜ OLMAYA GEREK YOK, 6 DA YETER.",
+    
+    "question_71":"Televizyonu aç lütfen en sevdiğim dizi başlamak üzere.",
+    "hint_71":"İNSAN VÜCUDU ELEKTRİĞİ İLETİR. ",
+    "endText_71":"AZ KALSIN ÇARPILACAKTIN, BUNU BİR DAHA SAKIN DENEME :))",
+    
+    "question_72":"Burada kaç tane nokta var merak ediyorum.",
+    "hint_72":"BENEK DEMEDİM Kİ NOKTA DEDİM. ",
+    "endText_72":"ŞAKACI DALMAÇYALI SENİ, BİZİ KANDIRDIN…",
+    
+    "question_73":"Tekir’in karnı acıkmış. Fareyi yakalamak istiyor.",
+    "hint_73":"ZEMİN BİR DÖNSE OLACAK ASLINDA.",
+    "endText_73":"OBUR TEKİR YİNE İŞ BAŞINDA...",
+    
+    "question_74":"Hangi bina depreme dayanıklı sence?",
+    "hint_74":"DEPREM TESTİ UYGULAYABİLİRSİN.",
+    "endText_74":"ORADAN BİR DAİRE SATIN ALMAK LAZIM!",
+    
+    "question_75":"Bu bebek durmadan ağlıyor yine!       u da temiz aslında!",
+    "hint_75":"BİR YERDEN BİR DON-DURMA BULSAN SUSAR BELKİ.",
+    "endText_75":"LAF CAMBAZLIĞI BU OLSA GEREK.",
+    
+    "question_76":"Mümkün olan en ufak sayıyı elde et.",
+    "hint_76":"BİR EKSİ İŞARETİ BULUP BAŞA KOYMAYI DENER MİSİN?",
+    "endText_76":"İŞTE ŞİMDİ DENKLEMLER BİR İŞE YARADILAR!",
+    
+    "question_77":"Kartları eşleştir oyunu kazan!",
+    "hint_77":"9 KARTLA EŞLEŞTİRME NASIL OYNANIR Kİ?! ",
+    "endText_77":"İYİ DÜŞÜNDÜN PARMAKLARIN EFENDİSİ :))",
+    
+    "question_78":"Kırmızı rengi seç! Soru: Sarı rengi seç!  ‘Kırmızı’yı seç şimdi de! ",
+    "hint_78":"SORULARI ÇOK DİKKATLİ OKUMALISIN. ",
+    "endText_78":"GÖZÜNDEN DE BİR ŞEY KAÇMIYOR, ÇOK DİKKATLİSİN TEBRİKLER!",
+    "custom1_78":"Kırmızı rengi seç!",
+    "custom2_78":"Sarı rengi seç!",
+    "custom3_78":"‘Kırmızı’yı seç şimdi de!",
+
+    "question_79":"Mavi yarışı kazanmak zorunda ama nasıl?",
+    "hint_79":"SEYİRCİLERİN ORADA BİR NİTRO TÜPÜ VAR SANKİ.",
+    "endText_79":"BU HIZLI VE ÖFKELİ’DEN BİLE DAHA HEYECANLIYDI!",
+    
+    "question_80":"Haftada 2 kez, ayda 1 kez olan ve yılda hiç olmayan nedir?",
+    "hint_80":"KELİMELERE DİKKATLİ BAK, CEVAP ORADA GİZLİ.",
+    "endText_80":"TEBRİKLER!",
+    
+    "question_81":"",
+    "hint_81":"HHHHHHHHHH",
+    "endText_81":"EEEEEEEEE",
+    
+    "question_82":"Bu denklemi tamamla.",
+    "hint_82":"BÖLÜM NUMARASINA BAKSANA.",
+    "endText_82":"ÇOK PRATİK BİR ZEKAYA SAHİPSİN :)",
+    
+    "question_83":"Tekir yine acıkmış.",
+    "hint_83":"KİBRİTİ ÇIKAR, YAK VE TOPU ATEŞLE.",
+    "endText_83":"GARFİELD'I BİLE GEÇTİ OBURLUKTA.",
+    
+    "question_84":"9 tane şeker istiyorum.",
+    "hint_84":"BU ŞEKERLER TEK ÇEVİRME İLE DÖKÜLMEZLER, BİLİRSİN.",
+    "endText_84":"NE BİÇİM ŞEKER KUTUSU YAPIYORLAR!",
+    
+    "question_85":"Alçaktan yükseğe doğru tıkla.",
+    "hint_85":"578 EN ALÇAK SEVİYEDE.",
+    "endText_85":"TAMAMEN YÜKSEKLİKLE İLGİLİYDİ :)",
+    
+    "question_86":"Sakın bana hediye almayı unuttuğunu söyleme!",
+    "hint_86":"SANKİ ALT TARAFTA İŞİNİ GÖRECEK BİR HEDİYE KUTUSU VAR.",
+    "endText_86":"YİNE OYUN KURTARDI SENİ :)",
+    
+    "question_87":"Arabasına binip kaçmalı!",
+    "hint_87":"PARMAĞINI KULLANARAK ADAMI HAREKET ETTİR.",
+    "endText_87":"HAYATINI KURTARDIN!",
+    
+    "question_88":"Kaç tane kare var?",
+    "hint_88":"SANKİ HİÇ YOK GİBİ?!",
+    "endText_88":"UMARIM BİR KARE ARAMAKLA ÇOK VAKİT KAYBETMEMİŞSİNDİR.",
+    
+    "question_89":"Düğmeye 1     kez bas.",
+    "hint_89":"SORUYU KAFANA GÖRE DÜZENLEMEYİ DENE.",
+    "endText_89":"SAKIN BANA 100 KEZ BASTIĞINI SÖYLEME :))",
+    
+    "question_90":"Balıkçı bereketsiz bir gün geçiriyor, yardım et lütfen.",
+    "hint_90":"ELMALARDA KURTÇUK OLABİLİR.",
+    "endText_90":"AKŞAMA BALIK IZGARA VAR, HMMM....",
+    
+    "question_91":"Yemeği yaktı, onu tekrar mutlu etmeyi dene.",
+    "hint_91":"KEŞKE ZAMANI GERİ ALABİLSEK!",
+    "endText_91":"ZAMAN YOLCUSU MUSUN SEN?!",
+    
+    "question_92":"Kurbağa uçmak istiyormuş.",
+    "hint_92":"BİR SÜRE NEFESİNİ KESMEYİ DENE.",
+    "endText_92":"SHREK'DEKİ SAHNE GELDİ AKLIMA :)",
+    
+    "question_93":"En büyük sayıyı seç.",
+    "hint_93":"EKRANA BAŞKA BİR AÇIDAN BAKIP DENE.",
+    "endText_93":"SONSUZLUKTAN BÜYÜĞÜ YOK!",
+    
+    "question_94":"Kaç tane dikdörtgen var?",
+    "hint_94":"ÖNCE AYIRMAYI DENEYEBİLİRSİN.",
+    "endText_94":"BAHSE VARIM AYIRMADAN SAYMAYA KALKMIŞSINDIR :P",
+    
+    "question_95":"Fareyi yakala!",
+    "hint_95":"LABİRENTİN İÇİNDEN GEÇMEK ZORUNDA MISIN?",
+    "endText_95":"SANKİ HİLE YAPTIN GİBİ GELDİ BANA...",
+    
+    "question_96":"Yeşile 3 kez, maviye 10 kez ve kırmızıya 5 kez bas.",
+    "hint_96":"MAVİNİN SAYACI BOZUK!",
+    "endText_96":"SAYAÇLARA GÜVEN OLMAZ.",
+    
+    "question_97":"Buzağılara tıkla lütfen.",
+    "hint_97":"BUZAĞILAR NEREDEN GELİRLER?",
+    "endText_97":"NE MUTLU BİR AİLE!",
+    
+    "question_98":"Kaç tane küp var orada?",
+    "hint_98":"KENARLARA DİKKATLİ BAK VE GÖRÜNMEYENLERİ DE SAY.",
+    "endText_98":"KESKİN BİR ZEKAYA SAHİPSİN.",
+    
+    "question_99":"İki resim arasındaki farkları bul.",
+    "hint_99":"SANKİ BİREBİR AYNI GİBİLER?!",
+    "endText_99":"KANDIRAMADIM SENİ :)",
+    
+    "question_100":"Bugün Eray'ın 2. yaş günü. Mumları yak lütfen.",
+    "hint_100":"MUMDAKİ ATEŞİ KULLAN.",
+    "endText_100":"ELİNDE NE VARSA KULLANMAYI ÖĞRENMELİSİN.",
+    
+    "question_101":"Hani benim sürpriz çikolata yumurtam?!",
+    "hint_101":"GÜNEŞ ÇİKOLATAYI ERİTİR.",
+    "endText_101":"HEPSİ YERE AKTI ÇOK SAĞOL, BANA BİR ÇİKOLATA BORCUN VAR. :)",
+
+    "question_102":"Alfabeden L ve E'yi çıkartırsak geriye kaç harf kalır?",
+    "hint_102":"ALFABE' DE TOPLAM 6 HARF VAR.",
+    "endText_102":"BAHSE GİRERİM TÜM HARFLERİ SAYMAYA KALKTIN, HEHE!",
+
+    "question_103":"Ne kadar sabırlısın görelim bakalım.",
+    "hint_103":"SABRET VE BEKLE. :)",
+    "endText_103":"SABIR EN BÜYÜK ERDEM.",
+
+    "question_104":"Davetliler gelmeden hazır olmalıyız!",
+    "hint_104":"BARDAKLARI TEMİZLE.",
+    "endText_104":"İŞTE ŞİMDİ PIRIL PIRILLAR!",
+
+    "question_105":"Minik kuş uyuyakalmış. Ağacı sallayalım da uyansın.",
+    "hint_105":"AĞACI SALLARKEN DALI TUT.",
+    "endText_105":"GÜNAYDIN MİNİK KUŞ!",
+    
+    "question_106":"Ayy, canı çekti. O da dondurma istiyor :((",
+    "hint_106":"ŞAPKA VE SAÇTAN LEZZETLİ BİR KOMBİNASYON ÇIKABİLİR.",
+    "endText_106":"KÜLAHTAKİNİN SAÇI OLDUĞUNU BİLMESE İYİ OLUR :))",
+    
+    "question_107":"Denklemi düzenleyebilir misin?",
+    "hint_107":"İLK SATIR 365 veya 317.",
+    "endText_107":"ARTIK MATEMATİKTE USTA OLDUN!",
+    
+    "question_108":"Biraz mayonez alabilir miyim lütfen?",
+    "hint_108":"MAYONEZİ BİR ÇALKALA. DİBİNE BİRİKMİŞ ŞİŞENİN.",
+    "endText_108":"LÜTFEN DİYETİSYENİME SÖYLEME. :))",
+    
+    "question_109":"Tavşanı yakalamama yardım et lütfen.",
+    "hint_109":"KUTUNUN YERİNİ DEĞİŞTİREBİLİRSİN.",
+    "endText_109":"MERAK ETME ONA ÇOK İYİ BAKACAĞIM. :))",
+    
+    "question_110":"Ufaklık yine ağlıyor. Bence gazı var.",
+    "hint_110":"HAYDİ BİRAZ KARNINA MASAJ YAPALIM.",
+    "endText_110":"KOKUTTUN YARAMAZ... GAZ MASKESİ YOK MU? :))",
+
+    "question_111":"Yaşlı büyük annemin üç çocuğu var. Çocuklarının hepsi evli ve en az 1 çocukları var. Teyzemin üç yeğeni var. Akşam yemeğinde bize en az kaç sandalye lazım olur?",
+    "hint_111":"BÜYÜKANNE - 3 EVLİ ÇİFT - 4 ÇOCUK",
+    "endText_111":"NE YAPARSIN, GENİŞ AİLE OLMANIN ZORLUKLARI... :))",
+
+    "question_112":"Hepsinin karşıya geçmesine yardım et ama hiçbirini avcısıyla baş başa kıyıda bırakma.",
+    "hint_112":"LAHANA VE KURTU KARŞIYA GEÇİRİRKEN KUZUYU KAYIKTA TUT.",
+    "endText_112":"SANA DA PROBLEM DAYANMIYOR, BRAVO!",
+
+    "question_113":"Elmaları hepsine dağıt ama tabağı sakın boş bırakma.",
+    "hint_113":"SON KALAN ELMAYI TABAKLA BİRLİKTE VEREBİLİRSİN.",
+    "endText_113":"TABAK LAZIM DEĞİLDİ ZATEN... :))",
+
+    "question_114":"Off, yine mi matematik sorusu!?! Buna bir son ver artik! ",
+    "hint_114":"YAZIYLA 'ON' OLDUĞUNU VE ÖNÜNE BİR HARF KOYDUĞUNU DÜŞÜN.",
+    "endText_114":"HER S-ON YENİ BİR BAŞLANGIÇTIR... :)",
+
+    "question_115":"Ekranda kaç yumurta var?",
+    "hint_115":"YUMURTALARI TEK TEK SEÇMEYİ DENE.",
+    "endText_115":"O ÇOCUĞUN ORADA NE İŞİ VAR?!",
+
+    "question_116":"Bizim Tekir şimdi de uçmak istiyor!",
+    "hint_116":"YÜKSEK BİR GÜÇ İÇİN ÖRS'Ü YUKARIDAN BIRAKMAYI DENE",
+    "endText_116":"ARTIK TEKİR'İN AÇLIĞIYLA UĞRAŞMAMIZA GEREK KALMADI. :))",
+              
+    "question_117":"Hepsini besle.",
+    "hint_117":"BESİN ZİNCİRİNİ TAKİP ET. ÇEKİRGEYİ BESLEMEKLE BAŞLA.",
+    "endText_117":"HEPSİ BİR KEDİYİ BESLEMEK İÇİNDİ.",
+
+    "question_118":"Serhat annesinin yaptığı çorbayı içmeyi reddediyor. :((",
+    "hint_118":"SANKİ RAFIN SAĞINDAKİ VİDA BİRAZ GEVŞEMİŞ Mİ NE?!",
+    "endText_118":"ANNE SÖZÜ DİNLEMEZSEN BÖYLE OLUR İŞTE.",
+
+    "question_119":"Toplam borcum ne kadar, bir hesaplar mısın?",
+    "hint_119":"SOL TARAFTAKİ FAZLADAN SIFIRLARI GÖZ ARDI ET.",
+    "endText_119":"SENDEN HARİKA KASİYER OLURDU!",
+
+    "question_120":"Iyy! Annem kalp krizi geçirmeden şu fareyi yakalamama yardım et lütfen!",
+    "hint_120":"KAPANA KISTIRMAK İÇİN VANALARI KULLAN.",
+    "endText_120":"TEKİİİR! YEMEK HAZIR! :)))",
+
+    "question_121":"Öğretmen bir dikdörtgen yapmamızı istiyor.",
+    "hint_121":"DİKDÖRTGEN YAPMAK İÇİN YAMUĞUN KENARINI KESEBİLİRSİN.",
+    "endText_121":"AFERİM, YILDIZLI PEKİYİ!",
+
+    "question_122":"Oyunu makasın kazanması gerek.",
+    "hint_122":"ÖNCE TAŞLARDAN BİR KURTUL.",
+    "endText_122":"TAŞ-KAĞIT-MAKAS ÇOK EĞLENCELİ, ÖZELLİKLE DE BEN KAZANIRSAM :)) ",
+
+    "question_123":"Bu denklemi nasıl düzeltirsin?",
+    "hint_123":"ÇARPI İŞARETLERİNİ NİŞAN ALMAYI DENE.",
+    "endText_123":"TOPLA TÜFEKLE DENKLEM Mİ ÇÖZÜLÜRMÜŞ!? CIK CIK CIK…",
+
+    "question_124":"Cüzdanını geri almasına yardım et lütfen!",
+    "hint_124":"BİR PARMAĞINLA TİMSAHIN ÇENESİNİ TUTARKEN DİĞERİ İLE ELİ ÇEK.",
+    "endText_124":"UCUZ ATLATTIK!",
+
+    "question_125":"Başarı’yı elde etmeme yardımcı ol lütfen.",
+    "hint_125":"KELİMEYİ YAZMAK İÇİN TEK TEK BALONCUKLARA DOKUN. ",
+    "endText_125":"BU BÖLÜMÜ SEVDİYSEN, EĞLENCELİ KELİME OYUNUMUZ <link=\"word_pearls\"><u><color=blue>KELİME İNCİLERİ</color></u></link>'Nİ OYNAYABİLİRSİN!",
+
+    "question_126":"Yaramaz Can sınava çalışmadı ama geçer not alması lazım.",
+    "hint_126":"CAN’IN BOYNU BAYA BİR ESNEK GÖZÜKÜYOR!",
+    "endText_126":"CAN!!! KOPYA ÇEKMEYİ BIRAKIP DERSLERİNE ÇALIŞSAN İYİ OLUR!",
+
+    "question_127":"Hepsini besle ama her biri bir tane yem yesin.",
+    "hint_127":"EN ÜSTTEKİ BALIKTAN BESLEMEYE BAŞLA.",
+    "endText_127":"SANA BİR BALIK ALMAK LAZIM, NE GÜZEL BESLİYORSUN! :))",
+
+    "question_128":"Videoyu başlatamıyorum. :((",
+    "hint_128":"AŞAĞIDA BİR VİDEO İZLE BUTONU GÖRÜYORUM SANKİ.",
+    "endText_128":"ŞİMDİ FİLMİN TADINI ÇIKARMA ZAMANI!",
+
+    "question_129":"Baksana çayım soğumuş. :((",
+    "hint_129":"AYNALARI KULLANARAK FENERDEKİ IŞIĞI YANSITMAYI DENE.",
+    "endText_129":"SABAHLARI ÇAY İÇMEZSEM AÇILAMIYORUM DA… :))",
+
+    "question_130":"Renkli objelerin her birini bir çerçeveye yerleştir.",
+    "hint_130":"BÜTÜN ÇERÇEVELERİN İÇİNİ DOLDURMAK ZORUNDA DEĞİLSİN.",
+    "endText_130":"BİR ÇERÇEVE HEPSİNE YETTİ DE ARTTI BİLE :))",
+
+    "question_131":"Bu denklemi düzeltebilir misin?",
+    "hint_131":"8-3=5",
+    "endText_131":"KİBRİTLERLE ÇOK OYNUYORSUN BİR YERİNİ YAKMA…",
+            
+    "question_132":"Meyveleri belli bir sıraya göre dizebilir misin?",
+    "hint_132":"KAÇ TANE MEYVE OLDUĞUNA DİKKATLİ BAK. (ÖRNEĞİN 3 TANE MUZ VAR).",
+    "endText_132":"KARNIMI ACIKTIRDIN, GİDİP BİRAZ MEYVE YİYEYİM… :))",
+
+    "question_133":"Yaşasın doğum günü! Sence doğum günü çocuğu kaç yaşında?",
+    "hint_133":"PASTAYI GÖRMEK İÇİN  MUMLARI BİRAZ YUKARI ÇEK.",
+    "endText_133":"YARAMAZ MUMLAR! :))",
+
+    "question_134":"Hedefi vurmasına yardım et lütfen.",
+    "hint_134":"BELKİ HEDEFİ BÜYÜTMEYİ DENEYEBİLİRSİN?",
+    "endText_134":"BİRİ BU KIZA OKÇULUĞU BIRAKMASINI SÖYLEYEBİLİR Mİ?? :))",
+
+    "question_135":"Fareye peyniri alması için yardımcı olabilir misin?",
+    "hint_135":"ORTADAKİ DÖRT KAPAĞI AÇMAYI DENE.",
+    "endText_135":"FARE DE OLSA YARDIM ETMEDEN DURAMIYORUM. :))",
+
+    "question_136":"Soru işareti yazan yere ne gelmeli?",
+    "hint_136":"HİÇ DÜZ VİTESLİ ARABA KULLANMIŞ MIYDIN?",
+    "endText_136":"HEY GİDİ GÜNLER!",
+
+    "question_137":"Hangi araba en yavaş?",
+    "hint_137":"CEVAP YİNE SORUDA GİZLİ.",
+    "endText_137":"BU TARZ BİR ŞAKANIN MODASI HİÇ GEÇMİYOR. :))",
+
+    "question_138":"Bu denklem nasıl çalışır?",
+    "hint_138":"5=5’İ NASIL ELDE EDERSİN?",
+    "endText_138":"EKRANIN DIŞINA ATTIKLARINA NE OLDU ALLAH BİLİR… :)",
+    
+    "question_139":"Yeni filmim için 5 aktör lazım. Kimi elesek acaba??",
+    "hint_139":"DİKKATLİ BAK, BİRİNDE FAZLADAN BİR ŞEY Mİ VAR ACABA?",
+    "endText_139":"SENİ BÖYLE ALALIM YAKIŞIKLI!! DIŞARI :)",
+    
+    "question_140":"Sağdaki çocuğun kartopu savaşını kazanmasına yardım et!",
+    "hint_140":"YERDEKİ KARTOPLARINI TOPLA.",
+    "endText_140":"BU NE HIRS BÖYLE ALİCAN!",
+    
+    "question_141":"Nereye döneceğimi bilmiyorum. Bana yardım et lütfen.",
+    "hint_141":"TELEFONU YAN ÇEVİRMEYİ DENE.",
+    "endText_141":"ÇOK SAĞOL, AZ KALSIN ÇIKIŞI KAÇIRACAKTIM.",
+    
+    "question_142":"Hangisi sence en uzun?",
+    "hint_142":"TEK TEK ÜFLE BAKALIM.",
+    "endText_142":"BU SESİ DE HİÇ SEVMEM. :)",
+    
+    "question_143":"En iyi arı balını kim yapar?",
+    "hint_143":"CEVAP BİR KEZ DAHA SORUDA GİZLİ.",
+    "endText_143":"TABİİ Kİ DE ARI YAPAR, KİM YAPACAK… :)",
+    
+    "question_144":"Uzayli istillasını durdur!",
+    "hint_144":"KEDİLERI VURMA, 4 TANE UZAYLI VAR.",
+    "endText_144":"BU KEDİLER BURAYA NASIL GELDİ,KESİN TEKİR’İN PARMAĞI VAR BU İŞTE…",
+    
+    "question_145":"1 tavuğu 5 dakikada haşlıyorsak, 5 tavuğu kaç dakikada haşlarız?",
+    "hint_145":"ANNEN OLSA HEPSİNİ AYNI ANDA HAŞLARDI.",
+    "endText_145":"ANNENDEN DERS ALMAN GEREKEN HALA ÇOK ŞEY VAR…",
+    
+    "question_146":"Yer çekimini keşfet.",
+    "hint_146":"TELEFONUNU SALLAMAYI DENE.",
+    "endText_146":"AZ ÖNCE YENİ BİR ÇIĞIR AÇTIN.",
+    
+    "question_147":"Zavallı adama yardım et!",
+    "hint_147":"KAPIDAKİ BAYAN SEMBOLÜNÜ AZICIK DEĞİŞTİRSEN?",
+    "endText_147":"BU KADAR SODA İÇERSEN OLACAĞI BU…",
+    
+    "question_148":"Bu zavallı çocuğun da senin yardımına ihtiyacı var…",
+    "hint_148":"ÖRÜMCEK ADAM’IN HİKAYESİ NASIL BAŞLAMIŞTI HATIRLIYOR MUSUN?",
+    "endText_148":"YİNE GÜNÜ KURTARDIN!",
+    
+    "question_149":"Soru işareti yazan yere ne gelmeli?",
+    "hint_149":"BİR-İKİ-ÜÇ…",
+    "endText_149":"İPUCUNA BAKMADAN ÇÖZDÜYSEN KOCAMAN TEBRİKLER!",
+    "custom1_149":"B-İ-Ü-D-B-A-Y-S-?",
+    
+    "question_150":"Akvaryumumda 10 balık vardı. Eve geldiğimde 6 tanesi ölmüştü. Akvaryumda kaç balığım kaldı?",
+    "hint_150":"ÖLÜ BALIKLAR HALA AKVARYUMUN İÇİNDE.",
+    "endText_150":"BİRİ HEMEN ŞU AKVARYUMU TEMİZLESİN!",
+    
+    "question_151":"Tavşan nerede?",
+    "hint_151":"ŞEKİLLERLE ÇİZ.",
+    "endText_151":"BİLİRSİN İŞTE, NE YERSEN O'SUNDUR.",
+
+    "question_152":"Hangisi doğruyu söylüyor?",
+    "hint_152":"DİKKATLİ OKU.",
+    "endText_152":"YAKALANDI!",
+
+    "question_153":"Aşağıdaki kediye tıkla.",
+    "hint_153":"BİRDEN FAZLA KEDİ VAR.",
+    "endText_153":"PARMAKLARINI USTACA KULLAN, PARMAKLARIN EFENDİSİ.",
+    
+    "question_154":"Hangisi daha uzun?",
+    "hint_154":"LÜTFEN DİKKATLİ BAK.",
+    "endText_154":"GÖRDÜĞÜN GİBİ EN FAZLA HARF ŞUBAT'TA VAR.",
+
+    "question_155":"Çaldıkları elması nerede saklıyor olabilirler?",
+    "hint_155":"SAÇLARIN ARASINA BAKMAYI DENE.",
+    "endText_155":"İYİ İŞ, DEDEKTİF!",
+
+    "question_156":"Top nerede?",
+    "hint_156":"BURNU İLE DİKKATİNİ DAĞITMAYA ÇALIŞ!",
+    "endText_156":"HİLE YAPIYORDU! :)",
+
+    "question_157":"Arabanın nehri geçmesine yardım et lütfen.",
+    "hint_157":"HAVA ZATEN ÇOK SOĞUK, BİR DE GÜNEŞ KAPANSAYDI…",
+    "endText_157":"ZEKANLA YİNE GÜNÜ KURTARDIN... :))",
+
+    "question_158":"Objeleri doğru ülkelerle eşleştirin.",
+    "hint_158":"TÜM OBJELER TEK BİR ÜLKEYE AİT.",
+    "endText_158":"BENCE BİR PARİS GEZİSİNİ HAKETTİN. :))",
+    "custom1_158":"FRANSA",
+    "custom2_158":"ABD",
+    "custom3_158":"ALMANYA",
+    "custom4_158":"NİJERYA",
+
+    "question_159":"Bir kule nasıl inşa edilir?",
+    "hint_159":"BU BLOKLARLA BİR KULE İNŞA ET.",
+    "endText_159":"HEP SÖYLERİM, UYGULAYARAK ÖĞRENMEK EN GÜZELİ!",
+
+    "question_160":"Aman Allah'ım! Yine ağlıyor! Yardım lütfen…",
+    "hint_160":"OYUNCAK ARABANIN LASTİKLERİ SANKİ GÖZE BENZİYOR.",
+    "endText_160":"BU BEBEK İÇİN BİR MAYMUN OLMADIĞIMIZ KALDI. :)",
+
+    "question_161":"QQQQQQQQ",
+    "hint_161":"KEDİNİN BAŞ AŞAĞI OLDUĞUNU FARK ETTİN Mİ?",
+    "endText_161":"6 MI 9’UN TERSİ YOKSA 9 MU 6’NIN??",
+
+    "question_162":"Bu sporcuya yardım et lütfen!",
+    "hint_162":"AĞIRLIKLARI MI ÇIKARSAN?",
+    "endText_162":"BUNUN YERİNE DEDEMİ Mİ YARIŞLARA SOKSAK ACABA!? :)))",
+
+    "question_163":"Sorunun cevabı bir türlü Ayşe'nin aklına gelmiyor.",
+    "hint_163":"BİR ŞEYLER YAP DA BEYNİNE KAN GİTSİN.",
+    "endText_163":"KOLUMU YORDUN AYŞE YA…",
+
+    "question_164":"Eren'in artık biraz sağlıklı beslenmesi gerekiyor...",
+    "hint_164":"HAMBURGER İLE ONU ŞAŞIRTMAYI DENE.",
+    "endText_164":"ÜZGÜNÜM AMA ANNEYE BAŞKA YOL BIRAKMADIN :))…",
+
+    "question_166":"Sihirbazı nasıl yenebilirsin?",
+    "hint_166":"ATEŞ> YAPRAK> SU> ATEŞ",
+    "endText_166":"ÜNÜN ŞİMDİDEN YAYILDI HADİ İYİSİN HAYRİ PITIR… :))",
+
+    "question_167":"Uzaylılar aramıza sızdı. Bul onları!",
+    "hint_167":"9 GİZLENEN UZAYLI VAR.",
+    "endText_167":"UCUZ ATLATTIK, ŞİMDİ POLİSİ ARA!",
+
+    "question_168":"Türkiye'nin ortasında ne var?",
+    "hint_168":"'TÜRKİYE'DEKİ HARFLERE DAHA DİKKATLİ BAK",
+    "endText_168":"ŞEBİNKARAHİSAR'IN ORTASINI SORMADIĞIM İÇİN ŞÜKRET BENCE. :))",
+
+    "question_169":"Yazııık, çok üzgün görünüyor. :(( O'nu biraz neşelendirmeyi denesen??",
+    "hint_169":"ÇOCUĞU GÜLMEYE ZORLASAN?",
+    "endText_169":"İŞTE BÖYLE, ŞU SURATA BİR GÜLÜMSEME KOYALIM. :)",
+
+    "question_170":"Eyvah Vampir! İmdat! İmdaaat!",
+    "hint_170":"VAMPİRLER GÜNEŞ IŞIĞINA DAYANAMAZLAR.",
+    "endText_170":"ŞİMDİ DE BAŞIMIZA VAMPİR AVCISI MI KESİLDİN? :))",
+
+    "question_171":"Ekranda kaç tane üçgen var?",
+    "hint_171":"PARÇALARA AYIRMAYI DENE.",
+    "endText_171":"BAZEN GERÇEK, GÖRÜNDÜĞÜ GİBİ DEĞİLDİR! :))",
+
+    "question_172":"Kedimizi soldan sağa doğru besle.",
+    "hint_172":"DÜNYA YUVARLAKTIR.",
+    "endText_172":"KEDİ BU YİYECEKLER UĞRUNA DÜNYAYI DOLAŞTI! VAOV!",
+
+    "question_173":"Keşke daha adil olsaydı.",
+    "hint_173":"2 TOP SOLDAKİNE, 4 TOP SAĞDAKİNE KOY.",
+    "endText_173":"SEN DE ÇOCUKKEN DONDURMAYI ÇOK SEVER MİYDİN?? :))",
+
+    "question_174":"Yeşil bir topa ihtiyacımız var.",
+    "hint_174":"MAVİ + SARI = YEŞİL,  HATIRLADIN MI?",
+    "endText_174":"İŞTE BÖYLE, YEŞİL BULAMAZSAN KENDİN YAP. :)",
+
+    "question_175":"            yi      la kır.",
+    "hint_175":"SORUDAKİ TAŞI KULLANMAYI DENESEN.",
+    "endText_175":"CIK CIK CIK... YOK BÖYLE BIR VANDALİZM! :)",
+
+    "question_176":"Komşular gecenin ortasında çılgın bir parti veriyor. Durdur şunu.",
+    "hint_176":"POLİSİ ARAMAYI DENE.",
+    "endText_176":"ARTIK PARTİYE RÜYANIZDA DEVAM EDERSİNİZ... :))",
+
+    "question_177":"Bu nasıl doğru olabilir?!",
+    "hint_177":"1 ARKASINDA BİR ŞEYLER GİZLİYOR.",
+    "endText_177":"NE DEMİŞLER, YALNIZLIK ALLAH'A MAHSUS... :))",
+
+    "question_178":"Mavi kazanmak zorunda!",
+    "hint_178":"YEŞİL VE KIRMIZI BİTİŞ ÇİZGİSİNİ GEÇEMEZLERSE KAZANAMAZLAR.",
+    "endText_178":"OYUNU KAZANAMIYORSANIZ KURALLARI DEĞIŞTİRMEYİ DENEYİN!",
+
+    "question_179":"Hepsini kurtar!",
+    "hint_179":"PARAŞÜTLÜ ADAM  HEPSİNİ KURTARABİLİR!",
+    "endText_179":"NE KAHRAMANCA BİR AN!",
+
+    "question_180":"Saati düzeltebilir misin? ",
+    "hint_180":"2:00 OLMASI GEREK.",
+    "endText_180":"DİJİTAL BİR SAATE GEÇSEM İYİ OLACAK!",
+
+    "question_181": "Murat'ın neşesini yerine getirebilir misin?",
+    "hint_181": "AYAĞININ ALTINDAN GIDIKLANMAYA DAYANAMIYOR. :))",
+    "endText_181": "BU TAKTİK HER ZAMAN İŞE YARAR! :)",
+
+    "question_182": "At bir unicorn olmak istiyor.",
+    "hint_182": "NE ZAMAN KAYAN BİR YILDIZ GÖRSEM HEP BİR DİLEK TUTARIM.",
+    "endText_182": "BU SİHİRBAZ BİR ŞARLATAN!",
+
+    "question_183": "Resimdeki tüm hayvanları bulun.",
+    "hint_183": "ATLAR YILANLARDAN KORKAR.",
+    "endText_183": "PARDON DA, O FARE NE ZAMANDIR ORADA?!",
+
+    "question_184": "Lütfen kapının kilidini aç, dışarıda mahsur kaldım!",
+    "hint_184": "ÇOĞU İNSAN EVİNİN ANAHTARINI NEREDE SAKLIYOR?",
+    "endText_184": "UMARIM KİLİDİ AÇMAYA ÇALIŞIRKEN ÇOK ZAMAN KAYBETMEDİN... :))",
+
+    "question_185": "Kaplumbağa kazanmalı!",
+    "hint_185": "KAPLUMBAĞA KABUĞUNUN ALTINDA BİR ŞEY SAKLIYOR.",
+    "endText_185": "FİŞEK GİBİ BİR KAPLUMBAĞA!",
+
+    "question_186": "Zarların altındaki sayı nedir?",
+    "hint_186": "ZARI BİRAZ KENARA ÇEKMEYİ DENESEN?",
+    "endText_186": "YA ZAR ÇOK BÜYÜK YA DA KAĞIT ÇOK KÜÇÜK... :)",
+
+    "question_187": "       topu gibi bir kızımız oldu! İsim seçmeme yardım eder misin?",
+    "hint_187": "SEÇİLEN ISIMLER BİRAZ TUHAF, AZ DEĞIŞTİRMEYİ DENESEN?",
+    "endText_187": "HARİKA BAYILDIM! İSİM KONUSUNDA BENDEN İYİ OLDUĞUN KESİN. :))",
+    "custom1_187":"TAVŞAN",
+    "custom2_187":"KÜÇÜK HANIM",
+    "custom3_187":"AY",
+    "custom4_187":"GÜNEŞ",
+    "custom5_187":"AYNUR",
+
+    "question_188": "Yine kim ağlattı bu bebeği? Bu sefer ne oldu sence?!",
+    "hint_188": "SAÇLARI SANA DA BİRAZ TUHAF GÖRÜNMÜYOR MU?",
+    "endText_188": "IYYYYY!",
+
+    "question_189": "Bana 3 elma topla lütfen.",
+    "hint_189": "ELMALARI DÜŞÜRMEK İÇİN ŞÖYLE AĞACI BİRAZ SALLA.",
+    "endText_189": "YEMEDEN ÖNCE YIKAMAYI UNUTMAYIN! :))",
+
+    "question_190": "Lütfen 6. kata git.",
+    "hint_190": "BELKİ ULAŞABİLECEĞİN BİR BAŞ AŞAĞI 6 VARDIR.",
+    "endText_190": "BU OYUN ARTIK TELEFONUNUN BAŞINI DÖNDÜRDÜ BİLİYORUM. :))",
+
+    "question_191": "Tekir'in balıklarını almasına yardım et lütfen.",
+    "hint_191": "KÖPEĞİN NE TARAFA BAKTIĞINA DİKKAT ET.",
+    "endText_191": "BU TEKİR ÇOK UYANIK!",
+
+    "question_192": "Antalya'ya gitmek istiyoruz!!",
+    "hint_192": "KAPININ KOLUNA DİKKAT ET.",
+    "endText_192": "BU ARABA DA BAYA ESNEKMİŞ, HAYALİMDEKİ ARABA... :)",
+
+    "question_193": "Zavallı karga cevizi yiyemiyor.",
+    "hint_193": "ŞURADAKİ KAYALAR KABUĞU KIRACAK KADAR SERT GÖRÜNÜYOR.",
+    "endText_193": "BENCE SEN DE GİT BİRAZ CEVİZ YE, ZİHNİN AÇILSIN... :)",
+
+    "question_194": "Haydi gel beraber bir kardan adam yapalım.",
+    "hint_194": "BULUTLAR EKSİK PARÇAMIZI SAKLIYOR OLABİLİR Mİ?",
+    "endText_194": "KARDAN ADAM YAPMAYI KİM SEVMEZ Kİ!! GALAKTİK DENGEYİ BOZSA BİLE:))",
+
+    "question_195": "Bulmacanın üzerindeki görüntüyü oluşturabilir misin?",
+    "hint_195": "BASİTÇE KOPYALAYIP YAPIŞTIRMAYI DENESEN?",
+    "endText_195": "CİDDİ OLAMAZSIN...",
+
+    "question_196": "Seviyor!! Yok yok... Sevmiyor... :(( Hangisi?",
+    "hint_196": "SEVİYOR YAPMAK İÇİN BİR YERLERDE EKSTRA BİR YAPRAK OLABİLİR Mİ?",
+    "endText_196": "LAF ARAMIZDA HARİKA BİR ARA BULUCUSUN AŞK BÖCÜĞÜ!",
+
+    "question_197":"Köpeğim çok kirlendi, onu temizlememe yardım et lütfen.",
+    "hint_197":"KÖPEKLERİN KURUMASI İÇİN SALLANMASI GEREKTİĞINİ UNUTMA!",
+    "endText_197":"NE KADAR SEVİMLİ BİR KÖPEK!",
+
+    "question_198": "Mavi arabanın çok acelesi var, ona yardım et lütfen.",
+    "hint_198": "KEŞKE BİR YERLEDE BİR POLİS ALARM LAMBASI OLSAYDI...",
+    "endText_198": "SÜPER! ARTIK MAÇA YETİŞEBİLİR... :))",
+
+    "question_199": "Hayalet avcısının hayaletleri yakalamasına yardım et hadi!",
+    "hint_199": "HAYALETLERİ GÖRMEK İÇİN HAYALET AVCISINA DOKUNUN.",
+    "endText_199": "GÖZÜNDEN DE BİR ŞEY KAÇMIYOR, EK İŞ OLARAK BUNU YAPABİLİRSİN! :))",
+
+    "question_200": "Acının tersi nedir?",
+    "hint_200": "SADECE KELİMEYE ODAKLAN.",
+    "endText_200": "BU OYUN ÇOK ICA! ŞAKA ŞAKA... :))))",
+
+    "question_201": "Ne görüyor?",
+    "hint_201": "ONUN PERSPEKTİFİNDEN BAKMAYA ÇALIŞSAN?",
+    "endText_201": "NE BU BÖYLE KİŞİSEL GELİŞİM SORUSU MU!? :))",
+
+    "question_202": "Hadi bakalım, şimdi kalkışa geçme zamanı!",
+    "hint_202": "YUKARI DOĞRU ÇIKMAMIZ GEREK!",
+    "endText_202": "MARS'TA GÖRÜŞÜRÜZ! :))",
+
+    "question_203": "Ne kadar da karamsar bir hava...",
+    "hint_203": "HAVA DURUMUNU DEĞİŞTİREBİLİRSİN! DUVARDAKİ TABLOYU KULLANMAYI DENE!",
+    "endText_203": "İŞTE BU KADAR!",
+
+    "question_204": "Soldaki boksör kazanmalı.",
+    "hint_204": "ELDİVENİ BİRAZ AĞIRLIK İLE GELİŞTİREBİLİRSİN!",
+    "endText_204": "BİR DAKİKA, O DEMİR TOPLARI RİNGE KİM KOYDU ?!",
+
+    "question_205": "Tekir'in diğer tarafa atlaması gerek.",
+    "hint_205": "MANTARI KULLAN.",
+    "endText_205": "MAHALLEMİZİN KEDİSİ TEKİR'E BUNLAR ÇOCUK OYUNCAĞI... :))",
+
+    "question_206": "55'in %50'si nedir?",
+    "hint_206": "GÖRSEL OLARAK 55'İN YARISINI DÜŞÜN.",
+    "endText_206": "MATEMATİĞİ KATLETMEYE DEVAM! :))",
+
+    "question_207": "Bu savaşı bitir!",
+    "hint_207": "HİÇBİR ŞEYİ VURMAMALILAR.",
+    "endText_207": "DÜNYA BARIŞI İÇİN BİR ADIM DA BİZDEN! :)",
+
+    "question_208": "Bu kutuyu el arabasına taşımama yardım et lütfen.",
+    "hint_208": "KUTUYU DÖNDÜREREK İLERLETMEK İÇİN TELEFONU ÇEVİRİN.",
+    "endText_208": "BELİM KOPMUŞTU, TEŞEKKÜR EDERİM!",
+
+    "question_209": "Hız yaparken yakalandın, eyvah!",
+    "hint_209": "POLİS'İ SEVİNDİRMEYİ DENESEN?",
+    "endText_209": "İYİ GÜNLER MEMUR BEY!! :))",
+
+    "question_210": "Anne aslana yardım edelim.",
+    "hint_210": "KEŞKE ANNE DE BABA ASLAN GİBİ DİNLENEBİLSEYDİ. :((",
+    "endText_210": "YAŞASIN CİNSİYET EŞİTLİĞİ! :)",
+
+    "question_211":"Hepsinin biraz ısınmaya ihtiyacı var.",
+    "hint_211":"KAMP ATEŞİNİ DAHA İYİ BİR YERE TAŞISAN?",
+    "endText_211":"İYİ DİNLENMELER GENÇLER!",
+
+    "question_212": "Bugünü senin günün ilan ediyorum,  kendine bir hediye seç!",
+    "hint_212": "KELİMELERE DİKKAT ET.",
+    "endText_212": "BU KELİMENİN İÇİNDE SANA OLAN SEVGİMİ BULACAKSIN. :)",
+
+    "question_213":"Hadi! Bu golü atmamız lazım!!",
+    "hint_213":"OYUNCULARIN VURUŞ YÖNLERİNİ DEĞİŞTİRMEYİ DENE.",
+    "endText_213":"VE GOOOOLL! RESMEN BİR TARİH YAZDIN!",
+    "custom1_213":"BAŞLA!",
+    
+    "question_214":"           altında ne var ?",
+    "hint_214":"AĞACIN ALTINDAKİ ŞEYİ KEŞFET.",
+    "endText_214":"GEL BAKALIM MİNNOŞ BİRAZ SEVELİM SENİ. :))",
+
+    "question_215":"Numaralara hızlıca sırayla dokun!",
+    "hint_215":"7 VE 8 DE BİR HİLE VAR, DİKKAT ET.",
+    "endText_215":"YOK BÖYLE BİR HEYECAN!",
+
+    "question_216":"Yap bozu çözebilir misin?",
+    "hint_216":"SAYILAR, SEÇİLİ LAMBALARIN SAYISINI GÖSTERİR.",
+    "endText_216":"ÇOK ZEKİ OLDUĞUNU DAHA ÖNCE SÖYLEMİŞ MİYDİM?? :))",
+
+    "question_217":"Fare nasıl avlanır şu kediye öğret hadi!",
+    "hint_217":"KEDİYİ KUTU İLE GİZLE, SONRA PEYNİRLE FAREYİ CEZBET.",
+    "endText_217":"BU KEDİDE İŞ VAR!",
+    
+    "question_218":"Hazine nerede?",
+    "hint_218":"BENCE DEDEKTÖRE GÜVENME, HER ŞEYİN ALTINA BİR BAK SEN. :))",
+    "endText_218":"HADİ YİNE İYİSİN, BUGÜN YEMEKLER SENDEN :))",
+    
+    "question_219":"Frenler patladı! İMDAAAT!",
+    "hint_219":"BULUTLARI KULLANMAYI ÖĞRENDİN NASILSA, BİR KEZ DAHA YAP!",
+    "endText_219":"BU OYUNDAKİ BULUTLAR DA HER DERDE DEVA. :))",
+    
+    "question_220":"Bu yavrunun annesi nerede ?",
+    "hint_220":"YAVRUYA BİR ŞEYLER YAPARAK ANNENİN DİKKATİNİ ÇEKMEYE ÇALIŞSAN?",
+    "endText_220":"KOŞ! KOOOŞŞ !!!!",
+    
+    "question_221":"Kaplumbağanın yarışı kazanması lazım.",
+    "hint_221":"SEYİRCİLERDEN BİRİNDE İŞİNE YARAYACAK BİR ŞEY VAR.",
+    "endText_221":"MAYMUN KARDEŞ TEŞEKKÜRLER!",
+    
+    "question_222": "Kaleyi fethetmeliyiz!",
+    "hint_222": "MANCINIĞIN BİRAZ ALEVE İHTİYACI VAR.",
+    "endText_222": "ZAFER BİZİM!!",
+    
+    "question_223":"Hayri'yi bu kabustan uyandır!",
+    "hint_223":"BİR ŞEYLER YAPIP ONU UYANDIRMAYA ÇALIŞSAN?",
+    "endText_223":"GEÇMİŞ OLSUN, BAYA GERÇEKÇİ BİR RÜYAYDI! :))",
+    
+    "question_224":"Dile benden ne dilersen!",
+    "hint_224":"BELKİ BİR YERLERDE BAŞKA BİR DİLEK VARDIR?",
+    "endText_224":"SANAL ZENGİNLİĞİNİN TADINI ÇIKAR!",
+    "custom1_224":"KUYRUĞUM OLSUN",
+    "custom2_224":"HORTUMUM OLSUN",
+    "custom3_224":"ZENGİN OLAYIM",
+    
+    "question_225":"Bu çocuk lamayı kızdırıyor. Lamaya yardım et!",
+    "hint_225":"ÇOCUĞUN ÜZERİNE YAĞMUR YAĞMASINI SAĞLA.",
+    "endText_225":"TAM İSABET! :))",
+    
+    "question_227":"Fikret'in sence kaç dişi var?",
+    "hint_227":"DİŞLERİN BİR KISMI SAHTE OLABİLİR, BENCE HEPSİNİ KONTROL ET. :))",
+    "endText_227":"BU CİVARDA TANIDIĞINIZ İYİ BİR DİŞÇİ VAR MI? :))",
+
+    "question_228": "Kırmızı araba kazanmalı!",
+    "hint_228": "TUR SAYACINI YENİDEN AYARLAMAYA ÇALIŞ.",
+    "endText_228": "HİLE SANATINDA USTALAŞTIN, SENDEN KORKUYORUM. :))",
+    "custom1_228":"TUR",
+
+    "question_229": "Fabrikadaki tüm kalıpları doldurmalıyız, ha gayret!",
+    "hint_229": "SOLDAKİ DAĞITICI İLE BAŞLAYIN.",
+    "endText_229": "BU GİDİŞLE BU SENE ÜRETİMDE REKOR KIRACAĞIZ. :))",
+
+    "question_230": "Aynısını yapabilir misin?",
+    "hint_230": "İZLERKEN BİR YANDAN NOT ALMAYI DENE.",
+    "endText_230": "MÜZİK KULAĞIN GERÇEKTEN ÇOK İYİ!",
+    "custom1_230":"İZLE",
+    
+    "question_231": "Bak yaa...Atımız şimdi de kanat istiyor!",
+    "hint_231": "ORADA GÖKYÜZÜNE KOYABİLECEĞİN BİR YILDIZ VAR.",
+    "endText_231": "SONUNDA SİHİRBAZ BİR İŞE YARADI! :))",
+
+    "question_233": "Renkleri ayırmama yardım et lütfen!",
+    "hint_233": "MAVİLERİ BOŞ TÜPE KOY BAKALIM, SONRA BİR ÇÖZÜM GÖRECEKSİN.",
+    "endText_233": "KİMYA HOCAN ŞU AN SENİ GÖRSE GURUR DUYARDI. :))",
+
+    "question_234": "Zıplamayı bırak artık Zıpzıp Ayşe, aaa yeter ama...",
+    "hint_234": "BİR YATAK OLSA ZIPLAMASI DURURDU.",
+    "endText_234": "HADİ BAKALIM, ŞİMDİ ÖDEVİNİN BAŞINA MARŞ MARŞ!",
+
+    "question_235": "Şekerin ağza ulaşmasını sağlayabilir misin?",
+    "hint_235": "YERÇEKİMİNİ KULLANMAK İÇİN TELEFONUNU ÇEVİR.",
+    "endText_235": "YA NE KISMETLİ ÇOCUKSUN BATUHAN! :))",
+
+    "question_236": "Tekir'in yine karşıya atlaması lazım ama mantarımız kalmadı.",
+    "hint_236": "TEPELERİ HAREKET ETTİRECEK GÜCE SAHİPSİN.:)",
+    "endText_236": "TEKİR'CİM BAŞKA BİR ARZUN VAR MI CANIM?",
+
+    "question_237": "Kedinin tekrar balığa ihtiyacı var.",
+    "hint_237": "KÖPEĞİN KEMİK İLE BAŞINI DÖNDÜR.",
+    "endText_237": "ZAVALLI KÖPEK!",
+
+    "question_238": "Karşıya geçmesi için Cengiz Amca'ya yardım eder misin?",
+    "hint_238": "BİR YERDE GİZLİ BİR YAYA GEÇİDİ VAR, ONU KULLAN.",
+    "endText_238": "YAYALARA SAYGIMIZ SONSUZ! :))",
+
+    "question_239": "Çok açım bana bir omlet yap lütfen.",
+    "hint_239": "YUMURTLAMASI İÇİN TAVUĞU KORKUTSAN?",
+    "endText_239": "SUCUKLARI UNUTMA.",
+
+    "question_240": "Yazııık:(( Ela balonunu kaybetti!",
+    "hint_240": "YUKARI BAKMAYA DENE.",
+    "endText_240": "BİR DAHAKİ SEFERE NE DİYE AĞLAYACAK MERAK EDİYORUM?!",
+
+    "question_241": "Ekranda kaç tane köpek var sence?",
+    "hint_241": "BAZILARI BİR ŞEYİN ALTINDA SAKLANIYOR OLABİLİR.",
+    "endText_241": "BAK ŞU YARAMAZLARA... :))",
+
+    "question_243": "Tom atlamak için başka bir vadi daha buldu!",
+    "hint_243": "BULUTLARA BAK, SENCE DE ÇOK POFİDİK DEĞİLLER Mİ?",
+    "endText_243": "BU FİZİK YASALARINA AYKIRI DEĞİL Mİ?!",
+
+    "question_244": "Bu mikroplardan hemen kurtulmalıyız!",
+    "hint_244": "HEPSİNİ ISLAK MENDİLLE TOPLA VE SONRA MENDİLİ YAK",
+    "endText_244": "NE GÖZ VARMIŞ ARKADAŞ SENDE, MİKROPLARI NASIL GÖREBİLİYORSUN? :))",
+
+    "question_245": "Yine sokakta kaldım, bana yardım et!",
+    "hint_245": "EVİ BÜYÜTMEYE ÇALIŞSAN?",
+    "endText_245": "EVİM EVİM GÜZEL EVİM. :))",
+
+    "question_246": "Kertenkelemin beslenme saati geldi, hadi onu doyuralım.",
+    "hint_246": "KERTENKELEM SİNEKLERİ, SİNEKLER DE AÇIKTA KALAN YİYECEKLERİ ÇOK SEVER. ",
+    "endText_246": "ŞİMDİ ARTIK TAVUĞU YİYEBİLİRİM.",
+
+    "question_247": "Bende düzen takıntısı var, lütfen yardım et!",
+    "hint_247": "RENKLERİ AYRI KASELERE AYIRIN.",
+    "endText_247": "OHH ÇOK SAĞOL, İÇİME SOĞUK SULAR SERPİLDİ...",
+
+    "question_248": "Resimdeki tüm hayvanları bulun.",
+    "hint_248": "O AĞAÇTA BİR SİNCAP SAKLANIYOR OLMASIN SAKIN?",
+    "endText_248": "NE KADAR HAYAT DOLU BİR ORMAN!",
+
+    "question_249": "Tekir bu kez nasıl atlayacak sence? ",
+    "hint_249": "BELKİ DE BİRAZ YAKLAŞMASI YETERLİ OLUR.",
+    "endText_249": "BENCE BU SENE OLİMPİYATLARDA TÜRKİYE'Yİ TEKİR TEMSİL ETSİN, ÇOK ÇALIŞTI!",
+
+    "question_251": "Evet yine matematik :) X nedir söyle bakalım.",
+    "hint_251": "BİR TANE SIFIRA İHTİYACIMIZ VAR.",
+    "endText_251": "O SIFIR BURAYA GELECEK! :))",
+
+    "question_254": "Eren    bardak süt ve    kurabiye istiyor.",
+    "hint_254": "SORUYU MASANIN ÜZERİNDEKİLERE GÖRE DEĞİŞTİRSEN?",
+    "endText_254": "BU NE İŞTAH, BIRAKSAK DÜNYAYI YİYECEKSİN..  :))",
+
+    "question_255": "Adamın kaçmasına yardım et!",
+    "hint_255": "ZOMBİYİ DUVARIN KÖŞESİNE SIKIŞTIRMAYA ÇALIŞ.",
+    "endText_255": "AKILSIZ ZOMBİ!",
+
+    "question_256": "Kahramanımızın yardıma ihtiyacı var!",
+    "hint_256": "KAHRAMANIMIZ YER ÇEKİMİNE KARŞI SAVAŞABİLİR!",
+    "endText_256": "BAŞKA BİR MACERADA TEKRAR GÖRÜŞMEK ÜZERE!",
+
+    "question_257": "Kızın bulaşık ağzını başkalarının görmesine engel ol!",
+    "hint_257": "CEPTEKİ PEÇETEYİ KULLANMAYI DENE.",
+    "endText_257": "ÇOK CENTİLMENCE BİR HAREKET!",
+
+    "question_258": "Nasıl da yorgun, keşke ona yardım etsen...",
+    "hint_258": "ÖNCE TEMİZ TABAKLARI ÇIKAR, SONRA KİRLİ OLANLARI KOY.",
+    "endText_258": "ELİNE SAĞLIK, ÇIKIŞTA BİZİM EVE DE BİR EL ATSAN?? :))",
+
+    "question_259": "Hedefi vurmasını sağlayabilir misin?",
+    "hint_259": "İLK ÖNCE HEDEFİ TAŞI.",
+    "endText_259": "İYİ GİDİYORSUN ÇEKİRGE AZ KALDI!",
+
+    "question_260": "Mavi boksöre bir kez daha yardım et.",
+    "hint_260": "KIRMIZI BOKSÖRÜN DİKKATİNİ DAĞITMAYA ÇALIŞ.",
+    "endText_260": "KELEBEK GİBİ UÇAR, ARI GİBİ SOKARIM! :))",
+
+    "question_261": "Bu canavarı durdurmalıyız!",
+    "hint_261": "BELKİ DE ONU ARKADAŞIMIZ YAPABİLİRİZ.",
+    "endText_261": "ARTIK ARKADAŞIZ!",
+
+    "question_262": "Bizim at şimdi de bir prenses istiyor.",
+    "hint_262": "SİHİRBAZI BİRAZ SERSEMLETİRSEK, BAZI YILDIZLAR GÖRÜNEBİLİR. :)",
+    "endText_262": "BU ATIN İSTEKLERİNİN DE SONU YOK! :))",
+
+    "question_263": "Elmaları topla!",
+    "hint_263": "ELMAMSI DOMATESE DİKKAT ET. :)",
+    "endText_263": "SİNSİ DOMATES SENİ KANDIRAMADI.",
+
+    "question_264": "Ateşe ihtiyacımız var.",
+    "hint_264": "KEL BİR BAŞ GÜNEŞ IŞIĞINI YANSITABİLİR :)).",
+    "endText_264": "RESMEN AYNA GİBİ BİR BAŞ!",
+
+    "question_265": "Bir üçgen çiz hadi.",
+    "hint_265": "ÇAPALARI TAŞIMAYI DENESEN?",
+    "endText_265": "ZEKİCEYDİ!",
+
+    "question_266": "Burada bazı garip şeyler oluyor, onları bulun.",
+    "hint_266": "BALIKLARIN GÖZ KAPAKLARI VEYA KANATLARI YOKTUR, YENGEÇLERİN DE SADECE 10 BACAĞI VARDIR.",
+    "endText_266": "BİRİ BU SULARA RADYOAKTİF ATIKLAR ATMIŞ OLMALI!",
+
+    "question_267": "Çocuğa            edin!",
+    "hint_267": "“YARDIM EDİN!” DİYE BAĞIRMASI LAZIM.",
+    "endText_267": "TEHLİKEDEYKEN OLABİLDİĞİNCE YÜKSEK SESLE BAĞIR!",
+    "custom1_267": "YARDIM!",
+    "custom2_267": "OLEY!",
+
+    "question_269": "Bu nasıl doğru olabilir ?!",
+    "hint_269": "BAŞKA BİR AÇIDAN BAKMAYA ÇALIŞ.",
+    "endText_269": "MATEMATİĞİ BAŞTAN YAZIYORUZ!",
+
+    "question_270": "Hangi maymun en uzun kuyruğa sahip?",
+    "hint_270": "KUYRUKLARIN SONUNU GÖRMEYE ÇALIŞ.",
+    "endText_270": "BUNUN BABASININ KUYRUĞU DA BÖYLE UZUNDU!",
+
+    "question_271": "Abisinin yediğinin aynısını istiyor.",
+    "hint_271": "HAZIRLANAN BURGER'E DİKKATLİCE BAKARAK AYNISINI YAPMAYI DENE.",
+    "endText_271": "AFİYET OLSUN!",
+
+    "question_272": "Bilgisayarın çok yavaş çalışması Sinan'ın canını sıkıyor.",
+    "hint_272": "FAN TOZLANDIĞI İÇİN BİLGİSAYARI SOĞUTAMAZ.",
+    "endText_272": "BİLGİSAYARINI TEMİZ TUTMASI GEREKİYOR!",
+
+    "question_273": "Hayııır! Bugün işe çok geç kaldım!",
+    "hint_273": "KEŞKE BUGÜN HAFTASONU OLSAYDI. :((",
+    "endText_273": "ONU KANDIRABİLİRSİN, AMA PATRONU ASLA! :))",
+    "custom1_273":"PERŞEMBE",
+    "custom2_273":"CUMA",
+    "custom3_273":"CUMARTESİ",
+
+    "question_274": "Cevap nedir?",
+    "hint_274": "13 + 7 DE 20 EDER.",
+    "endText_274": "HALA SANA MATEMATİĞİ SEVDİREMEDİYSEM PES DOĞRUSU... :)",
+
+    "question_276": "Çocuğun evine ulaşmasına yardım et.",
+    "hint_276": "KÖPRÜ YAPMAK İÇİN DİĞER PLATFORMU KULLAN.",
+    "endText_276": "BU BELEDİYEYE BİR DİLEKÇE YAZMAK LAZIM BU YOLLARIN HALİ NE...",
+
+    "question_277": "Köpek nerede saklanıyor?",
+    "hint_277": "İKİ DOLAP ARASINA BAKMAYA ÇALIŞSAN?",
+    "endText_277": "ÜZGÜNÜM ÇİKO AMA VETERİNERDEN KAÇIŞ YOK.",
+
+    "question_278": "Bu trafikten kurtulun!",
+    "hint_278": "YERÇEKİMİ YARDIMCI OLABİLİR.",
+    "endText_278": "İSTANBUL'A DA BÖYLE BİR ÇÖZÜM LAZIM.",
+
+    "question_279": "Ninja olabilmek için kılıç eğitimini tamamlaman lazım Erkut!",
+    "hint_279": "PARMAĞINIZI KILICIN YÖNÜNDE KAYDIRIN.",
+    "endText_279": "AFERİM SENİNLE GURUR DUYUYORUZ ÇEKİRGE!",
+
+    "question_280": "Hayaletin tuzaklardan kaçmasına yardım et!",
+    "hint_280": "ÖNCE BİR KAĞIDA DOĞRU PATİKAYI ÇİZMEYİ DENESEN?",
+    "endText_280": "SENCE BİR HAYALETE YARDIM ETMEK İYİ BİR FİKİR Mİ ?! :))",
+
+    "question_281": "Olamaz! Lale'nin çiçeği ölmek üzere!",
+    "hint_281": "ÇİÇEĞİN SUYA VE GÜBREYE İHTİYACI VAR.",
+    "endText_281": "CANLAN VE PARLA GÜZEL ÇİÇEK!",
+
+    "question_282": "Hay aksi! Arabam bozuldu,         edebilir misin?",
+    "hint_282": "BİR YERLERDE 'TAMİR' OLMASI GEREK??",
+    "endText_282": "BAZI KELİMELER BU OYUNDA OLDUKÇA ETKİLİ!",
+
+    "question_284": "Şehri kurtar!",
+    "hint_284": "KEŞKE O DAĞ DAHA YÜKSEK OLSAYDI.",
+    "endText_284": "BAHSE GİRERİM TEKRAR BULUTLARI KULLANMAYA ÇALIŞTIN. :))",
+
+    "question_285": "Küçük kaplumbağaları savunmasına yardım et.",
+    "hint_285": "YILANA SALDIRMAK İÇİN KAPLUMBAĞA KABUĞUNU KULLAN.",
+    "endText_285": "KEMERİNİZİ BAĞLAYIN VE UÇUŞUNUZUN TADINI ÇIKARIN BAY YILAN!",
+
+    "question_286": "Yüzü yeniden şekillendirmelisin.",
+    "hint_286": "ORTADAKİ ASLINDA BİR AYNA. ONU KULLANIN.",
+    "endText_286": "BU SEVİYEYİ BEĞENDİYSENİZ, SANATSAL OYUNUMUZU DENEYİN: <link=\"mirror_puzzle\"><u><color=blue>MIRROR PUZZLE!</color></u></link>",
+
+    "question_287": "Bunu bir şekilde kazanmalısın ...",
+    "hint_287": "O'YU HAREKET ETTİRMEYİ DENE.",
+    "endText_287": "BAK YAA.. BEYNİN HEP HİLE HURDAYA ÇALIŞIYOR... :))",
+    "custom1_287":": SEN",
+    "custom2_287":": RAKİP",
+
+    "question_288": "Bu sıkıcı Pazartesi sabahının üstesinden gelmesi için ona yardım et.",
+    "hint_288": "SICAK SU VE KAHVE TOZU İLE BİR KAHVE YAP.",
+    "endText_288": "ŞU ANDA BU BÖLÜMDE KULLANMAK İÇİN KAHVE MARKASI SPONSOR BAŞVURULARINI KABUL EDİYORUZ. LÜTFEN PAZARLAMA MÜDÜRÜMÜZ TEKİR'İ ARAYIN. :))",
+
+    "question_289": "Bu gençleri kavuştur, aşk kazansın!",
+    "hint_289": "ŞURDAKİ KÜTÜĞÜ KÖPRÜ OLARAK KULLAN.",
+    "endText_289": "SELVİ BOYLUM AL YAZMALIM KADAR OLMASA DA YİNEDE GÜZEL BİR AŞK HİKAYESİ. :))",
+
+    "question_290": "Her zamanki gibi ağlıyor!",
+    "hint_290": "TV KANALINI DEĞİŞTİRMEYİ DENE.",
+    "endText_290": "ÜZGÜNÜM AMA ÇİZGİ FİLMLER İÇİN BİRAZ KÜÇÜKSÜN ELA!",
+
+    "question_291": "Şövalyenin ejderhayı yenmesi için yardımına ihtiyacı var.",
+    "hint_291": "ŞÖVALYEYİ YEM OLARAK KULLAN, EJDERHA AĞZINA AÇINCA DA İÇİNE SUYU KOY.",
+    "endText_291": "STRATEJİK DÜŞÜNEN HER ZAMAN KAZANIR, SENİN GİBİ. ",
+
+    "question_292": "Jüpiter'de ne var",
+    "hint_292": "CEVAP TAM BİR SORU İŞARETİ. BUNU BİR SEMBOLLE GÖSTERMEYE ÇALIŞSAN?",
+    "endText_292": "VALLA KARDEŞ YALAN OLMASIN NE VAR BİZ DE BİLMİYORUZ. :))",
+
+    "question_293": "Olamaaaz!! Bu kazayı önlemelisin!",
+    "hint_293": "TRENİN DÜDÜĞÜNÜ ÖTTÜRMEYE ÇALIŞIN.",
+    "endText_293": "YÜREĞİM AĞZIMA GELDİ RESMEN!",
+
+    "question_294": "Yine çok sinirli, lütfen sakinleşmesine yardım et.",
+    "hint_294": "TELEFONUNU YATIR.",
+    "endText_294": "NE ZAMAN SİNİRLENİRSEN YATMAYI DENE, SAKİNLEŞMEN İÇİN SANA BİR SIR.",
+
+    "question_295": "Bu kasayı açmalıyız.",
+    "hint_295": "BİR YERDE KAĞIT ÜZERİNDE BİR İPUCU OLMALI.",
+    "endText_295": "İÇİNDE NE VAR ACABA?  :))",
+
+    "question_296": "Şövalye bu kez de bir devi yenmek zorunda.",
+    "hint_296": "KÖPRÜYE VURMASI İÇİN DEVİ ŞÖVALYE İLE KANDIRIN.",
+    "endText_296": "BÜTÜN İŞİ BİZ YAPTIK AMA KRAL ONU ÖDÜLLENDİRECEK, BU NASIL ADALET!?",
+
+    "question_297": "Hop kardeşim ilerlesene ne duruyorsun!",
+    "hint_297": "SÜRÜCÜYÜ GÖRMEK İÇİN EKRANI SOLA KAYDIRIN.",
+    "endText_297": "BU ADAMA İNANAMIYORUM!",
+
+    "question_298": "Okula gitme zamanı, haydi onu uyandıralım!",
+    "hint_298": "HER İKİ GÖZ KAPAĞINI DA AYNI ANDA AÇMAYI DENE.",
+    "endText_298": "GÜNAYDIN CANIM!",
+
+    "question_299":"Tavşanın tüm altınları toplaması gerek.",
+    "hint_299":"TAVŞANI HAVUÇLA CEZBET",
+    "endText_299":"ARTIK BU KADAR ALTINLA KENDİNE BİR HAVUÇ TARLASI ALIRSIN TAVŞAN KARDEŞ. :))",
+
+    "question_300": "Müşteriyi memnun etmemiz gerek.",
+    "hint_300": "TÜM YİYECEKLERİ TEPSİNİN İÇİNE KOYUP AYNI ANDA VER.",
+    "endText_300": "TEPSİYİ DE YİYECEK DİYE KORKUYORUM AÇIKÇASI...:))",
+
+    "question_301": "Soru işaretli yere ne gelmesi lazım?",
+    "hint_301": "8 + 1 + 3 = 12",
+    "endText_301": "BU GİBİ BÖLÜMLER, KANDIRILMAYI BEKLEYEN SİZİ KANDIRMAYARAK ASLINDA KANDIRIR. :))",
+
+    "question_303": "Iyyyy! Bu sivrisineklerden kurtulalım hemen!",
+    "hint_303": "SOĞUK HAVAYI SİNEKLER SEVMEZLER.",
+    "endText_303": "SOĞUK BİR SAVAŞ OLDU!",
+
+    "question_304": "Ekranlardan doğru renkleri seçebilir misin?",
+    "hint_304": "DİKKATLİCE BAKARSAN SARININ İKİ EKRANA GİTTİĞİNİ GÖRECEKSİN.",
+    "endText_304": "NEYSEKİ SONUNDA BİRİ BU KARMAŞAYA SON VERDİ... :))",
+
+    "question_306":"Bu nasıl doğru olabilir?",
+    "hint_306":"BOYUT OLARAK DAHA BÜYÜK OLABİLİR.",
+    "endText_306":"BU 6 KESİNLİKLE DAHA BÜYÜK! :))",
+
+    "question_307":"Bu kez zıplamak yok Tekir.",
+    "hint_307":"TEKİR'İ TOPLA FIRLATMAYI DENEYEBİLİRSİN.",
+    "endText_307":"BU KEDİNİN GERÇEKTEN 9 CANI VAR! :))",
+
+    "question_308":"Bu palyaço yine hile peşinde, bunu kanıtlamalıyız!",
+    "hint_308":"MASAYI KULLANIN.",
+    "endText_308":"ULUSLARARASI PALYAÇOLAR FEDERASYONU BU ADAMI CEZALANDIRMALI!",
+
+    "question_310": "Bize yardım et, evi bulamıyoruz!",
+    "hint_310": "GÜNEŞİN ÖTESİNDE OLMALI!",
+    "endText_310": "BENDEN DAHA YAŞLI OLAN KIZIMI GÖRMEK İÇİN SABIRSIZLANIYORUM!",
+
+    "question_312":"Yakalanacak yeni hayaletler var.",
+    "hint_312":"TUZAKLARI TAKİP ETTİKLERİ YOLLARA KOY.",
+    "endText_312":"İTİNA İLE HAYALETLERİNİZ YAKALANIR GÜZELCE KUTULARA KONULUR...:))",
+
+    "question_313": "Bu balıklardan hangisi en büyük acaba??",
+    "hint_313": "KİRPİ BALIĞI TEHDİT EDİLDİĞİNDE BÜYÜR.",
+    "endText_313": "BAHSE GİRERİM ORADA BALİNA GİBİ BİR ŞEY BULMAYI BEKLEDİN. :)",
+
+    "question_315": "4'ün üzerindeki sayı nedir?",
+    "hint_315": "EKRANDAKİ TOPLARI BOŞVER, 4'ÜN BİR ÜZERİ NEDİR?",
+    "endText_315": "TABİİ Kİ 5! :))",
+
+    "question_316": "Eyvah! Polis adama ceza kesmeden yardım et lütfen!",
+    "hint_316": "FARA YENİ BİR AMPUL TAKARAK TAMİR ETMEYI DENE.",
+    "endText_316": "BİR SORUN MU VARDI MEMUR BEY?? :))",
+
+    "question_318":"Doğru cevap nedir.",
+    "hint_318":"ORADA SORU İŞARETİ VAR MI SENCE?",
+    "endText_318":"-CEVAP NE. -NE?! -CEVAP NE İŞTE!",
+    "custom1_318":"A) ELMA",
+    "custom2_318":"B) MEYVE",
+    "custom3_318":"C) MUZ",
+    "custom4_318":"D) PASTA",
+
+    "question_320": "Yan görünümü üst görünüme göre ayarlayabilir misin?",
+    "hint_320": "BLOKLARI KAYDIRIN VE ÜSTTEKİ RESİM İLE AYNI KONUMA GETİRİN.",
+    "endText_320": "FARKLI AÇILARDAN BAKMAYI ÖĞRENDİN BENCE... ;)",
+
+    "question_321": "6. şekildeki deseni çiz.",
+    "hint_321": "ORTA SIRADA İKİ NOKTA VAR.",
+    "endText_321": "IQ'NU TUTAMIYORUZ GİTTİKÇE YÜKSELİYOR! :))",
+
+    "question_322":"QQQQQQQQQQQQ",
+    "hint_322":"KARE BIR DIKDÖRTGEN DEĞILDIR.",
+    "endText_322":"BİLİRSİN, EVET VEYA HAYIR SORULARI HEP ZORDUR!",
+    "custom1_322":"KIRMIZI DAİRE",
+    "custom2_322":"MAVİ ÜÇGEN",
+    "custom3_322":"KIRMIZI KARE ",
+
+    "question_323":"Bana en ağır tavuğu bulabilir misin?",
+    "hint_323":"TABUREYİ AĞIRLIKLARINI ÖLÇMEK İÇİN KULLAN.",
+    "endText_323":"HARİKA! KAYBETTİĞİM DAMBILIN YERİNE BU ARKADAŞI KULLANABİLİRİM. :))",
+
+    "question_324":"Onun gerçek aşkını bul.",
+    "hint_324":"KADINLARI TEST ETMEK İÇİN PAHALI AKSESUARLARI ÇÖPE ATMAYI DENE.",
+    "endText_324":"ŞİMDİ HERŞEYİ HIZICA ÇÖP KUTUSUNDAN GERİ AL! :))",
+    "question_325": "Off! Geçit törenini izleyemeyi çok istiyor!",
+    "hint_325": "YUKARIYI GÖREBİLMESİNİ SAĞLAMAK İÇİN ONU KUTULARIN ÜSTÜNE ÇIKAR.",
+    "endText_325": "İŞTE BU KADAR! HAYALLERİNİ GERÇEKLEŞTİRMEK İÇİN ENGELLERİN SENİ ALIKOYMASINA ASLA İZİN VERME!",
+
+    "question_326": "Aslında bu ayılardan biri gerçek değil, ama hangisi?",
+    "hint_326": "AYILARI BAL İLE TEST ETMEYİ DENESEN?",
+    "endText_326": "BU AYI KOSTÜMÜ GİYMİŞ BİR ÇILGIN OLMALI! :))",
+
+    "question_328": "Şu cocuğun suratını bir temizleyiver lütfen!",
+    "hint_328": "AMA YÜZÜNÜN DİĞER TARAFINI UNUTMA LÜTFEN...",
+    "endText_328": "CANIM EVLADIM ÇİKOLATAYI YÜZÜN DEĞİL AĞZIN YİYECEK... :))",
+
+    "question_329": "Bir yerlerde bir hayalet var! Onu bulmama yardım et!",
+    "hint_329": "HAYALETİ BULMAK İÇİN BİRAZ UN KULLAN BAKALIM.",
+    "endText_329": "İŞTE ORADA! ŞİMDİ HEMEN ŞU HAYALET AVCISINI ARAYALIM...",
+
+    "question_330": "Sağa doğru uçan  kuşu yakalayın.",
+    "hint_330": "KUŞLARIN SAĞA DOĞRU UÇMASINI SAĞLAMAK İÇİN TELEFONUNU ÇEVİRMEYİ DENE.",
+    "endText_330": "BİR TAŞLA DEĞİL AMA... SONUÇTA 5 KUŞ... NETİCEYE BAKMAK LAZIM. :))",
+
+    "question_331": "Hmm, sanki burada bir şeyler doğru değil??",
+    "hint_331": "PODYUMLARIN YÜKSEKLİĞİNİ BAŞARI SIRASINA GÖRE AYARLA.",
+    "endText_331": "SANKİ ŞİMDİ OLDU, HERKES YERİNİ BULDU, ELİNE SAĞLIK! :))",
+
+    "question_334": "Ali'nin evde kalıp ödevini bitirmesi gerek...",
+    "hint_334": "KAPI OLMAZSA DIŞARI DA ÇIKAMAZ Dİ Mİ? :))",
+    "endText_334": "KAPIYI SÖKTÜK ŞİMDİ DE PENCEREDEN KAÇMAYA ÇALIŞIYOR HAYLAZ VELET... :))",
+
+    "question_335": "Tekir yine çok aç ve tüm balıkları yemek istiyor...",
+    "hint_335": "EN KÜÇÜK BALIKTAN BAŞLA.",
+    "endText_335": "BALIKLARIN ARTIK TEKİR'DEN BIKIP ONU OYUNDAN ATTIRMAK İÇİN İMZA KAMPANYASI BAŞLATTIĞINI DUYDUK... :))",
+
+    "question_336": "Berke'nin annesi artık onun sağlıklı beslenmesini istiyor.",
+    "hint_336": "BERKE'CİM ÇİKOLATA, ŞEKER GİBİ ŞEYLER SENCE DE BİRAZ SAĞLIKSIZ DEĞİL Mİ?",
+    "endText_336": "ARMUT PİŞ AĞZIMA DÜŞ BÖYLE BİR ŞEY OLSA GEREK! :))",
+
+    "question_337": "Laf aramızda bu komşuların arası biraz limoni. Birbirleriyle karşılaşmadan apartmana girmelerini sağlayabilir misin?",
+    "hint_337": "KARŞILAŞMALARINI ENGELLEMEK İÇİN YOLLARINI NESNELERLE BLOKLA.",
+    "endText_337": "MAHALLEDE REZİLLİK ÇIKMASINI ÖNLEDİN SAĞOL VALLA, BIKTIK BUNLARIN ATIŞMASINDAN...",
+
+    "question_338": "Şimdi biraz kalori yakma zamanı!",
+    "hint_338": "BİRAZ KOŞU YAPMASI İÇİN EKRANDA HAMBURGERİ SÜRÜKLE.",
+    "endText_338": "HERGÜN BİRAZ EGZERSİZ ZİNDE KALMANI SAĞLAR!",
+
+
+    "question_314": "Hangi yol çıkışa gidiyor?",
+    "hint_314": "MEŞALE İLE RÜZGARIN YÖNÜNÜ BULMAYI DENE.",
+    "endText_314": "RÜZGAR ORADA BİR ÇIKIŞ OLDUĞU ANLAMINA GELİR!",
+
+    "question_317": "Sanki burada yanlış bir şeyler var?!",
+    "hint_317": "ÇOĞU DURUMDA, ELFLER OKÇUDUR VE SİHİRBAZLAR DA ASA KULLANIR.",
+    "endText_317": "J. R. R. TOLKİEN MEZARINDA ARTIK RAHAT UYUYABİLİR. :))",
+
+    "question_319": "Yiyecek bir şeyler istiyorum.",
+    "hint_319": "ORADAKİ BAZI ŞEKİLLERİ BİRLEŞTİREREK OMLET YAPABİLİRSİN.",
+    "endText_319": "NEFİS HAYALET AROMALI OMLETİNİZ HAZIR! AFİYET OLSUN! :))",
+
+    "question_327": "Kurtar onu!",
+    "hint_327": "ATLAMA YATAĞINI HER İKİ UÇTAN DİKKATLİCE TUT.",
+    "endText_327": "BABAN DA MI İTFAİYECİYDİ BE! O NE TUTUŞ ÖYLE... :))",
+
+    "question_333": "Iyyy! Bu maymun kokuyor!",
+    "hint_333": "SUYU BİR ŞEYLERLE DOLDURUP TAŞIR.",
+    "endText_333": "KEŞKE BİRAZ DA ŞAMPUAN OLSAYDI! :))",
+
+    "question_340": "Bebeğin annesi hangisi?",
+    "hint_340": "BEBEĞİ AĞLATMAYI DENE.",
+    "endText_340": "NAPTIN AFERİN!! ANNENİN GAZABINA UĞRAMADAN HEMEN DİĞER BÖLÜME GEÇ BENCE.",
+
+    "question_341": "Bunu hangisi yapmış olabilir!",
+    "hint_341": "BELKİ DE ÖLMEMİŞTİR?",
+    "endText_341": "34. DİLİMİN ARDINDAN MİDE FESADI GEÇİRDİ... :)))",
+
+    "question_342": "Hey!! Dondurmamı hanginiz yedi?",
+    "hint_342": "DİĞER YANAĞINA BAK.",
+    "endText_342": "YAKALANDIN!!",
+
+    "question_343": "Sütü hangi çocuk döktü?",
+    "hint_343": "GERÇEK SUÇLU BİR YERDE GİZLENİYOR.",
+    "endText_343": "HMM... PEKİ BU KEDİ DOLABI NASIL AÇTI Kİ?!",
+
+    "question_344": "Sence hangisi gerçek bir kahraman?",
+    "hint_344": "ONLARI BİR KRİZ ÇIKARTARAK TEST EDEBİLİRSİN.",
+    "endText_344": "GERÇEK KAHRAMANLAR HER ZAMAN ARAMIZDA SAKLI...",
+
+    "question_165": "Annem 1 patatesi 25dk da haşlıyorsa, 5 patetesi kaç dakikada haşlar?",
+    "hint_165": "HEPSİNİ TEK BİR TENCEREDE HAŞLAR.",
+    "endText_165": "ANNENDEN ÖĞRENECEĞİN DAHA ÇOK ŞEY VAR ÇEKİRGE... :))",
+
+    "question_232": "Kurt adamı durdur!",
+    "hint_232": "KURT ADAMLAR GÜCÜNÜ DOLUNAYDAN ALIR.",
+    "endText_232": "KIZGINKEN BAZEN HEPİMİZİN İÇİNDEN BÖYLE KURTADAM ÇIKMIYOR MU? :))",
+
+    "question_250": "Mavi büyücünün kazanması gerek!",
+    "hint_250": "SİYAH BÜYÜCÜDE BÜYÜ KALKANI VAR, AMA FİZİKSEL NESNELERE KARŞI KENDİNİ SAVUNAMAZ.",
+    "endText_250": "KURALLARA UYMADIĞI İÇİN ONU OKULDAN ATACAKLAR...",
+
+    "question_253": "Hale saçını mora boyatmak istiyor.",
+    "hint_253": "MOR OLUŞTURMAK İÇİN İKİ RENKİ KARIŞTIRABİLİRSİN!",
+    "endText_253": "İYİ BİR BAHŞİŞİ HAKETTİK BENCE...",
+
+    "question_345": "Sırayla hepsine dokun: Çocuk-Tavşan-Kuş-Lama-Tavuk-Kedi ",
+    "hint_345": "TAVUK BİR YERLEDE SAKLANIYOR OLABİLİR.",
+    "endText_345": "İLGİNÇ Bİ EKİP OLMUŞLAR, NE DİYELİM ... :))",
+    "custom1_345":"Sırayla hepsine dokun",
+
+    "question_356": "Hangisi gerçek dondurma?",
+    "hint_356": "DONDURMALARI ERİTMEYİ DENE.",
+    "endText_356": "HA HA! DİĞERLERİ PLASTİK OYUNCAKLARDI... :))",
+
+    "question_357": "Hangi yumurta çiğ?",
+    "hint_357": "YUMURTALARI YÜKSEKTEN DÜŞÜRÜP KIRILMA TESTİNE SOKABİLİRSİN.",
+    "endText_357": "HADİ KIRILANLARI PİŞİRİP YİYELİM!",
+
+    "question_358": "Bu iki sıvıyı karıştırman gerek.",
+    "hint_358": "TÜPÜ ÇALKALARKEN AĞZINI KAPATMAYI UNUTMA.",
+    "endText_358": "BAYLAR BAYANLAR! BU MUCİZEVİ KARIŞIMLA AKNELERİNİZ TARİHE KARIŞACAK! :))",
+
+    "question_359": "PIN kodu nedir?",
+    "hint_359": "KONUŞMA BALONUNU BÜYÜTMEYE ÇALIŞ.",
+    "endText_359": "BU TELEFONUN EKRANI DA AMMA KÜÇÜKMÜŞ... :))",
+
+    "question_360": "Bu gürültüye dayanamıyorum!",
+    "hint_360": "PARMAĞINLA SAKSAFONU TIKAMAYI DENE.",
+    "endText_360": "GÖZÜNÜ SEVEYİM GİT BAŞKA YERDE ÇAL KARDEŞİM... :)",
+
+
+    "question_226": "Kasanın kapığını aç.",
+    "hint_226": "İPUÇLARI İÇİN DUVARA BAK.",
+    "endText_226": "ARTIK BRAIN TEST VIP ÜYELİĞİMİZİ ALABİLİRSİNİZ. :))",
+
+    "question_242": "Bu vakayı çözmen gerek dedektif...",
+    "hint_242": "BELKİ ONU UYANDIRMAYI DENEYEBİLİRSİN?",
+    "endText_242": "OHH! NEYSE Kİ SADECE KETÇAPMIŞ!",
+
+    "question_252": "Farenin banyoya ihtiyacı var.",
+    "hint_252": "EKSİK BORULARI YERİNE YERLEŞTİR.",
+    "endText_252": "TEKİR'E SAKIN BU FAREYE YARDIMCI OLDUĞUMUZU ANLATMAYIN.",
+
+    "question_354": "Hangisi çocuğun gölgesi?",
+    "hint_354": "HER DOKUNDUĞUNDA GÖLGELERİN YER DEĞİŞTİRDİĞİNİN FARKINDA MISIN?",
+    "endText_354": "BİR GÖLGE ASLA YALAN SÖYLEMEZ! :)",
+
+    "question_361": "Sıcaktan çok bunaldı! Yardım et lütfen!",
+    "hint_361": "ÇORAPLARINA BİR GÖZ AT BAKALIM.",
+    "endText_361": "ZAVALLI ADAMIN CİDDİ BİR ENTOMOFOBİ VAKASI VAR NAPALIM!  :))",
+
+    "question_362": "Onu uyandırmama yardım edebilir misin?",
+    "hint_362": "KEŞKE TELEFONU İLE KULAKLIK ARASINDA BİR BAĞLANTI OLSAYDI...",
+    "endText_362": "BİR BLUETOOTH BAĞLANTISINA ASLA GÜVENMEYİN... :))",
+
+    "question_363": "Biri şu zorbayı durdursun!",
+    "hint_363": "O KOLA KUTUSU TEHLİKELİ OLABİLİR.",
+    "endText_363": "BU DA ONA DERS OLSUN! :))",
+
+    "question_364": "Topu merkeze getirmeye çalış.",
+    "hint_364": "TOPU DÖNDÜRMEK VE DURDURMAK İÇİN EKRANA DOKUN. İÇ ÇEMBERLERE TOPU SOKMAK İÇİN RENK ÇİZGİLERİNİ KULLAN.",
+    "endText_364": "KÜÇÜK TOPUMUZ İÇİN BÜYÜK BİR YOLCULUK OLDU. :))",
+
+    "question_366": "Hepsini mutlu et.",
+    "hint_366": "MAVİLER ÜST SIRAYI İSTİYOR. SARI EN ALT SIRAYI İSTİYOR. KIRMIZILAR SARILARI SEVMİYOR.",
+    "endText_366": "MUTLULUK BULAŞICI MI NE? SEN DE MUTLU OLDUN HADİ İTİRAF ET... :))",
+
+    "question_367": "Tavşan nerede?",
+    "hint_367": "TAVŞANLARIN UZUN KULAKLARI VARDIR.",
+    "endText_367": "O KÜÇÜKLÜĞÜNDEN BERİ KEDİ OLMAK İSTİYORDU. :))",
+
+    "question_368": "Prensesi bulabilir misin?",
+    "hint_368": "KILIÇ ASLINDA TIRAŞ İÇİN DE KULLANILABİLİR. :))",
+    "endText_368": "PRENSES! BABANIZ SİZE HEMEN KALEYE GERİ DÖNMENİZİ EMREDİYOR! :))",
+
+    "question_369": "Bu kasayı açmama yardım et!",
+    "hint_369": "DÜĞMELERE BELİRLİ BİR SIRAYA GÖRE DOKUN.",
+    "endText_369": "ŞANSA BAK! BU KADAR KASA AÇTIK, AMA HALA ZENGİN DEĞİLİZ! :))",
+
+    "question_370": "Canavarı durdurun!",
+    "hint_370": "ROBOT KOLUNUN BİR VİDASI EKSİK.",
+    "endText_370": "BU VİDA ORADA NE ARIYOR İNAN BEN DE BİLMİYORUM ?!",
+
+    "question_371": "Sondaki kedi hangisi olmalı?",
+    "hint_371": "DESENE DİKKATLİ BAK. BU İKİSİNDEN BİRİNİ SEÇMEN GEREKMİYOR.",
+    "endText_371": "O SARI KEDİ HEM BAŞTA VE HEM DE SONDA.",
+
+    "question_372": "Sınavı bitirmesine yardım et!",
+    "hint_372": "KUM SAATİNİN BOŞALMASINI ENGELLEMEYİ DENE.",
+    "endText_372": "ŞŞŞ! ÖĞRETMEN ŞÜPHELENMEDEN ÖNCE HEMEN BU BÖLÜMDEN ÇIKALIM...",
+
+    "question_373": "Gizli numara 2285'i bul.",
+    "hint_373": "KİTAPLARDAN BİRİ BAŞ AŞAĞI.",
+    "endText_373": "UZAYLILAR 2285 YILINDA GELECEK. TİKTOK DÜNYAYI İŞGAL ETMELERİNDEKİ İLK ADIM OLDU. :))",
+
+    "question_375": "Sinir bozucu kuzenimle buluşmak için bir tarih seçmeme yardım et.",
+    "hint_375": "İMKANSIZ BİR TARİH SEÇMEYİ DENE. AYI DEĞİŞTİREBİLİRSİN.",
+    "endText_375": "HİHİHİH! ARTIK BİRAZ ZOR BULUŞURUZ! :))",
+    "custom1_375": "MAYIS ",
+    "custom2_375": "HAZİRAN",
+    "question_377": "Hepsini kırmızıya boyamalıyız.",
+    "hint_377": "FIRÇAYI DURDURMAK İÇİN KOVAYI KULLAN.",
+    "endText_377": "BU FIRÇAYI KONTROL ETMEK ÇOK ZOR!",
+
+    "question_378": "Cevap ne olabilir?",
+    "hint_378": "3 = 2 + 1",
+    "endText_378": "BU KEZ HİLE HURDA YOK. DÜZ MATEMATİK. :))",
+
+    "question_379": "Help me wake him up!",
+    "hint_379": "A SPONGE CAN BE USED TO WET HIS FACE.",
+    "endText_379": "WAKE UP BEFORE THE WHOLE HOUSE GOES UNDER WATER!",
+
+    "question_380": "Caddenin karşısına nasıl geçebilir ?!",
+    "hint_380": "POLİSİN DİKKATİNİ ÇEKMENİN BİR YOLU BUL.",
+    "endText_380": "GÜNE BAŞLAMAK İÇİN TAZE SİMİT+ ÇAY İKİLİSİNE KİM DAYANABİLİR Kİ! :))",
+
+    "question_381": "Tüm hedefleri vur.",
+    "hint_381": "ÇİFT VURUŞ BİR OKU AYIRABİLİR.",
+    "endText_381": "TANIŞTIRAYIM, LEGOLAS'IN DAYISININ KIZI :))",
+
+    "question_382": "Buralarda bir yerde gizli bir kapı olmalı.",
+    "hint_382": "HALININ ALTINI KONTROL ETMEYİ DENE.",
+    "endText_382": "HAZİNEYE GİDEN BİR YOL FALAN DEĞİL,  BU OSMAN AMCA'NIN KÖTÜ GÜNLER İÇİN STOKLADIĞI TUVALET KAĞIDI DEPOSU.:))",
+
+    "question_383": "Bu arabaların hepsinin otoparktan çıkması gerek.",
+    "hint_383": "ARABALARI HAREKET ETMEK İÇİN KAYDIR. KÖŞEDEKİ ARABALARDAN BAŞLAMAYI DENE.",
+    "endText_383": "BUNLAR EHLİYETLERİNİ KASAPTAN ALMIŞLAR SANIRIM! :))",
+
+    "question_384": "Bunu kazanmama yardım et!",
+    "hint_384": "MAKİNEDEKİ ETİKETLERİ KULLANMAYI DENE.",
+    "endText_384": "KİM DEMİŞ KASA HER ZAMAN KAZANIR DİYE! :))",
+
+    "question_385": "Kim sahtekar ?",
+    "hint_385": "BİR YAKALAYICI BİR MAĞDURLA TEK BAŞINA OLDUĞUNDA AKSİYONA GEÇECEKTİR.",
+    "endText_385": "ACİL DURUM TOPLANTISI ÇOCUKLAR!",
+
+    "question_386": "Kızıl Krallığın kazanmasına yardım et.",
+    "hint_386": "MIZRAKÇI, ATLI BİRLİĞİ YENER, ATLI BİRLİK DE KILIÇLI ŞÖVALYELERİ.",
+    "endText_386": "ÜÇ ASKERLE NE KADAR UĞRAŞTIN, BİR DE BİNLERİ YÖNETENLERİ HAYAL ET! :))",
+
+    "question_387": "Bu kötü robotu durdurun!",
+    "hint_387": "THERE IS A COUPLE IN THE CROWD. USE THEIR LOVE TO WIN.",
+    "endText_387": "LOVE CONQUERS ALL.",
+
+    "question_388": "Tüm lambaları yak.",
+    "hint_388": "BELİRLİ BİR DESENİ TAKİP ET. SOL ÜST KÖŞEDEN BAŞLA,  SOL ALTTA BİTİR.",
+    "endText_388": "DENEME VE YANILMA HER ZAMAN İŞE YARAR. :))",
+
+    "question_389": "Muziğin sesi çok yüksek! Dayanamıyorum!",
+    "hint_389": "HOPARLÖRÜN SES SEVİYESİNİ AYARLAYABİLİRSİN. SINIRLARI ZORLAMAYI DENE.",
+    "endText_389": "SİZE YENİ BİR HOPARLÖR ALMAMIZI BEKLEMEYİN!",
+
+    "question_390": "Parkuru tamamlamasına yardım et.",
+    "hint_390": "ZIPLAMASI İÇİN DOKUN. SADECE ENGELLERDEN BİRİ BAŞKA BİR ÇÖZÜM GEREKTİRİYOR.",
+    "endText_390": "YOLDAKİ HIZ RAMPALARINI DA KEŞKE AYNI ŞEKİLDE İNDİREBİLSEYDİM! :))",
+
+    "question_391": "Çocuklar onun evine gitmek istemiyor. :(( Ona yardım et!",
+    "hint_391": "UYGUN BİR CADILAR BAYRAMI KABAĞINA İHTİYACI VAR. OYULMUŞ VE IŞIKLI.",
+    "endText_391": "ŞAKA MI ŞEKER Mİ??? :)))",
+
+    "question_392": "Burada kaç tane gerçek hayalet var?",
+    "hint_392": "NUMARAYA ULAŞMAK İÇİN KOSTÜMLERİ ÇIKARTMAYI DENE.",
+    "endText_392": "TABİİ Kİ SIFIR! YOKSA GERÇEKTEN HAYALETLERE İNANIYOR MUSUN? :))",
+
+    "question_393": "Toplanan şekerleri teftiş zamanı. Tüm şekerler anneye, şimdi!",
+    "hint_393": "ŞU ÇOCUK KOSTÜMÜNÜN ALTINDA BAZI ŞEKERLERİ GİZLİYOR.",
+    "endText_393": "ZAVALLI ÇOCUKLAR, ŞİMDİ BÜTÜN ŞEKERLERİ GİZLİCE ANNE BABALARI YİYECEK! :))",
+
+    "question_394": "Aç ve huysuzlar. Artık yemek başlasın!",
+    "hint_394": "TAVUĞU KESİN VE TABAKLARINA DAĞITIN.",
+    "endText_394": "ŞİMDİ HOMURDANMAYI BIRAKIP HEMEN YEMEĞİNİZİ YİYİN VE BİRAZ ŞÜKREDİN. :))",
+
+    "question_395": "He is too fat to get down through the chimney.",
+    "hint_395": "USE YOUR MAGIC FINGERS TO STRETCH HIM.",
+    "endText_395": "THEY SHOULD BUILD LARGER CHIMNEYS!",
+
+    "question_396":"Bu hastayı hemen tedavi etmeliyiz doktor.",
+    "hint_396":"SORUNA BAKMAK İÇİN X-RAY'İ KULLAN. KEMİKLERİ PARMAĞINLA KAYDIRARAK DÜZELT.",
+    "endText_396":"ÇOK SAĞOL ELİNDE PEK HAFİFMİŞ! :))",
+    
+    "question_397":"Suçluyu bul bakalım!",
+    "hint_397":"ÇANTALARI VE DİĞER ŞEYLERİ KONTROL ETMEK İÇİN X-RAY CİHAZINI KULLANABİLİRSİN.",
+    "endText_397":"BU GÜVENLİK GÖREVLİSİNİ KİM İŞE ALDI ACABA ?!!",
+    
+    "question_398":"Aralarında bir uzaylı var!",
+    "hint_398":"UZAYLIYI BULMAK İÇİN X-RAY CİHAZINI KULLAN.",
+    "endText_398":"ARAMIZDA UZAYLILAR OLDUĞUNA ARTIK İKNA OLMUŞŞUNDUR SANIRIM??",
+
+    
+    
+    "question_399":"Kedi biraz bisküvi istiyor.",
+    "hint_399":"DÜNYA YUVARLAKTIR.",
+    "endText_399":"KENDİSİ ÇOK KÜÇÜK BİR GEZEGENDE YAŞIYOR. :))",
+    
+    "question_400":"İleri viteste sola giden  mavi arabaya dokun.",
+    "hint_400":"TERS GİDEN MAVİ ARABALARA DOKUNMA.",
+    "endText_400":"KURSU TAMAMLADIN ARTIK İSTANBUL TRAFİĞİNE ÇIKABİLİRSİN. :))",
+    
+    "question_401":"Bana bir sincap lazım!",
+    "hint_401":"BÜYÜ YAPMASI İÇİN BÜYÜCÜYE DOKUN. HAYVANLAR YER DEĞİŞTİREBİLİR.",
+    "endText_401":"BÖYLE ACEMİ BÜYÜCÜLERLE HİÇ İŞİM OLMAZ... :))",
+    
+    "question_402":"Denklemi düzelt lütfen.",
+    "hint_402":"TOPLA ATIŞ YAPARAK SEMBOLLERİ DOĞRU ŞEKİLDE DEĞİŞTİRMEYİ DENE.",
+    "endText_402":"BU CİHAZI MATEMATİK TESTLERİNDE KULLANABİLİRSİN.",
+    
+    "question_403":"Mavi araba yarışı kazanmalı!",
+    "hint_403":"ÇOK FAZLA PATLAYICI KOYMAK TEHLİKELİ OLABİLİR.",
+    "endText_403":"HAYATIMIN EN KOLAY YARIŞIYDI DESEM??",
+    
+    "question_404":"İşte kahraman kedimiz Tekir için geçecek başka bir vadi...",
+    "hint_404":"ZIPLA DÜĞMESİ İŞİNE YARAYABİLİR.",
+    "endText_404":"BU KEDİYİ DURDURMAK GERÇEKTEN İMKANSIZ...",
+    
+    "question_405":"Şampiyonluk sana bağlı, bu golü atmalısın!",
+    "hint_405":"BAŞLA'NIN ÜZERİNE DOKUNARAK TOPA VUR! RAKİP OYUNCULARDAN KAÇIN.",
+    "endText_405":"MOURINHO SENİNLE GURUR DUYACAK.",
+    
+    "question_406":"Hayvanlara şu sırayla dokun:",
+    "hint_406":"ÖNCE BİRYERE  YAZMAYI DENE.",
+    "endText_406":"NE KADAR YAŞAM DOLU BİR DENİZ!",
+    
+    "question_407":"Zavallı fareyi kedilerden kurtar!",
+    "hint_407":"PEYNİR FAREYİ GÜÇLENDİRİR.",
+    "endText_407":"KEDİLERE ACIMAYA BAŞLADIM CANINI SEVEN KAÇSIN!!! :))",
+    
+    "question_408":"Ayşe'nin annesine ulaşmasına yardım et.",
+    "hint_408":"AYŞE'Yİ HAREKET ETMEK İÇİN PARMAĞINLA EKRANI KAYDIR. ADIMLARINI KONTROL ETMEK İÇİN KAYAYI KULLAN.",
+    "endText_408":"KAVUŞMA ANLARI BENİ HEP DUYGULANDIRMIŞTIR...",
+    
+    "question_409":"Küçükten büyüğe doğru hayvanlara dokun.",
+    "hint_409":"BİR YERDE DÖRDÜNCÜ BİR HAYVAN OLABİLİR.",
+    "endText_409":"ASLA BİR AĞACA SİZİ SAKLAMASI İÇİN GÜVENMEYİN. :))",
+    
+    "question_410":"En uzun sayı hangisi?",
+    "hint_410":"ÖLÇMEK İÇİN HEPSİNİ EŞİT ZEMİNE KOYMAN GEREK.",
+    "endText_410":"O SAYI ÇOK SÜT İÇMİŞ BOYU UZAMIŞ. :))",
+    
+    "question_411":"Bu kedinin aklı fikri uçmakta! Yardımın gerek...",
+    "hint_411":"KEDİYİ TAHTEREVALLİDEN FIRLATMAK İÇİN AĞIR BİR ŞEYİ DÜŞÜRMEN GEREK.",
+    "endText_411":"WUHUU!!! ATMOSFERİ UÇAN KEDİLERLE DOLDURUYORUZ. :))",
+    
+    "question_412":"Hayaletin bu labirentten çıkmasına yardım et.",
+    "hint_412":"HAYALETİN KONUMUNU PARMAĞINLA TAKİP ETMEYİ DENE.",
+    "endText_412":"RAHAT UYUYABİLİRSİN, HAYALETLER YARDIMINDAN DOLAYI SANA MİNNETTARLAR, GECELERİ BAŞINDA NÖBET TUTACAKLAR!",
+    
+    "question_413":"Zombilerden kurtul!",
+    "hint_413":"YÖNÜNÜ DEĞİŞTİRMEK İÇİN NINJA'YI KAYDIR. KILICIN YÖNÜNE DİKKAT ET.",
+    "endText_413":"NEDİR KARDEŞİM BU ZOMBİLERDEN ÇEKTİĞİMİZ?? HADİ EVİNİZE...",
+    
+    "question_414":"Kedinin fareyi yakalamasına yardım et.",
+    "hint_414":"LABİRENTE GİRME, DIŞARIDA HAREKET ET.",
+    "endText_414":"BU SADECE BİR AVCILIK EĞİTİMİDİR. ONLAR ASLINDA ARKADAŞLAR. :))",
+    
+    "question_415":"Nerde benim beyaz koyunum?",
+    "hint_415":"LAMANIN TÜKÜRÜĞÜ SİYAH BOYAYI TEMİZLEYEBİLİR.",
+    "endText_415":"BU LAMANIN NE ÇOK TÜKÜRÜĞÜ VAR! :))",
+    
+    "question_416":"Bu kutular çocuğun olduğu yerden nasıl görünürdü?",
+    "hint_416":"ALTTA 3, ÜSTTE 2.",
+    "endText_416":"SADECE PERSPEKTİFİN NASIL ÇALIŞTIĞINI HATIRLATMAK İSTEDİM. :))",
+    
+    "question_417":"Gece boyunca onları sıcak tutmalısın.",
+    "hint_417":"BAŞKA BİR KAMP ATEŞİ YAKABİLİRSİN.",
+    "endText_417":"İŞTE BU YÜZDEN OTELDE KALMAYI SEVİYORUM... :))",
+    
+    "question_418":"Mavi Ordu kazanmalı.",
+    "hint_418":"MAVİ ASKERLERİ HAREKET ETTİR. KILIÇLAR MIZRAKLARI YENER, MIZRAKLAR ATLARI YENER VE ATLAR KILIÇLARI YENER.",
+    "endText_418":"NE DİYİM! TAM BİR SAVAŞ DEHASISIN...",
+    
+    "question_419":"Casus nerede?",
+    "hint_419":"TABLOYU KONTROL ET.",
+    "endText_419":"GÖZLERİ ONU ELE VERDİ!",
+    
+    "question_420":"Çocuğu kurtar!",
+    "hint_420":"CANAVARI SAKİNLEŞTİRECEK BİR ŞEY OLABİLİR.",
+    "endText_420":"BİR OYUNCAK AYI İÇİN BU KADAR DA KIZILMAZ Kİ!!!",
+    
+    "question_421":"Şimdi kilo verme zamanı!",
+    "hint_421":"KEMERİ SIKMAYI DENE.",
+    "endText_421":"YENİ BESLENME VE DİYET KİTABIMIZ TÜM KİTAPÇILARDA: 'MUCİZE KEMER DİYETİ'",
+    
+    "question_422":"Kadının sırrını deşifre et!",
+    "hint_422":"SAÇI BİR ŞEYLERİ GİZLİYOR OLABİLİR.",
+    "endText_422":"TERMİNATÖR KADIN:'GERİ DÖNÜCEM!'",
+    
+    "question_423":"Arabamı bir türlü hareket ettiremedim!",
+    "hint_423":"YER ÇEKİMİ BELKİ İŞE YARAYABİLİR.",
+    "endText_423":"HAY AKSİ! FRENİ TAMİR ETMEDEN ARABAYI HAREKET ETTİRDİK!!!",
+    
+    "question_424":"Tahterevalliyi dengeye getir!",
+    "hint_424":"ORADA FAZLADAN BİR RAKAM VAR, ONU YOK ETMEYİ DENE.",
+    "endText_424":"ZATEN 0'IN NASIL BİR AĞIRLIĞI OLABİLİR Kİ?!!!",
+    
+    "question_425":"Kocaman           olmasını istiyor.",
+    "hint_425":"'KASLARI'NI BÜYÜTMEYİ DENE.",
+    "endText_425":"BU YÖNTEMİ SAKIN EVİNİZDE DENEMEYİN! ",
+    
+    "question_426":"Zengin olma zamanı!",
+    "hint_426":"ÖNCE KÖPEĞİN İLGİSİNİ ÇEK, SONRA ONU BİR KRİPTO PARAYA ÇEVİR.",
+    "endText_426":"HAYIR, ELON MUSK BU BÖLÜME SPONSOR OLMADI. CİDDİYİM.",
+    
+    "question_427":"Hiç makyaj malzemesi kalmamış. Yardım etmenin br yolunu bul!",
+    "hint_427":"PEÇETEYİ DUDAKLARININ RENGİYLE BOYA! KİRPİKLER İÇİN DE SAÇLARINA GÖZ AT.",
+    "endText_427":"DOĞAL HALİ SANKİ DAHA GÜZELDİ!",
+    
+    "question_428":"Çok sıcak! Zavallı adama yardım et!",
+    "hint_428":"GÜNEŞİ PATLATMAK İÇİN UCU SİVRİ BİR CİSİM BUL.",
+    "endText_428":"DEMEK Kİ HAYATIM BOYUNCA ŞEMSİYEYİ YANLIŞ ŞEKİLDE KULLANMIŞIM...",
+    
+    "question_429":"Köpüş kar tadına bakmak istiyor. ",
+    "hint_429":"YÜKSEK YERLERDE YAĞMUR KAR YAĞIŞINA DÖNEBİLİR.",
+    "endText_429":"KAR TANELERİNİN TADINA DA DOYUM OLMUYOR!",
+    
+    "question_430":"Daha uzun boylu olmak istiyor.",
+    "hint_430":"STATİK ELEKTRİK SAÇINI UZATABİLİR. TARAĞIN ELEKTRİKLENMESİ İÇİN KAZAĞA SÜRTMEYİ DENE!",
+    "endText_430":"MARGE SİMPSON'IN BOY UZATMA YÖNTEMİ TAM DA BU!",
+    
+    "question_431":"Titanik'i kurtar!",
+    "hint_431":"BİR AY IŞIĞI OLSAYDI BUZDAĞI GÖZÜKEBİLİRDİ.",
+    "endText_431":"BRAVO, TARİHİ BAŞTAN YAZDIN!",
+    
+    "question_432":"İkisinin de mutlu olmasını sağla!",
+    "hint_432":"SENCEDE ADAMIN SAKALI BİRAZ FAZLA DEĞİL Mİ?",
+    "endText_432":"PAYLAŞMAK GÜZELDİR!",
+    
+    "question_433":"İçlerinden biri şüpheli!",
+    "hint_433":"GÖREBİLMEK İÇİN MASKELERİ KONTROL ET.",
+    "endText_433":"IMPOSTER OLMAK HOŞUNA GİDİYORSA <link=\"imposter\"><u><color=blue>BECOME THE IMPOSTER!</color></u></link> OYUNUMUZU DENE!",
+    
+    "question_434":"Dedektif Behzat hırsızı yakalamalı!",
+    "hint_434":"HIRSIZ AĞIR BİR ÇUVALI TAŞIYAMAZ.",
+    "endText_434":"DAHA FAZLA DEDEKTİF BEHZAT BÖLÜMÜ OYNAMAK İSTERSEN <link=\"bt2\"><u><color=blue>BRAIN TEST 2!</color></u></link> OYUNUMUZU DENE!",
+    
+    "question_435":"4 benekli köpek nerede?",
+    "hint_435":"BENEKLERDEN BİRİ SADECE LEKE.",
+    "endText_435":"BURAYA GEL KUÇU KUÇU!",
+    
+    "question_436":"Hangisi yaramaz?",
+    "hint_436":"ÜÇÜNCÜ BEBEK BİR YERLERDE SAKLANIYOR OLABİLİR.",
+    "endText_436":"BU TARZ BULMACALARI SEVİYORSAN <link=\"whois\"><u><color=blue>WHO IS!</color></u></link> OYUNUMUZU MUTLAKA DENEMELİSİN",
+    
+    "question_437":"Köpek balığı nerede?",
+    "hint_437":"KÖPEK BALIKLARI KANA DAYANAMAZLAR.",
+    "endText_437":"SAHNENİN DEVAMINI KÜÇÜK OYUNCULARIMIZA GÖSTEREMİYORUZ!",
+    
+    "question_438":"Aşıkları bir araya getir!",
+    "hint_438":"AYNI NESNELERİ YAN YANA GETİRMEYE ÇALIŞ.",
+    "endText_438":"BÖYLE EŞLEŞTİRİP PATLATMALI OYUNLARI SEVİYORSAN <link=\"blast_friends\"><u><color=blue>BLAST FRIENDS</color></u></link> OYUNUMUZU DENEMEDEN GEÇME!",
+    
+    "question_449":"Şeker oyununu kazanmasına yardım et!",
+    "hint_449":"ŞEKERİ YALAMASI GEREKİYOR.",
+    "endText_449":"NE KADAR DA UZUN BİR DİLİ VAR!",
+    
+    "question_450":"Yaşlı adamı yenmesine yardım et!",
+    "hint_450":"BİR SEÇİM YAP, SONRA BİR ŞEÇİM DAHA YAPMAK İÇİN YAŞLI ADAMIN ELİNİ KAPAT.",
+    "endText_450":"O KADAR YAŞLI BİR AMCAYI BU ŞEKİLDE KANDIRMAK ÇOK ACIMASIZCA...",
+    "odd":"TEK",
+    "even":"ÇİFT",
+    
+    "question_451":"Camın üzerinde sıçrama oyununu bitirmesi gerek!",
+    "hint_451":"DAYANIKLILIKLARINI TEST ETMEK İÇİN CAMLARA DOKUN.",
+    "endText_451":"OYUNU BİTİREN TEK KİŞİ KENDİSİ. PEKİ SON OYUNDA KENDİSİNE KARŞI MI OYNAYACAK O ZAMAN?",
+    
+    "question_452":"Bitiş çizgisine güvenli bir şekilde ulaşmalı!",
+    "hint_452":"KUM DEV OYUNCAK BEBEĞİN GÖZLERİNİ GÖRMEZ HALE GETİREBİLİR.",
+    "endText_452":"BU KADAR ACIMASIZ BİR OYUNDA HİLE YAPMAMAK APTALLIK OLURDU...",
+    
+    "question_453":"Takımı halat çekme oyununu kazanmalı!",
+    "hint_453":"YER ÇEKİMİ BELKİ YARDIM EDEBİLİR.",
+    "endText_453":"DİZİDE BU KOLAY YÖNTEMİ NEDEN KULLANMADILAR Kİ!",
+    
+    "question_454":"Noel Baba'nın havalanmasına yardım et.",
+    "hint_454":"RUDOLPH'A KIRMIZI BİR BURUN BULMAYA ÇALIŞ. RUDOLPH NEDEN HEP EN ÖNDE GİDER Kİ!",
+    "endText_454":"NOEL BABA ARTIK RUDOLPH'UN BURNUNU ÖDÜNÇ ALMAKTAN VAZGEÇMELİSİN!",
+    
+    "question_455":"Düşüyorlar, onlara yardım et!",
+    "hint_455":"REN GEYİKLERİNİ AĞIRLIKLARINA GÖRE YENİDEN SIRALA. HER BİR SIRA DENGEDE OLMALI!",
+    "endText_455":"TEBRİKLER! SENİ NOEL BABANIN FAHRİ ÇIRAĞI İLAN EDİYORUZ!",
+    
+    "question_456":"Hava çok soğuk, şöminenin daha çok ateşe ihtiyaç var.",
+    "hint_456":"ŞÖMİNEYE KÖMÜR BULABİLMEK İÇİN ÇOCUKLARIN HEDİYELERİNİ VER.",
+    "endText_456":"İLK DEFA BERKAN'IN YARAMAZLIĞI BİR İŞE YARADI!",
+
+    "question_457":"Yılbaşı ağacındaki eksiği tamamla.",
+    "hint_457":"KEDİNİN BAŞINI DÖNDÜRÜRSEN BELKİ BİR YILDIZ BULABİLİRSİN. ANAHTARI KULLAN.",
+    "endText_457":"BEDAVACILIĞIN BU KADARINA DA PES DOĞRUSU... ",
+    
+    
+    
+    
+
+    "custom1_359":"Şifre ...",
+    "custom2_359":"Şifre ... 4285",
+
+    "daily_gift": "Günlük Hediye",
+
+    "reward_wheel_title": "ÖDÜL İÇİN ÇARKI ÇEVİR",
+    "reward_wheel_spin": "ÇEVİR!",
+    "reward_wheel_spin_again": "TEKRAR ÇEVİR!",
+    "reward_wheel_1_day_hint": "<line-height=80%><size=70>%</size> İNDİRİM",
+    "reward_wheel_1_day_hint2": "% İNDİRİM",
+    "reward_wheel_1_day_vip": "1-günlük VIP",
+    "settings_try_our_other_games":"DİĞER OYUNLARIMIZI DENE!",
+    "other_games_title":"OYUNLARIMIZ",
+    "other_games_play_now":"ŞİMDİ OYNA!",
+
+    "gdpr_consent_title":"Merhaba!",
+    "gdpr_consent_text":"Kabul Et ve Devam Et butonuna tıkladığınızda, <link=\"https://unicostudio.co/terms.html\"><#C7F463>Kullanım Şartlarımızı</color></link> ve <link=\"https://unicostudio.co/privacy.html\"><#C7F463>Gizlilik Politikamızı</color></link> incelediğinizi ve kabul ettiğinizi onaylamış oluyorsunuz.",
+    "gdpr_consent_button":"KABUL ET VE DEVAM ET"
+    }

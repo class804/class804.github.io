@@ -1,0 +1,1887 @@
+{
+    "watch_video_title":"SZERETNÉL MEGTEKINTENI EGY VIDEÓT?",
+    "watch_video_button":"MEGTEKINTÉS",
+    "skip_level_title":"ÁT SZERETNÉD UGRANI EZT A SZINTET?",
+    "skip_level_button":"ÁTUGRÁS",
+    "gift_tomorrow":"GYERE VISSZA HOLNAP!",
+    "level_title":"SZINT ",
+    "settings_english":"Magyar",
+    "settings_title":"BEÁLLÍTÁSOK",
+    "settings_sound":"HANG",
+    "settings_music":"ZENE",
+    "settings_notification":"ÉRTESÍTÉSEK",
+    "settings_support":"SEGÍTSÉG",
+    "settings_share":"MEGOSZTÁS",
+    "settings_restore":"VISSZAÁLLÍTÁS",
+    "settings_language":"NYELV",
+    "settings_share_text":"Nagyszerű játék! Ajánlom mindenkinek ",
+    "settings_email_text":"Kérlek, üzenetedet ide írd be    ________  Please Do Not Modify This  Model:   OS: {1}  Application Version: {2}  ________",
+    "levels_title":"SZINTEK",
+    "levels_skipped":"ÁTUGORVA",
+    "nextLevel_next_button":"KÖVETKEZŐ",
+    "shop_title":"VÁSÁRLÁS",
+    "shop_bundle1_title":"LEGMENŐBB AJÁNLAT!",
+    "shop_bundle2_title":"LEGJOBB VÁLASZTÁS",
+    "shop_sale":"% KEDVEZMÉNY",
+    "shop_remove_ads":"hirdetések eltávolítása",
+    "shop_purchased":"MEGVÁSÁROLVA",
+    "shop_loading":"betöltés...",
+    "startScreen_title":"BRAIN TEST",
+    "startScreen_text":"KÉSZEN ÁLLSZ TESZTELNI AZ AGYAD?",
+    "startScreen_button":"KÉSZ",
+    "rateScreen_title":"ÉRTÉKELÉS",
+    "rateScreen_hint":"LEGJOBB ÉRTÉKELÉS",
+    "rateScreen_question":"Mennyire tetszett a játékunk?",
+    "rateScreen_thanks":"Köszönjük, hogy támogatsz minket!",
+    "vipPanel_becomevip":"LEGYÉL VIP-TAG!",
+    "vipPanel_get":"SZEREZZ",
+    "vipPanel_and":"ÉS...",
+    "vipPanel_unlockWeekly":"OLDJ FEL HETI SZINTEKET",
+    "vipPanel_remove_ads":"hirdetésmentességet",
+    "vipPanel_double_daily_gifts":"dupla napi ajándékot",
+    "vipPanel_cheaper_skips":"olcsóbb átugrásokat",
+    "vipPanel_cheaper_hints":"olcsóbb tippeket",
+    "vipPanel_try_for_free":"PRÓBÁLD KI INGYEN",
+    "vipPanel_3_days_free":"3 nap ingyenesen",
+    "vipPanel_price":" hetente",
+    "vipPanel_disclaimer":"A heti prémium a 3 napos ingyenes próbaidőszak után heti {2} automatikusan megújul. A fizetés a vásárlás próbaidőszakának végén a -fiókra lesz terhelve. Az előfizetés automatikusan megújul, hacsak az automatikus megújítás nem kerül kikapcsolásra legalább 24 órával az aktuális időszak vége előtt. Az előfizetés automatikus megújítását a vásárlás után a {1}-ben a fiók beállításai között kezelheted és kapcsolhatod ki.",
+    "vipPanel_privacy_policy":"ADATVÉDELMI IRÁNYELVEK",
+    "vipPanel_terms_of_use":"FELHASZNÁLÁSI FELTÉTELEK",
+    "bonusPanel_pick_bonus":"VÁLASSZ BÓNUSZJUTALMAT",
+    "bonusPanel_no_thanks":"NEM, KÖSZI",
+    "bonusPanel_collect":"BEGYŰJTÉS",
+    "noti_text1": "Tedd próbára a tudásod vicces feladványokkal!",
+    "noti_text2": "Ez a játék garantáltan mosolyt csal az arcodra! :)",
+    "noti_text3": "Itt az ideje egy kis szórakozásnak! :)",
+    "crosspromo_play":"JÁTÉK",
+    "crosspromo_title":"TOVÁBBI JÁTÉKAINK",
+    "free":"INGYENES",
+
+    "reward_wheel_1_day_vip":"1-nap VIP",
+    "reward_wheel_1_day_hint":"<line-height=50%><size=70>%-OS</size> AKCIÓ",
+    "reward_wheel_1_day_hint2":"%-OS AKCIÓ",
+    "reward_wheel_spin":"PÖRGETÉS!",
+    "reward_wheel_spin_again":"PÖRGETÉS!",
+    "reward_wheel_skip":"NEM, KÖSZI!",
+    "reward_wheel_title":"PÖRGESD MEG A KEREKET, HOGY JUTALMAT KAPJ!",
+
+    "submit":"KÉSZ",
+    "reset":"VISSZAÁLLÍTÁS",
+    "next_levels":"ÚJ SZINTEK",
+    "coming_soon":"HAMAROSAN!",
+
+    "level_50_title":"SZINT",
+    "knights":"LOVAGOK",
+    "barbarians":"BARBÁROK",
+    "leve":". SZIN",
+    "red":"PIROS",
+    "purple":"LILA",
+    "blue":"KÉK",
+    "black":"FEKETE",
+    "yellow":"SÁRGA",
+    "orange":"NARANCSSÁRGA",
+    "front":"Eleje",
+    "back":"Hátulja",
+    "go":"RAJTA!",
+
+    "dog":"Kutya",
+    "kit":"Cica",
+    "calf":"Borjú",
+    "mitty":"Gida",
+
+    "march":"MÁJUS",
+    "february":"FEBRUÁR",
+    "may":"JÚNIUS",
+
+    "victory_1":"GYŐ",
+    "victory_2":"ZE",
+    "victory_3":"LEM",
+
+    "turn_right":"FORDULJ JOBBRA",
+
+    "jamaica":"Jamaica",
+    "france":"Franciaország",
+    "madagascar":"Madagaszkár",
+    "usa":"USA",
+    "mars":"Mars",
+    "mordor":"Mindegyik",
+
+    "out_of_order":"NEM ÜZEMEL",
+
+    "battle":"HARC",
+
+    "fight":"HARC!",
+    "jump":"UGRÁS!",
+    "fire":"TŰZ!",
+
+    "new_york":"BUDAPEST",
+    "new_jersey":"DEBRECEN",
+
+    "closed":"Zárva",
+    "open":"Nyitva",
+
+    "weekly_title":". HÉT",
+    "weekly_page_title":"HETI SZINTEKET",
+    "weekly_missed":"Kimaradt",
+    "weekly_available":"HETI SZINT ELÉRHETŐ!",
+    "weekly_week":"HÉT",
+    "weekly_save":"MENTSD MEG A HETET",
+    "weekly_new":"ÚJ",
+    "weekly_not_available":"GYERE VISSZA JÖVŐ HÉTEN!",
+
+    "bulb_notification_title_completed":"Az új szintek hamarosan érkeznek!",
+    "bulb_notification_title_normal":"Ne ragadj le a . szinten!",
+    "bulb_notification_text_completed":"Nyisd meg a játékot, hogy ingyenes égőket kapj, amelyeket felhasználhatsz az új szinteken.",
+    "bulb_notification_text_normal":"Nyisd meg a játékot és szerezz ingyenes égőket az extra tippekért.",
+
+    "settings_try_our_other_games":"PRÓBÁLD KI A TÖBBI JÁTÉKUNKAT IS!",
+    "other_games_title":"JÁTÉKAINK",
+    "other_games_play_now":"JÁTSSZ MOST!",
+
+    
+    "question_1":"Melyik a legnagyobb?",
+    "hint_1":"NÉZD MEG ALAPOSAN A FORMÁKAT.",
+    "endText_1":"AZ OROSZLÁNNAK VAN A LEGNAGYOBB FORMÁJA.",
+    
+    "question_2":"Melyik számot nem tudjuk?",
+    "hint_2":"KÖZELÍTSD MEG MÁS NÉZŐPONTBÓL.",
+    "endText_2":"MINDEN NÉZŐPONT KÉRDÉSE.<sprite index=0>",
+    
+    "question_3":"Égess el mindent!",
+    "hint_3":"NE CSAK A TÁRGYAKRA KONCENTRÁLJ.",
+    "endText_3":"MOST MÁR ELÉGETTÉL 'MINDENT'!",
+    
+    "question_4":"Hány lyuk van a pólón?",
+    "hint_4":"NE FELEDD A HÁTULJÁT SEM.",
+    "endText_4":"NÉHA 3D-BEN KELL GONDOLKODNOD.",
+    
+    "question_5":"Segíts a virágnak kivirulni.",
+    "hint_5":"ELTAKARJÁK A FELHŐK, TUDOD?",
+    "endText_5":"MILYEN GYÖNYÖRŰ VIRÁG!",
+    
+    "question_6":"Which one is closest to us?",
+    "hint_6":"TO ‘US’",
+    "endText_6":"NE FELEDD, HOGY MINDEN A KÉRDÉS RÉSZE.",
+    
+    "question_7":"Koppints az állatokra a legkisebbtől a legnagyobbig.",
+    "hint_7":"AZ ÁLLATOKRA :)",
+    "endText_7":"A FA NEM ÁLLAT...",
+    
+    "question_8":"Kapj el  hulló almát!",
+    "hint_8":"CSAK A HULLÓKAT!",
+    "endText_8":"VAJON HOGY AZ ÖRDÖGBE REPÜLNEK?!",
+    
+    "question_9":"Ha egy versenyen megelőzöm a második helyen állót, hányadik leszek?",
+    "hint_9":"UGYAN MÁR, EZ AZ EGYIK LEGISMERTEBB BEUGRATÓS KÉRDÉS!",
+    "endText_9":"ÉS MOST IDEJE LEELŐZNÖD AZ ELSŐT.",
+    
+    "question_10":"Találd ki a választ.",
+    "hint_10":"A FENTI SZÁMOLÁSOK ÖSSZEGE MINDEN GYÜMÖLCSBŐL KETTŐT TARTALMAZ.",
+    "endText_10":"NEM ROSSZ, NEM ROSSZ. MEGY NEKED A MATEK.",
+    
+    "question_11":"A feloldáshoz húzd balra",
+    "hint_11":"OLVASD EL FIGYELMESEN.",
+    "endText_11":"BECSAPTALAK, UGYE?",
+    
+    "question_12":"A macska nagyon éhes, etesd meg!",
+    "hint_12":"NEM CSAK EGY MACSKA VAN A KÉPERNYŐN.",
+    "endText_12":"A 'MACSKA' SZÓ SZINTÉN MACSKA.",
+    
+    "question_13":"Hol van a zöld labda?",
+    "hint_13":"HOGYAN KAPJUK MEG A ZÖLD SZÍNT?",
+    "endText_13":"KÉK+SÁRGA=ZÖLD, EGYSZERŰ SZÍNMATEK...",
+    
+    "question_14":"Találd meg a hıbát.",
+    "hint_14":"OLVASD EL FIGYELMESEN A KÉRDÉST.",
+    "endText_14":"NÉHA A LEGAPRÓBB RÉSZLETEKBEN VAN A HIBA.",
+    
+    "question_15":"Szokták mondani, hogy a                   lett a macska veszte, azonban képes vagy-e te is végezni vele?",
+    "hint_15":"HASZNÁLD AZT, AMI A MACSKA VESZTÉT OKOZZA!",
+    "endText_15":"NE AGGÓDJ, VAN MÉG 8 ÉLETE.",
+    
+    "question_16":"Hány pizzaszeletünk van?",
+    "hint_16":"NÉZZ KÖRÜL A SZELETEK MÖGÖTT.",
+    "endText_16":"MINDIG JÓL NÉZZ KÖRÜL.",
+    
+    "question_17":"Kapcsold ki! Túl veszélyes!",
+    "hint_17":"NÉZD MEG FIGYELMESEN A VÍZFORRALÓT.",
+    "endText_17":"ILYEN EGYSZERŰ!",
+    
+    "question_18":"Ki nyeri a csatát?",
+    "hint_18":"LET THEM COLLIDE AND SEE THE RESULT.",
+    "endText_18":"IT WAS A BATTLE OF WORDS.",
+    
+    "question_19":"4 + 5 x 5 – 2 = ?",
+    "hint_19":"NE FELEDD, A SZORZÁS AZ ELSŐ.",
+    "endText_19":"ALAPSZINTŰ MATEK!",
+    
+    "question_20":"Koppints rájuk sorrendben: 1, 49, 80, 5, 7, 11, 101",
+    "hint_20":"AKÁR LE IS ÍRHATOD VALAHOVA  A SZÁMOKAT.",
+    "endText_20":"NEM SEMMI A MEMÓRIÁD!",
+    "custom1_20":"Koppints rájuk sorrendben",
+    
+    "question_21":"Engedd be a macskát, nagyon hideg van kint.",
+    "hint_21":"NYISD KI AZ AJTÓT A GRAVITÁCIÓ SEGÍTSÉGÉVEL.",
+    "endText_21":"VÉGRE LEPIHENHET. ",
+    
+    "question_22":"QQQQQQQQQQQ",
+    "hint_22":"SZÁMOLD MEG A KÖRÖKET.",
+    "endText_22":"MINDIG FIGYELJ A RÉSZLETEKRE.",
+    
+    "question_23":"Hány hónapnak van 28 napja?",
+    "hint_23":"31 > 28",
+    "endText_23":"MINDEGYIKBEN VAN LEGALÁBB 28 NAP!",
+    
+    "question_24":"Mentsd meg a fiút!",
+    "hint_24":"ÁSD KI A CSONTOT.",
+    "endText_24":"IGAZI ÉLETMENTŐ VAGY!",
+    
+    "question_25":"Mi a rejtett szám? ",
+    "hint_25":"NÉZD MEG MÁS SZEMSZÖGBŐL.",
+    "endText_25":"AZ ÚJ NÉZŐPONTOK SEGÍTENEK.",
+    
+    "question_26":"Hol a            bárány?",
+    "hint_26":"EGYIKÜKET FEKETÉRE FESTHETED.",
+    "endText_26":"MEG IS VAN!",
+    
+    "question_27":"Mi a baj a képpel?",
+    "hint_27":"NÉZD MEG FIGYELMESEN A KEZEIKET.",
+    "endText_27":"6 UJJA VAN.",
+    
+    "question_28":"Kapcsold fel az összes lámpát.",
+    "hint_28":"TUDOD, AZ ÖSSZES LÁMPÁT A KÉPERNYŐN.",
+    "endText_28":"A HARMADIK HIBÁS VOLT, MEGY A SZEMÉTBE.",
+    
+    "question_29":"10=25",
+    "hint_29":"AZ EGYMÁSSAL EGYENLŐ ELEMEK HELYET CSERÉLHETNEK.",
+    "endText_29":"NE GONDOLD TÚL A FELADVÁNYOKAT.",
+    
+    "question_30":"Melyik az abc utolsó betűje?",
+    "hint_30":"AZ 'ABC' UTOLSÓ BETŰJE",
+    "endText_30":"REMÉLEM, NEM A Z-VEL PRÓBÁLKOZTÁL.",
+    
+    "question_31":"Hogyan tud áthaladni a busz?",
+    "hint_31":"HOGYAN SZOKTAD A FOTÓIDAT NAGYÍTANI ÉS KICSINYÍTENI?",
+    "endText_31":"HÖLGYEIM ÉS URAIM: A HANGYABUSZ!",
+    
+    "question_32":"Egy betolakodó van a macskabulin!",
+    "hint_32":"NYUGODTAN KOPPINTS ÖSSZEVISSZA.",
+    "endText_32":"MEG IS VAN! KOMISZ KISEGÉR!",
+    
+    "question_33":"Mentsd meg a lányt!",
+    "hint_33":"HA KÉT FELHŐ ÖSSZEÉR, VILLÁMLIK.",
+    "endText_33":"EZT NEVEZIK MENNYEI IGAZSÁGSZOLGÁLTATÁSNAK.",
+    
+    "question_34":"Koppints a kék gombra  alkalommal.",
+    "hint_34":"TALÁLD MEG A REJTŐZKÖDŐ KÉK GOMBOT.",
+    "endText_34":"ELÉG TRÜKKÖSEK EZEK A GOMBOK!",
+    
+    "question_36":"Nyomd meg a gombokat.",
+    "hint_36":"VAN EGY MÁSIK 'GOMB' IS.",
+    "endText_36":"IGEN, AZ A SZÓ IS VOLTAKÉPP EGY 'GOMB'.",
+    
+    "question_37":"Hány labdát látsz?",
+    "hint_37":"NEM TUDSZ BELENÉZNI A KOSÁR BELSEJÉBE.",
+    "endText_37":"JÓ ÉSZJÁRÁS, SOSE BÍZZ EGY KOSÁRBAN.",
+    
+    "question_38":"Javítsd ki az összeadást.",
+    "hint_38":"TÖRÖLD LE A FELESLEGES SZÁMOT.",
+    "endText_38":"NE FÉLJ A SZÁMOK TÖRLÉSÉTŐL.",
+    
+    "question_39":"Segíts, Cirmi megint éhes.",
+    "hint_39":"LEHET, HOGY VAN EGY EGÉR A KONZERVBEN.",
+    "endText_39":"CIRMINEK NEM KÉNE ENNYIT ENNIE!",
+    
+    "question_40":"QQQQQQQQQQQ",
+    "hint_40":"NÉZD MEG ALAPOSAN A GYÜMÖLCSÖKET. ",
+    "endText_40":"A MATEK JÓ, DE AZ ALAPOSSÁG MÉG JOBB!",
+    
+    "question_41":"Érd el, hogy szerelembe essenek.",
+    "hint_41":"EGY KIPUKKASZTOTT LUFI TALÁN FELÉBRESZTHETI A FIÚT.",
+    "endText_41":"SZERELEM ELSŐ LÁTÁSRA!",
+    
+    "question_42":"Teljesítsd a szinte",
+    "hint_42":"VALAMI HIÁNYZIK A KÉRDÉSBŐL.",
+    "endText_42":"HA KELL, A FELHASZNÁLÓI FELÜLET IS A RENDELKEZÉSEDRE ÁLL.",
+    "custom1_42":"Teljesítsd a szintet",
+    
+    "question_43":"Micsoda szörnyű kockadobás! Segíts, kérlek.",
+    "hint_43":"RÁZD FEL A DOLGOKAT.",
+    "endText_43":"MINDENKI A MAGA SZERENCSÉJÉNEK A KOVÁCSA!",
+    
+    "question_44":"Mi egy macskakölyök megnevezése?",
+    "hint_44":"A VÁLASZ A KÉRDÉSBEN VAN.",
+    "endText_44":"CSAK SEMMI BONYOLÍTÁS!",
+    
+    "question_45":"Melyik macska van a jobb oldalon?",
+    "hint_45":"NÉZZ KÖRÜL JOBBAN, HOGY MEGTALÁLD.",
+    "endText_45":"OTT BUJKÁLT!",
+    
+    "question_46":"A fejem teljesen el         ödött, mire megfejtettem a következő rejtvényt: Hol van a bika?",
+    "hint_46":"A VÖRÖS MEGŐRJÍTI A BIKÁKAT.",
+    "endText_46":"OTT IS VAN.",
+    
+    "question_47":"Amikor 6 éves voltam, a húgom fele annyi, a bátyám pedig kétszer annyi idős volt, mint én. 5 évvel később mennyi a testvéreim életkorának összege?",
+    "hint_47":"A HÚGA 3 ÉVES VOLT, A BÁTYJA 12. MI TÖRTÉNIK 5 ÉVVEL KÉSŐBB?",
+    "endText_47":"EZÚTTAL NINCS TRÜKK.",
+    
+    "question_48":"3+8=11",
+    "hint_48":"RAJTA!",
+    "endText_48":"A TÖBBI SZÁMOLÁS HIBÁS VOLT!",
+    
+    "question_49":"A kisállataid fuldokolnak, melyiküket mented meg?",
+    "hint_49":"5 UJJAD VAN, HASZNÁLD ŐKET.",
+    "endText_49":"HUH! MINDET MEGMENTETTÜK!",
+    
+    "question_50":"Hogyan lesz helyes a számolás?",
+    "hint_50":"HÁNYADIK SZINTEN VAGYUNK? AZ A SZÁM SEGÍTENI FOG!",
+    "endText_50":"KERESD A MEGOLDÁST MINDENHOL!",
+    
+    "question_51":"Segíts megtalálni a zoknimat.",
+    "hint_51":"PRÓBÁLD NAGYOBB LÁTÓSZÖGBEN.",
+    "endText_51":"KÖSZI! MÁR FÁZTAK A LÁBAIM.",
+    
+    "question_52":"Segíts az autónak átjutni a hídon.",
+    "hint_52":"MEG KELL ERŐSÍTENED A GYENGE HÍDLÁBAT AZ UJJADDAL.",
+    "endText_52":"HUHH! EZ VESZÉLYES VOLT.",
+    
+    "question_53":"Peti éhes, adj neki enni.",
+    "hint_53":"A LEVES TÚL FORRÓ ÉS SÓTLAN.",
+    "endText_53":"PETI HASA VÉGRE TELE VAN!",
+    
+    "question_54":"Jelöld meg a megfelelő köröket.",
+    "hint_54":"A SZÁMOK AZ ADOTT SORBAN/OSZLOPBAN AKTÍV KÖRÖK SZÁMÁT JELZIK.",
+    "endText_54":"VÁG AZ ESZED!",
+    
+    "question_55":"Nyisd ki az üdítőt.",
+    "hint_55":"TALÁN MEGPRÓBÁLHATNÁD FELRÁZNI.",
+    "endText_55":"EGÉSZSÉGÜNKRE!",
+    
+    "question_56":"Hol van a szöveg fölötti macska?",
+    "hint_56":"TEDD A SZÖVEGET A MACSKA ALÁ.",
+    "endText_56":"NÉHA ILYEN MEGOLDÁSOKHOZ KELL FOLYAMODNOD.",
+    
+    "question_57":"",
+    "hint_57":"SZÁMOLD MEG A METSZŐPONTOKAT.",
+    "endText_57":"SEMMISÉG EGY MAGADFAJTA AGYTRÖSZTNEK.",
+    
+    "question_58":"Túl sötét van! Nem találom a macskámat!",
+    "hint_58":"BÁRCSAK LENNE VALAMILYEN FÉNYFORRÁSUNK!",
+    "endText_58":"A FELHASZNÁLÓI FELÜLET ÚJRA A SEGÍTSÉGÜNKRE SIETETT!",
+    
+    "question_59":"Érj be a célba, mielőtt lejár az idő.",
+    "hint_59":"MILYEN KÁR, HOGY ITT EZ AZ ÓRA!",
+    "endText_59":"ÁLLJUNK CSAK MEG! EZ NEM SZABÁLYELLENES?",
+    
+    "question_60":"Kapd meg a lehető legnagyobb számot.",
+    "hint_60":"ELÉG CSAK BEÍRNOD A LEGNAGYOBBAT!",
+    "endText_60":"EGYÁLTALÁN MINEK VOLTAK OTT AZOK A SZÁMOLÁSOK?",
+    
+    "question_61":"Csinálj valamit, hogy a baba abbahagyja a sírást, KÖNYÖRGÖM!",
+    "hint_61":"HASZNÁLD A KÉSZÜLÉKED KÉPERNYŐJÉT A GRAVITÁCIÓ MEGFORDÍTÁSÁHOZ.",
+    "endText_61":"VÉGRE, ABBAHAGYTA!",
+    
+    "question_62":"Állítsd le a veszekedést!",
+    "hint_62":"SZÉT KELL OSZTANOD A SÜTIT.",
+    "endText_62":"A SÜTI MINDEN PROBLÉMÁT MEGOLD!",
+    
+    "question_63":"Az összes testvérnek van egy húga. Hányan testvérek így?",
+    "hint_63":"CSAK 1 HÚGUK VAN.",
+    "endText_63":"REMÉLEM, NEM A 10-ET ADTAD MEG VÁLASZNAK.",
+    
+    "question_64":"Melyik majom lenne tengeribeteg?",
+    "hint_64":"RÁZD MEG A KÉSZÜLÉKED.",
+    "endText_64":"SZEGÉNY, JÓL FELKAVARODOTT A GYOMRA!",
+    
+    "question_65":"Tedd az elefántot a hűtőbe.",
+    "hint_65":"ELŐSZÖR NYISD KI A HŰTŐT.",
+    "endText_65":"EZ ELÉG LÉNYEGRE TÖRŐ VOLT.",
+    
+    "question_66":"10 dollárra van szükségünk.",
+    "hint_66":"ÚGY LÁTOM, TELE A ZSEBE.",
+    "endText_66":"TE KIS ZSEBMETSZŐ?!",
+    
+    "question_67":"Hány kör látható a képen?",
+    "hint_67":"NÉZD MEG FIGYELMESEN A FELHASZNÁLÓI FELÜLETET IS.",
+    "endText_67":"EZ EGY TUDATALATTI AUDI-REKLÁM VOLT?",
+    
+    "question_68":"Segíts ezen a szegény párán.",
+    "hint_68":"PRÓBÁLD MEGFORDÍTANI A KÉSZÜLÉKED SEGÍTSÉGÉVEL.",
+    "endText_68":"IGAZÁN JÓ EMBER VAGY.",
+    
+    "question_69":"Nyerjen a        .",
+    "hint_69":"PIROS AUTÓ NYERJEN, VAGY CSAK SIMÁN A 'PIROS'?",
+    "endText_69":"GYŐZÖTT A PIROS!",
+    
+    "question_70":"   almára van szükségünk.",
+    "hint_70":"MEG KELL VÁLTOZTATNUNK AZ 'IGÉNYEINKET'.",
+    "endText_70":"KAPZSISÁGRA SEMMI OK.",
+    
+    "question_71":"Kapcsold be a tévét.",
+    "hint_71":"AZ EMBERI TEST VEZETI AZ ELEKTROMOS ÁRAMOT.",
+    "endText_71":"TE MEGRÁZATTAD MAGAD AZÉRT, HOGY TÉVÉZHESS?!",
+    
+    "question_72":"Vajon hány pontot találok?",
+    "hint_72":"FOLTOT VAGY PONTOT?",
+    "endText_72":"RAVASZ DALMATA!",
+    
+    "question_73":"Cirmi éhes, fogd meg neki azt az egeret!",
+    "hint_73":"ÚGY LÁTOM, A TALAJ NEM ÉPPEN A LEGSTABILABB, BÁRMIKOR ELFORDULHAT.",
+    "endText_73":"EZ A MACSKA MINDIG CSAK A HASÁRA GONDOL!",
+    
+    "question_74":"Melyik épület a legerősebb?",
+    "hint_74":"TALÁN EGY FÖLDRENGÉS PRÓBÁRA TENNÉ ŐKET.",
+    "endText_74":"JÓ MASSZÍV ÉPÍTMÉNY!",
+    
+    "question_75":"I hate this! The baby is crying again! Stop this scream!",
+    "hint_75":"MAYBE AN ICE-CREAM WOULD HELP.",
+    "endText_75":"I SCREAM, YOU SCREAM, I LIKE ICE-CREAM!",
+    
+    "question_76":"Kapd meg a lehető legalacsonyabb számot.",
+    "hint_76":"HASZNÁLD A MÍNUSZJELET, HOGY NEGATÍV SZÁMOT KAPJ.",
+    "endText_76":"VÉGRE HASZNÁT VETTÜK A SZÁMOLÁSOKNAK.",
+    
+    "question_77":"Találd meg a párokat és nyerd meg a játékot.",
+    "hint_77":"9 KÁRTYA HOGYAN LEHET PÁRBAN?",
+    "endText_77":"SZÉP MUNKA, TE UJJSZAMURÁJ.",
+    
+    "question_78":"Válaszd ki a piros színt!",
+    "hint_78":"OLVASD EL FIGYELMESEN AZ UTASÍTÁSOKAT.",
+    "endText_78":"JÓL TUDSZ ÖSSZPONTOSÍTANI!",
+    "custom1_78":"Válaszd ki a piros színt!",
+    "custom2_78":"Válaszd ki a sárgát!",
+    "custom3_78":"Válaszd ki a 'piros'-at!",
+    
+    "question_79":"A kéknek kell megnyernie a versenyt.",
+    "hint_79":"CSAK NEM EGY NITRÓ LAPUL A TÖMEGBEN?",
+    "endText_79":"EZ JOBB VOLT, MINT A HALÁLOS IRAMBAN!",
+    
+    "question_80":"Mi az, ami kétszer van egy esztendőben, de egyszer sem egy évben?",
+    "hint_80":"NÉZD MEG MAGUKAT A SZAVAKAT. A VÁLASZ EGY BETŰ LESZ.",
+    "endText_80":"SZÉP!",
+    
+    "question_81":"Remove 6 sticks and make it a 10.",
+    "hint_81":"MAKE IT A 10 IN LETTERS.",
+    "endText_81":"TEN IS 10.",
+    
+    "question_82":"Oldd meg, hogy helyes legyen a számolás.",
+    "hint_82":"BÁRMELYIK SZÁMOT HASZNÁLHATOD A KÉPERNYŐRŐL. MIT SZÓLNÁL A SZINTÉHEZ?",
+    "endText_82":"SZÉP MEGOLDÁS!",
+    
+    "question_83":"A macskánk még mindig éhes.",
+    "hint_83":"VEGYÉL KI EGY GYUFÁT, GYÚJTSD MEG, MAJD SÜSD EL AZ ÁGYÚT.",
+    "endText_83":"CIRMI LASSAN TÚLSÚLYOS LESZ.",
+    
+    "question_84":"9 cukorkát szeretnék.",
+    "hint_84":"ELSŐRE NEM FOG KIJÖNNI BELŐLE A KÍVÁNT MENNYISÉG.",
+    "endText_84":"ÚGY UTÁLOM AZ ILYEN DOBOZOKAT.",
+    
+    "question_85":"Koppints rájuk növekvő sorrendben.",
+    "hint_85":"AZ 578 A LEGALSÓ.",
+    "endText_85":"EZ AZ EGÉSZ A MAGASSÁGRÓL SZÓLT.",
+    
+    "question_86":"Nem mondod, hogy elfelejtettél ajándékot venni a szülinapjára?!",
+    "hint_86":"LÁTOK EGY AJÁNDÉKDOBOZT A KÉPERNYŐ ALJÁN.",
+    "endText_86":"A NAPI AJÁNDÉK CSODÁKRA KÉPES!",
+    
+    "question_87":"El kell jutnia az autójához, hogy megmeneküljön a zombiktól!",
+    "hint_87":"HASZNÁLD AZ UJJADAT A FÉRFI MOZGATÁSÁHOZ.",
+    "endText_87":"MEGMENTETTED!",
+    
+    "question_88":"Hány négyzetet látsz?",
+    "hint_88":"VAN EGYÁLTALÁN???",
+    "endText_88":"REMÉLEM, NEM PRÓBÁLTÁL MEG NÉGYZETET KERESNI.",
+    
+    "question_89":"Nyomd meg a gombot 1     alkalommal.",
+    "hint_89":"AKÁR KEDVEDRE SZERKESZTHETED IS A KÉRDÉST.",
+    "endText_89":"REMÉLEM, NEM PRÓBÁLTAD 100-SZOR MEGNYOMNI!",
+    
+    "question_90":"A horgásznak szörnyű napja van, segíts neki halat fogni.",
+    "hint_90":"AZ ALMÁKBAN LEHET, HOGY TALÁLSZ KUKACOT.",
+    "endText_90":"EBÉDRE SÜLT HALAT ESZÜNK!",
+    
+    "question_91":"Szomorú, mert odaégette a tojást, vidítsd fel, kérlek.",
+    "hint_91":"PRÓBÁLD AZ ÓRÁT.",
+    "endText_91":"CSAK NEM IDŐUTAZÓ VAGY?!",
+    
+    "question_92":"Segíts repülni a békának.",
+    "hint_92":"ÉRD EL, HOGY NE KAPJON LEVEGŐT EGY IDEIG.",
+    "endText_92":"LEFOGADNOM, HOGY EZT A SHREKBEN LÁTTAD.",
+    
+    "question_93":"Válaszd ki a lehető legnagyobb számot.",
+    "hint_93":"PRÓBÁLD MEGVIZSGÁLNI MÁSIK SZEMSZÖGBŐL, HOGY MEGTALÁLD A LEGNAGYOBB SZÁMOT.",
+    "endText_93":"A VÉGTELENBE ÉS TOVÁBB!",
+    
+    "question_94":"Hány négyszöget látsz?",
+    "hint_94":"MEGPRÓBÁLHATNÁD SZÉTVÁLASZTANI ŐKET.",
+    "endText_94":"FOGADJUNK, ELŐBB PRÓBÁLTAD MEGSZÁMOLNI ŐKET, MINT SZÉTVÁLASZTANI.",
+    
+    "question_95":"Fogd meg az egeret!",
+    "hint_95":"NEM KELL VÉGIGMENNED A LABIRINTUSON.",
+    "endText_95":"TE MOST CSALTÁL?!",
+    
+    "question_96":"Koppints 3-szor a zöldre, 10-szer a kékre és 5-ször a pirosra.",
+    "hint_96":"A KÉK SZÁMLÁLÓJA HAZUDIK!",
+    "endText_96":"NE BÍZZ A SZÁMLÁLÓKBAN.",
+    
+    "question_97":"Koppints a borjakra.",
+    "hint_97":"HOGYAN KAPUNK BORJAKAT? ESETLEG SZERELEMBŐL?",
+    "endText_97":"ILYEN EGY BOLDOG CSALÁD!",
+    
+    "question_98":"Mennyi lehet a kockák száma?",
+    "hint_98":"NÉZZ A SZÉLEKRE, ÉS NE FELEDD AZOKAT SEM, AMELYEK NEM LÁTSZÓDNAK EBBŐL A SZÖGBŐL.",
+    "endText_98":"ELÉG JÓ A FELFOGÓKÉPESSÉGED.",
+    
+    "question_99":"Találd meg a különbségeket.",
+    "hint_99":"EGYFORMÁNAK TŰNNEK, NEMDE?",
+    "endText_99":"TELJESEN EGYFORMÁK!",
+    
+    "question_100":"Ma van Peti második szülinapja. Gyújtsd meg neki a gyertyákat.",
+    "hint_100":"HASZNÁLD AZ ÉGŐ GYERTYA TÜZÉT.",
+    "endText_100":"TANULD MEG HASZNÁLNI AZT, AMID VAN.",
+    
+    "question_101":"Melyik a csokitojásom?",
+    "hint_101":"A NAP MEGOLVASZTJA A CSOKOLÁDÉT.",
+    "endText_101":"KÖSZI, HOGY TÖNKRETETTED!",
+    
+    "question_102":"Hány betű marad, ha kihagyjuk a B-t és a C-t az ábécéből?",
+    "hint_102":"AZ 'ÁBÉCÉ' 5 BETŰ.",
+    "endText_102":"HEHE, LEFOGADOM, HOGY MEG AKARTAD SZÁMOLNI AZ ÁBÉCÉ ÖSSZES BETŰJÉT.",
+    
+    "question_103":"Mutasd, mennyire vagy türelmes.",
+    "hint_103":"PRÓBÁLJ TÜRELMESEN VÁRNI.",
+    "endText_103":"A TÜRELEM NAGY ERÉNY.",
+    
+    "question_104":"El kell készülnünk, mielőtt megérkeznek a vendégek!",
+    "hint_104":"DÖRZSÖLD MEG A POHARAKAT.",
+    "endText_104":"NAGYON SZÉPEN CSILLOGNAK!",
+    
+    "question_105":"A madárka elaludt. Próbáld megrázni a fát.",
+    "hint_105":"RÁZÁS KÖZBEN TARTSD AZ ÁGAT.",
+    "endText_105":"JÓ REGGELT, MADÁRKA!",
+    
+    "question_106":"A lány is szeretne egy kis fagyit.",
+    "hint_106":"A HAJ-SAPKA ÍZKOMBINÁCIÓ FENSÉGES.",
+    "endText_106":"CSAK MEG NE TUDJA, HOGY AZ A HAJA!",
+    
+    "question_107":"Töltsd ki helyesen az összeadást.",
+    "hint_107":"AZ ELSŐ SORBA 365 KERÜL.",
+    "endText_107":"MOST MÁR IGAZI MATEKMESTER VAGY!",
+    
+    "question_108":"Kérek egy kis majonézt.",
+    "hint_108":"KICSIT MEG KELL RÁZNI A TUBUST.",
+    "endText_108":"CSAK A DIETETIKUSOM MEG NE TUDJA!",
+    
+    "question_109":"Segíts elkapni a nyulat.",
+    "hint_109":"BÁRMERRE MOZGATHATOD A DOBOZT.",
+    "endText_109":"NE AGGÓDJ, JÓ DOLGA LESZ NÁLAM.",
+    
+    "question_110":"A baba megint sír. Szerintem fel van fújódva.",
+    "hint_110":"SIMOGASD MEG A BABA HASÁT.",
+    "endText_110":"FÚJ... EZ BÜDI!",
+    
+    "question_111":"Az özvegy nagymamámnak három gyereke van. Mindannyian házasok, legalább egy gyerekkel. A nagynénémnek három unokaöccse van. Hány székre van legalább szükségünk a vacsorához?",
+    "hint_111":"NAGYMAMA-HÁROM PÁR-NÉGY GYEREK",
+    "endText_111":"SZÉP NAGY CSALÁDI ÖSSZEJÖVETEL.",
+    
+    "question_112":"Segíts nekik átjutni, de ne hagyd őket egyedül a zsákmányukkal.",
+    "hint_112":"TARTSD A BÁRÁNYT A CSÓNAKON, MIKÖZBEN A KÁPOSZTÁT ÉS A FARKAST ÁTVISZED A TÚLOLDALRA.",
+    "endText_112":"ZSENIÁLIS PROBLÉMAMEGOLDÓ VAGY!",
+    
+    "question_113":"Add nekik az almákat, de ne hagyd üresen a tányért.",
+    "hint_113":"AZ UTOLSÓ ALMÁT A TÁNYÉRRAL EGYÜTT IS ODAADHATOD.",
+    "endText_113":"VÉGÜL IS, MI SZÜKSÉG A TÁNYÉRRA.",
+    
+    "question_114":"I hate math! Get rid of this number!",
+    "hint_114":"THINK ABOUT ‘ONE’ AND PUT A LETTER IN FRONT OF IT.",
+    "endText_114":"G-ONE WITH THE WIND.",
+    
+    "question_115":"Hány tojást látsz?",
+    "hint_115":"PRÓBÁLD MEGMOZDÍTANI A HÁTSÓ TOJÁSOKAT.",
+    "endText_115":"MIÉRT BUJKÁLT OTT?!",
+    
+    "question_116":"Cirmi, a macska repülni szeretne.",
+    "hint_116":"A NAGY ERŐKIFEJTÉS ÉRDEKÉBEN MEGPRÓBÁLHATOD MAGASRÓL LEDOBNI AZ ÜLLŐT.",
+    "endText_116":"TÖBBÉ NEM KELL FOGLALKOZNUNK CIRMI SZŰNNI NEM AKARÓ ÉHSÉGÉVEL.",
+    
+    "question_117":"Etesd meg őket.",
+    "hint_117":"KÖVESD A TÁPLÁLÉKLÁNCOT, KEZDVE A SZÖCSKÉVEL.",
+    "endText_117":"EGY MACSKA MIND FELETT!",
+    
+    "question_118":"Nem akarja megenni az anyukája ínycsiklandozó főztjét.",
+    "hint_118":"A JOBB OLDALI CSAVAR LAZÁNAK TŰNIK.",
+    "endText_118":"EVÉS KÖZBEN JÖN MEG AZ ÉTVÁGY.",
+    
+    "question_119":"Mennyi a teljes költség?",
+    "hint_119":"HAGYD FIGYELMEN KÍVÜL AZ EXTRA NULLÁKAT A BAL OLDALON.",
+    "endText_119":"NAGYSZERŰ KASSZÁS LENNÉL!",
+    
+    "question_120":"Juj! Fogd meg, mielőtt anyukám szívrohamot kap!",
+    "hint_120":"A CSAPOKKAL CSAPDÁBA CSALHATOD.",
+    "endText_120":"KÉSZ AZ EBÉD, CIRMI!",
+    
+    "question_121":"Készíts egy téglalapot a tanárnak.",
+    "hint_121":"VÁGJ LE A TRAPÉZBÓL, HOGY TÉGLALAPOT KAPJ.",
+    "endText_121":"CSILLAGOS ÖTÖS!",
+    
+    "question_122":"Az ollónak kell nyernie.",
+    "hint_122":"ELŐSZÖR SZABADULJ MEG A KÖVEKTŐL.",
+    "endText_122":"IMÁDOM A KŐ-PAPÍR-OLLÓT! FŐLEG, HA ÉN NYEREK.",
+    
+    "question_123":"Ez mégis hogyan lehet helyes?!",
+    "hint_123":"PRÓBÁLD ELTALÁLNI A SZORZÁSJELEKET.",
+    "endText_123":"EZ AZTÁN A KIROBBANÓ EGYENLET!",
+    
+    "question_124":"Segíts visszaszerezni a tárcáját.",
+    "hint_124":"EGYIK UJJADDAL TARTSD MEG AZ ALIGÁTOR SZÁJÁT, A MÁSIKKAL HÚZD ODA A KEZET.",
+    "endText_124":"EZ ELÉG HÚZÓS VOLT!",
+    
+    "question_125":"",
+    "hint_125":"",
+    "endText_125":"",
+    
+    "question_126":"Tomi nem tanult, de át kell hogy menjen a vizsgán.",
+    "hint_126":"AZ A NYAK ELÉG NYÚLÁNKNAK TŰNIK!",
+    "endText_126":"TOMI JOBB, HA NEM CSAL TÖBBET ÉS NEKIÁLL RENDESEN TANULNI!",
+    
+    "question_127":"Adj mindegyiknek egyet.",
+    "hint_127":"PRÓBÁLD FENTRŐL LEFELÉ ETETNI A HALAKAT.",
+    "endText_127":"EZEKET AZTÁN JÓL BEETETTED.",
+    
+    "question_128":"Nem tudom elindítani a videót!",
+    "hint_128":"LÁTOK LENT EGY LEJÁTSZÁS GOMBOT.",
+    "endText_128":"ÉLVEZZÜK A MŰSORT!",
+    
+    "question_129":"Kihűlt a kávéja.",
+    "hint_129":"HASZNÁLD A TÜKRÖKET A LÁMPA FÉNYÉNEK VISSZAVERÉSÉHEZ.",
+    "endText_129":"HMM... FORRÓ REGGELI KÁVÉ...",
+    
+    "question_130":"Találj keretet a színes alakzatoknak.",
+    "hint_130":"NEM KELL AZ ÖSSZES KERETET KITÖLTENED.",
+    "endText_130":"LÁTOD, EGY KERET IS ELÉG.",
+    
+    "question_131":"Javítsd ki.",
+    "hint_131":"8-3=5",
+    "endText_131":"SZÉP VOLT, GYUFAMESTER!",
+    
+    "question_132":"Koppints bizonyos sorrendben a gyümölcsökre.",
+    "hint_132":"NÉZD MEG ALAPOSAN A GYÜMÖLCSÖK SZÁMÁT (3 BANÁN VAN A FÜRTÖN).",
+    "endText_132":"EZ ÁM A GYÜMÖLCSÖZŐ MATEK, NYAMI!",
+    
+    "question_133":"Újabb szülinap! Amúgy mennyi idős az ünnepelt?",
+    "hint_133":"HÚZD FEL A GYERTYÁKAT, HOGY LÁSD A TORTÁT.",
+    "endText_133":"VARÁZSGYERTYÁK!!!",
+    
+    "question_134":"Segíts neki eltalálni a célt.",
+    "hint_134":"MEGPRÓBÁLHATNÁD MEGNÖVELNI A CÉLTÁBLA MÉRETÉT.",
+    "endText_134":"JOBB LENNE, HA ABBAHAGYNÁ AZ ÍJÁSZKODÁST.",
+    
+    "question_135":"Segíts az egérnek megkaparintani a sajtot.",
+    "hint_135":"NYISD KI A KÖZÉPSŐ 4 AJTÓT.",
+    "endText_135":"MIÉRT SEGÍTÜNK ENNEK AZ EGÉRNEK?!",
+    
+    "question_136":"Mi kerül a kérdőjel helyére?",
+    "hint_136":"VEZETTÉL MÁR KÉZI SEBESSÉGVÁLTÓS AUTÓT?",
+    "endText_136":"RÉGI SZÉP IDŐK!",
+    
+    "question_137":"Melyik autó a leglassabb?",
+    "hint_137":"A VÁLASZ ISMÉT A KÉRDÉSBEN REJLIK.",
+    "endText_137":"EZEKET A FELADVÁNYOKAT NEM LEHET MEGUNNI, HEHE!",
+    
+    "question_138":"Hogyan lesz helyes a számolás?",
+    "hint_138":"HOGYAN KAPJUK MEG AZ 5=5-ÖT?",
+    "endText_138":"KIVÁNCSI LENNÉK, MI TÖRTÉNIK A KÉPERNYŐRŐL KIDOBOTT DOLGOKKAL...",
+    
+    "question_139":"A filmünkhöz 5 színészre van szükség, kit utasítsunk el?",
+    "hint_139":"ELLENŐRIZD LE ŐKET ALAPOSAN, EGYIKÜK REJTEGET VALAMIT.",
+    "endText_139":"EZ A VÁLOGATÁS EGY HAJSZÁLON MÚLOTT.  ",
+    
+    "question_140":"Segíts a jobb oldali fiúnak megnyerni a hócsatát.",
+    "hint_140":"GYŰJTSD ÖSSZE A HÓGOLYÓKAT A FÖLDRŐL.",
+    "endText_140":"EZ ELÉG ÜTŐSRE SIKEREDETT!",
+    
+    "question_141":"Segíts, nem tudom, melyik irányba forduljak!",
+    "hint_141":"PRÓBÁLD ELFORGATNI A KÉSZÜLÉKET.",
+    "endText_141":"KÖSZI! MAJDNEM ELTÉVESZTETTEM A KIJÁRATOT...",
+    
+    "question_142":"Melyik a leghosszabb?",
+    "hint_142":"PRÓBÁLD MEGFÚJNI ŐKET.",
+    "endText_142":"MICSODA ÉKTELEN RICSAJ!",
+    
+    "question_143":"Honnan ered a méhektől származó méz?",
+    "hint_143":"A VÁLASZ ÚJFENT A KÉRDÉSBEN REJLIK.",
+    "endText_143":"HÁT PERSZE, A MÉZ A MÉHEKTŐL SZÁRMAZIK.",
+    
+    "question_144":"Állítsd meg az idegenek invázióját!",
+    "hint_144":"NE TALÁLD EL A MACSKÁKAT. AZ IDEGENEK 4-EN VANNAK.",
+    "endText_144":"MACSKÁK CSAK NE FLANGÁLJANAK A CSATATÉREN!",
+    
+    "question_145":"Ha 1 csirke 5 perc alatt sül meg, mennyi idő alatt sikerül 5 csirkét megsütni?",
+    "hint_145":"EGYÜTT IS SÜTHETJÜK ŐKET.",
+    "endText_145":"RÁNTVA IS ÉPP OLYAN FINOM!",
+    
+    "question_146":"Fedezd fel a gravitációt.",
+    "hint_146":"RÁZD MEG A FÁT.",
+    "endText_146":"A TUDÁS ÚJ KORSZAKÁT HOZTAD EL!",
+    
+    "question_147":"Segíts ennek a szegény embernek.",
+    "hint_147":"VÁLTOZTASS KICSIT A NŐI SZIMBÓLUMON.",
+    "endText_147":"NEM KELLETT VOLNA TELEINNIA MAGÁT!",
+    
+    "question_148":"Egy újabb bajbajutottnak van szüksége a segítségedre.",
+    "hint_148":"ISMERED PÓKEMBER EREDETTÖRTÉNETET?",
+    "endText_148":"OTTHON VAGY A GEEK KULTÚRÁBAN!",
+    
+    "question_149":"Mi kerül a kérdőjel helyére?",
+    "hint_149":"<b>E</b>GY-<b>K</b>ETTŐ-<b>H</b>ÁROM...",
+    "endText_149":"HATALMAS GRATULÁCIÓ, HA SEGÍTSÉG NÉLKÜL SIKERÜLT!",
+    "custom1_149":"E-K-H-N-Ö-H-H-NY-?",
+    
+    "question_150":"10 hal volt az akváriumomban, és hazatérvén láttam, hogy 6 elpusztult közülük. Hány hal maradt az akváriumban?",
+    "hint_150":"AZ ELPUSZTULT HALAK MÉG MINDIG AZ AKVÁRIUMBAN VANNAK.",
+    "endText_150":"IDEJE LENNE KITAKARÍTANI AZ AKVÁRIUMOT!",
+    
+    "question_151":"Hol van a nyulam?",
+    "hint_151":"CSINÁLD MEG A FORMÁKBÓL.",
+    "endText_151":"AZ VAGY, AMIT MEGESZEL, TUDTAD?",
+    
+    "question_153":"Koppints a macskára.",
+    "hint_153":"1-NÉL TÖBB MACSKA VAN.",
+    "endText_153":"HASZNÁLD OKOSAN AZ UJJAIDAT, IFJÚ JEDI.",
+    
+    "question_154":"Melyik a leghosszabb?",
+    "hint_154":"NÉZD MEG ALAPOSAN.",
+    "endText_154":"AHOGY LÁTOD, A FEBRUÁRBAN VAN A LEGTÖBB BETŰ.",
+    
+    "question_155":"Hol rejtegetik az ellopott gyémántot?",
+    "hint_155":"NÉZZ KÖRÜL A HAJCSOMÓKBAN.",
+    "endText_155":"SZÉP MUNKA, DETEKTÍV!",
+    
+    "question_156":"Hol van a labda?",
+    "hint_156":"TERELD EL A FIGYELMÉT AZ ORRÁVAL.",
+    "endText_156":"CSALÓ BOHÓC!",
+    
+    "question_157":"Segíts az autónak átkelni a folyón.",
+    "hint_157":"ELÉG HIDEG AZ IDŐ, SZÓVAL, HA ESETLEG NEM LENNE NAPFÉNY...",
+    "endText_157":"HOGY VAGY KÉPES FELHŐKET MOZGATNI?!",
+    
+    "question_158":"Párosítsd a dolgokat a megfelelő országokhoz.",
+    "hint_158":"AZ ÖSSZES TÁRGY EGYETLEN ORSZÁGHOZ TARTOZIK.",
+    "endText_158":"EL AKAROK LÁTOGATNI PÁRIZSBA!",
+    "custom1_158":"FRANCIAORSZÁG",
+    "custom2_158":"USA",
+    "custom3_158":"NÉMETORSZÁG",
+    "custom4_158":"NIGÉRIA",
+    
+    "question_159":"Hogyan építsünk tornyot?",
+    "hint_159":"ÉPÍTS TORNYOT A MEGADOTT HASÁBOKBÓL.",
+    "endText_159":"NÉHA JOBB MUTATNI, MINT MONDANI.",
+    
+    "question_160":"Ó, ember! Már megint sír! Oldd meg valahogy...",
+    "hint_160":"A JÁTÉKAUTÓ KEREKEI GÜLÜSZEMEK.",
+    "endText_160":"HAHAHAHA…",
+    
+    "question_161":"",
+    "hint_161":"FIGYELJ, A MACSAKA FEJJEL LEFELÉ VAN.",
+    "endText_161":"MOST AKKOR A 6-OS EGY FEJJEL LEFELÉ FORDÍTOTT 9-ES, VAGY A 9-ES EGY FEJJEL LEFELÉ FORDÍTOTT 6-OS?",
+    
+    "question_162":"Segíts a testépítőnek!",
+    "hint_162":"VEDD LE A SÚLYOKAT.",
+    "endText_162":"AZTA! BIVALYERŐS VAGY!",
+    
+    "question_163":"A tanulónak nem jut eszébe válasz a tesztkérdésre.",
+    "hint_163":"PUMPÁLJ EGY KIS VÉRT AZ AGYÁBA.",
+    "endText_163":"HA KÉTELKEDSZ, ÁLLJ FEJRE.",
+    
+    "question_164":"Petinek egészségesen kell táplálkoznia.",
+    "hint_164":"CSAPD BE A HAMBURGERREL.",
+    "endText_164":"MEG KELL ENNED A ZÖLDSÉGEKET, PETI.",
+    
+    "question_165":"Anyukám 25 perc alatt főz meg 1 krumplit. Mennyi időbe telne neki megfőzni 5-öt?",
+    "hint_165":"EGY FAZÉKBAN IS MEG TUDJA FŐZNI A KRUMPLIKAT.",
+    "endText_165":"BÁRCSAK MEGSÜTÖTTE VOLNA ŐKET!",
+    
+    "question_166":"Hogyan lehet legyőzni a varázslót?",
+    "hint_166":"TŰZ > LEVÉL > VÍZ > TŰZ",
+    "endText_166":"VARÁZSLÓ VAGY, HARRY!",
+    
+    "question_167":"Az idegenek köztünk járnak. Találd meg őket!",
+    "hint_167":"9 IDEGEN BÚJT EL.",
+    "endText_167":"MEGVANNAK! MOST IRÁNY A RENDŐRSÉG!",
+    
+    "question_168":"Mi van Amerika közepén?",
+    "hint_168":"NÉZD MEG FIGYELMESEN AMERIKA BETŰIT.",
+    "endText_168":"LÉGY HÁLÁS, HOGY NEM MASSACHUSETTS KÖZEPÉT KÉRDEZTEM.",
+    
+    "question_169":"Szomorúnak tűnik. Próbáld felvidítani.",
+    "hint_169":"PRÓBÁLD MOSOLYRA KÉNYSZERÍTENI.",
+    "endText_169":"“VARÁZSOLJUNK EGY KIS MOSOLYT ARRA AZ ARCRA.”",
+    
+    "question_170":"Egy vámpír! Segítség! Segítség!",
+    "hint_170":"A VÁMPÍROK ÉRZÉKENYEK A NAPFÉNYRE.",
+    "endText_170":"MOST MÁR VÁMPÍRVADÁSZ IS VAGY?",
+    
+    "question_171":"Hány háromszöget látsz?",
+    "hint_171":"PRÓBÁLD DARABOKRA SZEDNI.",
+    "endText_171":"NEM MINDEN AZ, AMINEK LÁTSZIK.",
+    
+    "question_172":"Etesd meg a macskát balról jobbra.",
+    "hint_172":"A VILÁG KEREK.",
+    "endText_172":"AMINDENIT! EZ A MACSKA BEJÁRTA A VILÁGOT EZEKÉRT A FALATOKÉRT! ",
+    
+    "question_173":"Ez így nem igazságos!",
+    "hint_173":"KETTŐT BALRA, NÉGYET JOBBRA.",
+    "endText_173":"JÉGHIDEG IGAZSÁG!",
+    
+    "question_174":"Zöld labdára van szükségünk.",
+    "hint_174":"KÉK+SÁRGA=ZÖLD, EMLÉKSZEL?",
+    "endText_174":"EZEK A LABDÁK RAGACSOSAK!",
+    
+    "question_175":"Törd be az            a         .",
+    "hint_175":"PRÓBÁLD MEG A KÉRDÉSBEN SZEREPLŐ KÖVET HASZNÁLNI.",
+    "endText_175":"ILYEN VANDALIZMUST!",
+    
+    "question_176":"A szomszédok őrült bulit tartanak az éjszaka közepén. Állítsd le őket!",
+    "hint_176":"PRÓBÁLD FELHÍVNI A RENDŐRSÉGET.",
+    "endText_176":"EZ MAJD MÓRESRE TANÍTJA ŐKET!",
+    
+    "question_177":"Ez mégis hogy lehet igaz?!",
+    "hint_177":"AZ EGYES REJTEGET VALAMIT.",
+    "endText_177":"AMIKOR ÚGY ÉRZED, KEVÉS VAGY, CSAK KLÓNOZD MAGAD.",
+    
+    "question_178":"A kéknek kell nyernie!",
+    "hint_178":"A ZÖLD ÉS A PIROS NEM NYERHET, HA NEM TUDNAK ÁTHALADNI A CÉLVONALON.",
+    "endText_178":"BUNDÁZÁS A JAVÁBÓL.",
+    
+    "question_179":"Mentsd meg őket!",
+    "hint_179":"AZ EJTŐERNYŐS EMBER MEGMENTHETI ŐKET.",
+    "endText_179":"MICSODA HŐSIES PILLANAT!",
+    
+    "question_180":"Javítsd meg az órát.",
+    "hint_180":"DÉLUTÁN 2 ÓRÁNAK KELLENE LENNIE.",
+    "endText_180":"IDEJE LENNE DIGITÁLIS ÓRÁRA VÁLTANOM!",
+    
+    "question_181":"Vidítsd fel, kérlek.",
+    "hint_181":"A LÁBUJJAI ÉRZÉKENYEK A CSIKLANDOZÁSRA.",
+    "endText_181":"MOST PEDIG HAGYD ABBA A CSIKLANDOZÁST, MÉG MIELŐTT ÚJRA DÜHBE GURUL!",
+    
+    "question_182":"A lovacska egyszarvú szeretne lenni.",
+    "hint_182":"AMIKOR HULLÓCSILLAGOT LÁTOK, MINDIG KÍVÁNOK VALAMIT.",
+    "endText_182":"AZ A VARÁZSLÓ EGY SARLATÁN VOLT!",
+    
+    "question_183":"Találd meg az összes állatot a képen.",
+    "hint_183":"A LOVAK FÉLNEK A KÍGYÓKTÓL.",
+    "endText_183":"VAJON MIÓTA VOLT OTT AZ AZ EGÉR?!",
+    
+    "question_184":"Kérlek, nyisd ki az ajtót, kint rekedtem!",
+    "hint_184":"HOVA REJTIK LEGTÖBBEN A KULCSAIKAT?",
+    "endText_184":"REMÉLEM, NEM VESZTEGETTED AZ IDŐDET ZÁRTÖRÉSSEL.",
+    
+    "question_185":"A teknősnek kell nyernie!",
+    "hint_185":"A TEKNŐS REJTEGET VALAMIT A PÁNCÉLJA ALATT.",
+    "endText_185":"RAKÉTATEKNŐS!",
+    
+    "question_186":"Melyik szám van a kocka aljánál?",
+    "hint_186":"CSAK TEDD FÉLRE A KOCKÁT.",
+    "endText_186":"VAGY A KOCKA HATALMAS, VAGY A PAPÍR NAGYON KICSI.",
+    
+    "question_187":"Testvérednek      született! Segíts neki a névválasztásban!",
+    "hint_187":"A VÁLASZTÁSOK NÉMI MÓDOSÍTÁST IGÉNYELNEK.",
+    "endText_187":"AZÉRT EZ A VALÓ VILÁGBAN ELÉG MEREDEK, NEM GONDOLOD?",
+    "custom1_187":"Picuri",
+    "custom2_187":"Apja fia",
+    "custom3_187":"Fehérló",
+    "custom4_187":"Manócska",
+    "custom5_187":"Fehérlófia",
+    
+    "question_188":"Már megint kezdi! Ezúttal mi lehet a gond?!",
+    "hint_188":"A HAJA ELÉG FURCSA, NEM GONDOLOD?",
+    "endText_188":"FÚÚÚJ!",
+    
+    "question_189":"Gyűjts össze 3 almát.",
+    "hint_189":"RÁZD MEG, HOGY LEESSENEK AZ ALMÁK.",
+    "endText_189":"EVÉS ELŐTT NÉZD MEG, HOGY NEM KUKACOSAK-E!",
+    
+    "question_190":"Menj a 6-osra, kérlek.",
+    "hint_190":"VAN EGY FEJJEL LEFELÉ ÁLLÓ 6-OS.",
+    "endText_190":"ETTŐL A JÁTÉKTÓL ELSZÉDÜL A KÉSZÜLÉKED.",
+    
+    "question_191":"Segíts Cirminek megszerezni a halat.",
+    "hint_191":"FIGYELJ, MERRE NÉZ A KUTYA.",
+    "endText_191":"CIRMI AZTÁN TUD LOPAKODNI.",
+    
+    "question_192":"Budapestre szeretnénk menni.",
+    "hint_192":"NÉZD MEG JOBBAN A KILINCSET.",
+    "endText_192":"EZ AZ AUTÓ AZÉRT ELÉG LAZA!",
+    
+    "question_193":"Szegény varjú képtelen megenni a diót.",
+    "hint_193":"AZ A KŐ ELÉG KEMÉNYNEK TŰNIK AHHOZ, HOGY FELTÖRJE A HÉJAT.",
+    "endText_193":"ENNEK A VARJÚNAK SZÜKSÉGE VAN EGY KIS VARJÚTRÉNINGRE.",
+    
+    "question_194":"Építs nekem egy hóembert.",
+    "hint_194":"NÉZZ KÖRÜL A FELHŐK MÖGÖTT.",
+    "endText_194":"KI NE SZERETNE HÓEMBERT ÉPÍTENI?",
+    
+    "question_195":"Rakd össze a képet a kirakón.",
+    "hint_195":"MI LENNE, HA EGYSZERŰEN BEMÁSOLNÁD?",
+    "endText_195":"KOMOLYAN?!",
+    
+    "question_196":"Szereti a lány a fiút, vagy sem?",
+    "hint_196":"KERESS VALAHOL MÉG EGY SZIRMOT, HOGY A LÁNY MEGSZERESSE A FIÚT.",
+    "endText_196":"TÖKÉLETES KERÍTŐ VAGY!",
+    
+    "question_197":"A kutyánk nagyon koszos, mosdasd meg, kérlek.",
+    "hint_197":"NE FELEDD, A KUTYÁK MEGRÁZZÁK MAGUKAT, HOGY MEGSZÁRADJANAK.",
+    "endText_197":"MILYEN ARANYOS KUTYUS!",
+    
+    "question_198":"A kék autó siet, segíts neki.",
+    "hint_198":"BÁRCSAK LENNE VALAHOL EGY VÉSZVILLOGÓ.",
+    "endText_198":"EZ AZ! MOST MÁR HAZAÉR A KEDVENC SOROZATÁRA.",
+    
+    "question_199":"Segíts a szellemvadásznak a szellemcsapdákkal.",
+    "hint_199":"KOPPINTS A VADÁSZRA, HOGY LÁTHASD A SZELLEMEKET.",
+    "endText_199":"SZELLEMEKKEL SUTTOGÓ!",
+    
+    "question_200":"",
+    "hint_200":"",
+    "endText_200":"",
+    
+    "question_201":"Mit lát a fiú?",
+    "hint_201":"PRÓBÁLD AZ Ő SZEMSZÖGÉBŐL NÉZNI.",
+    "endText_201":"SZEMESNEK ÁLL A VILÁG.",
+    
+    "question_202":"Kilövésre felkészülni!",
+    "hint_202":"FELFELÉ KELL MENNÜNK.",
+    "endText_202":"TALÁLKOZUNK A MARSON!",
+    
+    "question_203":"Milyen rossz az idő...",
+    "hint_203":"HASZNÁLD A FALON LÉVŐ FESTMÉNYT AZ IDŐJÁRÁS MEGVÁLTOZTATÁSÁHOZ.",
+    "endText_203":"AZ ÉLETE CSAK EGY ILLÚZIÓ.",
+    
+    "question_204":"A bal oldali bokszolónak kell nyernie.",
+    "hint_204":"EGY KIS SÚLLYAL MEGERŐSÍTHETNÉD A KESZTYŰJÉT.",
+    "endText_204":"KI RAKOTT VASGOLYÓKAT A RINGRE?!",
+    
+    "question_205":"Cirminek át kell ugrania a túloldalra.",
+    "hint_205":"PRÓBÁLD MEG AZT A GOMBÁT.",
+    "endText_205":"SZUPERCIRMI!",
+    
+    "question_206":"Mi 55 50%-a?",
+    "hint_206":"GONDOLJ AZ 55-ÖS FELÉRE VIZUÁLISAN.",
+    "endText_206":"A MATEKNAK ESÉLYE SINCS ELLENED!",
+    
+    "question_207":"Vess véget a háborúnak!",
+    "hint_207":"NEM SZABAD, HOGY BÁRMIT IS ELTALÁLJANAK.",
+    "endText_207":"EGY ÚJABB LÉPÉS A VILÁGBÉKE FELÉ.",
+    
+    "question_208":"Segíts ezt a dobozt a kézikocsihoz vinni.",
+    "hint_208":"A GÖRGETÉSHEZ FORDÍTSD EL A KÉSZÜLÉKET.",
+    "endText_208":"A DEREKAM HÁLÁS NEKED!",
+    
+    "question_209":"Ajjaj, elkaptak gyorshajtásért!",
+    "hint_209":"PRÓBÁLD FELVIDÍTANI.",
+    "endText_209":"SZÉP NAPOT, BIZTOS ÚR!",
+    
+    "question_210":"Segíts az anyaoroszlánnak.",
+    "hint_210":"BÁRCSAK ÚGY PIHENHETNE, MINT AZ APAOROSZLÁN.",
+    "endText_210":"ÉLJEN A NEMEK KÖZÖTTI EGYENLŐSÉG!",
+    
+    "question_211":"Ne hagyd, hogy bármelyikük is fázzon.",
+    "hint_211":"HELYEZD ÁT A TÁBORTÜZET EGY MEGFELELŐBB HELYRE.",
+    "endText_211":"JÓ PIHENÉST, TÁBOROZÓK.",
+    
+    "question_212":"Kijelentem, hogy ma van a születésnapod, válassz egy ajándékot!",
+    "hint_212":"FIGYELJ A SZAVAKRA.",
+    "endText_212":"EBBEN A SZÓBAN MEGTALÁLOD AZ IRÁNTAD ÉRZETT SZERETETEMET.",
+    
+    "question_213":"Gólt kell szereznünk.",
+    "hint_213":"VÁLTOZTASD MEG A JÁTÉKOSOK RÚGÁSÁNAK IRÁNYÁT.",
+    "endText_213":"GÓÓÓL!",
+    "custom1_213":"RAJTA!",
+    
+    "question_214":"Mi van        alatt?",
+    "hint_214":"NÉZZ KÖRÜL 'A FA' ALATT.",
+    "endText_214":"EGY ARANYOS CICA!",
+    
+    "question_215":"Koppints gyorsan sorrendben a számokra!",
+    "hint_215":"VIGYÁZZ, A 7-ES ÉS A 8-AS TRÜKKÖS!",
+    "endText_215":"MICSODA IZGALMAK!",
+    
+    "question_216":"Oldd meg a feladványt.",
+    "hint_216":"A SZÁMOK AZ AKTIVÁLT KÖRÖK SZÁMÁT JELZIK.",
+    "endText_216":"IGAZI GÉNIUSZ VAGY!",
+    
+    "question_217":"Tanítsd meg vadászni a macskát.",
+    "hint_217":"REJTSD EL A MACSKÁT A DOBOZZAL, MAJD CSALOGASD KI AZ EGERET EGY SAJTTAL.",
+    "endText_217":"EBBŐL A MACSKÁBÓL JÓ VADÁSZ VÁLIK MAJD!",
+    
+    "question_218":"Találd meg a kincset.",
+    "hint_218":"NE BÍZZ A DETEKTORBAN, NÉZZ BE MINDEN ALÁ.",
+    "endText_218":"GAZDAGOK VAGYUNK!",
+    
+    "question_219":"SEGÍTSÉG! Nem működik a fék!",
+    "hint_219":"HASZNÁLD ISMÉTELTEN A FELHŐMÁGIÁDAT.",
+    "endText_219":"A FELHŐK SOK GONDOT MEGOLDANAK.",
+    
+    "question_220":"Hol van az anyaoroszlán?",
+    "hint_220":"CSINÁLJ VALAMIT A KÖLYÖKKEL, HOGY FELKELTSD AZ ANYA FIGYELMÉT.",
+    "endText_220":"NYOMÁS! TŰNJÜNK INNEN!!!",
+    
+    "question_221":"A teknősnek kell megnyernie a versenyt.",
+    "hint_221":"AZ EGYIK NÉZŐ HASZNOS TÁRGYAT TARTOGAT.",
+    "endText_221":"HÁLA A MAJOMNAK.",
+    
+    "question_222":"El kell foglalnunk a várat.",
+    "hint_222":"A KATAPULTNAK SZÜKSÉGE VAN EGY KIS TŰZRE.",
+    "endText_222":"GYŐZELEM!",
+    
+    "question_223":"Segíts neki!",
+    "hint_223":"PRÓBÁLD MEG FELÉBRESZTENI VALAHOGY.",
+    "endText_223":"EZ AZTÁN A VALÓSÁGNAK TŰNŐ RÉMÁLOM!",
+    
+    "question_224":"Válassz!",
+    "hint_224":"PRÓBÁLJ MÓDOSÍTANI A KÍVÁNSÁGON.",
+    "endText_224":"ÉLVEZD A VIRTUÁLIS GAZDAGSÁGOT!",
+    "custom1_224":"Nőjön kopoltyúd",
+    "custom2_224":"Nőjön szarvad",
+    "custom3_224":"Gazdagodj meg",
+    
+    "question_225":"Ez az ember felbosszantotta a lámát, állj bosszút érte!",
+    "hint_225":"ÉRD EL, HOGY BŐRIG ÁZZON.",
+    "endText_225":"SZÉP KÖPÉS!",
+    
+    "question_226":"Nyisd ki a páncélterem ajtaját.",
+    "hint_226":"KERESS NYOMOKAT A FALON.",
+    "endText_226":"MOST MÁR MEGENGEDHETED MAGADNAK A VIP TAGSÁGOT.",
+    
+    "question_227":"Hány foga van a fiúnak?",
+    "hint_227":"NÉHÁNY FOG LEHET, HOGY HAMIS, ELLENŐRIZD LE AZ ÖSSZESET.",
+    "endText_227":"FOGIMPLANTÁTUMRA LENNE SZÜKSÉGE!",
+    
+    "question_228":"A piros autónak kell nyernie!",
+    "hint_228":"PRÓBÁLD MEG ÁTÁLLÍTANI A KÖRSZÁMLÁLÓT.",
+    "endText_228":"A CSALÁS MŰVÉSZETÉNEK MESTERÉVÉ VÁLTÁL, KEZDEK MEGIJEDNI TŐLED.",
+    "custom1_228":"kör",
+    
+    "question_229":"Az összes helyet ki kell töltenünk.",
+    "hint_229":"KEZDD A BAL OLDALI ADAGOLÓVAL.",
+    "endText_229":"ÜDV A GÉPEZETBEN!",
+    
+    "question_230":"Próbáld követni a helyes sorrendet.",
+    "hint_230":"JEGYZETELHETSZ, MIKÖZBEN NÉZED.",
+    "endText_230":"NAGYSZERŰ ZENÉSZ LESZEL!",
+    "custom1_230":"MEGTEKINTÉS",
+    
+    "question_231":"A lovacska most szárnyakat szeretne.",
+    "hint_231":"VAN EGY CSILLAG, AMIT AZ ÉGRE TUDUNK TENNI.",
+    "endText_231":"VÉGRE CSINÁLT VALAMI HASZNOSAT IS AZ A VARÁZSLÓ!",
+    
+    "question_232":"Állítsd meg a vérfarkast!",
+    "hint_232":"A VÉRFARKASOK A TELIHOLDBÓL MERÍTIK EREJÜKET.",
+    "endText_232":"VÁMPÍROK, VÉRFARKASOK... MI JÖHET MÉG?",
+    
+    "question_233":"Válaszd szét a színeket.",
+    "hint_233":"KEZDÉSNEK ÖNTSD MONDJUK A KÉKET AZ ÜRES KÉMCSŐBE.",
+    "endText_233":"ZSENIÁLIS TUDÓS VAGY!",
+    
+    "question_234":"Segítség! Nem tudja abbahagyni az ugrálást!",
+    "hint_234":"EGY MATRAC TALÁN MEGÁLLÍTANÁ.",
+    "endText_234":"ÉS MOST NYOMÁS HÁZIT ÍRNI!",
+    
+    "question_235":"A cukorkának a szájában kell landolnia.",
+    "hint_235":"FORDÍTSD EL A KÉSZÜLÉKED ÉS HASZNÁLD A GRAVITÁCIÓT.",
+    "endText_235":"A CUKORKA BETELJESÍTETTE SORSÁT!",
+    
+    "question_236":"Cirmi újfent ugrani akar, azonban kifogytunk a gombából.",
+    "hint_236":"KÉPES VAGY HEGYEKET MEGMOZGATNI.",
+    "endText_236":"ELKÉNYEZTETJÜK EZT A MACSKÁT!",
+    
+    "question_237":"A macskának újra meg kell kaparintania a halat.",
+    "hint_237":"SZÉDÍTSD EL A KUTYÁT A CSONTTAL.",
+    "endText_237":"SZEGÉNY KUTYA!",
+    
+    "question_238":"Segíts barátunknak átkelni az úton.",
+    "hint_238":"EL VAN REJTVE VALAHOL EGY ZEBRA.",
+    "endText_238":"EZEK A SOFŐRÖK TÖKÉLETESEN BETARTJÁK A SZABÁLYOKAT!",
+    
+    "question_239":"Tükörtojást szeretnék.",
+    "hint_239":"IJESZD MEG A CSIRKÉT, HOGY TOJJON EGY TOJÁST.",
+    "endText_239":"NE FELEDD A SONKÁT SEM!",
+    
+    "question_240":"Elvesztette a lufiját!",
+    "hint_240":"PRÓBÁLJ MEG FELNÉZNI.",
+    "endText_240":"KÍVÁNCSI LESZEK, LEGKÖZELEBB MIÉRT FOG SÍRNI...",
+    
+    "question_241":"Hány kutya van a képen?",
+    "hint_241":"NÉHÁNYAN TALÁN ELBÚJTAK VALAMI ALATT.",
+    "endText_241":"ROSSZ KUTYÁK!",
+    
+    "question_242":"Oldd meg ezt a gyilkossági ügyet, nyomozó.",
+    "hint_242":"ESETLEG MEGPRÓBÁLHATNÁD FELÉBRESZTENI?",
+    "endText_242":"HUH, CSAK KETCHUP VOLT!",
+    
+    "question_243":"Cirmi újabb átugrandó szakadékot talált.",
+    "hint_243":"A FELHŐK ELÉG RUGALMASNAK TŰNNEK, NEM GONDOLOD?",
+    "endText_243":"EZ NEM MOND ELLENT A FIZIKA TÖRVÉNYEINEK?",
+    
+    "question_244":"Meg kell szabadulnunk ezektől a bacilusoktól!",
+    "hint_244":"GYŰJTSD ÖSSZE ŐKET A KENDŐVEL, MAJD ÉGESD EL A KENDŐT.",
+    "endText_244":"HOGY VAGY KÉPES LÁTNI A BACILUSOKAT?!",
+    
+    "question_245":"Segíts, nem tudok bejutni a házamba!",
+    "hint_245":"PRÓBÁLD MEGNÖVELNI A HÁZ MÉRETÉT.",
+    "endText_245":"MINDENHOL JÓ, DE LEGJOBB OTTHON!",
+    
+    "question_246":"Segíts megetetni a gyíkot.",
+    "hint_246":"A GYÍKOK IMÁDJÁK A LEGYEKET, A LEGYEK PEDIG SZERETIK A SZABADON HAGYOTT ÉTELEKET.",
+    "endText_246":"ÉS MOST BEFALOM AZT A CSIRKÉT.",
+    
+    "question_247":"Kicsit rendmániás vagyok, segíts válogatni!",
+    "hint_247":"MINDEN SZÍN MÁSIK TÁLKÁBA KERÜLJÖN.",
+    "endText_247":"HUHH... ÍGY MÁR MINDJÁRT MÁS, KÖSZI!",
+    
+    "question_248":"Találd meg az összes állatot.",
+    "hint_248":"LEHET, HOGY EGY MÓKUS REJTŐZIK A FÁBAN.",
+    "endText_248":"MILYEN ÉLETTEL TELI ERDŐ!",
+    
+    "question_249":"Ezúttal hogyan tud Cirmi átugrani?",
+    "hint_249":"TALÁN CSAK KÖZELEBB KELL MENNIE A PEREMHEZ.",
+    "endText_249":"CIRMI, AZ UGRÓBAJNOK!",
+    
+    "question_250":"A kék varázslónak kell győznie!",
+    "hint_250":"BÁR A FEKETE VARÁZSLÓNAK VAN VARÁZSPAJZSA, FIZIKAI TÁRGYAK ELLEN NEM TUD VÉDEKEZNI.",
+    "endText_250":"GYANÚS, HOGY EZEK UTÁN KI FOGJÁK RÚGNI A ROXFORTBÓL. ",
+    
+    "question_251":"Mi kerül az X helyére?",
+    "hint_251":"SZÜKSÉGÜNK VAN EGY NULLÁRA.",
+    "endText_251":"HÁT NEM SZUPER AZ INTERAKTÍV MATEK?",
+    
+    "question_252":"Meg kell fürdetni az egeret.",
+    "hint_252":"HELYEZD BE A HIÁNYZÓ CSÖVEKET.",
+    "endText_252":"CIRMI MEG NE TUDJA, HOGY SEGÍTÜNK ENNEK AZ EGÉRNEK.",
+    
+    "question_254":"A fiú    pohár tejet és    süteményt szeretne.",
+    "hint_254":"MÓDOSÍTSD A KÉRÉST AZ ASZTALON LÉVŐ ELEMEKNEK MEGFELELŐEN.",
+    "endText_254":"NEKÜNK EZ GYEREKJÁTÉK!",
+    
+    "question_255":"Segíts a férfinak megmenekülni.",
+    "hint_255":"PRÓBÁLD A FAL SARKÁNÁL ELZÁRNI A ZOMBIT.",
+    "endText_255":"OSTOBA ZOMBI!",
+    
+    "question_256":"Segíts hősünknek!",
+    "hint_256":"HŐSÜNK KÉPES SZEMBESZÁLLNI A GRAVITÁCIÓVAL.",
+    "endText_256":"ÚJABB NAP, ÚJABB HŐSTETT.",
+    
+    "question_257":"Találj valami megoldást, mielőtt mások is meglátják az arcát!",
+    "hint_257":"HASZNÁLD A ZSEBBEN LAPULÓ SZALVÉTÁT.",
+    "endText_257":"IGAZI ÚRIEMBER!",
+    
+    "question_258":"Szegény teljesen ki van merülve, segíts neki.",
+    "hint_258":"VEDD KI A TISZTA TÁNYÉROKAT, MAJD TEDD BE A PISZKOSAKAT.",
+    "endText_258":"MINDENKINEK SZÜKSÉGE LENNE EGY OLYAN SEGÍTŐRE, MINT TE.",
+    
+    "question_259":"Segíts neki eltalálni a céltáblát.",
+    "hint_259":"PRÓBÁLD MOZGATNI A CÉLTÁBLÁT.",
+    "endText_259":"NAPRÓL NAPRA EGYRE ÜGYESEBBEN CÉLOZ.",
+    
+    "question_260":"Segíts újra a kék bokszolónak.",
+    "hint_260":"PRÓBÁLD ELTERELNI A PIROS BOKSZOLÓ FIGYELMÉT.",
+    "endText_260":"CSAPNIVALÓ BOKSZOLÓNK ÚJFENT GYŐZELMET ARATOTT!",
+    
+    "question_261":"Meg kell állítanunk ezt a szörnyeteget!",
+    "hint_261":"TALÁN ÖSSZEBARÁTKOZHATNÁNK VELE.",
+    "endText_261":"MOST MÁR CIMBORÁK VAGYUNK!",
+    
+    "question_262":"A lovacska most egy hercegnőt szeretne.",
+    "hint_262":"HA ELSZÉDÍTJÜK A VARÁZSLÓT, TALÁN MEGJELENIK NÉHÁNY CSILLAG.",
+    "endText_262":"LOVUNK KÍVÁNSÁGAINAK SZÁMA HATÁRTALAN!",
+    
+    "question_263":"Válaszd ki az almákat.",
+    "hint_263":"VIGYÁZZ AZ ALMÁRA HAJAZÓ PARADICSOMMAL.",
+    "endText_263":"AZ ALATTOMOS PARADICSOM NEM TUDOTT TÚLJÁRNI AZ ESZEDEN.",
+    
+    "question_264":"Tüzet kell raknunk.",
+    "hint_264":"EGY KOPASZ FEJ TALÁN VISSZAVERNÉ A NAPFÉNYT.",
+    "endText_264":"VISSZAVERÉSBŐL JELES!",
+    
+    "question_265":"Rajzolj egy háromszöget.",
+    "hint_265":"PRÓBÁLD ELMOZDÍTANI A PONTOKAT.",
+    "endText_265":"SZÉP MUNKA!",
+    
+    "question_266":"Az ember furcsa dolgokat láthat errefelé, találd meg őket.",
+    "hint_266":"A HALAKNAK NINCS SE SZEMHÉJUK SE SZÁRNYUK, A RÁKOKNAK CSAK 10 LÁBUK VAN.",
+    "endText_266":"GYANÚS, HOGY RADIOAKTÍV HULLADÉKOT DOBTAK EZEKBE A VIZEKBE!",
+    
+    "question_267":"             , bajban van!",
+    "hint_267":"KIÁLTSA AZT, HOGY 'SEGÍTSÉG'!",
+    "endText_267":"HA VESZÉLYBEN VAGY, KIÁLTS, AMILYEN HANGOSAN CSAK TUDSZ!",
+    "custom1_267": "SEGÍTSÉG!",
+    "custom2_267": "YAY!",
+    
+    "question_269":"Hogy lehet ez helyes?!",
+    "hint_269":"PRÓBÁLD MÁS SZEMSZÖGBŐL NÉZNI.",
+    "endText_269":"AZT MONDTAM MÁR, HOGY A MATEMATIKUSOK TÁRSASÁGA BEPERELTE A JÁTÉKUNKAT?",
+    
+    "question_270":"Melyik majomnak van a leghosszabb farka?",
+    "hint_270":"PRÓBÁLD MEGKERESNI A FARKAK VÉGÉT.",
+    "endText_270":"AZ LESZ OTT A MAJOMKIRÁLY!",
+    
+    "question_271":"Ő is ugyanolyan hamburgert szeretne.",
+    "hint_271":"NÉZD MEG ALAPOSAN AZ ELKÉSZÍTETT HAMBURGERT, ÉS CSINÁLJ EGY UGYANOLYAT.",
+    "endText_271":"GYORSKAJA GYORSAN FELSZOLGÁLVA!",
+    
+    "question_272":"Szomorú, mert túl lassú a számítógépe.",
+    "hint_272":"A VENTILÁTOROK NEM TUDJÁK HŰTENI A SZÁMÍTÓGÉPET A POR MIATT.",
+    "endText_272":"A TOVÁBBIAKBAN TISZTÁN KELL TARTANIA A GÉPÉT!",
+    
+    "question_273":"Jaj, ne! Elkésett a munkából!",
+    "hint_273":"BÁRCSAK HÉTVÉGE LENNE.",
+    "endText_273":"ŐT ÁTVERHETED, DE A FŐNÖKÉT NEM!",
+    "custom1_273":"CSÜTÖRTÖK",
+    "custom2_273":"PÉNTEK",
+    "custom3_273":"SZOMBAT",
+    
+    "question_274":"Mi a helyes válasz?",
+    "hint_274":"A 13+7 SZINTÉN 20.",
+    "endText_274":"EMELEM KALAPOMAT, HA ENNYI SZINT UTÁN MÉG MINDIG NEM UTÁLTAD MEG A MATEMATIKÁT!",
+    
+    "question_276":"Segíts a fiúnak eljutni a házához.",
+    "hint_276":"HASZNÁLD A PIROS PLATFORMOT, HOGY HIDAT ÉPÍTHESS.",
+    "endText_276":"MÉG ÍGY IS BIZTONSÁGOSABB, MINT NEKEM MUNKÁBA MENNI.",
+    
+    "question_277":"Hol bujkál a kutya?",
+    "hint_277":"PRÓBÁLJ BENÉZNI A KÉT SZEKRÉNY KÖZÉ.",
+    "endText_277":"BOCSI, DE NEM ÚSZOD MEG AZ ÁLLATORVOST.",
+    
+    "question_278":"Szüntesd meg a dugót!",
+    "hint_278":"A GRAVITÁCIÓ A SEGÍTSÉGEDRE LEHET.",
+    "endText_278":"BUDAPEST FŐPOLGÁRMESTERE TALÁLKOZNI SZERETNE VELED.",
+    
+    "question_279":"Fejezd be a kiképzést.",
+    "hint_279":"CSÚSZTASD UJJADAT A KARD IRÁNYÁBA.",
+    "endText_279":"A MESTERED BÜSZKE RÁD, ÚJONC.",
+    
+    "question_280":"A szellemnek ki kell kerülnie a csapdákat.",
+    "hint_280":"ELŐSZÖR MEGPRÓBÁLHATOD EGY PAPÍRRA FELRAJZOLNI A HELYES ÚTVONALAT.",
+    "endText_280":"JÓ ÖTLET EGY SZELLEMNEK SEGÍTENI?!",
+    
+    "question_281":"Jaj, ne! A lány virága haldoklik!",
+    "hint_281":"A VIRÁGNAK VÍZRE ÉS TRÁGYÁRA VAN SZÜKSÉGE.",
+    "endText_281":"ÉBRESZTŐ, VIRÁGSZÁLAM!",
+    
+    "question_282":"Az autómra ráférne egy kis          .",
+    "hint_282":"MI SEGÍTHET A 'JAVÍTÁSBAN'?",
+    "endText_282":"NÉHÁNY SZÓNAK ELÉG NAGY EREJE VAN EBBEN A JÁTÉKBAN!",
+    
+    "question_284":"Mentsd meg a várost!",
+    "hint_284":"BÁRCSAK MAGASABB LENNE AZ A HEGY.",
+    "endText_284":"LEFOGADOM, HOGY MEGINT A FELHŐKKEL PRÓBÁLKOZTÁL.",
+    
+    "question_285":"Segíts neki megvédeni a kisteknősöket.",
+    "hint_285":"HASZNÁLD A TEKNŐS PÁNCÉLJÁT A KÍGYÓ MEGTÁMADÁSÁRA.",
+    "endText_285":"KELLEMES UTAZÁST, KÍGYÓ.",
+    
+    "question_286":"Alkosd újra az arcát.",
+    "hint_286":"HASZNÁLD A KÖZÉPEN LÉVŐ TÜKRÖT.",
+    "endText_286":"HA TETSZETT EZ A SZINT, PRÓBÁLD KI A <link=\"mirror_puzzle\"><u><color=blue>MIRROR PUZZLE!</color></u></link> NÉVRE KERESZTELT JÁTÉKUNKAT!",
+    
+    "question_287":"Ezt meg kell nyerned valahogy ...",
+    "hint_287":"PRÓBÁLD MEG ELMOZDÍTANI AZ EGYIK KÖRT.",
+    "endText_287":"NE AGGÓDJ, AZ FBI-ON KÍVÜL SENKI NEM LÁTTA, HOGY CSALTÁL.",
+    "custom1_287":": te",
+    "custom2_287":": ellenfeled",
+    
+    "question_288":"Segíts neki átvészelni ezt az unalmas hétfő reggelt.",
+    "hint_288":"KÉSZÍTS KÁVÉT FORRÓ VÍZBŐL ÉS KÁVÉPORBÓL.",
+    "endText_288":"ÖRÖMMEL FOGADJUK KÁVÉMÁRKA-SZPONZOROK JELENTKEZÉSÉT, KÉRJÜK KERESSÉK MARKETINGMENEDZSERÜNKET, CIRMIT, A MACSKÁT.",
+    
+    "question_289":"Segíts találkozni a szerelmeseknek.",
+    "hint_289":"PRÓBÁLD HÍDKÉNT HASZNÁLNI A FARÖNKÖT.",
+    "endText_289":"MEGHATÓBB, MINT A SZÉPSÉG ÉS A SZÖRNYETEG.",
+    
+    "question_290":"Szokásához híven most is sír.",
+    "hint_290":"PRÓBÁLJ MEG TÉVÉCSATORNÁT VÁLTANI.",
+    "endText_290":"AMI AZT ILLETI, A SÍRÁSA KEVÉSBÉ ÁRTALMAS, MINT EZEK A BUTA RAJZFILMEK.",
+    
+    "question_291":"Sir Lancelotnak segítségre van szüksége a sárkány legyőzéséhez.",
+    "hint_291":"HERGELD FEL A LOVAGGAL, MAJD TEGYÉL VIZET A SZÁJÁBA.",
+    "endText_291":"MICSODA DICSŐSÉGES NAP EZ BÁTOR LOVAGUNK SZÁMÁRA!",
+    
+    "question_292":"Mi van a Jupiteren  ",
+    "hint_292":"A VÁLASZ ISMERETLEN. PRÓBÁLD EZT EGY SZIMBÓLUMMAL SZEMLÉLTETNI.",
+    "endText_292":"IGEN, EZ TELJES REJTÉLY.",
+    
+    "question_293":"Jaj, ne! Előzd meg a balesetet!",
+    "hint_293":"PRÓBÁLD MEGSZÓLALTATNI A VONAT KÜRTJÉT.",
+    "endText_293":"MIÉRT ALUDNA OTT BÁRKI?!",
+    
+    "question_294":"Nagyon dühös, nyugtasd meg.",
+    "hint_294":"FEKTESD LE A KÉSZÜLÉKEDET.",
+    "endText_294":"HA DÜHÖS VAGY, CSAK FEKÜDJ LE ÉS LAZÍTS.",
+    
+    "question_295":"Ki kell nyitnunk ezt a széfet.",
+    "hint_295":"BIZTOS VAN VALAHOL EGY PAPÍRRA ÍRT NYOM.",
+    "endText_295":"VAJON MI LEHET ODABENT? A FEJLESZTŐK SAJNOS KÖLTSÉGVETÉSI KORLÁTOK MIATT NEM TUDJÁK MEGMUTATNI.",
+    
+    "question_296":"Sir Lancelotnak ezúttal egy trollt kell legyőznie.",
+    "hint_296":"ÉRD EL, HOGY A TROLL MEGÜSSE A HIDAT.",
+    "endText_296":"A KIRÁLY BUSÁSAN MEGJUTALMAZZA ŐT, MIKÖZBEN MI VÉGEZZÜK EL HELYETTE A MUNKÁT!",
+    
+    "question_297":"Miért nem mozog az elöl lévő autó?",
+    "hint_297":"HÚZD UJJADDAL A KÉPERNYŐT, HOGY LÁTHASD A SOFŐRT.",
+    "endText_297":"EZT NEM HISZEM EL!",
+    
+    "question_298":"Ébreszd fel, ideje iskolába menni.",
+    "hint_298":"NYISD KI MINDKÉT SZEMHÉJÁT EGYSZERRE.",
+    "endText_298":"HÉ, HAVER, HASADRA SÜT A NAP!",
+    
+    "question_299":"A nyúlnak össze kell gyűjtenie az összes aranyérmét.",
+    "hint_299":"PRÓBÁLD A RÉPÁVAL AZ ÉRMÉKHEZ CSALOGATNI.",
+    "endText_299":"TÖBB EZER RÉPÁT TUD MAJD VÁSÁROLNI EZEKBŐL AZ ARANYÉRMÉKBŐL!",
+    
+    "question_300":"Szolgáld ki a vendéget.",
+    "hint_300":"PRÓBÁLD MEG A TÁLCÁVAL EGYSZERRE ODAADNI AZ ÖSSZES ÉTELT.",
+    "endText_300":"CSIRKÉT SÜTEMÉNNYEL, MOST KOMOLYAN?!",
+    
+    "question_301":"Mi kerül a kérdőjel helyére?",
+    "hint_301":"8+3+1=12",
+    "endText_301":"AZ ILYEN FELADVÁNYOK ÚGY CSAPNAK BE TÉGED, HOGY NEM CSAPNAK BE, MIKÖZBEN ARRA SZÁMÍTASZ, HOGY BECSAPNAK.",
+    
+    "question_303":"Áhh! Szabadulj meg ezektől a legyektől, kérlek.",
+    "hint_303":"NEM SZERETIK A HIDEGET.",
+    "endText_303":"INKÁBB FÁZZAK MEG, MINTSEM A LEGYEK ZARGASSANAK!",
+    
+    "question_304":"Válaszd ki a megfelelő színeket.",
+    "hint_304":"NÉZD MEG FIGYELMESEN, A SÁRGA KÉT HELYRE IS MEGY.",
+    "endText_304":"VALAKI BOGOZZA MÁR KI EZT A CSOMÓT!",
+    
+    "question_306":"Ez hogyan lehet helyes?",
+    "hint_306":"'MÉRETBEN' NAGYOBB LEHET.",
+    "endText_306":"EZ A 6-OS MOST HATÁROZOTTAN NAGYOBB.",
+    
+    "question_307":"Ezúttal nincs ugrás, Cirmi.",
+    "hint_307":"MEGPRÓBÁLHATOD KILŐNI AZ ÁGYÚBÓL.",
+    "endText_307":"ENNEK A MACSKÁNAK AZTÁN TÉNYLEG KILENC ÉLETE VAN!",
+    
+    "question_308":"Bizonyítsd be, hogy a bohóc ismét csal.",
+    "hint_308":"HASZNÁLD AZ ASZTALT.",
+    "endText_308":"A BOHÓCOK NEMZETKÖZI SZÖVETSÉGÉNEK BÜNTETÉST KÉNE KISZABNIA RÁ.",
+    
+    "question_310":"Segíts, nem találunk haza!",
+    "hint_310":"A NAPON TÚL KELL LENNIE.",
+    "endText_310":"ALIG VÁROM, HOGY LÁTHASSAM A LÁNYOMAT, AKI MÁR IDŐSEBB NÁLAM.",
+    
+    "question_312":"Újabb szellemek várnak befogásra.",
+    "hint_312":"TEDD A CSAPDÁKAT AZ ÚTJUKBA.",
+    "endText_312":"A SZELLEMÍRTÓK TELEFONSZÁMÁT ELRAKHATOD KÉSŐBBRE.",
+    
+    "question_313":"Vajon melyik hal lehet a legnagyobb?",
+    "hint_313":"A GÖMBHALAK NAGYOBBAK LESZNEK, HA VESZÉLYBEN ÉRZIK MAGUKAT.",
+    "endText_313":"LEFOGADOM, HOGY EGY BÁLNÁT KERESTÉL A KÉPEN.",
+    
+    "question_314":"Melyik út vezet a kijárathoz?",
+    "hint_314":"PRÓBÁLD MEGTALÁLNI A SZELET A FÁKLYÁVAL.",
+    "endText_314":"A SZÉL AZT JELENTI, HOGY ARRA VAN A KIJÁRAT!",
+    
+    "question_315":"Melyik a 4-es fölötti szám?",
+    "hint_315":"NE TÖRŐDJ A KÖRÖKKEL.",
+    "endText_315":"TERMÉSZETESEN AZ 5-ÖS VAN A 4-ES FELETT!",
+    
+    "question_316":"Segíts ennek a fickónak elkerülni a büntetést.",
+    "hint_316":"JAVÍTSD MEG A FÉNYSZÓRÓT AZZAL, HOGY EGY ÚJ IZZÓT HELYEZEL BE.",
+    "endText_316":"'LÁTJA, BIZTOS ÚR? RENDBEN VANNAK A FÉNYSZÓRÓIM!'",
+    
+    "question_317":"Húha! Itt valami nincs rendjén.",
+    "hint_317":"A TÜNDÉK LEGTÖBBSZÖR ÍJÁSZOK, A VARÁZSLÓK PEDIG BOTOKAT HASZNÁLNAK.",
+    "endText_317":"TOLKIEN MOST FORGOTT A SÍRJÁBAN!",
+    
+    "question_318":"Mi a helyes válasz.",
+    "hint_318":"LÁTSZ KÉRDŐJELET?",
+    "endText_318":"- MI A VÁLASZ. - MI?! - ÚGY ÉRTEM, 'MI'!",
+    "custom1_318":"A) Alma",
+    "custom2_318":"B) Gyümölcs",
+    "custom3_318":"C) Banán",
+    "custom4_318":"D) Szarka",
+    
+    "question_319":"Szeretnék enni valamit.",
+    "hint_319":"NÉHÁNY FORMA KOMBINÁLÁSÁVAL TÜKÖRTOJÁST KÉSZÍTHETSZ.",
+    "endText_319":"A SZELLEM ÍZŰ TÜKÖRTOJÁSNÁL NINCS IS JOBB!",
+    
+    "question_320":"Állítsd be az oldalnézetet a felülnézetnek megfelelően.",
+    "hint_320":"CSÚSZTASD A BLOKKOKAT, ÉS TEDD ŐKET A FELSŐ KÉPEN LÁTHATÓ HELYZETBE.",
+    "endText_320":"TE AZTÁN TUDOD, HOGYAN KELL KÜLÖNBÖZŐ NÉZŐPONTOKBÓL MEGVIZSGÁLNI A DOLGOKAT.",
+    
+    "question_321":"A 6. minta is kövesse a sémát.",
+    "hint_321":"KÉT PÖTTY A KÖZÉPSŐ SORBAN.",
+    "endText_321":"TÖBB MINT 9000 IQ-D VAN!",
+    
+    "question_322":"QQQQQQQQQQQQ",
+    "hint_322":"AZ EGY NÉGYZET VAGY EGY TÉGLALAP?",
+    "endText_322":"AZ ELDÖNTENDŐ KÉRDÉSEK MINDIG HÚZÓSAK!",
+    "custom1_322":"EZ EGY PIROS KÖR",
+    "custom2_322":"EZ EGY KÉK HÁROMSZÖG",
+    "custom3_322":"EZ EGY PIROS NÉGYZET",
+    
+    "question_323":"Találd meg a legnehezebb csirkét.",
+    "hint_323":"A SÚLYUK MÉRÉSÉHEZ HASZNÁLD A SZÉKET.",
+    "endText_323":"NAGYSZERŰ, ÚGYIS LE AKARTAM CSERÉLNI A SÚLYZÓMAT.",
+    
+    "question_324":"Segíts neki megtalálni az igaz szerelmét.",
+    "hint_324":"TESZTELD AZZAL A NŐKET, HOGY KIDOBOD A LUXUSCIKKEKET.",
+    "endText_324":"MOST PEDIG GYORSAN SZEDJ KI MINDENT A KUKÁBÓL!",
+    
+    "question_325":"Ajaj! Nem látja a felvonulást!",
+    "hint_325":"A DOBOZOKKAL FELEMELHETED.",
+    "endText_325":"JOBB MA... SOK VERÉB, MINT HOLNAP EGY TÚZOK.",
+    
+    "question_326":"Az egyik medve nem valódi.",
+    "hint_326":"TEDD ŐKET PRÓBÁRA A MÉZZEL.",
+    "endText_326":"EZ BIZTOS EGY MEDVEBŐRBE BÚJT ZOOLÓGUS!",
+    
+    "question_327":"Mentsd meg!",
+    "hint_327":"ÓVATOSAN FOGD MEG A MENTŐHÁLÓ MINDKÉT VÉGÉT.",
+    "endText_327":"A MENTŐHÁLÓT TARTÓKBAN SOSEM BÍZHAT AZ EMBER.",
+    
+    "question_328":"Tisztítsd meg az arcát.",
+    "hint_328":"NE FELEDD A MÁSIK OLDALÁT SEM.",
+    "endText_328":"TANULJ MEG RENDESEN CSOKOLÁDÉT ENNI, MÁTÉ!",
+    
+    "question_329":"Egy szellem van a házban! Segíts megtalálni!",
+    "hint_329":"HASZNÁLJ EGY KIS LISZTET, HOGY A NYOMÁRA BUKKANJ.",
+    "endText_329":"MEGVAN! MOST PEDIG HÍVD FEL A SZELLEMVADÁSZT.",
+    
+    "question_330":"Kapj el , jobbra repülő madarat.",
+    "hint_330":"FORDÍTSD EL A KÉSZÜLÉKED, HOGY JOBBRA REPÜLJENEK.",
+    "endText_330":"Jobb ma... sok veréb, mint holnap egy túzok.",
+    
+    "question_331":"Itt valami nincs rendjén!",
+    "hint_331":"ÁLLÍTSD BE MEGFELELŐEN A DOBOGÓT.",
+    "endText_331":"MINDJÁRT MÁS!",
+    
+    "question_332":"Mi a válasz?",
+    "hint_332":"5-1=4 ÉS 5+1=6, MEGVAN?",
+    "endText_332":"TÍZBŐL KILENC MATEKTANÁR AJÁNLJA EZT A JÁTÉKOT.",
+    
+    "question_333":"Fúj! Ez a majom bűzlik!",
+    "hint_333":"ÉRD EL, HOGY KIJÖJJÖN A VÍZ AZ EDÉNYBŐL.",
+    "endText_333":"SAMPON SEM ÁRTANA.",
+    
+    "question_334":"Petinek otthon kell maradnia és be kell fejeznie a házi feladatát!",
+    "hint_334":"NEM TUD KIJÖNNI, HA NINCS AJTÓ.",
+    "endText_334":"MOST MAJD AZ ABLAKON ÁT FOG PRÓBÁLKOZNI.",
+    
+    "question_335":"Cirmi meg akarja enni az összes halat.",
+    "hint_335":"KEZDD A LEGKISEBBTŐL.",
+    "endText_335":"HA ÍGY FOLYTATJA, A VÉGÉN MÉG EGY BÁLNÁT IS MEGESZIK!",
+    
+    "question_336":"Eljött az egészséges táplálkozás ideje.",
+    "hint_336":"A CSOKOLÁDÉ NEM TÚL EGÉSZSÉGES.",
+    "endText_336":"KIÁLLTA A GYORSKAJÁK KÖNYÖRTELEN TÁMADÁSAINAK PRÓBÁJÁT.",
+    
+    "question_337":"Ezek az emberek nem kedvelik egymást, és anélkül kell eljutniuk az épülethez, hogy találkoznának.",
+    "hint_337":"TEGYÉL AKADÁLYOKAT AZ ÚTJUKBA, HOGY MEGÁLLÍTSD ŐKET.",
+    "endText_337":"ELKERÜLTÉL EGY TÖMEGVEREKEDÉST.",
+    
+    "question_338":"Itt az ideje a zsírégetésnek.",
+    "hint_338":"MOZGASD KÖRBE-KÖRBE A HAMBURGERT, HOGY MEGFUTTASD A SRÁCOT.",
+    "endText_338":"ÉP TESTBEN ÉP LÉLEK.",
+    
+    "question_339":"QQQQQQQQQQQQ",
+    "hint_339":"QQQQQQQQQQQQ",
+    "endText_339":"QQQQQQQQQQQQ",
+    
+    "question_340":"Derítsd ki, melyikük az anya.",
+    "hint_340":"ÉRD EL, HOGY SÍRJON A BABA.",
+    "endText_340":"GRATULÁLOK! MOST PEDIG NÉZZ SZEMBE EGY ANYA HARAGJÁVAL.",
+    
+    "question_341":"Melyikük tette?",
+    "hint_341":"MI VAN, HA MÉGSEM HALT MEG?",
+    "endText_341":"A 34. PIZZASZELET UTÁN DŐLT KI.",
+    
+    "question_342":"Melyikük ette meg a fagyimat?!",
+    "hint_342":"NÉZD AZ ARCA MÁSIK OLDALÁT.",
+    "endText_342":"SZOBAFOGSÁG!",
+    
+    "question_343":"Melyikük öntötte ki a tejet?",
+    "hint_343":"AZ IGAZI BŰNÖS ELBÚJT VALAHOL.",
+    "endText_343":"HOGYAN NYITOTTA KI A HŰTŐT?!",
+    
+    "question_344":"Melyikük igazi szuperhős?",
+    "hint_344":"EGY SÚLYOS HELYZETTEL TALÁN PRÓBÁRA TEHETED ŐKET.",
+    "endText_344":"AZT HALLOTTAD, HOGY A BOSSZÚÁLLÓK TAGFELVÉTELT HIRDETNEK?",
+    
+    "question_345":"Koppints rájuk sorrendben: Fiú-Nyúl-Madár-Láma-Csirke-Macska",
+    "hint_345":"A CSIRKE ELBÚJT VALAHOVA.",
+    "endText_345":"FURCSA EGY TÁRSASÁG.",
+    "custom1_345":"Koppints rájuk sorrendben",
+    
+    "question_253":"Lila hajat szeretne.",
+    "hint_253":"ÖSSZEKEVERHETSZ KÉT SZÍNT, HOGY LILÁT KAPJ.",
+    "endText_253":"EZÉRT CSINOS KIS BORRAVALÓT FOGSZ KAPNI.",
+    
+    "question_354":"Melyik az árnyéka?",
+    "hint_354":"FIGYELJ, AZ ÁRNYÉKOK HELYET CSERÉLNEK.",
+    "endText_354":"EGY ÁRNYÉK SOSEM HAZUDIK.",
+    
+    "question_356":"Melyik a fagylalt?",
+    "hint_356":"PRÓBÁLD MEGOLVASZTANI A FAGYIKAT.",
+    "endText_356":"A TÖBBI MŰANYAG JÁTÉK VOLT. EGYSZERŰEN MEGPRÓBÁLHATTAD VOLNA MEGNYALNI ŐKET.",
+    
+    "question_357":"Melyik a nyers tojás?",
+    "hint_357":"ELTÖRHETNEK, HA MAGASRÓL LEEJTED ŐKET.",
+    "endText_357":"EGYÜK MEG A FŐTTEKET!",
+    
+    "question_358":"Keverd össze ezt a két folyadékot.",
+    "hint_358":"RÁZD FEL ÚGY, HOGY KÖZBEN BEFOGOD A LOMBIK VÉGÉT.",
+    "endText_358":"EZ A LILA FORMULA MAJD MEGSZABADÍT A PATTANÁSOKTÓL.",
+    
+    "question_359":"Mi a PIN-kód?",
+    "hint_359":"PRÓBÁLD MEG FELNAGYÍTANI A SZÖVEGBUBORÉKOT.",
+    "endText_359":"ENNEK A TELEFONNAK NAGYON KICSI A KÉPERNYŐJE.",
+    
+    "question_360":"Nem bírom ezt a ricsajt!",
+    "hint_360":"PRÓBÁLD BEFOGNI A HANGSZERT AZ UJJADDAL.",
+    "endText_360":"MENJ, ÉS JÁTSSZ MÁSHOL.",
+    
+    "question_361":"Nagyon melege van! Segíts neki!",
+    "hint_361":"NÉZD MEG A ZOKNIJAIT.",
+    "endText_361":"NEM TÚL BÖLCS DOLOG NYÁRON ENNYI ZOKNIT HÚZNI...",
+    
+    "question_362":"Ébreszd fel, kérlek.",
+    "hint_362":"BÁRCSAK LENNE KAPCSOLAT A TELEFON ÉS A FEJHALLGATÓ KÖZÖTT.",
+    "endText_362":"SOHA NE BÍZZ A BLUETOOTH-KAPCSOLATBAN.",
+    
+    "question_363":"Vess véget a zaklatásnak!",
+    "hint_363":"AZ A DOBOZ KÓLA VESZÉLYES LEHET.",
+    "endText_363":"EZ MAJD MÓRESRE TANÍTJA!",
+    
+    "question_364":"Juttasd középre a golyót.",
+    "hint_364":"KOPPINTS A GOLYÓ MOZGATÁSÁHOZ ÉS MEGÁLLÍTÁSÁHOZ. HASZNÁLD A SZÍNEKET, HOGY BELJEBB KERÜLJ.",
+    "endText_364":"KIS GOLYÓNK ELÉG NAGY UTAZÁST TETT MEG.",
+    
+    "question_366":"Tedd boldoggá az összes labdát.",
+    "hint_366":"A KÉKEK A FELSŐ SORBAN SZERETNÉNEK LENNI, A SÁRGÁK AZ ALSÓBAN. A PIROSAK NEM SZERETIK A SÁRGÁKAT.",
+    "endText_366":"OLYAN BOLDOG VAGYOK, HOGY MINDANNYIUKAT ELÉGEDETTNEK LÁTOM.",
+    
+    "question_367":"Hol van a nyúl?",
+    "hint_367":"A NYULAKNAK HOSSZÚ FÜLEI VANNAK.",
+    "endText_367":"VALAMI MACSKASZERŰ IZÉNEK TETTETTE MAGÁT.",
+    
+    "question_368":"Hol van a hercegnő?",
+    "hint_368":"AZ A KARD ALKALMAS LEHET BOROTVÁLKOZÁSRA.",
+    "endText_368":"HERCEGNŐ, APÁD MEGPARANCSOLTA, HOGY TÜSTÉNT TÉRJ VISSZA A KASTÉLYBA!",
+    
+    "question_369":"Segíts kinyitni a széfet.",
+    "hint_369":"KOPPINTS A GOMBOKRA EGY BIZONYOS SORRENDBEN.",
+    "endText_369":"MÁR ANNYI SZÉFET KINYITOTTUNK, MÉGSEM VAGYUNK GAZDAGOK!",
+    
+    "question_370":"Állítsd meg a fenevadat!",
+    "hint_370":"HIÁNYZIK EGY CSAVAR A ROBOTKARBÓL.",
+    "endText_370":"HOGY KERÜLT ODA AZ A CSAVAR?!",
+    
+    "question_371":"Melyik forma kerüljön oda?",
+    "hint_371":"NÉZD MEG ALAPOSAN A MINTÁT. NEM KELL KIZÁRÓLAG EBBŐL A KETTŐBŐL VÁLASZTANOD.",
+    "endText_371":"AZ A VÖRÖS MACSKA LETT A KEZDET ÉS A VÉG.",
+    
+    "question_372":"Segíts neki befejezni a vizsgát.",
+    "hint_372":"AKADÁLYOZD MEG, HOGY AZ ÓRA HOMOKJA LEPEREGJEN.",
+    "endText_372":"MENJÜNK INNEN, MIELŐTT A TANÁR GYANÚT FOGNA.",
+    
+    "question_373":"Keresd meg a titkos 2285-ös számot.",
+    "hint_373":"AZ EGYIK KÖNYV FEJJEL LEFELÉ VAN.",
+    "endText_373":"AZ IDEGENEK 2285-BEN ÉRKEZNEK A FÖLDRE. INVÁZIÓJUK ELSŐ LÉPÉSE A TIKTOK VOLT.",
+    
+    "question_375":"Segíts kiválasztani egy időpontot, mikor találkozzak az idegesítő unokatestvéremmel.",
+    "hint_375":"PRÓBÁLJ MEG EGY LEHETETLEN IDŐPONTOT TALÁLNI. A HÓNAP MEGVÁLTOZTATHATÓ.",
+    "endText_375":"HEHEHEHE! ÍGY MÁR SOHA NEM FOGOK TALÁLKOZNI VELE!",
+    "custom1_375": "MÁJUS",
+    "custom2_375": "JÚNIUS",
+    
+    "question_377":"Pirosra kell festenünk az egészet.",
+    "hint_377":"A VÖDÖRREL MEGÁLLÍTHATOD AZ ECSETET.",
+    "endText_377":"EZZEL AZ ECSETTEL NEM KÖNNYŰ FESTENI!",
+    
+    "question_378":"Mi a helyes válasz?",
+    "hint_378":"3=2+1",
+    "endText_378":"NEM CSALÁS, NEM ÁMÍTÁS, CSAK A JÓ ÖREG MATEMATIKA!",
+    
+    "question_380":"Hogy lesz képes átkelni a zebrán?!",
+    "hint_380":"PRÓBÁLD FELKELTENI VALAMIVEL A RENDŐRSÉG FIGYELMÉT.",
+    "endText_380":"FRISS FÁNKKAL JOBBAN INDUL A NAP.",
+    
+    "question_381":"Találd el az összes céltáblát.",
+    "hint_381":"EGY DUPLA TALÁLAT SZÉTVÁLASZTJA A NYILAT.",
+    "endText_381":"LEGOLAS IS EZT A TRÜKKÖT HASZNÁLJA, HOGY SOSE FOGYJON KI A NYILAKBÓL!",
+    
+    "question_382":"Kell lennie valahol egy rejtett ajtónak.",
+    "hint_382":"PRÓBÁLD MEGNÉZNI A SZŐNYEG ALATT.",
+    "endText_382":"VAJON HOVÁ VEZETHET? TALÁN EGY REJTEKHELYRE, AHOL VALAKI A WC-PAPÍRJAIT TÁROLJA?",
+    
+    "question_383":"Az autóknak el kell hagyniuk a parkolót.",
+    "hint_383":"HÚZD ŐKET VALAMELYIK IRÁNYBA, HOGY ELINDULJANAK. KEZDJ A SARKOKBAN LÉVŐ AUTÓKKAL.",
+    "endText_383":"EZEKNEK A SOFŐRÖKNEK HONNAN VAN JOGOSÍTVÁNYUK?!?",
+    
+    "question_384":"Segíts megütnöm a főnyereményt.",
+    "hint_384":"PRÓBÁLD MEG HASZNÁLNI A GÉPEN LÉVŐ MATRICÁKAT.",
+    "endText_384":"ÍGY KELL ELBÁNNI EGY FÉLKARÚ RABLÓVAL!",
+    
+    "question_385":"Melyikük az imposztor?",
+    "hint_385":"EGY IMPOSZTOR AKKOR CSELEKSZIK, AMIKOR EGYEDÜL MARADT ÁLDOZATÁVAL.",
+    "endText_385":"ITT AZ IDEJE EGY RENDKÍVÜLI MEGBESZÉLÉSNEK, SRÁCOK!",
+    
+    "question_386":"Segítsd győzelemre a Piros Királyságot.",
+    "hint_386":"A LÁNDZSÁS LEGYŐZI A LOVAST, A LOVAS LEGYŐZI A KARDFORGATÓT.",
+    "endText_386":"EZ CSAK HÁROM KATONA VOLT, DE KÉPZELD EL, MILYEN, HA EZREKNEK PARANCSOLSZ!",
+    
+    "question_388":"Kapcsold fel az összes égőt.",
+    "hint_388":"EGY BIZONYOS MINTÁT KÖVESS. KEZDD A BAL FELSŐVEL ÉS FEJEZD BE A BAL ALSÓVAL.",
+    "endText_388":"PRÓBA-SZERENCSE ALAPON MINDENT MEG LEHET OLDANI.",
+    
+    "question_390":"Teljesítsd az akadálypályát.",
+    "hint_390":"AZ UGRÁSHOZ KOPPINTS A FIÚRA. AZ EGYIK AKADÁLY KICSIT MÁS, MINT A TÖBBI.",
+    "endText_390":"BÁRCSAK A FEKVŐRENDŐRÖK MÉRETÉT IS UGYANÍGY MEG TUDNÁM VÁLTOZTATNI.",
+    
+    "question_389":"A zene túl hangos! Érd el, hogy abbamaradjon!",
+    "hint_389":"BEÁLLÍTHATOD A HANGSZÓRÓ HANGEREJÉT. PRÓBÁLD MEG FESZEGETNI A HATÁROKAT.",
+    "endText_389":"TŐLÜNK BIZTOS, HOGY NEM KAPSZ ÚJ HANGSZÓRÓT, HAVER!",
+    
+    "question_391":"A gyerekek nem mennek oda a házához. Segíts neki.",
+    "hint_391":"EGY FARAGOTT ÉS KIVILÁGÍTOTT HALLOWEENI TÖKRE LENNE SZÜKSÉGE.",
+    "endText_391":"CSOKIT VAGY CSALUNK!",
+    
+    "question_392":"Hány valódi szellem van a képen?",
+    "hint_392":"VEDD LE A JELMEZEKET, HOGY MEGKAPD A SZÁMOT.",
+    "endText_392":"TERMÉSZETESEN NULLA! TE TÉNYLEG HISZEL A SZELLEMEKBEN?!",
+    
+    "question_393":"Eljött az édesség-ellenőrzés ideje. Elő a cukorkákkal!",
+    "hint_393":"AZ A KÖLYÖK ÉDESSÉGET REJTEGET A JELMEZE ALATT.",
+    "endText_393":"SZEGÉNY GYEREKEK. A SZÜLEIK TITOKBAN MINDENT FELFALNAK MAJD.",
+    
+    "question_394":"Mindenki éhes és mogorva. Kezdődjön a hálaadási vacsora!",
+    "hint_394":"VÁGD FEL A PULYKÁT, ÉS OSZD SZÉT A TÁNYÉRJAIKON.",
+    "endText_394":"NE LÉGY MOGORVA! A MAI NAP A HÁLÁRÓL SZÓL!",
+    
+    "question_396":"Kezelje a beteget, doktor.",
+    "hint_396":"HASZNÁLD A RÖNTGENT A PROBLÉMÁK MEGTALÁLÁSÁHOZ. CSÚSZTASD RAJTUK VÉGIG AZ UJJADAT, HOGY HELYREHOZD ŐKET.",
+    "endText_396":"MÁGIKUS MÓDON HOZTAD HELYRE A TÖRÖTT CSONTOKAT!",
+    
+    "question_397":"Találd meg a bűnözőt!",
+    "hint_397":"A RÖNTGENES ÁTVILÁGÍTÁS SEGÍTSÉGÉVEL ELLENŐRIZHETED A TÁSKÁKAT ÉS EGYÉB DOLGOKAT.",
+    "endText_397":"KI VETTE FEL EZT A BIZTONSÁGI ŐRT?!",
+    
+    "question_398":"Egy földönkívüli van köztük!",
+    "hint_398":"HASZNÁLD A RÖNTGENT, HOGY MEGTALÁLD AZ IDEGENT.",
+    "endText_398":"AZ IDEGENEK EGYRE KREATÍVABB ÁLRUHÁKKAL RUKKOLNAK ELŐ!",
+    
+    "question_399":"A macska kekszet szeretne.",
+    "hint_399":"A FÖLD GÖMBÖLYŰ.",
+    "endText_399":"EZ A MACSKA ELÉG KICSI BOLYGÓN ÉL.",
+    
+    "question_400":"Koppints , balra előre haladó kék autóra.",
+    "hint_400":"NE KOPPINTS A TOLATVA HALADÓ KÉK AUTÓKRA.",
+    "endText_400":"ÍGY INGÁZOK MUNKÁBA NAP MINT NAP ÉN IS.",
+    
+    "question_401":"Szerezz nekem egy mókust.",
+    "hint_401":"A VARÁZSLÁSHOZ KOPPINTS A VARÁZSLÓRA. AZ ÁLLATOK KÉPESEK HELYET CSERÉLNI.",
+    "endText_401":"EZ AZTÁN A FURCSA VARÁZSIGE!",
+    
+    "question_402":"Javítsd ki az egyenletet.",
+    "hint_402":"LŐJ AZ ÁGYÚVAL, HOGY A SZIMBÓLUMOK A HELYÜKRE KERÜLJENEK.",
+    "endText_402":"EZT AZ ÁGYÚT DOLGOZAT KÖZBEN IS HASZNÁLHATOD.",
+    
+    "question_403":"A kék autónak kell megnyernie a versenyt.",
+    "hint_403":"A TÚL SOK NITRÓ HASZNÁLATA VESZÉLYES LEHET.",
+    "endText_403":"ÉLETEM LEGKÖNNYEBB GYŐZELME.",
+    
+    "question_404":"Még egy szakadék ugribugri macskánk előtt.",
+    "hint_404":"AZ UGRÁS GOMB HASZNOS LEHET.",
+    "endText_404":"EZ SZÓ SZERINT EGY UGRÁS GOMB VOLT.",
+    
+    "question_405":"Szerezz gólt.",
+    "hint_405":"A LABDÁT A 'RAJTA!' GOMBRA KOPPINTÁSSAL LŐHETED EL. KERÜLD EL A RIVÁLIS JÁTÉKOSOKAT.",
+    "endText_405":"JOSÉ MOURINHO BÜSZKE LENNE RÁD.",
+    
+    "question_406":"Koppints rájuk ebben a sorrendben: ",
+    "hint_406":"ELŐBB LE KELLENE ÍRNOD ŐKET.",
+    "endText_406":"IGAZÁN ÉLÉNK A TENGERI ÉLŐVILÁG.",
+    
+    "question_407":"Mentsd meg az egeret a macskáktól.",
+    "hint_407":"A SAJT ERŐSEBBÉ TESZI AZ EGERET.",
+    "endText_407":"MINDENKI FEDEZÉKBE, ITT VAN CIN-KONG!",
+    
+    "question_408":"Segíts a kislánynak találkozni az anyukájával.",
+    "hint_408":"HÚZD A KÉPERNYŐT A KISLÁNY MOZGATÁSÁHOZ. HASZNÁLD A KÖVET A LÉPÉSEINEK SZABÁLYZÁSÁHOZ.",
+    "endText_408":"A NŐ MIÉRT MENEKÜLT A LÁNYA ELŐL?!",
+    
+    "question_409":"Koppints az állatokra a legkisebbtől a legnagyobbig.",
+    "hint_409":"LEHET, HOGY VAN EGY NEGYEDIK ÁLLAT IS VALAHOL.",
+    "endText_409":"EGY FA SOSEM LESZ KÉPES TELJESEN ELREJTENI TÉGED.",
+    
+    "question_410":"Melyik szám a legmagasabb?",
+    "hint_410":"A MÉRÉSHEZ EGYENLŐ ALAPRA KELL HELYEZNI ŐKET.",
+    "endText_410":"EZ A SZÁM BIZTOS JÓ SOK TEJET IVOTT.",
+    
+    "question_411":"A macska újra repülni szeretni.",
+    "hint_411":"VALAMI NEHEZET KELL LEEJTENED, HOGY A MACSKÁT KI TUDD LŐNI A HINTÁRÓL.",
+    "endText_411":"REPÜLŐ MACSKÁKKAL TÖLTJÜK MEG A LÉGKÖRT.",
+    
+    "question_412":"Segíts a szellemnek kijutni a labirintusból.",
+    "hint_412":"KÖVESD A SZELLEM HELYZETÉT AZ UJJADDAL.",
+    "endText_412":"A SZELLEM MEGÍGÉRTE, HOGY SEGÍTSÉGEDÉRT CSERÉBE NEM FOG KÍSÉRTENI TÉGED.",
+    
+    "question_413":"Végezz a zombikkal!",
+    "hint_413":"A PÓZ MEGVÁLTOZTATÁSÁHOZ CSÚSZTASD VÉGIG UJJADAT A NINDZSÁN. FIGYELJ A KARDJÁNAK IRÁNYÁRA.",
+    "endText_413":"EZ VOLT A THE WALKING DEAD: JAPAN PILOT EPIZÓDJA.",
+    
+    "question_414":"Segíts a macskának elkapni az egeret.",
+    "hint_414":"NE LÉPJ BE AZ LABIRINTUSBA, HANEM PRÓBÁLD MEG KÍVÜL.",
+    "endText_414":"EZ CSAK EGY VADÁSZGYAKORLAT, VALÓJÁBAN BARÁTOK.",
+    
+    "question_415":"Hol van a fehér bárányom?",
+    "hint_415":"A LÁMA NYÁLA LETISZTÍTJA A FEKETE FESTÉKET.",
+    "endText_415":"ENNEK A LÁMÁNAK ELÉG TÚLZOTT A NYÁLTERMELÉSE.",
+    
+    "question_416":"Hogyan néznének ki ezek a dobozok elölről?",
+    "hint_416":"3 ALUL, 2 FELÜL.",
+    "endText_416":"TUDOD, HOGYAN MŰKÖDIK A PERSPEKTÍVA.",
+    
+    "question_417":"Melegen kell tartanunk őket egész éjszaka.",
+    "hint_417":"EGY MÁSIK TÁBORTÜZET IS MEGGYÚJTHATSZ.",
+    "endText_417":"KÖZELEBB KELLENE ALUDNIUK EGYMÁSHOZ!",
+    
+    "question_418":"A Kék seregnek kell győznie.",
+    "hint_418":"MOZGASD A KÉK KATONÁKAT. A KARDOK A LÁNDZSÁKAT, A LÁNDZSÁK A LOVAKAT, A LOVAK PEDIG A KARDOKAT ÜTIK.",
+    "endText_418":"IGAZI TAKTIKAI ZSENI VAGY!",
+    
+    "question_419":"Hol lehet a kém?!",
+    "hint_419":"NÉZD MEG A FESTMÉNYT.",
+    "endText_419":"A SZEMEI ELÁRULTÁK!",
+    
+    "question_420":"Mentsd meg a fiút!",
+    "hint_420":"VAN VALAMI, AMI LENYUGTATHATJA A SZÖRNYET.",
+    "endText_420":"Á, SZÓVAL A PLÜSSMACIRÓL SZÓLT EZ AZ EGÉSZ.",
+    
+    "question_421":"Érd el, hogy lefogyjon a fiú.",
+    "hint_421":"SZORÍTSD MEG AZ ÖVÉT.",
+    "endText_421":"MÁR ELŐRENDELHETŐ A 'CSODAÖVDIÉTA' CÍMŰ FOGYÓKÚRÁS KÖNYVÜNK!",
+    
+    "question_422":"Fedd fel a titkot.",
+    "hint_422":"A haja elfed valamit.",
+    "endText_422":"ÉLŐ SZÖVET FÉMVÁZON!",
+    
+    "question_423":"Bedöglött az autóm!",
+    "hint_423":"A GRAVITÁCIÓ SEGÍTHET.",
+    "endText_423":"REMÉLJÜK, NEM LESZ TELE AZ ÚT EMELKEDŐKKEL.",
+    
+    "question_424":"Hozd egyensúlyba a hintát.",
+    "hint_424":"TÁVOLÍTS EL EGY FÖLÖSLEGES SZÁMOT.",
+    "endText_424":"EGY NULLÁNAK HOGYAN LEHET SÚLYA?",
+    
+    "question_425":"Minden vágya, hogy nagy <color=white>izmai</color> legyenek.",
+    "hint_425":"PRÓBÁLD FELNAGYÍTANI AZ 'IZMAIT'.",
+    "endText_425":"EZT A FAJTA IZOMNÖVELÉST NE PRÓBÁLD KI OTTHON...",
+    
+    "question_426":"Vár minket a gazdagság!",
+    "hint_426":"KELTSD FEL A KUTYA FIGYELMÉT, MAJD VÁLTOZTASD KRIPTOVALUTÁVÁ.",
+    "endText_426":"EZT A SZINTET EREDETILEG ELON MUSK SZPONZORÁLTA VOLNA, DE VÉGÜL MEGGONDOLTA MAGÁT. Ő BAJA...",
+    
+    "question_427":"Nincs mivel befejeznie a sminkjét.",
+    "hint_427":"A KENDŐT BESZÍNEZHETED AZ AJKAIN LÉVŐ RÚZZSAL. SZEMPILLÁKAT A HAJÁBAN TALÁLSZ.",
+    "endText_427":"SMINK NÉLKÜL JOBBAN NÉZETT KI.",
+    
+    "question_428":"Rekkenő a hőség, segíts ennek a szegény srácnak!",
+    "hint_428":"SZÚRD KI VALAMI HEGYESSEL A NAPOT.",
+    "endText_428":"EGÉSZ ÉLETEMBEN ROSSZUL HASZNÁLTAM AZ ESERNYŐIMET!",
+    
+    "question_429":"A kutyus meg szeretné ízlelni a havat.",
+    "hint_429":"AZ ESŐ NAGY MAGASSÁGBAN HÓVÁ ALAKUL.",
+    "endText_429":"JÓTANÁCS: A SÁRGA HAVAT SOSE KÓSTOLD MEG.",
+    
+    "question_430":"Magasabb szeretne lenni.",
+    "hint_430":"A STATIKUS ELEKTROMOSSÁG ÉGNEK TUDJA MERESZTENI A HAJÁT. DÖRZSÖLD A FÉSŰT A PÓLÓJÁHOZ.",
+    "endText_430":"NŐJ MEG ÚGY, MINT MARGE SIMPSON!",
+    
+    "question_431":"Mentsd meg a Titanicot!",
+    "hint_431":"BÁRCSAK MEGVILÁGÍTANÁ A HOLD A JÉGHEGYET!",
+    "endText_431":"MEGVÁLTOZTATTAD A TÖRTÉNELMET!",
+    
+    "question_432":"Vidítsd fel őket.",
+    "hint_432":"KICSIT FURA AZ A SZAKÁLL, NEM GONDOLOD?",
+    "endText_432":"OSZTOZNI SZÉP DOLOG.",
+    
+    "question_433":"Egyikük elég gyanús!",
+    "hint_433":"TISZTÍTSD MEG A SZKAFANDEREKET.",
+    "endText_433":"SZERETSZ TE LENNI AZ IMPOSZTOR? PRÓBÁLD KI A <link=\"imposter\"><u><color=blue>BECOME THE IMPOSTER!</color></u></link> NEVŰ JÁTÉKUNKAT!",
+    
+    "question_434":"Smith ügynöknek nyakon kell csípnie a tolvajt!",
+    "hint_434":"A TOLVAJ NEM KÉPES NEHÉZ ZSÁKKAL MENEKÜLNI.",
+    "endText_434":"HA TÖBB SMITH ÜGYNÖK-KALANDRA VÁGYSZ, PRÓBÁLD KI A <link=\"bt2\"><u><color=blue>BRAIN TEST 2!</color></u></link>-T!",
+    
+    "question_435":"Hol van a négyfoltos kutya?",
+    "hint_435":"VAN RAJTA EGY KOSZFOLT.",
+    "endText_435":"GYERE IDE, KUTYULI!",
+    
+    "question_436":"Melyikük egy igazi rosszcsont?",
+    "hint_436":"LEHET VALAHOL EGY HARMADIK GYEREK.",
+    "endText_436":"HA KEDVELED AZ ILYEN FEJTÖRŐKET, NE HAGYD KI A <link=\"whois\"><u><color=blue>WHO IS!</color></u></link> NÉVRE KERESZTELT JÁTÉKUNKAT!",
+    
+    "question_437":"Merre van a cápa?",
+    "hint_437":"A CÁPÁKAT VONZZA A VÉR.",
+    "endText_437":"FIATAL JÁTÉKOSAINKRA VALÓ TEKINTETTEL TÖBBET INKÁBB NEM MUTATUNK.",
+    
+    "question_438":"Hozd össze a szerelmeseket.",
+    "hint_438":"RENDEZD EGY SORBA A MEGEGYEZŐ GYÜMÖLCSÖKET.",
+    "endText_438":"TUDOD, HOGYAN MŰKÖDNEK AZ ILYEN JÁTÉKOK? AKKOR A <link=\"blast_friends\"><u><color=blue>BLAST FRIENDS</color></u></link> CSAK RÁD VÁR!",
+    
+    "question_449":"Segíts neki megnyerni a törökméz-játékot.",
+    "hint_449":"MEG KELL NYALNIA A CUKROT.",
+    "endText_449":"MÉRETES NYELV, MIT NE MONDJAK!",
+    
+    "question_450":"Segíts legyőzni az öregurat.",
+    "hint_450":"VÁLASSZ, MAJD CSUKD ÖSSZE A TENYERÉT, HOGY ÚJRA VÁLASZTHASS.",
+    "endText_450":"ELÉG ILLETLEN DOLOG EGY IDŐS EMBER ESZÉN ÍGY TÚLJÁRNI!",
+    "odd":"PÁRATLAN",
+    "even":"PÁROS",
+    
+    "question_451":"Át kell jutnia az üveghídon.",
+    "hint_451":"KOPPINTS AZ ÜVEGLAPOKRA, HOGY KIDERÍTSD, MENNYIRE STRAPABÍRÓAK.",
+    "endText_451":"CSAK Ő MARADT TALPON. AZ UTOLSÓ JÁTÉKBAN ÖNMAGA ELLEN KELL MAJD HARCOLNIA?!",
+    
+    "question_452":"Épségben be kell érnie a célba!",
+    "hint_452":"A HOMOK MEGVAKÍTHATJA A KISLÁNYT.",
+    "endText_452":"HA ILYEN BRUTÁLIS JÁTÉKOKBAN CSALSZ, AZ NEM MINŐSÜL CSALÁSNAK.",
+    
+    "question_453":"Meg kell nyerniük a kötélhúzást.",
+    "hint_453":"HÍVD SEGÍTSÉGÜL A GRAVITÁCIÓT.",
+    "endText_453":"A SOROZATBAN MIÉRT NEM EZT A TAKTIKÁT ALKALMAZTÁK?",
+    
+    "question_454":"Segíts elrepülni a Mikulásnak.",
+    "hint_454":"ADJ RUDOLFNAK EGY PIROS ORROT.",
+    "endText_454":"RUDOLF NINCS ELRAGADTATVA ATTÓL, HOGY A MIKULÁS ÁLLANDÓAN ELCSENI AZ ORRÁT.",
+    
+    "question_455":"Segítség, lezuhannak!",
+    "hint_455":"RENDEZD A RÉNSZARVASOKAT PÁRBA A SÚLYUK SZERINT.",
+    "endText_455":"HUHH! MEGMENTETTED A KARÁCSONYT!",
+    
+    "question_456":"Nincs elég meleg a szobában.",
+    "hint_456":"ADD NEKIK AZ AJÁNDÉKAIKAT, HOGY LEGYEN SZÉN A KANDALLÓBA.",
+    "endText_456":"TOMI HUNCUTSÁGAI VÉGRE KIFIZETŐDTEK!",
+    
+    "question_457":"Fejezd be a karácsonyfa feldíszítését.",
+    "hint_457":"CSILLAGOKRA LELHETSZ, HA A KAPCSOLÓVAL ELSZÉDÍTED A MACSKÁT.",
+    "endText_457":"A DEKORÁLÓIPAR KI NEM ÁLLHATJA EZT A MACSKÁT!",
+    
+    
+    
+    
+    
+    
+    
+    "custom1_359":"A jelszó ...",
+    "custom2_359":"A jelszó ... 4285",
+
+    "gdpr_consent_title":"Üdv!",
+    "gdpr_consent_text":"Az Elfogadás és folytatás gomb megnyomásával megerősíted, hogy átnézted és elfogadtad a <link=\"https://unicostudio.co/terms.html\"><#C7F463>Felhasználási feltételeket</color></link> és az <link=\"https://unicostudio.co/privacy.html\"><#C7F463>Adatvédelmi irányelveket</color></link>.",
+    "gdpr_consent_button":"ELFOGADÁS És FOLYTATÁS"
+
+}

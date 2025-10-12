@@ -1,0 +1,13 @@
+{
+"companyName": "Cape Of Good Games",
+"productName": "BT Offroad",
+"dataUrl": "BTOffroad.data.unityweb",
+"asmCodeUrl": "BTOffroad.asm.code.unityweb",
+"asmMemoryUrl": "BTOffroad.asm.memory.unityweb",
+"asmFrameworkUrl": "BTOffroad.asm.framework.unityweb",
+"TOTAL_MEMORY": 201326592,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000"
+}

@@ -1,0 +1,1881 @@
+{
+    "watch_video_title":"INGIN TONTON VIDEO?",
+    "watch_video_button":"TONTON",
+    "skip_level_title":"NAK LANGKAU TAHAP INI?",
+    "skip_level_button":"LANGKAU",
+    "gift_tomorrow":"DATANG LAGI ESOK!",
+    "level_title":"TAHAP ",
+    "settings_english":"Melayu",
+    "settings_title":"TETAPAN",
+    "settings_sound":"BUNYI",
+    "settings_music":"MUZIK",
+    "settings_notification":"NOTIFIKASI",
+    "settings_support":"SOKONG",
+    "settings_share":"KONGSI",
+    "settings_restore":"PULIHKAN SEMULA",
+    "settings_language":"BAHASA",
+    "settings_share_text":"Permainan yang hebat! Saya syorkan permainan ini. ",
+    "settings_email_text":"Sila taip mesej AWAK di sini    ________  Please Do Not Modify This  Model:   OS: {1}  Application Version: {2}  ________",
+    "levels_title":"TAHAP",
+    "levels_skipped":"LANGKAU",
+    "nextLevel_next_button":"SETERUSNYA",
+    "shop_title":"KEDAI",
+    "shop_bundle1_title":"TAWARAN TERHEBAT",
+    "shop_bundle2_title":"PILIHAN TERBAIK",
+    "shop_sale":"DISKAUN %",
+    "shop_remove_ads":"buang iklan",
+    "shop_purchased":"DIBELI",
+    "shop_loading":"memuatkan",
+    "startScreen_title":"UJI MINDA",
+    "startScreen_text":"SEDIA UNTUK UJI MINDA ANDA?",
+    "startScreen_button":"SEDIA",
+    "rateScreen_title":"BERI RATING",
+    "rateScreen_hint":"BERI 5 BINTANG :)",
+    "rateScreen_question":"Tolong beri rating untuk permainan kami",
+    "rateScreen_thanks":"Terima kasih atas sokongan anda.",
+    "vipPanel_becomevip":"JADI VIP!",
+    "vipPanel_get":"DAPATKAN",
+    "vipPanel_and":"DAN...",
+    "vipPanel_remove_ads":"buang iklan",
+    "vipPanel_double_daily_gifts":"hadiah harian berganda",
+    "vipPanel_cheaper_skips":"langkau lebih murah",
+    "vipPanel_cheaper_hints":"petunjuk lebih murah",
+    "vipPanel_try_for_free":"CUBA SECARA PERCUMA",
+    "vipPanel_3_days_free":"3 hari secara percuma",
+    "vipPanel_price":" seminggu",
+    "vipPanel_disclaimer":"Premium Mingguan akan diperbaharui secara automatik pada kadar {2} setiap minggu selepas tempoh percubaan percuma 3 hari tamat. Bayaran akan dicaj ke akaun  anda selepas tempoh percubaan pembelian tamat. Langganan akan diperbaharui secara automatik, kecuali jika fungsi \"auto-renew\" telah dimatikan sekurang-kurangnya 24 jam sebelum tempoh semasa. Anda boleh mengurus dan mematikan auto pembaharuan semasa dengan pergi ke tetapan akaun anda di {1} selepas pembelian.",
+    "vipPanel_privacy_policy":"DASAR PRIVASI",
+    "vipPanel_terms_of_use":"TERMA PENGGUNAAN",
+    "bonusPanel_pick_bonus":"PILIH GANJARAN BONUS",
+    "bonusPanel_no_thanks":"TIDAK, TERIMA KASIH",
+    "bonusPanel_collect":"KUMPUL",
+    "noti_text1": "Datang dan uji diri AWAK dengan teka-teki lucu.",
+    "noti_text2": "Teka-teki ini akan buat AWAK senyum",
+    "noti_text3": "Masa untuk main :)",
+    "crosspromo_play":"MAIN",
+    "crosspromo_title":"PERMAINAN KAMI",
+    "free":"PERCUMA",
+
+    "submit":"HANTAR",
+    "reset":"RESET",
+    "next_levels":"TAHAP BAHARU",
+    "coming_soon":"AKAN DATANG!",
+
+    "level_50_title":"TAHAP",
+    "knights":"SATRIA",
+    "barbarians":"BANGSA GASAR",
+    "leve":"LEVE ",
+    "red":"MERAH",
+    "purple":"UNGU",
+    "blue":"BIRU",
+    "black":"HITAM",
+    "yellow":"KUNING",
+    "orange":"OREN",
+    "front":"Depan",
+    "back":"Belakang",
+    "go":"MULA!",
+
+    "dog":"ANJING",
+    "kit":"KUCING",
+    "calf":"ANAK",
+    "mitty":"LEMBU",
+
+    "march":"MAC",
+    "february":"FEBRUARI",
+    "may":"APRIL",
+
+    "victory_1":"VIC",
+    "victory_2":"TO",
+    "victory_3":"RY",
+
+    "turn_right":"PUSING KANAN",
+
+    "jamaica":"KUALA LUMPUR",
+    "france":"PENANG",
+    "madagascar":"IPOH",
+    "usa":"JOHOR BAHRU",
+    "mars":"MARS",
+    "mordor":"SEMUA",
+
+    "out_of_order":"TAK BOLEH GUNA",
+
+    "battle":"PERTANDINGAN",
+
+    "fight":"LAWAN!",
+    "jump":"LOMPAT!",
+    "fire":"TEMBAK!",
+
+    "new_york":"Penang ",
+    "new_jersey":"Johor Bahru",
+
+
+    "question_1": "Manakah satu paling besar?",
+    "hint_1": "LIHAT PADA BENTUK DENGAN TELITI.",
+    "endText_1": "BENTUK SINGA YANG PALING BESAR.",
+
+    "question_2": "Apakah nombor yang tersembunyi?",
+    "hint_2": "CUBA FIKIR DI LUAR KOTAK",
+    "endText_2": "BERFIKIR DARI SUDUT LAIN AKAN MEMBANTU ANDA.",
+
+    "question_3": "Bakar semua!",
+    "hint_3": "JANGAN TENGOK GAMBAR SAHAJA.",
+    "endText_3": "ANDA DAH HABIS BAKAR ‘SEMUA’.",
+
+    "question_4": "Berapa banyakkah lubang pada baju ini? Tengok DEPAN dan juga BELAKANG",
+    "hint_4": "TENGOK DI SEBELAH JUGA.",
+    "endText_4": "KADANG-KADANG, KENA FIKIR DALAM 3D.",
+
+    "question_5": "Macam mana nak kembangkan bunga ini?",
+    "hint_5": "IA TERSEMBUNYI DI SEBALIK AWAN, DAPAT TEKA?",
+    "endText_5": "CANTIKNYA BUNGA!",
+
+    "question_6": "Mana satukah yang paling dekat dengan kita?",
+    "hint_6": "KEPADA 'KITA'",
+    "endText_6": "INGAT, SEMUA ADALAH SEBAHAGIAN DARIPADA SOALAN.",
+
+    "question_7": "Klik pada haiwan, daripada yang terkecil hingga ke terbesar.",
+    "hint_7": "SAYA CAKAP HAIWAN TADI :)",
+    "endText_7": "POKOK BUKAN HAIWAN!",
+
+    "question_8": "Tangkap  epal yang jatuh!",
+    "hint_8": "EPAL YANG JATUH SAHAJA!",
+    "endText_8": "WOW, SAYA TAK TAHU MACAM MANA EPAL BOLEH TERBANG?!",
+
+    "question_9": "Saya telah memotong pelumba kedua, apakah kedudukan saya sekarang?",
+    "hint_9": "ANTARA SOALAN YANG MENGUJI MINDA, JOM JAWAB!",
+    "endText_9": "SEKARANG, ANDA SEPATUTNYA SUDAH MENDAHULUI JUARA.",
+
+    "question_11": "Seret ke kiri untuk buka kunci",
+    "hint_11": "BACA DENGAN TELITI.",
+    "endText_11": "SAYA BERJAYA TIPU ANDA, KAN?",
+
+    "question_12": "Sila beri kucing makan, dia lapar!",
+    "hint_12": "ADA LEBIH DARI SEEKOR KUCING DI DALAM SKRIN.",
+    "endText_12": "PEKATAAN \"KUCING\" JUGA KUCING.",
+
+    "question_13": "Mana bola hijau?",
+    "hint_13": "MACAM MANA NAK DAPATKAN WARNA HIJAU?",
+    "endText_13": "BIRU + KUNING = HIJAU, INIKAN PENGETAHUAN AM...",
+
+    "question_14": "Cari 'kesIlapan' di sini.",
+    "hint_14": "TENGOK DAN BACA SOALAN BETUL-BETUL.",
+    "endText_14": "KRITIKAN SENDIRI MEMANG MEMBINA!",
+
+    "question_15": "Kata orang                       akan membunuh kucing. Bagaimanakah anda akan lakukannya?",
+    "hint_15": "APA YANG AKAN BUNUH KUCING? FIKIR DAN GUNA!",
+    "endText_15": "TAK APA, DIA MASIH ADA 8 NYAWA.",
+
+    "question_16": "Berapa kepingkah pizza yang ada?",
+    "hint_16": "CARI LEBIH BANYAK KEPINGAN PIZZA DI BELAKANG PIZZA SEDIA ADA.",
+    "endText_16": "SENTIASA CARI JIKA ADA LEBIH BANYAK LAGI.",
+
+    "question_17": "Matikan suis! Terlalu bahaya!",
+    "hint_17": "TENGOK CEREK INI BETUL-BETUL.",
+    "endText_17": "MEMANG SENANG!",
+
+    "question_18": "Siapakah yang menang?",
+    "hint_18": "BIAR MEREKA BERLANGGAR DAN LIHAT KEPUTUSAN.",
+    "endText_18": "INI ADALAH PERANG PERKATAAN.",
+
+    "question_19": "nan",
+    "hint_19": "INGAT, MULA-MULA LAKUKAN OPERASI DARAB DAHULU.",
+    "endText_19": "INI TEKNIK ASAS MATEMATIK!",
+
+    "question_20": "Tekan nombor dalam turutan: 1, 49, 80, 5, 7, 11, 101",
+    "hint_20": "MUNGKIN ANDA BOLEH CUBA TULIS ATAS KERTAS DULU.",
+    "endText_20": "WAH, BAGUSNYA MEMORI ANDA!",
+    "custom1_20": "Tekan nombor dalam turutan",
+
+    "question_21": "Suhu terlalu sejuk di luar, biar kucing itu masuk.",
+    "hint_21": "BUKA PINTU DENGAN GRAVITI.",
+    "endText_21": "KUCING BOLEH BEREHAT SEKARANG.",
+
+    "question_23": "Berapa banyakkah bulan yang ada 28 hari?",
+    "hint_23": "31 > 28",
+    "endText_23": "SEMUANYA ADA SEKURANG-KURANGNYA 28 HARI!",
+
+    "question_24": "Tolong selamatkan budak ini!",
+    "hint_24": "GALI TULANG.",
+    "endText_24": "ANDA MEMANG PENYELAMAT KEADAAN!",
+
+    "question_26": "Mana si biri-biri         ?",
+    "hint_26": "ANDA BOLEH CAT WARNA HITAM PADA MANA-MANA BIRI-BIRI.",
+    "endText_26": "ITU DIA!",
+
+    "question_27": "Apa yang tak kena dalam gambar ini?",
+    "hint_27": "TENGOK TANGAN MEREKA BETUL-BETUL.",
+    "endText_27": "DIA ADA 6 JARI.",
+
+    "question_28": "Tolong pasangkan semua lampu.",
+    "hint_28": "SEMUA LAMPU 'DALAM' SKRIN.",
+    "endText_28": "YANG KETIGA DAH ROSAK, JADI IA BOLEH DIBUANG.",
+
+    "question_29": "10 = 25",
+    "hint_29": "APA YANG SAMA BOLEH BERTUKAR KEDUDUKAN.",
+    "endText_29": "TAK PAYAH PIKIR PANJANG.",
+
+    "question_30": "Apakah huruf terakhir dalam ayat?",
+    "hint_30": "DALAM 'ABJAD'",
+    "endText_30": "HARAP ANDA TAK CUBA 'Z'",
+
+    "question_31": "Macam mana bas nak lalu?",
+    "hint_31": "CUBA ZUM UNTUK KECILKAN ATAU BESARKAN GAMBAR.",
+    "endText_31": "BAS INI ADALAH BAS-KENIT!",
+
+    "question_32": "Ada penceroboh dalam kumpulan kucing!",
+    "hint_32": "ANDA BOLEH KLIK DI SEMUA TEMPAT",
+    "endText_32": "ITU DIA! SI TIKUS!",
+
+    "question_33": "Selamatkan dia!",
+    "hint_33": "GURUH AKAN BERLAKU BILA AWAN BERSENTUAN.",
+    "endText_33": "DIA DAH TERIMA BALASANNYA!",
+
+    "question_34": "Tekan butang biru 6 kali.",
+    "hint_34": "CARI BUTANG BIRU YANG HILANG.",
+    "endText_34": "BUTANG NI MEMANG LICIK!",
+
+    "question_37": "Berapa banyakkah bola yang ada?",
+    "hint_37": "ANDA TAK BOLEH TENGOK DALAM BAKUL ITU.",
+    "endText_37": "BAGUS, JANGAN PERCAYA SANGAT APA YANG ADA DALAM BAKUL.",
+
+    "question_38": "Betulkan persamaan ini.",
+    "hint_38": "PADAMKAN NOMBOR YANG TAK DIPERLUKAN.",
+    "endText_38": "JANGAN TAKUT UNTUK PADAMKAN NOMBOR!",
+
+    "question_39": "Si Comel masih lapar, boleh tolong?",
+    "hint_39": "MUNGKIN ADA TIKUS DALAM TIN ITU.",
+    "endText_39": "SI COMEL NI DAH KENA MULA DIET!",
+
+    "question_41": "Buat mereka jatuh cinta.",
+    "hint_41": "MUNGKIN LELAKI ITU AKAN TERJAGA BILA BELON DIPECAHKAN.",
+    "endText_41": "CINTA PANDANG PERTAMA!",
+
+    "question_42": "Lengkapkan semua taha.",
+    "hint_42": "ADA BENDA YANG TAK CUKUP DALAM SOALAN INI.",
+    "endText_42": "UI MEMANG AKAN TOLONG ANDA.",
+    "custom1_42": "Lengkapkan semua tahap.",
+
+    "question_43": "Teruk betul nombor dadu! Tolong saya.",
+    "hint_43": "GOYANG, GONCANG!",
+    "endText_43": "WOW, BERTUAH BETUL!",
+
+    "question_44": "Anak kucing dipanggil apa?",
+    "hint_44": "JAWAPAN DALAM SOALAN.",
+    "endText_44": "SENANG JE, KAN?",
+
+    "question_45": "Kucing mana berada di sebelah kanan?",
+    "hint_45": "TENGOK DENGAN LEBIH TELITI UNTUK CARI YANG BETUL.",
+    "endText_45": "DAH JUMPA MANA DIA BERSEMBUNYI!",
+
+    "question_46": "Saya pernah tengok teka-teki ini di Reddit. Mana lembu jantan?",
+    "hint_46": "WARNA \"RED\" AKAN BUAT LEMBU JANTAN NAIK ANGIN.",
+    "endText_46": "TU PUN DIA, SI LEMBU JANTAN.",
+
+    "question_47": "Masa saya berumur 6 tahun, adik saya separuh umur saya, dan abang saya dua kali umur saya. 5 tahun kemudian, berapakah umur abang dan kakak saya?",
+    "hint_47": "ADIK UMUR 3. ABANG UMUR 12. APA UMUR MEREKA 5 TAHUN KEMUDIAN?",
+    "endText_47": "TAK ADA HELAH KALI INI.",
+
+    "question_48": "3+8=11",
+    "hint_48": "BUAT SAHAJA!",
+    "endText_48": "YANG LAIN MEMANG TAK BETUL!",
+
+    "question_49": "Haiwan peliharaan anda lemas, yang mana satukah anda akan selamatkan?",
+    "hint_49": "ANDA ADA 5 JARI, GUNA LAH.",
+    "endText_49": "BAGUS! DAPAT SELAMATKAN SEMUA!",
+
+    "question_50": "Bagaimana nak jadikan persamaan ini betul?",
+    "hint_50": "KITA DALAM TAHAP BERAPA SEKARANG? NOMBOR TAHAP INI BOLEH TOLONG ANDA.",
+    "endText_50": "CARI JAWAPAN DI MANA-MANA!",
+
+    "question_51": "Tolong cari stoking saya.",
+    "hint_51": "TENGOK DARI SUDUT LEBIH LUAS.",
+    "endText_51": "TERIMA KASIH, KAKI SAYA SEJUK!",
+
+    "question_52": "Tolong kereta ini menyeberangi jambatan.",
+    "hint_52": "ANDA KENA TAHAN BAHAGIAN YANG LEMAH DENGAN JARI.",
+    "endText_52": "WAH, BAHAYA BETUL TADI.",
+
+    "question_53": "Alif lapar, tolong bagi dia makanan.",
+    "hint_53": "SUP TERLALU PANAS DAN PERLUKAN GARAM.",
+    "endText_53": "ALIF DAH HABIS MAKAN!",
+
+    "question_55": "Tolong buka soda.",
+    "hint_55": "CUBA GONCANGKAN BOTOL.",
+    "endText_55": "JOM MINUM!",
+
+    "question_56": "Di manakah kucing atas perkataan ini?",
+    "hint_56": "LETAK PERKATAAN DI BAWAH KUCING.",
+    "endText_56": "KADANG-KADANG, KITA KENA CARI JAWAPAN MACAM INI.",
+
+    "question_57": "nan",
+    "hint_57": "KIRA BERAPA BANYAK KAWASAN BERSILANG.",
+    "endText_57": "MEMANG MUDAH UNTUK ORANG PINTAR SEPERTI ANDA",
+
+    "question_58": "Gelap sangat! Saya tak boleh cari kucing saya!",
+    "hint_58": "KALAU LAH KITA ADA SUMBER CAHAYA...",
+    "endText_58": "UI MUNCUL SEKALI LAGI UNTUK SELAMATKAN KEADAAN!",
+
+    "question_59": "Sampai ke garisan penamat sebelum masa tamat.",
+    "hint_59": "KALAU LAH PEMASA ITU TIADA...",
+    "endText_59": "EH, BOLEH KE MACAM TU?",
+
+    "question_60": "Dapatkan nombor yang paling besar.",
+    "hint_60": "HANYA TULISKAN NOMBOR YANG PALING BESAR!",
+    "endText_60": "UNTUK APAKAH PERSAMAAN TADI?",
+
+    "question_61": "TOLONG, bayi ini menangis!",
+    "hint_61": "PUSINGKAN SKRIN TELEFON ANDA UNTUK TERBALIKKAN GRAVITI.",
+    "endText_61": "BAYI SUDAH TIDAK MENANGIS!",
+
+    "question_62": "Hentikan pertengkaran ini!",
+    "hint_62": "ANDA KENA PATAHKAN BISKUT.",
+    "endText_62": "BISKUT BOLEH SELESAIKAN SEMUA MASALAH!",
+
+    "question_63": "Setiap saudara lelaki ini ada seorang kakak. Berapa ramaikah adik-beradik yang ada?",
+    "hint_63": "MEREKA ADA SEORANG KAKAK SAHAJA.",
+    "endText_63": "KALAU ANDA JAWAB 10, MEMANG SALAH!",
+
+    "question_64": "Monyet mana yang tak sihat?",
+    "hint_64": "GONCANG TELEFON MACAM KERETA.",
+    "endText_64": "KESIAN MONYET, ANDA GONCANG KUAT BETUL TADI.",
+
+    "question_65": "Masukkan gajah ke dalam peti sejuk.",
+    "hint_65": "MULA-MULA BUKA PETI SEJUK.",
+    "endText_65": "WOW, SUNGGUH MUDAH!",
+
+    "question_66": "Kita perlukan 10 ringgit!",
+    "hint_66": "POKET DIA MACAM DAH PENUH...",
+    "endText_66": "ANDA PENCURI KE?!",
+
+    "question_67": "Berapa banyakkah bulatan yang ada?",
+    "hint_67": "TENGOK UI BETUL-BETUL.",
+    "endText_67": "INI IKLAN KERETA AUDI KE?",
+
+    "question_68": "Tolong dia.",
+    "hint_68": "CUBA PUSINGKAN DIA DENGAN TELEFON ANDA.",
+    "endText_68": "ANDA MEMANG BAIK.",
+
+    "question_69": "Tolong           menang.",
+    "hint_69": "TADI SAYA CAKAP 'KERETA MERAH' ATAU 'MERAH' SAHAJA?",
+    "endText_69": "MERAH TELAH MENANG!",
+
+    "question_70": "Kita perlukan    epal.",
+    "hint_70": "KITA KENA TUKAR 'KEPERLUAN.'",
+    "endText_70": "TAK PERLU TAMAK.",
+
+    "question_71": "Tolong buka TV.",
+    "hint_71": "BADAN MANUSIA BOLEH ALIRKAN ELEKTRIK.",
+    "endText_71": "ANDA SANGGUP KENA RENJATAN ELEKTRIK UNTUK TONTON TV?!",
+
+    "question_72": "Berapa banyakkah titik yang ada?",
+    "hint_72": "TOMPOK ATAU BINTIK?",
+    "endText_72": "PANDAI ANJING DALMATIAN!",
+
+    "question_73": "Si Comel lapar, tolong dia tangkap tikus!",
+    "hint_73": "TANAH INI MACAM AKAN BERGEGAR ATAU BERPUSING...",
+    "endText_73": "KUCING INI SELALU SANGAT RASA LAPAR!",
+
+    "question_74": "Bangunan manakah yang paling kukuh?",
+    "hint_74": "MUNGKIN KITA BOLEH UJI MEREKA DENGAN GEMPA BUMI?",
+    "endText_74": "KUKUH BETUL BANGGUNAN INI.",
+
+    "question_75": "Argh, tak sukalah! Bayi menangis lagi! Tolong saya!",
+    "hint_75": "MUNGKIN AIS KRIM BOLEH TOLONG DIA.",
+    "endText_75": "MARI JERIT SAYA SUKA AIS KRIM!",
+
+    "question_77": "Cari pasangan untuk menang permainan ini.",
+    "hint_77": "MACAM MANA 9 KAD BOLEH ADA DALAM PASANGAN?",
+    "endText_77": "BAGUS FIKIRAN ANDA, SAMURAI!",
+
+    "question_78": "Pilih warna merah! Pilih warna kuning! Lepas tu, pilih 'merah'.",
+    "hint_78": "BACA SOALAN BETUL-BETUL.",
+    "endText_78": "TUMPUAN ANDA MEMANG BAGUS!",
+    "custom1_78": "Pilih warna merah!",
+    "custom2_78": "Pilih warna kuning!",
+    "custom3_78": "Lepas tu, pilih 'merah'.",
+
+    "question_79": "Biru mesti menang dalam perlumbaan ini.",
+    "hint_79": "NAMPAK TAK KAPSUL NITRO TU?",
+    "endText_79": "INI LAGI BEST DARIPADA FAST & FURIOUS!",
+
+    "question_80": "Apa yang berlaku sekali dalam sebulan, sekali dalam seminggu, tapi tak berlaku dalam sehari?",
+    "hint_80": "TENGOK PERKATAAN. JAWAPAN ADALAH SATU HURUF.",
+    "endText_80": "BAGUS!",
+
+    "question_81": "Buang 6 batang untuk jadikan nombor 10.",
+    "hint_81": "EJA NOMBOR 10 DALAM HURUF.",
+    "endText_81": "TEN IALAH 10.",
+
+    "question_82": "Selesaikan persamaan ini.",
+    "hint_82": "ANDA BOLEH SERET MANA-MANA NOMBOR DARI SKRIN. KENAPA TAK CUBA SERET NOMBOR TAHAP?",
+    "endText_82": "BIJAK OTAK ANDA!",
+
+    "question_83": "Kucing kita masih lapar.",
+    "hint_83": "CUBA AMBIK MANCIS, BAKAR DAN TERUS TEMBAK!",
+    "endText_83": "SI COMEL AKAN JADI TERLALU GEMUK NANTI...",
+
+    "question_84": "Saya nak 9 gula-gula.",
+    "hint_84": "KITA PERLU GONCANG LEBIH DARI SEKALI UNTUK JATUHKAN SEMUA.",
+    "endText_84": "TAK SUKA KOTAK GULA-GULA MACAM INI!",
+
+    "question_85": "Klik daripada rendah ke tinggi.",
+    "hint_85": "578 BERADA PADA KEDUDUKAN PALING RENDAH.",
+    "endText_85": "INI BERKAITAN DENGAN KETINGGIAN.",
+
+    "question_86": "Macam mana awak boleh lupa beli hadiah untuk dia!",
+    "hint_86": "ADA KOTAK HADIAH PADA SKRIN, TENGOK DI BAWAH.",
+    "endText_86": "HADIAH HARIAN MEMANG BANYAK GUNANYA!",
+
+    "question_87": "Dia kena sampai ke kereta untuk selamat daripada zombi!",
+    "hint_87": "GUNAKAN JARI UNTUK GERAKKAN DIA.",
+    "endText_87": "ANDA DAH SELAMATKAN DIA!",
+
+    "question_88": "Berapa banyakkah segi empat yang ada?",
+    "hint_88": "BETUL KE ADA?",
+    "endText_88": "HARAP ANDA TAK CARI SEGI EMPAT KAT SITU.",
+
+    "question_89": "Tekan butang 1     kali.",
+    "hint_89": "CUBA EDIT DAN BETULKAN SOALAN IKUT CARA ANDA.",
+    "endText_89": "HARAP ANDA TAK BAZIR MASA TEKAN 100 KALI!",
+
+    "question_90": "Pemancing ini bernasib malang. Ayuh tolong dia tangkap ikan.",
+    "hint_90": "MUNGKIN ADA CACING DALAM EPAL.",
+    "endText_90": "JOM KITA MAKAN IKAN BAKAR MALAM NI!",
+
+    "question_91": "Dia sedih kerana telurnya hangus, mari kita hiburkan dia.",
+    "hint_91": "CUBA GUNA JAM ITU.",
+    "endText_91": "ANDA BOLEH KEMBARA MASA?!",
+
+    "question_92": "Tolong katak ini terbang.",
+    "hint_92": "CUBA HENTIKAN NAFAS DIA SEKEJAP.",
+    "endText_92": "MESTI PERNAH TENGOK SHREK, KAN?",
+
+    "question_94": "Berapa banyakkah segi empat tepat yang ada?",
+    "hint_94": "CUBA PISAHKAN SEGI EMPAT TEPAT YANG ANDA NAMPAK.",
+    "endText_94": "TADI MESTI ANDA CUBA KIRA SEBELUM TENGOK PETUNJUK, KAN?",
+
+    "question_95": "Tangkap tikus itu!",
+    "hint_95": "TAK PERLU LALU IKUT PAGAR SELIRAT.",
+    "endText_95": "ANDA GUNA MUSLIHAT KE?!",
+
+    "question_96": "Klik pada butang hijau 3 kali, butang biru 10 kali, dan butang merah 5 kali.",
+    "hint_96": "BUTANG BIRU MENIPU, MEMANG TAK BETUL!",
+    "endText_96": "JANGAN PERCAYA PADA BUTANG.",
+
+    "question_97": "Klik pada anak lembu.",
+    "hint_97": "MACAM MANA NAK DAPAT ANAK LEMBU? MUNGKIN DENGAN CINTA?",
+    "endText_97": "GEMBIRA BETUL KELUARGA INI!",
+
+    "question_98": "Berapa banyakkah kiub yang ada?",
+    "hint_98": "TENGOK DARI TEPI, FIKIR APA YANG TAK BOLEH DILIHAT DARI SUDUT INI.",
+    "endText_98": "HEBAT DAYA TANGGAPAN ANDA!",
+
+    "question_99": "Cari apa perbezaannya.",
+    "hint_99": "HMM, NAMPAK MACAM SERUPA KAN?",
+    "endText_99": "MEMANG BETUL, IA SERUPA!",
+
+    "question_100": "Hari ini harijadi kedua untuk Jimi. Nyalakan lilin untuk dia.",
+    "hint_100": "GUNAKAN API LILIN ITU UNTUK NYALAKAN LILIN LAIN.",
+    "endText_100": "BELAJAR UNTUK GUNAKAN APA YANG ADA DAN APA YANG ANDA NAMPAK.",
+
+    "question_101": "Mana telur coklat saya?!",
+    "hint_101": "MATAHARI BOLEH CAIRKAN COKLAT.",
+    "endText_101": "HABIS ROSAK TELUR COKLAT SAYA.",
+
+    "question_102": "Berapa banyakkah huruf yang tinggal dalam adaptasi jika huruf D dan T tiada?",
+    "hint_102": "ADA 8 HURUF DALAM EJAAN 'ADAPTASI.'",
+    "endText_102": "NASIB BAIK BUKAN HURUF A YANG HILANG!",
+
+    "question_103": "Tunjukkan pada saya kesabaran anda.",
+    "hint_103": "SABAR DAN TUNGGU.",
+    "endText_103": "SABAR ITU SIFAT YANG MULIA.",
+
+    "question_104": "Kita kena bersedia sebelum tetamu sampai!",
+    "hint_104": "GOSOK CAWAN.",
+    "endText_104": "WAH, NAMPAK BERKILAT!",
+
+    "question_105": "Burung terlajak tidur. Cuba goncangkan pokok itu.",
+    "hint_105": "PEGANG DAHAN DAN GONCANG.",
+    "endText_105": "SELAMAT PAGI BURUNG!",
+
+    "question_106": "Oh... dia pun nak ais krim.",
+    "hint_106": "KOMBINASI TOPI DAN RAMBUT MEMANG TAK MASUK AKAL :)",
+    "endText_106": "JANGAN BAGITAHU ITU RAMBUT DIA!",
+
+    "question_107": "Lengkapkan persamaan ini.",
+    "hint_107": "YANG PERTAMA ADALAH 365.",
+    "endText_107": "SEKARANG, ANDA DAH JADI PAKAR MATEMATIK!",
+
+    "question_108": "Saya nak mayonis.",
+    "hint_108": "GONCANGKAN BOTOL SIKIT.",
+    "endText_108": "JANGAN BERITAHU PAKAR DIET SAYA!",
+
+    "question_109": "Tolong saya tangkap arnab itu.",
+    "hint_109": "ANDA BOLEH GERAKKAN KOTAK.",
+    "endText_109": "JANGAN BIMBANG, SAYA AKAN JADIKAN DIA HAIWAN PELIHARAAN SAYA.",
+
+    "question_110": "Bayi itu menangis lagi. Saya rasa perutnya kembung.",
+    "hint_110": "GOSOK PERUT BAYI.",
+    "endText_110": "FUHH, BUSUKNYA BAU!",
+
+    "question_111": "Nenek saya ada tiga orang anak. Mereka semua telah berkahwin dan ada seorang anak. Ibu saudara saya ada tiga anak saudara. Berapa banyak kerusi yang diperlukan untuk menjamu mereka?",
+    "hint_111": "NENEK-TIGA PASANGAN-EMPAT ANAK.",
+    "endText_111": "BESAR BETUL KELUARGA KITA!",
+
+    "question_113": "Berikan mereka epal, tapi jangan biarkan pinggan kosong.",
+    "hint_113": "ANDA BOLEH BERIKAN EPAL TERAKHIR DENGAN PINGGAN.",
+    "endText_113": "KITA TAK PERLUKAN PINGGAN PUN.",
+
+    "question_114": "Saya benci soalan matematik! Macam mana nak matikan nombor '0' ini!",
+    "hint_114": "FIKIRKAN TENTANG MEMATIKAN NOMBOR '0' DAN LETAKKAN SATU HURUF DI HADAPANNYA.",
+    "endText_114": "BELASAH DIA HINGGA 'KO'",
+
+    "question_115": "Berapa banyakkah telur yang ada?",
+    "hint_115": "CUBA PILIH DAN KELUARKAN DARI BELAKANG.",
+    "endText_115": "KENAPA DIA MENYOROK DI SITU?",
+
+    "question_116": "Si Comel nak terbang.",
+    "hint_116": "CUBA JATUHKAN ANDAS DARI ARAS LEBIH TINGGI UNTUK DAPATKAN KESAN LEBIH KUAT.",
+    "endText_116": "NAMPAKNYA KITA DAH TAK PERLU FIKIR NAK BERI MAKAN SI COMEL.",
+
+    "question_117": "Bagi makanan kepada mereka semua.",
+    "hint_117": "IKUT RANTAI MAKANAN, MULAKAN DARI BELALANG.",
+    "endText_117": "SEEKOR KUCING BOLEH MAKAN SEMUANYA!",
+
+    "question_118": "Dia tak mahu makan sup yang dibuat oleh ibunya.",
+    "hint_118": "SKRU DI KANAN NAMPAK LONGGAR.",
+    "endText_118": "DIA PATUT DENGAR CAKAP IBUNYA.",
+
+    "question_119": "Berapakah jumlah kos?",
+    "hint_119": "JANGAN PEDULIKAN '0' DI SEBELAH KIRI.",
+    "endText_119": "ANDA BOLEH JADI JURUWANG YANG BAGUS!",
+
+    "question_120": "Eee! Tangkap dia sebelum mak saya nampak!",
+    "hint_120": "GUNA INJAP UNTUK MEMERANGKAPNYA.",
+    "endText_120": "BOBOY, MAKANAN DAH SEDIA!",
+
+    "question_121": "Cikgu mahukan satu segi empat tepat.",
+    "hint_121": "POTONG TRAPEZOID UNTUK BUAT SEGI EMPAT TEPAT.",
+    "endText_121": "SEKARANG KITA BOLEH DAPAT A+!",
+
+    "question_122": "Gunting mesti menang.",
+    "hint_122": "BUANG BATU DAHULU.",
+    "endText_122": "SAYA SUKA MAIN BATU KERTAS GUNTING, TERUTAMANYA BILA SAYA MENANG!",
+
+    "question_123": "Betul ke jawapan ini?",
+    "hint_123": "CUBA TEMBAK PENGGANDA.",
+    "endText_123": "PERSAMAAN YANG MELETUP!",
+
+    "question_124": "Tolong dapatkan balik dompetnya.",
+    "hint_124": "GUNA JARI ANDA UNTUK PEGANG RAHANG BUAYA, DAN GUNA SATU LAGI JARI UNTUK SERET TANGANNYA.",
+    "endText_124": "BAHAYA JUGA TU!",
+
+    "question_125": "nan",
+    "hint_125": "NAN",
+    "endText_125": "NAN",
+
+    "question_126": "Jefri tak sempat belajar, tapi dia kena lulus.",
+    "hint_126": "NAMPAKNYA JEFRI ADA LEHER YANG PANJANG!",
+    "endText_126": "JEFRI PATUT BERHENTI MENIPU DAN BELAJAR DENGAN BERSUNGGUH-SUNGGUH!",
+
+    "question_127": "Bagi mereka makanan satu demi satu.",
+    "hint_127": "CUBA BAGI MAKANAN IKAN PALING BESAR HINGGA KE BAWAH.",
+    "endText_127": "ANDA MEMANG ADIL MEMBERIKAN MAKANAN.",
+
+    "question_128": "Saya tak boleh mainkan video ini!",
+    "hint_128": "SAYA NAMPAK ADA BUTANG 'MAIN' DI BAWAH.",
+    "endText_128": "MASA UNTUK MENONTON!",
+
+    "question_129": "Kopinya sudah sejuk.",
+    "hint_129": "GUNA CERMIN UNTUK PANCARKAN CAHAYA DARI LAMPU.",
+    "endText_129": "HMM... KOPI PANAS PAGI INI...",
+
+    "question_130": "Cari bingkai untuk objek berwarna ini.",
+    "hint_130": "ANDA TAK PERLU ISIKAN SEMUA BINGKAI.",
+    "endText_130": "SATU BINGKAI CUKUP UNTUK SEMUA.",
+
+    "question_131": "Betulkan pengiraan ini.",
+    "hint_131": "8-3=5",
+    "endText_131": "BAGUS, BAGUS! ANDA MEMANG PAKAR!",
+
+    "question_132": "Klik pada buah-buahan dalam susunan yang betul.",
+    "hint_132": "TENGOK BILANGAN BUAH-BUAHAN (CONTOHNYA, ADA 3 PISANG).",
+    "endText_132": "MATEMATIK DENGAN BUAH-BUAHAN, MMM SEDAP!",
+
+    "question_133": "Hari ini harijadi dia! Berapakah umur pada hari lahir ini?",
+    "hint_133": "TARIK LILIN KE ATAS UNTUK LIHAT KEK.",
+    "endText_133": "LILIN-LILIN AJAIB!",
+
+    "question_134": "Bantu gadis ini memanah ke sasaran.",
+    "hint_134": "CUBA BESARKAN SASARAN.",
+    "endText_134": "DIA PATUT BERHENTI MEMANAH.",
+
+    "question_135": "Bantu tikus dapatkan keju.",
+    "hint_135": "BUKA 4 PINTU DI TENGAH.",
+    "endText_135": "KENAPA KITA TOLONG TIKUS PULAK?!",
+
+    "question_136": "Apakah yang patut kita masukkan ke dalam tempat tanda tanya?",
+    "hint_136": "PERNAH PANDU KERETA MANUAL?",
+    "endText_136": "MEMANG NOSTALGIK BILA FIKIRKAN MASA LALU!",
+
+    "question_137": "Kereta manakah yang paling perlahan?",
+    "hint_137": "JAWAPAN DISEMBUNYI DI DALAM SOALAN.",
+    "endText_137": "ADA BANYAK CARA UNTUK KENAKAN HELAH, HAHAHA!",
+
+    "question_138": "Macam mana kita boleh selesaikan persamaan ini?",
+    "hint_138": "MACAM MANA NAK DAPATKAN 5 = 5?",
+    "endText_138": "KE MANA PERGINYA SEMUA BENDA YANG DIBUANG LUAR SKRIN?",
+
+    "question_139": "Kita hanya perlukan 5 pelakon, siapa yang patut kita buang?",
+    "hint_139": "SEMAK BETUL-BETUL. MUNGKIN ADA SEORANG YANG TAK SESUAI.",
+    "endText_139": "KELUAR SEKARANG, KELUAR!",
+
+    "question_140": "Tolong budak di kanan menang lawan salji ini.",
+    "hint_140": "KUTIP BEBOLA SALJI DI BAWAH.",
+    "endText_140": "SAKIT BILA KITA BALING NANTI!",
+
+    "question_141": "Tolong, saya tak tahu mana saya patut belok!",
+    "hint_141": "CUBA PUSINGKAN TELEFON ANDA.",
+    "endText_141": "TERIMA KASIH! NASIB BAIK SAYA DAPAT KELUAR...",
+
+    "question_142": "Yang mana satukah lebih panjang?",
+    "hint_142": "CUBA TIUP.",
+    "endText_142": "NYARING BETUL BUNYINYA!",
+
+    "question_143": "Lebah madu datang dari mana?",
+    "hint_143": "SEKALI LAGI, JAWAPAN TERSEMBUNYI DI DALAM SOALAN.",
+    "endText_143": "MEMANG MADU DATANG DARI LEBAH!",
+
+    "question_144": "Tolong hentikan pencerobohan makhluk asing!",
+    "hint_144": "JANGAN PUKUL KUCING! ADA 4 MAKHLUK ASING.",
+    "endText_144": "KUCING TAK PATUT MAIN-MAIN DI MEDAN PERANG!",
+
+    "question_145": "Kalau 1 ayam dimasak dalam masa 5 minit, berapa lama masa yang diperlukan untuk masak 5 ayam?",
+    "hint_145": "KITA BOLEH MASAK SEMUA AYAM BERSAMA-SAMA.",
+    "endText_145": "MUNGKIN AYAM ITU BOLEH DIGORENG JUGA!",
+
+    "question_146": "Cari graviti.",
+    "hint_146": "GONCANG, GONCANG!",
+    "endText_146": "ANDA MENEMUI CABANG ILMU BAHARU!",
+
+    "question_147": "Tolong lelaki ini.",
+    "hint_147": "TUKAR SIMBOL UNTUK WANITA.",
+    "endText_147": "DIA TAK PATUT MINUM BANYAK SODA!",
+
+    "question_148": "Ada seorang lagi lelaki memerlukan bantuan anda.",
+    "hint_148": "PERNAH DENGAR CERITA ASAL USUL SPIDER-MAN?",
+    "endText_148": "ILMU KELAKAR ANDA MEMANG MANTAP!",
+
+    "question_149": "Apa yang patut kita letak pada tanda tanya?",
+    "hint_149": "SATU, DUA, TIGA...",
+    "endText_149": "TAHNIAH KALAU ANDA TAK GUNA PETUNJUK UNTUK SOALAN INI.",
+    "custom1_149": "S-D-T-E-L-E-T-L-?",
+
+    "question_150": "Saya ada 10 ikan dalam akuarium, tapi bila saya balik rumah, 6 ikan dah mati. Berapakah bilangan ikan yang ada dalam akuarium?",
+    "hint_150": "IKAN YANG MATI MASIH ADA DALAM AKUARIUM.",
+    "endText_150": "KITA KENA BERSIHKAN AKUARIUM ITU!",
+
+    "question_151": "Mana arnab saya?",
+    "hint_151": "WARNAKAN DENGAN BENTUK-BENTUK YANG ADA.",
+    "endText_151": "MAKANAN YANG SIHAT DAN MENGENYANGKAN",
+
+    "question_154": "Bulan manakah yang paling panjang?",
+    "hint_154": "SILA TENGOK BETUL-BETUL.",
+    "endText_154": "BULAN FEBRUARI YANG ADA  PALING BANYAK HURUF.",
+
+    "question_155": "Di manakah mereka sembunyikan berlian yang mereka curi?",
+    "hint_155": "CUBA TENGOK DI DALAM RAMBUT MEREKA.",
+    "endText_155": "BAGUS, DETEKTIF!",
+
+    "question_156": "Di manakah bola?",
+    "hint_156": "ALIH PERHATIAN DIA DENGAN HIDUNGNYA.",
+    "endText_156": "DIA MENIPU!",
+
+    "question_157": "Tolong kereta ini menyeberangi sungai.",
+    "hint_157": "CUACA MEMANG SEJUK, KALAU TAK ADA CAHAYA, APA AKAN JADI....",
+    "endText_157": "MACAM MANA NAK GERAKKAN AWAN?!",
+
+    "question_158": "Padankan objek dengan negara yang betul.",
+    "hint_158": "SETIAP BENDA BERKAITAN DENGAN SEBUAH NEGARA.",
+    "endText_158": "SAYA NAK MELAWAT PARIS SEKARANG!",
+    "custom1_158": "PERANCIS",
+    "custom2_158": "AMERIKA",
+    "custom3_158": "JERMAN",
+    "custom4_158": "NIGERIA",
+
+    "question_159": "Macam mana nak bina menara?",
+    "hint_159": "BINA MENARA DENGAN BONGKAH-BONGKAH INI.",
+    "endText_159": "BIAR SAYA TUNJUKKAN CARANYA.",
+
+    "question_160": "Alamak! Dia menangis lagi! Tolong saya...",
+    "hint_160": "KERETA MAINAN INI ADA MATA YANG LUCU.",
+    "endText_160": "HAHAHAHA...",
+
+    "question_161": "nan",
+    "hint_161": "LIHAT, KUCING INI TERBALIK.",
+    "endText_161": "ADAKAH 6 ITU NOMBOR 9 YANG TERBALIK?",
+
+    "question_162": "Tolong si pembina badan ini!",
+    "hint_162": "ALIHKAN PEMBERAT ITU.",
+    "endText_162": "WAH, KUATNYA DIA!",
+
+    "question_163": "Pelajar ini tak boleh fikirkan jawapan untuk soalan ujian.",
+    "hint_163": "PAMKAN DARAH KE OTAK DIA.",
+    "endText_163": "BILA TAK PASTI, TERBALIKKAN BADAN.",
+
+    "question_164": "Aiman patut makan makanan yang lebih berkhasiat.",
+    "hint_164": "CUBA TIPU DIA DENGAN BURGER.",
+    "endText_164": "AIMAN, JANGAN LUPA MAKAN SAYUR-SAYURAN.",
+
+    "question_166": "Macam mana nak kalahkan ahli sihir ini?",
+    "hint_166": "API > DAUN > AIR > API",
+    "endText_166": "HEBATNYA, MACAM HARRY POTTER!",
+
+    "question_167": "Makhluk asing telah menceroboh! Cari mereka!",
+    "hint_167": "ADA 9 MAKHLUK ASING YANG TERSEMBUNYI.",
+    "endText_167": "DAH JUMPA SEMUANYA, PANGGIL POLIS SEKARANG!",
+
+    "question_168": "Apa yang ada di tengah Putrajaya?",
+    "hint_168": "TENGOK HURUF DALAM 'PERAK' DENGAN BETUL-BETUL.",
+    "endText_168": "NASIB BAIK SAYA TAK TANYA APA YANG ADA DI TENGAH \"TASIK TITIWANGSA!\"",
+
+    "question_169": "Aiman nampak sedih. Mari kita hiburkan dia.",
+    "hint_169": "CUBA BUAT DIA SENYUM.",
+    "endText_169": "\"AYUH KITA BUAT DIA TERSENYUM.\"",
+
+    "question_170": "Puntianak! Tolong, tolong!",
+    "hint_170": "PONTIANAK TAK BOLEH KENA MATAHARI.",
+    "endText_170": "ANDA PEMBURU PONTIANAK KE SEKARANG?",
+
+    "question_171": "Berapa banyakkah segi tiga yang ada?",
+    "hint_171": "CUBA PECAHKAN SEGI TIGA INI.",
+    "endText_171": "KADANG-KADANG, ADA UDANG DI SEBALIK BATU.",
+
+    "question_172": "Tolong beri makanan kepada kucing, dari kiri ke kanan.",
+    "hint_172": "BUMI INI BULAT.",
+    "endText_172": "KUCING ITU SANGGUP MENGELILINGI BUMI UNTUK DAPATKAN MAKANAN!",
+
+    "question_173": "Mereka perlukan keadilan!",
+    "hint_173": "2 LAGI DI KIRI, 4 LAGI KE KANAN.",
+    "endText_173": "SANGAT ADIL!",
+
+    "question_174": "Kita perlukan bola hijau.",
+    "hint_174": "BIRU + KUNING = HIJAU, INGAT TAK?",
+    "endText_174": "BOLA NI LICIN!",
+
+    "question_175": "Pecahkan            dengan        .",
+    "hint_175": "CUBA GUNA BATU DALAM SOALAN.",
+    "endText_175": "HABIS MUSNAH SEMUA!",
+
+    "question_176": "Jiran sedang riuh berpesta di tengah malam. Hentikan bunyi bising.",
+    "hint_176": "CUBA PANGGIL POLIS.",
+    "endText_176": "PADAN MUKA MEREKA!",
+
+    "question_177": "Betul ke ni?!",
+    "hint_177": "RASANYA, ADA SESUATU YANG SEMBUNYI DI SEBALIK '1.'",
+    "endText_177": "BILA RASA LEMAH, CUBALAH KLONKAN DIRI SENDIRI.",
+
+    "question_178": "Biru mesti menang!",
+    "hint_178": "HIJAU DAN MERAH TAKKAN MENANG KALAU MEREKA TAK LEPAS GARISAN PENAMAT.",
+    "endText_178": "INI BARU PERMAINAN YANG DIATUR!",
+
+    "question_179": "Tolong mereka semua!",
+    "hint_179": "LELAKI DENGAN PAYUNG TERJUN BOLEH TOLONG MEREKA.",
+    "endText_179": "WAH, MEMANG BERANI BETUL!",
+
+    "question_180": "Tolong betulkan jam ini.",
+    "hint_180": "SEPATUTNYA, PUKUL 2.",
+    "endText_180": "DAH SAMPAI MASA BERTUKAR KE JAM DIGITAL!",
+
+    "question_181": "Mari hiburkan Aiman.",
+    "hint_181": "IBU JARINYA CEPAT RASA GELI KALAU DIGELETEK.",
+    "endText_181": "BERHENTI GELETEK SEBELUM DIA RASA MARAH SEKALI LAGI!",
+
+    "question_182": "Kuda comel ini berhasrat nak jadi Unikorn.",
+    "hint_182": "SAYA SELALU BUAT HAJAT BILA NAMPAK KOMET.",
+    "endText_182": "AHLI SIHIR MEMANG BIJAKSANA!",
+
+    "question_183": "Tolong cari semua haiwan di dalam gambar.",
+    "hint_183": "KUDA BIASANYA TAKUTKAN ULAR.",
+    "endText_183": "SUDAH BERAPAKAH LAMA TIKUS SEMBUNYI DI SITU?!",
+
+    "question_184": "Tolong buka pintu, saya terperangkap di luar!",
+    "hint_184": "DI MANAKAH ORANG SELALU SEMBUNYIKAN KUNCI?",
+    "endText_184": "HARAP ANDA TAK BAZIR MASA CUBA PECAHKAN KUNCI...",
+
+    "question_185": "Kura-kura mesti menang!",
+    "hint_185": "KURA-KURA ADA RAHSIA DI BAWAH CANGKERANGNYA.",
+    "endText_185": "KURA-KURA ROCKET!",
+
+    "question_186": "Apakah nombor di bawah dadu?",
+    "hint_186": "TOLAK SAJA DADU KE TEPI!",
+    "endText_186": "DADU MUNGKIN TERLALU BESAR, ATAU KERTAS TERLALU KECIL.",
+
+    "question_187": "Pak Pandir ada tiga orang anak. Yang sulung bernama Melati, yang kedua bernama Melur. Apakah nama anak ketiga Pak Pandir?",
+    "hint_187": "PILIHAN ANDA PERLU KREATIF.",
+    "endText_187": "MEMANG PANDIR ANAK LELAKI BAPANYA!",
+
+    "question_188": "Bayi menangis lagi! Apa pula yang buat bayi sedih ni?!",
+    "hint_188": "RAMBUT DIA NAMPAK PELIK, BETUL TAK?",
+    "endText_188": "EEEEEEKKKK!",
+
+    "question_189": "Kumpulkan 3 epal.",
+    "hint_189": "GONCANG UNTUK GUGURKAN EPAL.",
+    "endText_189": "PASTIKAN EPAL TIDAK BURUK SEBELUM MAKAN.",
+
+    "question_190": "Tunjukkan nombor 6.",
+    "hint_190": "ADA NOMBOR 6 YANG TERBALIK DI DALAM.",
+    "endText_190": "PERMAINAN INI MUNGKIN BUAT ANDA PENING.",
+
+    "question_191": "Tolong Si Tompok tangkap ikan.",
+    "hint_191": "TENGOK ARAH PANDANGAN MATA ANJING ITU.",
+    "endText_191": "PANDAI BETUL SI TOMPOK!",
+
+    "question_192": "Kita nak pergi ke Penang...",
+    "hint_192": "TENGOK BETUL-BETUL PADA PINTU KERETA.",
+    "endText_192": "KERETA INI AGAK FLEKSIBEL!",
+
+    "question_193": "Gagak tak dapat makan kacang.",
+    "hint_193": "BATU ITU NAMPAK MACAM CUKUP KERAS UNTUK PECAHKAN KULIT KACANG.",
+    "endText_193": "GAGAK INI MASIH PERLUKAN BANYAK LATIHAN.",
+
+    "question_194": "Tolong buatkan orang salji untuk saya.",
+    "hint_194": "MUNGKIN AWAN ADA SEMBUNYIKAN SESUATU.",
+    "endText_194": "AWAK USIK IMBANGAN ALAM SEBAB MAIN DENGAN SALJI?!",
+
+    "question_195": "Selesaikan teka-teki imej ini.",
+    "hint_195": "MUNGKIN ANDA BOLEH SALIN DAN TAMPAL JE?",
+    "endText_195": "WAH, SERIUS MACAM TU JE?!",
+
+    "question_196": "Dia cinta atau benci?",
+    "hint_196": "CUBA CARI SATU LAGI KELOPAK YANG BOLEH BUAT DIA JATUH CINTA.",
+    "endText_196": "ANDA PENCARI JODOH YANG BAGUS!",
+
+    "question_197": "Anjing kita sangat kotor, ayuh bersihkan dia.",
+    "hint_197": "JANGAN LUPA: ANJING MESTI GOYANGKAN BADAN UNTUK KERINGKAN BULUNYA.",
+    "endText_197": "COMELNYA ANAK ANJING INI!",
+
+    "question_198": "Kereta biru ini sedang mengalami kecemasan. Mari tolong dia.",
+    "hint_198": "KALAULAH KITA ADA SIREN KECEMASAN...",
+    "endText_198": "BAGUS! DIA BOLEH TENGOK TV KEGEMARANNYA SEKARANG.",
+
+    "question_199": "Tolong pemburu hantu dengan pasang perangkap.",
+    "hint_199": "TEKAN PEMBURU UNTUK LIHAT HANTU.",
+    "endText_199": "GELINYA! DIA JUAL TENAGA HANTU KEPADA SYARIKAT KOSMETIK.",
+
+    "question_200": "Apakah perkataan terbalik bagi kata 'bad'",
+    "hint_200": "FOKUS PADA PERKATAAN.",
+    "endText_200": "DAB IALAH SEJENIS BINATANG PADANG PASIR YANG SEAKAN-AKAN BIAWAK KECIL.",
+
+    "question_201": "Apakah yang dia lihat?",
+    "hint_201": "CUBA TENGOK DARI SUDUT PANDANGANNYA.",
+    "endText_201": "ADAKAH INI METAFORA KEHIDUPAN?",
+
+    "question_202": "Ok, masa untuk berlepas!",
+    "hint_202": "KITA PATUT NAIK KE ATAS.",
+    "endText_202": "KITA JUMPA DI MARIKH!",
+
+    "question_203": "Cuaca ini gelap dan hujan...",
+    "hint_203": "GUNAKAN LUKISAN DI DINDING UNTUK MENUKAR CUACA.",
+    "endText_203": "HIDUPNYA HANYA SATU ILUSI.",
+
+    "question_204": "Peninju di sebelah kiri patut menang.",
+    "hint_204": "MUNGKIN ANDA BOLEH TAMBAHKAN BERAT PADA SARUNG TANGANNYA.",
+    "endText_204": "SIAPA YANG LETAK BOLA BESI ATAS GELANGGANG?!",
+
+    "question_205": "Si Comel kena lompat ke seberang sana.",
+    "hint_205": "CUBA CENDAWAN INI.",
+    "endText_205": "HEBATNYA SI COMEL!",
+
+    "question_206": "Apa 50% daripada 55?",
+    "hint_206": "FIKIRKAN SEPARUHNOMBOR \"55\" SECARA VISUAL.",
+    "endText_206": "BANYAKKAN LAGI LATIHAN MATEMATIK ANDA!",
+
+    "question_207": "Tamatkan perang ini!",
+    "hint_207": "MEREKA TAK PATUT ROSAKKAN APA-APAPUN.",
+    "endText_207": "SATU LAGI LANGKAH KE ARAH KEAMANAN.",
+
+    "question_208": "Tolong saya angkat kotak ini ke troli.",
+    "hint_208": "PUSING TELEFON UNTUK MENOLAKNYA.",
+    "endText_208": "AWAK DAH SELAMATKAN BELAKANG SAYA DARIPADA SAKIT!",
+
+    "question_209": "Alamak! Anda ditahan kerana memandu terlalu laju!",
+    "hint_209": "CUBA BUAT DIA GEMBIRA.",
+    "endText_209": "TERIMA KASIH, TUAN!",
+
+    "question_210": "Tolong ibu singa.",
+    "hint_210": "KALAU LAH DIA BOLEH REHAT MACAM AYAH SINGA...",
+    "endText_210": "NASIB BAIK ADA KESAKSAMAAN JANTINA!",
+
+    "question_211": "Mereka semua nak rasa kehangatan api.",
+    "hint_211": "ALIHKAN UNGGUN API DI TEMPAT YANG LEBIH SESUAI.",
+    "endText_211": "REHAT DAN TIDUR LEBIH LENA, KAWAN-KAWAN.",
+
+    "question_212": "Hari ini hari jadi awak, sila pilih satu hadiah!",
+    "hint_212": "FOKUS PADA PERKATAAN.",
+    "endText_212": "DALAM PERKATAAN INI, ANDA AKAN JUMPA CINTA SAYA PADA ANDA.",
+
+    "question_213": "Kita mesti jaringkan gol.",
+    "hint_213": "CUBA TUKAR ARAH TENDANGAN PEMAIN ANDA.",
+    "endText_213": "GOLLLL!",
+    "custom1_213": "MULA!",
+
+    "question_214": "Apakah yang ada di bawah          ?",
+    "hint_214": "CUBA CARI SESUATU DI BAWAH \"POKOK.\"",
+    "endText_214": "COMELNYA KUCING!",
+
+    "question_215": "Tekan nombor cepat-cepat!",
+    "hint_215": "HATI-HATI, 7 & 8 AGAK SUKAR.",
+    "endText_215": "BEST BETUL PERMAINAN INI!",
+
+    "question_216": "Selesaikan teka-teki ini.",
+    "hint_216": "NOMBOR DI SINI MENANDAKAN BILANGAN BULATAN YANG TELAH DIAKTIFKAN.",
+    "endText_216": "ANDA NI MEMANG SEORANG GENIUS!",
+
+    "question_217": "Tolong ajar kucing ini buru binatang.",
+    "hint_217": "SEMBUNYIKAN KUCING DENGAN KOTAK. CUBA BUAT TIKUS KELUAR DENGAN SEPOTONG KEJU ITU.",
+    "endText_217": "KUCING KITA DAH PANDAI CARI MAKAN SENDIRI!",
+
+    "question_218": "Cari harta karun.",
+    "hint_218": "JANGA PERCAYA MESIN PENGESAN, CARI DI SEMUA TEMPAT.",
+    "endText_218": "YEAH, KITA DAH KAYA!",
+
+    "question_219": "Brek kereta saya tak berfungsi, TOLONG!",
+    "hint_219": "GUNAKAN KUASA AWAN ANDA SEKALI LAGI.",
+    "endText_219": "TAK SANGKA AWAN BANYAK KEGUNAANNYA.",
+
+    "question_220": "Ibu singa di mana?",
+    "hint_220": "CUBA TARIK PERHATIAN IBU SINGA DENGAN MENGUSIK ANAK SINGANYA.",
+    "endText_220": "LARI! CEPAT LARI!",
+
+    "question_221": "Kura-kura patut menang. Tolong dia.",
+    "hint_221": "ADA PENONTON YANG PEGANG SATU BENDA BERGUNA.",
+    "endText_221": "TERIMA KASIH, MONYET!",
+
+    "question_222": "Awak mesti takluk istana ini!",
+    "hint_222": "PELANTING INI PERLUKAN API!",
+    "endText_222": "YAY! KITA DAH MENANG!",
+
+    "question_223": "Cepat tolong dia!",
+    "hint_223": "CUBA BANGUNKAN DIA DARI TIDUR.",
+    "endText_223": "MIMPI TU MACAM BETUL-BETUL BERLAKU.",
+
+    "question_224": "Buat pilihan! Satu sahaja.",
+    "hint_224": "CUBA UBAH HAJAT ANDA.",
+    "endText_224": "NIKMATILAH KEKAYAAN ANDA!",
+    "custom1_224": "TUMBUH SATU EKOR",
+    "custom2_224": "TUMBUH SATU TANDUK",
+    "custom3_224": "JADI KAYA",
+
+    "question_225": "Ilama mahu balas dendam pada lelaki yang mengacaunya.",
+    "hint_225": "BUATKAN HUJAN PADA LELAKI ITU.",
+    "endText_225": "SASARAN YANG TEPAT!",
+
+    "question_227": "Berapa banyakkah gigi yang ada?",
+    "hint_227": "MUNGKIN ADA GIGI PALSU. PERIKSA SEMUA GIGI.",
+    "endText_227": "DIA DAH PATUT KENA TUKAR GIGI BARU!",
+
+    "question_228": "Kereta merah mesti menang!",
+    "hint_228": "CUBA LARASKAN PENGIRA PUSINGAN.",
+    "endText_228": "AWAK DAH MAKIN PANDAI DENGAN LOGIK PERMAINAN INI.... KAMI KAGUM.",
+    "custom1_228": "PUSINGAN",
+
+    "question_229": "Kena isi semua garisan grid dalam kilang ini.",
+    "hint_229": "MULA DARI KIRI, LAGI SENANG.",
+    "endText_229": "SELAMAT DATANG KE DUNIA MESIN!",
+
+    "question_230": "Cuba ikut corak yang betul.",
+    "hint_230": "ANDA BOLEH TULIS NOTA SAMBIL MELIHATNYA.",
+    "endText_230": "ANDA PASTI JADI AHLI MUZIK YANG HEBAT!",
+    "custom1_230": "JAM",
+
+    "question_231": "Kuda comel berhajat terbang pula!",
+    "hint_231": "ADA BINTANG YANG KITA BOLEH LETAKKAN DI LANGIT.",
+    "endText_231": "AKHIRNYA, AHLI SIHIR MULA TUNJUKKAN KEBIJAKSANAANNYA!",
+
+    "question_233": "Cuba asingkan semua warna.",
+    "hint_233": "LETAK WARNA BIRU DALAM TIUB KOSONG, BARU BOLEH LIHAT PENYELESAIANNYA.",
+    "endText_233": "ANDA MEMANG SAINTIS YANG BIJAK. SYABAS!",
+
+    "question_234": "Tolong! Dia tak boleh berhenti melompat!",
+    "hint_234": "MUNGKIN TILAM BOLEH BUAT DIA BERHENTI MELOMPAT.",
+    "endText_234": "CEPAT HABISKAN KERJA SEKOLAH!",
+
+    "question_235": "Gula-gula mesti masuk ke dalam mulut.",
+    "hint_235": "PUSING TELEFON ANDA UNTUK GUNA KUASA GRAVITI.",
+    "endText_235": "BAGUS, GULA-GULA DAH MASUK!",
+
+    "question_236": "Si Comel nak lompat lagi, tapi kita dah kehabisan cendawan.",
+    "hint_236": "SEKARANG ANDA ADA KUASA GERAKKAN BUKIT!",
+    "endText_236": "ISH, KITA NI ASYIK MANJAKAN SI COMEL NI JE!",
+
+    "question_237": "Kucing comel nak makan ikan lagi.",
+    "hint_237": "BUAT ANJING PENING MENGGUNAKAN TULANG!",
+    "endText_237": "KESIAN ANJING INI!",
+
+    "question_238": "Tolong Atuk menyeberangi jalan.",
+    "hint_238": "ADA GARISAN MELINTAS YANG TERSEMBUNYI, BOLEH CARI?",
+    "endText_238": "FUHHH, SEMUA ORANG TAHU MEMATUHI UNDANG-UNDANG JALAN RAYA!",
+
+    "question_239": "Saya nak satu telur dadar, boleh?",
+    "hint_239": "CUBA BUAT AYAM INI BERTELUR.",
+    "endText_239": "JANGAN LUPA LETAK SOSEJ SEKALI!",
+
+    "question_240": "Belon dia dah hilang!",
+    "hint_240": "TOLONG CARI BELON ITU.",
+    "endText_240": "HARAP-HARAP DIA TAKKAN MENANGIS LEPAS NI.",
+
+    "question_241": "Berapakah bilangan anjing?",
+    "hint_241": "HMM, CUBA TENGOK BETUL-BETUL. ADA LAGI ANJING.",
+    "endText_241": "MEREKA SEMUA SUNGGUH NAKAL.",
+
+    "question_243": "Si Comel dah jumpa satu lagi tempat dia boleh melompat.",
+    "hint_243": "CUBA TENGOK AWAN, NAMPAK SUNGGUH EMPUK KAN?",
+    "endText_243": "KADANG-KADANG TEKNIK YANG DIGUNAKAN MEMANG TAK MASUK AKAL, KAN?",
+
+    "question_244": "Kita kena buang mikrob yang ada!",
+    "hint_244": "CUBA LAP SAMPAI SEMUA DAH HILANG.",
+    "endText_244": "BOLEH NAMPAK LAGI MIKROB ITU?",
+
+    "question_245": "Saya tak boleh masuk, tolong!",
+    "hint_245": "CUBA BESARKAN RUMAH INI.",
+    "endText_245": "KENAPA LAH SAYA SELALU DIPERDAYAKAN!",
+
+    "question_246": "Bantu saya bagi biawak ni makan.",
+    "hint_246": "BIAWAK SAYA SUKA MAKAN LALAT. LALAT PULA SUKA MAKANAN TERDEDAH.",
+    "endText_246": "SEKARANG SAYA AKAN MAKAN AYAM, MUAHAHAH!",
+
+    "question_247": "Saya tak suka perkara yang berselerak, tolong saya!",
+    "hint_247": "ASINGKAN SEMUA WARNA.",
+    "endText_247": "TERIMA KASIH, SEKARANG SAYA BOLEH BEREHAT!",
+
+    "question_248": "Cuba cari semua haiwan.",
+    "hint_248": "HMM, MUNGKIN ADA TUPAI MENYOROK DALAM POKOK.",
+    "endText_248": "BANYAK BETUL HAIWAN DALAM HUTAN NI!",
+
+    "question_249": "Macam mana Si Comel nak lompat kali ni?",
+    "hint_249": "MUNGKIN DIA KENA LOMPAT DARI JARAK YANG DEKAT.",
+    "endText_249": "SI COMEL SEMAKIN CEKAP MELOMPAT!",
+
+    "question_251": "Apakah X?",
+    "hint_251": "KITA PERLUKAN SIFAR DI SINI.",
+    "endText_251": "MATEMATIK NI SEBENARNYA SERONOK.",
+
+    "question_254": "Dia nak    cawan susu dan    biskut.",
+    "hint_254": "CUBA TUKAR SOALAN MENGIKUT APA YANG ANDA LIHAT DI ATAS MEJA.",
+    "endText_254": "KITA MEMANG LEBIH BIJAK!",
+
+    "question_255": "Bantu lelaki itu lari!",
+    "hint_255": "CUBA MASUKKAN ZOMBI DALAM DINDING PENGHALANG.",
+    "endText_255": "ZOMBI NI MEMANG KURANG CERDIK!",
+
+    "question_256": "Ayuh tolong hero ni!",
+    "hint_256": "HERO KITA BOLEH MELAWAN GRAVITI.",
+    "endText_256": "SETIAP HARI, SATU LAGI TINDAKAN BERANI.",
+
+    "question_257": "Tolong gadis itu sebelum orang lain lihat wajahnya!",
+    "hint_257": "GUNA SAPU TANGAN DALAM POKET.",
+    "endText_257": "OH! SUNGGUH BUDIMAN.",
+
+    "question_258": "Boleh tolong mama buat kerja rumah?",
+    "hint_258": "MASUKKAN PINGGAN BERSIH DALAM RAK, MASUKKAN PINGGAN KOTOR KE DALAM PENCUCI.",
+    "endText_258": "KALAU LAH SEMUA ORANG BOLEH TOLONG-MENOLONG MACAM ANDA.",
+
+    "question_259": "Bantu gadis ini memanah ke sasaran.",
+    "hint_259": "MULA-MULA GERAKKAN SASARAN.",
+    "endText_259": "DIA MAKIN CEKAP MEMANAH!",
+
+    "question_260": "Bantu peninju biru sekali lagi!",
+    "hint_260": "CUBA KACAU TUMPUAN PENINJU MERAH.",
+    "endText_260": "SEKALI LAGI PENINJU BIRU MENANG!",
+
+    "question_261": "Kita kena halang raksasa ini!",
+    "hint_261": "MUNGKIN KITA BOLEH JADIKAN DIA KAWAN KITA.",
+    "endText_261": "SEKARANG KITA DAH BERKAWAN!",
+
+    "question_262": "Kuda comel mahukan puteri pula.",
+    "hint_262": "KALAU KITA KETUK AHLI SIHIR INI, MUNGKIN ADA BINTANG YANG KELUAR.",
+    "endText_262": "KEHENDAKNYA SEMAKIN MENJADI-JADI!",
+
+    "question_263": "Pilih semua epal!",
+    "hint_263": "BERHATI-HATI, ADA EPAL YANG SEBENARNYA BUKAN EPAL :)",
+    "endText_263": "TOMATO ITU BOLEH MENYAMAR SEBAGAI EPAL.",
+
+    "question_264": "Kita perlukan nyalakan api.",
+    "hint_264": "KEPALA BOTAK BOLEH PANCARKAN SINAR MATAHARI.",
+    "endText_264": "BERKILAT BETUL KEPALA DIA.",
+
+    "question_265": "Cuba lukis segi tiga.",
+    "hint_265": "CUBA GERAKKAN SEMUA TITIK.",
+    "endText_265": "BIJAKNYA!",
+
+    "question_266": "Ada benda yang pelik di sini, cuba cari.",
+    "hint_266": "IKAN TAK SEPATUTNYA ADA KELOPAK MATA, KETAM SEPATUTNYA ADA 10 KAKI SAJA.",
+    "endText_266": "MESTI ADA RADIOAKTIF YANG TUMPAH DALAM LAUT!",
+
+    "question_267": "Ada orang perlu di          !",
+    "hint_267": "DIA MESTI JERIT \"TOLONG!\"",
+    "endText_267": "BILA DALAM SITUASI BAHAYA, JERIT 'TOLONG' SEKUAT HATI.",
+    "custom1_267": "TOLONG!",
+    "custom2_267": "BAGUS!",
+
+    "question_269": "Betul ke jawapan ini?",
+    "hint_269": "CUBA TENGOK DARI SUDUT LAIN.",
+    "endText_269": "CUBA FIKIR DI ATAS, DI BAWAH DAN DI LUAR KOTAK... HEHEHE;)",
+
+    "question_270": "Monyet mana yang ada ekor paling panjang?",
+    "hint_270": "CUBA TENGOK HINGGA HUJUNG EKOR.",
+    "endText_270": "MONYET INI AKAN JADI RAJA MONYET!",
+
+    "question_271": "Dia pun nak satu burger yang sama.",
+    "hint_271": "TENGOK BURGER INI BETUL-BETUL DAN CUBA BUAT BURGER YANG SAMA.",
+    "endText_271": "MAKANAN SEGERA DAH SEDIA!",
+
+    "question_272": "Daniel sedih kerana komputernya lambat berfungsi.",
+    "hint_272": "KIPAS TAK BOLEH SEJUKKAN KOMPUTER INI SEBAB ADA BANYAK SANGAT HABUK.",
+    "endText_272": "DANIEL KENA PASTIKAN PCNYA SELALU BERSIH!",
+
+    "question_273": "Alamak! Dia lambat pergi kerja hari ini!",
+    "hint_273": "KALAU LAH HARI INI HARI MINGGU...",
+    "endText_273": "AWAK BOLEH TIPU DIA, TAPI TAK BOLEH TIPU BOS DIA!",
+    "custom1_273": "KHAMIS",
+    "custom2_273": "JUMAAT",
+    "custom3_273": "SATURDAY",
+
+    "question_274": "Apakah jawapan sebenar?",
+    "hint_274": "13+7 BOLEH DAPAT 20.",
+    "endText_274": "KALAU ANDA MASIH TAK BENCIKAN LOGIK MATEMATIK NI, ANDA MESTI PANDAI DALAM MATEMATIK YANG SEBENAR!",
+
+    "question_276": "Tolong dia sampai ke rumah.",
+    "hint_276": "GUNAKAN PLATFORM LAIN UNTUK BUAT JAMBATAN.",
+    "endText_276": "JALAN INI LEBIH SELAMAT DARIPADA JALAN YANG SAYA SELALU GUNA.",
+
+    "question_277": "Di manakah anjing itu bersembunyi?",
+    "hint_277": "CUBA TENGOK DI ANTARA DUA ALMARI.",
+    "endText_277": "MAAF, AWAK KENA PERGI JUMPA DOKTOR HAIWAN.",
+
+    "question_278": "Cuba lancarkan perjalanan kenderaan!",
+    "hint_278": "GRAVITI MUNGKIN BOLEH TOLONG.",
+    "endText_278": "DATUK BANDARAYA KL MESTI NAK JUMPA AWAK :)",
+
+    "question_279": "Tamatkan latihan pedang anda.",
+    "hint_279": "LIBAS IKUT ARAH PEDANG.",
+    "endText_279": "MAHAGURU PASTI SANGAT BANGGA DENGAN ANDA.",
+
+    "question_280": "Hantu ini mesti terlepas dari perangkap-perangkap.",
+    "hint_280": "MULA-MULA, ANDA KENA LUKIS JALAN YANG BETUL DI ATAS KERTAS.",
+    "endText_280": "BAGUS KE KALAU KITA TOLONG HANTU?! TAK TAKUT KE?!",
+
+    "question_281": "Aduhai, bunga dah layu...",
+    "hint_281": "BUNGA INI PERLUKAN AIR DAN BAJA.",
+    "endText_281": "KEMBANG DAN MEKARLAH, WAHAI BUNGA.",
+
+    "question_282": "Tolong        kereta saya.",
+    "hint_282": "NAMPAK TAK MANA PERKATAAN \"BAIKI\"?",
+    "endText_282": "DALAM PERMAINAN INI, PERKATAAN JUGA ADA KUASA YANG HEBAT!",
+
+    "question_284": "Selamatkan bandar ini!",
+    "hint_284": "KALAU LAH BUKIT NI LEBIH TINGGI.",
+    "endText_284": "TADI MESTI ANDA CUBA GUNA TEKNIK AWAN, KAN?",
+
+    "question_285": "Bantu dia lindungi penyu-penyu kecil ini.",
+    "hint_285": "GUNA CANGKERANG UNTUK LAWAN SI ULAR.",
+    "endText_285": "JUMPA LAGI, ULAR!",
+
+    "question_286": "Bentukkan semula wajah.",
+    "hint_286": "ADA CERMIN DI TENGAH. CUBA GUNA.",
+    "endText_286": "JIKA ANDA SUKA TAHAP INI, CUBA PERMAINAN KEDUA KAMI: MIRROR PUZZLE!",
+
+    "question_287": "Anda mesti menang yang ini...",
+    "hint_287": "CUBA GERAKKAN O.",
+    "endText_287": "JANGAN RISAU, TAK ADA SIAPA YANG NAMPAK ANDA MENIPU.",
+    "custom1_287": ": YOU",
+    "custom2_287": ": RIVAL",
+
+    "question_288": "Bantu dia rasa lebih bersemangat di pagi Isnin.",
+    "hint_288": "BANCUH KOPI DENGAN AIR PANAS DAN SERBUK KOPI!",
+    "endText_288": "SEKARANG KAMI MENERIMA PERMOHONAN PENAJA JENAMA KOPI UNTUK DIGUNAKAN DI TAHAP INI. SILA HUBUNGI PENGURUS PEMASARAN KAMI SI KUCING COMEL.",
+
+    "question_289": "Ayuh bantu pasangan kekasih ini bertemu.",
+    "hint_289": "CUBA GUNAKAN KAYU BALAK SEBAGAI JAMBATAN.",
+    "endText_289": "TAK SEBAGUS FILEM 'SEPET', TAPI TETAP MENGHIBURKAN.",
+
+    "question_290": "Dia menangis macam selalu!",
+    "hint_290": "CUBA TUKAR SALURAN TV.",
+    "endText_290": "SEBENARNYA, RANCANGAN KARTUN LEBIH BERBAHAYA DARIPADA MENANGIS.",
+
+    "question_291": "Bantuan anda diperlukan untuk tewaskan naga.",
+    "hint_291": "CUBA TARIK PERHATIAN NAGA DENGAN KESATERIA, LEPAS TU MASUKKAN AIR KE DALAM MULUT NAGA.",
+    "endText_291": "HARI INI MENCATATKAN KEPERWIRAAN KESATERIA YANG BERANI.",
+
+    "question_292": "Apa yang ada di atas Musytari",
+    "hint_292": "TAK PASTI DENGAN JAWAPAN? CUBA TUNJUK MENGGUNAKAN SIMBOL.",
+    "endText_292": "MEMANG MISTERI JAWAPAN INI.",
+
+    "question_293": "Alamak! Kita kena hentikan kemalangan ini!",
+    "hint_293": "CUBA TARIK HON KERETA API INI.",
+    "endText_293": "KENAPA ADA ORANG NAK TIDUR DI LANDASAN?!",
+
+    "question_294": "Dia sangat marah, tolong dia tenangkan dia.",
+    "hint_294": "LETAK DAN TERBALIKKAN TELEFON ANDA.",
+    "endText_294": "INGAT, KALAU RASA MARAH, BARING DAN BAWAK BERTENANG.",
+
+    "question_295": "Kita mesti buka peti besi ini.",
+    "hint_295": "MESTI ADA PETUNJUK DI SINI...",
+    "endText_295": "APAKAH YANG ADA DALAM PETI BESI? PEMAJU TIDAK DAPAT TUNJUKKANNYA KERANA KEKURANGAN BAJET.",
+
+    "question_296": "Kesateria cilik mesti kalahkan gergasi kali ini.",
+    "hint_296": "CUBA UMPAN GERGASI AGAR HENTAM JAMBATAN.",
+    "endText_296": "RAJA AKAN BAGI DIA GANJARAN LUMAYAN, SEDANGKAN KITA YANG BERTUNGKUS LUMUS!",
+
+    "question_297": "Kenapa kereta di depan tak bergerak?",
+    "hint_297": "GERAKKAN SKRIN UNTUK LIHAT PEMANDUNYA.",
+    "endText_297": "TAK SANGKA BETUL ADA ORANG MACAM INI!",
+
+
+
+    
+    "question_299": "Arnab mesti kumpulkan semua syiling emas.",
+    "hint_299": "UMPAN ARNAB MENGGUNAKAN LOBAK MERAH.",
+    "endText_299": "SEKARANG DIA BOLEH MEMBELI BERIBU-RIBU LOBAK MERAH DENGAN SYILING EMAS INI.",
+
+    "question_307": "Tak kira, Tompok nak lompat juga ke seberang sana.",
+    "hint_307": "ANDA BOLEH CUBA GUNAKAN TOMPOK SEBAGAI PELURU MERIAM.",
+    "endText_307": "MEMANG BETUL KUCING ADA 9 NYAWA!",
+
+    "question_308": "Badut ini menipu lagi. Mari kita buktikan.",
+    "hint_308": "GUNAKAN MEJA ITU.",
+    "endText_308": "PERSEKUTUAN BADUT ANTARABANGSA HARUS MENGHUKUM BADUT INI.",
+
+    "question_322": "INI IALAH BULATAN MERAH  INI IALAH SEGITIGA BIRU  INI IALAH SEGI EMPAT SAMA MERAH",
+    "hint_322": "ADAKAH ITU SEGI EMPAT SAMA ATAU SEGI EMPAT TEPAT?",
+    "endText_322": "SOALAN YA ATAU TIDAK MEMANG SENTIASA SUKAR!",
+    "custom1_322":"INI IALAH BULATAN MERAH",
+    "custom2_322":"INI IALAH SEGITIGA BIRU",
+    "custom3_322":"INI IALAH SEGI EMPAT SAMA MERAH",
+
+    "question_306": "Betul ke jawapan ini?",
+    "hint_306": "IA BOLEH JADI LEBIH BESAR DARI SEGI ‘SAIZ.’",
+    "endText_306": "SEKARANG, 6 MEMANG DAH JADI LEBIH BESAR.",
+
+    "question_312": "Dia perlu tangkap lebih banyak hantu lagi.",
+    "hint_312": "LETAKKAN PERANGKAP DALAM LALUAN HANTU.",
+    "endText_312": "LEPAS NI TAK PERLU PANGGIL BOMOH UNTUK TANGKAP HANTU.",
+
+    "question_318": "Apa jawapan yang tepat.",
+    "hint_318": "JAWAPAN SUDAH DIBERIKAN DALAM AYAT TADI. ABAIKAN JAWAPAN TAK BERKENAAN.",
+    "endText_318": "- JAWAPANNYA IALAH APA.  - APA?!  - SAYA MAKSUDKAN APA!",
+    "custom1_318":"A) EPAL",
+    "custom2_318":"B) BUAH",
+    "custom3_318":"C) PISANG",
+    "custom4_318":"D) MURAI",
+
+    "question_323": "Carikan saya ayam yang paling berat.",
+    "hint_323": "GUNAKAN BANGKU UNTUK MENGUKUR BERAT AYAM.",
+    "endText_323": "BIJAKNYA, SAYA MEMANG BERCADANG NAK GANTIKAN ALAT PEMBERAT SAYA.",
+
+    "question_324": "Bantu lelaki ini temui cinta sejatinya.",
+    "hint_324": "BUANG BARANG MEWAH UNTUK MENGUJI CINTA GADIS-GADIS INI.",
+    "endText_324": "CEPAT AMBIL SEMULA BARANG BERHARGA DARI TONG SAMPAH!",
+
+    "question_332": "Apakah jawapan sebenar?",
+    "hint_332": "FAHAM TAK, 5-1=4 DAN 5+1=6?",
+    "endText_332": "CIKGU MATEMATIK SURUH MAIN PERMAINAN NI HARI-HARI.",
+
+    "question_298": "Masa untuk ke sekolah, mari kita kejutkan Aiman.",
+    "hint_298": "BUKA KEDUA-DUA KELOPAK MATA PADA MASA YANG SAMA.",
+    "endText_298": "BANGUNLAH, BUDAK COMEL.",
+
+    "question_300": "Pastikan pelanggan anda kenyang.",
+    "hint_300": "CUBA LETAKKAN SEMUA MAKANAN DI ATAS DULANG.",
+    "endText_300": "WAH, SUNGGUH TAK MASUK AKAL?!",
+
+    "question_301": "Berapakah nilai tanda soal?",
+    "hint_301": "8+3+1=12",
+    "endText_301": "TAHAP BEGINI MENGUJI ANDA DENGAN TIDAK MENGUJI ANDA, TAPI ANDA SANGKA ANDA AKAN DI UJI.",
+
+    "question_303": "Arggh! Tolong halau nyamuk-nyamuk ni.",
+    "hint_303": "NYAMUK TAK SUKAKAN CUACA SEJUK.",
+    "endText_303": "SAYA RELA DEMAM KESEJUKAN BERBANDING DIGIGIT NYAMUK!",
+
+    "question_304": "Pilih warna yang tepat pada skrin.",
+    "hint_304": "PERLI LIHAT DENGAN TELITI UNTUK LIHAT WAYAR KUNING MASUK PADA DUA SKRIN.",
+    "endText_304": "TOLONGLAH HURAIKAN WAYAR YANG KUSUT NI!",
+
+    "question_310": "Tolong, kami tak jumpa arah pulang!",
+    "hint_310": "IA MESTI TERLALU JAUH DARIPADA MATAHARI.",
+    "endText_310": "TAK SABAR NAK JUMPA ANAK SAYA, MESTI DIA DAH JADI TUA DARIPADA SAYA SEKARANG.",
+
+    "question_313": "Agaknya, ikan manakah yang paling besar.",
+    "hint_313": "IKAN BUNTAL JADI LEBIH BESAR KALAU MEREKA RASA TERANCAM.",
+    "endText_313": "MESTI ANDA JANGKA AKAN TEMUI IKAN PAUS KAN?",
+
+    "question_315": "Apakah nombor di atas nombor 4?",
+    "hint_315": "ABAIKAN SEMUA JAWAPAN YANG TERSEDIA UNTUK DAPAT JAWAPAN SEBENAR.",
+    "endText_315": "5 IALAH NOMBOR DI ATAS NOMBOR 4!",
+
+    "question_316": "Bantu lelaki ini daripada di saman.",
+    "hint_316": "BETULKAN LAMPU DEPAN DENGAN MEMASANG LAMPU BAHARU.",
+    "endText_316": "‘TUAN TENGOK NI. LAMPU DEPAN SAYA OK!’",
+
+    "question_320": "Laraskan pandangan sisi berdasarkan pandangan atas.",
+    "hint_320": "LUNCURKAN BLOK DAN LETAKKAN PADA KEDUDUKAN YANG SAMA DENGAN GAMBAR DI ATAS.",
+    "endText_320": "ANDA MEMANG PANDAI LIHAT DARI PERSPEKTIF YANG BERBEZA.",
+
+    "question_321": "Cipta bentuk ke-6 berdasarkan corak yang tersedia.",
+    "hint_321": "DUA TITIK DI BARISAN TENGAH.",
+    "endText_321": "IQ ANDA MELEBIHI 9000!"
+,
+
+
+"question_325": "Alamak! Budak ini tak dapat lihat perarakan!",
+"hint_325": "GUNAKAN KOTAK UNTUK JADI LEBIH TINGGI.",
+"endText_325": "TOMBOK YANG TINGGI BUKAN HALANGAN KALAU ANDA BIJAK.",
+
+"question_326": "Salah seekor beruang ini bukan beruang betul.",
+"hint_326": "CUBA UJI DENGAN MADU.",
+"endText_326": "ITU MESTI AHLI ZOOLOGI YANG SEDANG BUAT KAJIAN!",
+
+"question_328": "Comotnya. Mari bersihkan Danish.",
+"hint_328": "JANGAN LUPA BAHAGIAN WAJAHNYA YANG LAIN.",
+"endText_328": "DANISH, JANGAN GELOJOH MASA MAKAN!",
+
+"question_329": "Dengar kata ada hantu di sini! Tolong saya cari hantu!",
+"hint_329": "GUNAKAN TEPUNG UNTUK MENCARI HANTU.",
+"endText_329": "ITU DIA! CEPAT, PANGGIL BOMOH HANTU SEKARANG!",
+
+"question_330": "Tangkap  burung yang terbang ke arah kanan.",
+"hint_330": "PUTAR TELEFON ANDA UNTUK BUAT BURUNG TERBANG KE ARAH KANAN.",
+"endText_330": "KALAU KENA CARANYA, MUDAH SAJA NAK TANGKAP 5 EKOR BURUNG!",
+
+"question_331": "Ada sesuatu yang tak kena di sini!",
+"hint_331": "TINGGIKAN PODIUM DENGAN BETUL.",
+"endText_331": "MACAM TU LAH!",
+
+"question_334": "Jimi tak boleh keluar. Dia mesti siapkan kerja sekolahnya!",
+"hint_334": "JIMI TIDAK BOLEH KELUAR JIKA TIDAK ADA PINTU.",
+"endText_334": "SEKARANG JIMI CUBA NAK KELUAR DARI TINGKAP.",
+
+"question_335": "Tompok nak makan semua ikan.",
+"hint_335": "MULAKAN DARI IKAN PALING KECIL.",
+"endText_335": "KALAU BEGINILAH SELERA TOMPOK, MESTI DIA BOLEH MAKAN IKAN PAUS!",
+
+"question_336": "Masa untuk makan dan minum dengan sihat.",
+"hint_336": "COKLAT BUKAN MAKANAN YANG MENYIHATKAN.",
+"endText_336": "DIA CUBA MENAHAN GODAAN MAKANAN SEGERA YANG TAK BERKESUDAHAN.",
+
+"question_337": "Macam mana nak buat orang yang sedang bermusuh masuk ke dalam bangunan tanpa bertemu.",
+"hint_337": "LETAKKAN OBJEK DI LALUAN UNTUK MENGHALANG MEREKA.",
+"endText_337": "WAH HEBAT! ANDA BERJAYA HALANG PERGADUHAN AWAM.",
+
+"question_338": "Masa untuk bakar lemak.",
+"hint_338": "SERET BURGER UNTUK BUATKAN DIA TERKEJAR-KEJAR.",
+"endText_338": "KALAU RAJIN BERSENAM MESTI BADAN RASA SIHAT."
+,
+"question_10": "Cari jawapannya.",
+"hint_10": "PERHATIKAN BAHAWA JUMLAH PERSAMAAN DI ATAS MERUPAKAN HASIL TAMBAH DUA BUAH-BUAHAN.",
+"endText_10": "SYABAS, ANDA MEMANG HANDAL JAWAB SOALAN MATEMATIK!",
+
+"question_22": "nan",
+"hint_22": "KIRA BULATAN.",
+"endText_22": "SENTIASA TENGOK BETUL-BETUL.",
+
+"question_25": "Apakah nombor yang tersembunyi?",
+"hint_25": "CUBA TENGOK DARI SUDUT LAIN.",
+"endText_25": "CUBA FIKIR DI TAS, DI BAWAH DAN DI LUAR KOTAK... HEHEHE;)",
+
+"question_36": "Tekan butang.",
+"hint_36": "MASIH ADA SATU LAGI PERKATAAN \"BUTANG\".",
+"endText_36": "YA, PERKATAAN \"BUTANG\" PUN BOLEH DIAMBIL KIRA.",
+
+"question_40": "nan",
+"hint_40": "CUBA LIHAT BUAH-BUAHAN DENGAN TELITI.",
+"endText_40": "MATEMATIK MEMANG BAGUS, TAPI KESIHATAN MATA PERLU DIJAGA!",
+
+"question_54": "Nyalakan butang yang betul.",
+"hint_54": "NOMBOR MENUNJUKKAN BILANGAN BUTANG YANG AKTIF DALAM BARIS/LAJUR ITU.",
+"endText_54": "ANDA MEMANG BIJAK!",
+
+"question_76": "Cuba dapatkan nombor yang serendah mungkin.",
+"hint_76": "GUNAKAN SIMBOL TOLAK UNTUK MENJADIKANNYA NEGATIF.",
+"endText_76": "SEKARANG BARULAH PERSAMAAN NI NAMPAK LOGIK!",
+
+"question_93": "Pilih nombor besar yang mungkin.",
+"hint_93": "CUBA LIHAT DARI SUDUT LAIN… ;)",
+"endText_93": "CUBA FIKIR DI LUAR KOTAK.",
+
+"question_112": "Bantu mereka menyeberang. Tetapi jangan biarkan mereka bersendirian dengan mangsa mereka.",
+"hint_112": "LETAKKAN BIRI-BIRI DI ATAS BOT SAMBIL MEMINDAHKAN KUBIS DAN SERIGALA.",
+"endText_112": "SUDAH SAH! ANDA MEMANG BIJAK BESTARI.",
+
+"question_153": "Ketik pada kucing di bawah.",
+"hint_153": "ADA LEBIH DARIPADA 1 EKOR KUCING.",
+"endText_153": "PASTIKAN JARI ANDA BERGERAK LINCAH.",
+
+"question_165": "Ibu saya memasak 1 biji kentang dalam masa 25 minit. Berapa lama masa yang diperlukan untuk memasak 5 biji kentang?",
+"hint_165": "SEMUA KENTANG BOLEH DI MASAK DALAM SEBIJI PERIUK.",
+"endText_165": "SELAIN REBUS, KENTANG GORENG PUN SEDAP JUGA.",
+
+"question_226": "Fikirkan cara membuka pintu peti besi.",
+"hint_226": "CUBA CARI PETUNJUK PADA DINDING.",
+"endText_226": "WOW! LEPAS NI BOLEHLAH ANDA SERTAI KELAB VIP KAMI.",
+
+"question_232": "Halang serigala jadian itu!!",
+"hint_232": "SERIGALA JADIAN MENDAPAT KUASA DARIPADA BULAN PENUH.",
+"endText_232": "KENAPA MEREKA TAK DIGELAR MANUSIA SERIGALA?",
+
+"question_242": "Detektif, cuba selesaikan kes pembunuhan ni.",
+"hint_242": "APA KATA CUBA KEJUTKAN DIA, DIA MUNGKIN TERTIDUR!",
+"endText_242": "ITU BUKAN DARAH, CUMA SOS! FUH!",
+
+"question_250": "Cuba bantu ahli sihir biru agar dia menang!",
+"hint_250": "DIA MEMANG KEBAL TERHADAP SIHIR, TAPI DIA MASIH BOLEH DIHEMPUK..:)",
+"endText_250": "HANYA AHLI SIHIR YANG BIJAK BISTARI AKAN MENANG.",
+
+"question_252": "Tikus ini perlu mandi.",
+"hint_252": "CUBA SUSUN SALURAN PAIP.",
+"endText_252": "EHH! TIKUSPUN TAHU MANDI KE?",
+
+"question_253": "Dia mahukan rambut warna ungu.",
+"hint_253": "CUBA CAMPURKAN WARNA UNTUK DAPATKAN WARNA UNGU.",
+"endText_253": "ADA TAK SESIAPA NAK RAMBUT WARNA HIJAU?",
+
+"question_314": "Arah manakah yang menuju ke luar?",
+"hint_314": "CUBA CARI ARAH ANGIN DENGAN MENGGUNAKAN OBOR.",
+"endText_314": "JIKA ADA ANGIN BERTIUP, BERMAKNA ADA LALUAN UNTUK KELUAR!",
+
+"question_317": "Uh! Ada yang tak kena!",
+"hint_317": "BIASANYA DALAM TV, BUNIAN MERUPAKAN PEMANAH DAN AHLI SIHIR MENGGUNAKAN TONGKAT.",
+"endText_317": "DALAM CERITA HOBBIT ADA BANYAK BUNIAN.",
+
+"question_319": "Saya nak makan sesuatu.",
+"hint_319": "CUBA BUAT TELUR DADAR DENGAN MENGGABUNGKAN BENTUK YANG TERSEDIA.",
+"endText_319": "TELUR DADAR PERASA HANTU MEMANG CUKUP MENDEBARKAN.",
+
+"question_327": "Selamatkan dia!",
+"hint_327": "PEGANG HUJUNG JARING KESELAMATAN BETUL-BETUL.",
+"endText_327": "JANGAN PERCAYAKAN SESIAPA DENGAN NYAWA ANDA.",
+
+"question_333": "Uwekkk! Busuknya monyet ni!",
+"hint_333": "CUBA FIKIR CARA NAK LIMPAHKAN AIR.",
+"endText_333": "MONYET NI MESTI DISYAMPU JUGA.",
+
+"question_339": "Tompok nak makan semua ikan.",
+"hint_339": "MULAKAN DARI IKAN PALING KECIL.",
+"endText_339": "KALAU BEGINILAH SELERA TOMPOK, MESTI DIA BOLEH MAKAN IKAN PAUS!",
+
+"question_340": "Siapakah ibu bayi comel ini?",
+"hint_340": "CUBA BUATKAN BAYI MENANGIS.",
+"endText_340": "BAGUS! ERRR LARI! MAK DIA DAH DATANG!",
+
+"question_341": "Angkara siapakah ini?",
+"hint_341": "MUNGKIN DIA CUMA PENGSAN?",
+"endText_341": "DIA TEWAS SELEPAS MAKAN KEPINGAN PIZA KE-34.",
+
+"question_342": "Siapa yang makan ais krim saya?!",
+"hint_342": "CUBA LIHAT PIPI.",
+"endText_342": "AWAK KENA DENDA!",
+
+"question_343": "Siapa yang tumpahkan susu?",
+"hint_343": "PENJENAYAH SEBENAR SEDANG BERSEMBUNYI.",
+"endText_343": "PELIK, MACAM MANA MEOW BOLEH AMBIL SUSU DALAM PETI SEJUK?!",
+
+"question_344": "Siapakah adiwira yang sebenar?",
+"hint_344": "CUBA LAKUKAN SESUATU YANG DRAMATIK.",
+"endText_344": "HA, MARI ISI BORANG KEAHLIAN AVENGERS.",
+
+"question_345": "Katik dalam susunan di bawah:  Budak Lelaki-Arnab-Burung-Llama-Ayam-Kucing",
+"hint_345": "CUBA CARI AYAM YANG MENYOROK.",
+"endText_345": "HMMM.. PELIKNYA AYAM TU.",
+"custom1_345": "Katik dalam susunan di bawah:",
+
+"question_354": "Yang manakah bayang-bayang lelaki ini.",
+"hint_354": "PASST.. BAYANG-BAYANG ITU BERUBAH KEDUDUKAN.",
+"endText_354": "BAYANG-BAYANG TAK PERNAH MENIPU.",
+
+"question_356": "Yang manakah ais krim sebenar?",
+"hint_356": "CUBA CAIRKANNYA.",
+"endText_356": "YANG LAIN SEMUANYA MAIANAN PLASTIK. ANDA BOLEH JUGA CUBA JILAT UNTUK TENTUKAN AIS KRIM SEBENAR.",
+
+"question_357": "Cuba teka yang mana telur mentah?",
+"hint_357": "APA AKAN JADI KALAU JATUH DARI TEMPAT TINGGI?",
+"endText_357": "JOM KITA MAKAN TELUR REBUS TU.",
+
+"question_358": "Cuba buatkan kedua-dua cecair itu bercampur.",
+"hint_358": "GONCANGKAN SAMBIL TUTUP TIUB.",
+"endText_358": "PSST! NAK TAHU TAK... FORMULA UNGU INI AKAN MENGHILANGKAN JERAWAT ANDA.",
+
+"question_359": "Apakah kod PIN?",
+"hint_359": "CUBA BESARKAN BUIH.",
+"endText_359": "SKRIN TELEFON INI TERLALU KECIL.",
+
+"question_360": "Ahh... bisingnya!",
+"hint_360": "CUBA TUTUP LUBANG SAKSOFON DENGAN JARI.",
+"endText_360": "TOLONGLAH PERGI MAIN MUZIK KAT TEMPAT LAIN.",
+
+"question_361": "Tolong! Badan saya panas!",
+"hint_361": "CUBA LIHAT STOKING.",
+"endText_361": "KENAPALAH DIA PAKAI BANYAK SANGAT STOKING.",
+
+"question_362": "Bangunkan dia.",
+"hint_362": "CUBA PERIKSA SAMBUNGAN TELEFON DAN SET KEPALA.",
+"endText_362": "JANGAN SEKALI-KALI PERCAYAKAN SAMBUNGAN BLUETOOTH.",
+
+"question_363": "Jom kita buli si pembuli!",
+"hint_363": "CUBA GUNAKAN TIN COKE ITU.",
+"endText_363": "PADAN MUKA PEMBULI TU!",
+
+"question_364": "Cuba bawa bola masuk ke tengah.",
+"hint_364": "KETIK UNTUK MULA DAN HENTIKAN. GUNAKAN GARIS WARNA UNTUK MASUK KE DALAM BULATAN.",
+"endText_364": "HANYA YANG ADA REFLEKS YANG BAGUS AKAN BERJAYA MEMBIMBING BOLA INI.",
+
+"question_366": "Buatkan semula wajah jadi tersenyum.",
+"hint_366": "BIRU MAHU BARISAN PALING ATAS. KUNING MAHU BARISAN PALING BAWAH. MERAH TAK SUKAKAN KUNING.",
+"endText_366": "GEMBIRANYA DAPAT LIHAT MEREKA SEMUA TERSENYUM.",
+
+"question_367": "Di manakah arnab?",
+"hint_367": "ARNAB ADA TELINGA YANG PANJANG.",
+"endText_367": "ARNAB CUBA MENYAMAR JADI KUCING.",
+
+"question_368": "Di manakah sang puteri?",
+"hint_368": "CUBA CUKUR SEMUA JANGGUT MEREKA.",
+"endText_368": "PUTERI, RAJA MEMERINTAHKAN KAMU KEMBALI KE ISTANA SEKARANG!",
+
+"question_369": "Tolong saya buka peti besi ini.",
+"hint_369": "KETIK BUTANG DALAM TURUTAN TERTENTU.",
+"endText_369": "KITA DAH PECAHKAN BANYAK PETI BESI, TAPI MASIH MISKIN!",
+
+"question_370": "Halang raksasa tu!",
+"hint_370": "CUBA CARI SKRU YANG HILANG PADA LENGAN ROBOT.",
+"endText_370": "CUBA CARI DI BADAN DINOSOUR.",
+
+"question_371": "Cuba cari kucing yang sesuai.",
+"hint_371": "CUBA LIHAT CORAK DENGAN TELITI. CUBA GUNAKAN SEMUA PILIHAN YANG ADA.",
+"endText_371": "JANGAN SEMPITKAN PILIHAN ANDA, FIKIR DI LUAR KOTAK.",
+
+"question_372": "Bantu dia jawab soalan peperiksaan.",
+"hint_372": "CUBA ELAKKAN PASIR DARIPADA MENGOSONGKAN RUANGAN.",
+"endText_372": "JANGAN SAMPAI ADA GURU NAMPAK KITA TOLONG DIA.",
+
+"question_373": "Cari nombor rahsia 2285.",
+"hint_373": "ADA BUKU YANG TERBALIK.",
+"endText_373": "MAKHLUK ASING AKAN DATANG PADA TAHUN 2285. TIKTOK MERUPAKAN RANCANGAN PERTAMA MEREKA UNTUK MENAKLUK BUMI.",
+
+"question_375": "Bantu saya pilih tarikh untuk bertemu dengan sepupu saya yang menjengkelkan.",
+"hint_375": "CUBA PILIH TARIKH YANG MUSTAHIL... HEHEHEH ;) AND ABULEH TUKAR BULAN.",
+"endText_375": "HEHEHE! SEKARANG SAYA TAK PERLU JUMPA DIA SELAMA-LAMANYA!",
+
+"question_377": "Cat merah semua petak.",
+"hint_377": "GUNAKAN BALDI UNTUK MENGHENTIKAN BERUS.",
+"endText_377": "ARRGGH! BERUS TERLALU SUKAR DIKAWAL.",
+
+"question_378": "nan",
+"hint_378": "3=2+1",
+"endText_378": "INI BUKAN TIPU, BUKAN TRIK. CUMA KEPINTARAN MATEMATIK TEGAR!",
+
+"question_380": "Bantu lelaki ini melintas jalan.",
+"hint_380": "CARI JALAN UNTUK MENARIK PERHATIAN POLIS.",
+"endText_380": "MAKAN DONAT UNTUK MEMULAKAN HARI ANDA.",
+
+"question_381": "Tembak semua sasaran.",
+"hint_381": "TEMBAKAN TEPAT BERGANDA BOLEH MEMECAHKAN ANAK PANAH.",
+"endText_381": "SAYA RASA KEHEBATAN DAH SETANDING DENGAN ROBIN HOOD... HIHIHI!",
+
+"question_382": "Pasti ada pintu tersembunyi.",
+"hint_382": "CUBA LIHAT DI BAWAH PERMAIDANI.",
+"endText_382": "KE MANA ARAH PINTU INI? MUNGKIN KE BILIK RAHSIA YANG ADA BANYAK WANG?",
+
+"question_383": "Semua kereta mesti mengosongkan ruang parkir.",
+"hint_383": "LERET UNTUK MENGGERAKKAN KERETA. MULAKAN DENGAN KERETA PALING TEPI.",
+"endText_383": "TERUKNYA CARA MEREKA PARKIR! LESEN BELI AGAKNYA..",
+
+"question_384": "Bantu saya kena cepumas.",
+"hint_384": "APA KATA CUBA GUNAKAN PELEKAT PADA MESIN.",
+"endText_384": "INI CARA NAK URUSKAN MESIN YANG DAH DIUBAHSUAI!",
+
+"question_385": "Siapakah yang menyamar?",
+"hint_385": "PENYAMAR AKAN BERTINDAK APABILA DIA BERSENDIRIAN DENGAN MANGSA.",
+"endText_385": "KORANG SEMUA, MASA UNTUK MESYUARAT TERGEMPAR!",
+
+"question_386": "Bantu Kerajaan Merah menang peperangan.",
+"hint_386": "PELEMBING MENGALAHKAN PENUNGGANG, PENUNGGANG MENGALAHKAN PEMEDANG.",
+"endText_386": "FUH, BAYANGKAN KALAU TERPAKSA KETUAI SATU ARMADA!",
+
+"question_388": "Nyalakan semua butang.",
+"hint_388": "IKUT CORAK TERTENTU. MULAKAN DENGAN KIRI ATAS, BERAKHIR DENGAN KIRI BAWAH.",
+"endText_388": "BOLEH TERUS MENCUBA SAMPAI DAPAT JAWAPAN YANG BETUL.",
+
+"question_389": "Kuatnya bunyi muzik! Perlahankan!",
+"hint_389": "CUBA PASANG PEMBESAR SUARA SEKUAT MUNGKIN.",
+"endText_389": "JANGAN HARAP MAK AYAH NAK BELIKAN PEMBESAR SUARA BARU!",
+
+"question_390": "Lengkapkan parkour.",
+"hint_390": "KETIK UNTUK LOMPAT. CUBA LARASKAN SAIZ BLOK.",
+"endText_390": "KALAULAH BONGGOL JALAN RAYA PUN BOLEH DIKECILKAN MACAM NI.",
+
+"question_391": "Tiada kanak-kanak yang mengunjungi rumahnya. Bantu dia.",
+"hint_391": "CUBA BUAT UKIRAN PADA LABU HALLOWEEN. SELEPAS UKIR, NYALAKAN LILIN.",
+"endText_391": "HELAH ATAU HADIAH!",
+
+"question_392": "Berapakah bilangan hantu sebenar?",
+"hint_392": "CUBA TANGGALKAN KOSTUM MEREKA.",
+"endText_392": "SUDAH TENTU KOSONG! MANA ADA HANTU! ANDA RASA HANTU BETUL-BETUL WUJUD KE?!",
+
+"question_393": "Masa untuk pemeriksaan gula-gula. Semua orang berbaris sekarang!",
+"hint_393": "ADA BUDAK YANG SOROK GULA-GULA. CUBA CARI!",
+"endText_393": "KESIAN BUDAK TU. MESTI IBU BAPA MEREKA AKAN MAKAN SEMUA GULA-GULA TU.",
+
+"question_394": "Mereka lapar dan merungut. Mari mulakan makan malam Kesyukuran.",
+"hint_394": "POTONG AYAM BELANDA DAN BAHAGI-BAHAGIKAN KE DALAM PINGGAN MEREKA.",
+"endText_394": "BERHENTILAH MERUNGUT! INI HARI UNTUK BERSYUKUR!",
+
+"question_396":"Jom kita rawat pesakit ini.",
+"hint_396":"GUNAKAN SINAR-X UNTUK LIHAT MASALAHNYA. LERET PADA MASALAH UNTUK RAWAT.",
+"endText_396":"ANDA BETULKAN TULANG PATAHNYA DENGAN KEAJAIBAN!",
+
+"question_397":"Cari si penjenayah!",
+"hint_397":"ANDA BOLEH MENGGUNAKAN SKRIN SINAR-X UNTUK MEMERIKSA BEG DAN PERKARA LAIN.",
+"endText_397":"MACAM MANA PENGAWAL KESELAMATAN NI BOLEH DAPAT KERJA?!",
+
+"question_398":"Ada makhluk asing dalam kalangan mereka!",
+"hint_398":"GUNAKAN SKRIN SINAR-X UNTUK MENCARI MAKHLUK ASING.",
+"endText_398":"MAKHLUK ASING SEMAKIN BIJAK MENYAMAR!",
+
+
+"question_399":"Si Comel nak biskut pula.",
+    "hint_399":"BUMI INI BULAT.",
+    "endText_399":"DUNIANYA KECIL SAHAJA.",
+    
+    "question_400":"Ketik  kereta biru yang menuju ke kiri dengan gear hadapan.",
+    "hint_400":"JANGAN KETIK KERETA BIRU YANG SEDANG MENGUNDUR.",
+    "endText_400":"INILAH GAMBARAN PERJALANAN ULANG ALIK HARIAN SAYA.",
+    
+    "question_401":"Saya mahu tupai.",
+    "hint_401":"KETIK AHLI SIHIR UNTUK MENYIHIR. HAIWAN BOLEH BERTUKAR POSISI.",
+    "endText_401":"PELIKNYA SIHIR INI!",
+    
+    "question_402":"Sila betulkan persamaan ini.",
+    "hint_402":"TEMBAK MERIAM UNTUK MENUKAR SIMBOL DENGAN BETUL.",
+    "endText_402":"ANDA BOLEH GUNAKAN MERIAM INI DALAM UJIAN MATEMATIK ANDA.",
+    
+    "question_403":"Kereta biru mesti menang perlumbaan.",
+    "hint_403":"TERLALU BANYAK NITRO BOLEH MEMBAHAYAKAN.",
+    "endText_403":"KACANG JE NAK MENANG NI.",
+    
+    "question_404":"Satu lagi lembah yang mesti dilalui oleh kucing comel ini.",
+    "hint_404":"KALAULAH ADA BUTANG 'LOMPAT' DI SINI.",
+    "endText_404":"MEMANG BETUL-BETUL BUTANG LOMPAT.",
+    
+    "question_405":"JARINGKAN GOL.",
+    "hint_405":"JARINGKAN BOLA DENGAN MENGETIK BUTANG 'MULA!'. JANGAN KENA PEMAIN LAWAN.",
+    "endText_405":"RONALDO PASTI BANGGA DENGAN ANDA.",
+    
+    "question_406":"Ketik dalam turutan ini:",
+    "hint_406":"ANDA MENTI SALIN KEDUDUKAN DAHULU.",
+    "endText_406":"CANTIKNYA DALAM LAUT!",
+    
+    "question_407":"Selamatkan tikus ini daripada si kucing.",
+    "hint_407":"KEJU BUAT TIKUS JADI GAGAH.",
+    "endText_407":"HAHAHA… INI DIA TIKUZILLA DAH DATANG!",
+    
+    "question_408":"Bantu si kecil ini sampai pada ibunya.",
+    "hint_408":"LERET UNTUK BERGERAK. GUNA BATU UNTUK MENGAWAL LANGKAHNYA.",
+    "endText_408":"KENAPA DIA LARI DARI ANAK PEREMPUANNYA?!",
+    
+    "question_409":"Klik pada haiwan, daripada yang terkecil hingga ke terbesar.",
+    "hint_409":"MUNGKIN ADA HAIWAN KEEMPAT DI MANA-MANA.",
+    "endText_409":"INGAT, JANGAN SEKALI-KALI BERSEMBUNYI DI BELAKANG POKOK.",
+    
+    "question_410":"Nombor manakah yang paling tinggi?",
+    "hint_410":"ANDA PERLU LETAKKANNYA DI PERMUKAAN YANG SAMA UNTUK MENGUKUR.",
+    "endText_410":"PASTI NOMBOR ITU RAJIN MINUM SUSU.",
+    
+    "question_411":"Sekali lagi Si Comel nak terbang.",
+    "hint_411":"CUBA JATUHKAN SESUATU YANG BERAT UNTUK MELANTING SI KUCING.",
+    "endText_411":"NAMPAKNYA BANYAK KUCING TAHU TERBANG SEKARANG.",
+    
+    "question_412":"Bantu hantu keluar dari laluan berliku ini.",
+    "hint_412":"JEJAKI KEDUDUKAN HANTU DENGAN JARI ANDA.",
+    "endText_412":"HANTU BERJANJI TIDAK AKAN MENGHANTUI ANDA ATAS PERTOLONGAN ANDA.",
+    
+    "question_413":"Cantas semua zombi!",
+    "hint_413":"LERET NINJA UNTUK MENGUBAH KEDUDUKAN MEREKA. TUMPUKAN PADA ARAH PEDANG.",
+    "endText_413":"INI ADALAH EPISOD PERINTIS UNTUK THE WALKING DEAD: JAPAN.",
+    
+    "question_414":"Tolong kucing itu tangkap tikus.",
+    "hint_414":"JANGAN MASUK KE PAGAR SESAT, BERGERAK DI LUAR.",
+    "endText_414":"INI CUMA LATIHAN MEMBURU. SEBENARNYA, MEREKA BERDUA KAWAN BAIK.",
+    
+    "question_415":"Di manakah biri-biri putih saya?",
+    "hint_415":"AIR LIUR LLAMA DAPAT MEMBERSIHKAN CAT HITAM.",
+    "endText_415":"BANYAKNYA AIR LIUR LLAMA!",
+    
+    "question_416":"Bagaimana bentuk kotak-kotak ini dari depan?",
+    "hint_416":"3 DI BAWAH, 2 DI ATASNYA.",
+    "endText_416":"PERSPEKTIF ANDA MEMANG BAGUS.",
+    
+    "question_417":"Pastikan mereka semua dapat haba panas sepanjang malam.",
+    "hint_417":"ANDA BOLEH NYALAKAN UNGGUN API YANG LAIN.",
+    "endText_417":"SEPATUTNYA MEREKA TIDUR BERDEKATAN!",
+    
+    "question_418":"Tentera Biru mesti menang.",
+    "hint_418":"GERAKKAN TENTERA BIRU. PEDANG KALAHKAN TOMBAK, TOMBAK KALAHKAN KUDA DAN KUDA KALAHKAN PEDANG.",
+    "endText_418":"TAKTIK ANDA SUNGGUH BIJAK!",
+    
+    "question_419":"Ada perisik di sini. Mana dia?!",
+    "hint_419":"CUBA LIHAT LUKISAN.",
+    "endText_419":"PANDANGAN MATANYA TELAH TERPEDAYA!",
+    
+    "question_420":"Selamatkan budak tu!",
+    "hint_420":"MUNGKIN ADA SESUATU BOLEH BUAT MONSTER RASA TENANG.",
+    "endText_420":"JANGAN PANDANG RENDAH BERUANG TEDDY.",
+    
+    "question_421":"Masa untuk jadi kurus.",
+    "hint_421":"KETATKAN TALI PINGGANG.",
+    "endText_421":"BELI BUKU DIET KAMI BERTAJUK, 'DIET TALI PINGGANG AJAIB.'",
+    
+    "question_422":"Dedahkan rahsianya.",
+    "hint_422":"RAMBUTNYA MENYIMPAN SERIBU RAHSIA.",
+    "endText_422":"DIA AKAN KEMBALI SEMULA!",
+    
+    "question_423":"Kereta saya tak bergerak!",
+    "hint_423":"GRAVITI MUNGKIN BOLEH TOLONG.",
+    "endText_423":"SEMOGA JALAN SELEBIHNYA AKAN MENCERUN KE BAWAH SAJA.",
+    
+    "question_424":"Imbangkan jongkang-jongket berat.",
+    "hint_424":"CUBA KELUARKAN NOMBOR YANG TIDAK PERLU.",
+    "endText_424":"PELIKNYA. SIFAR PUN ADA BERAT KE?!",
+    
+    "question_425":"Dia nak               nya jadi besar.",
+    "hint_425":"CUBA BESARKAN 'OTOT-OTOT'.",
+    "endText_425":"JANGAN SESEKALI MENCUBA FORMULA OTOT INI DI RUMAH.",
+    
+    "question_426":"Masa untuk jadi kaya!",
+    "hint_426":"TARIK PERHATIAN ANJING ITU DAN LIHAT IA BERTUKAR JADI MATA WANG KRIPTO.",
+    "endText_426":"ELON MUSK TAK SUDI NAK TAJA TAHAP INI!",
+    
+    "question_427":"Gadis ini kehabisan bahan untuk solekan. Jom tolong dia.",
+    "hint_427":"NAPKIN BOLEH DIWARNAKAN DENGAN WARNA DARI BIBIR. CARI BULU MATA DARI RAMBUT.",
+    "endText_427":"DIA DAN CANTIK SEMULA JADI TANPA SOLEKAN.",
+    
+    "question_428":"Cuaca terlalu panas! Kesian lelaki tu. Jom tolong dia.",
+    "hint_428":"CARI SESUATU YANG TAJAM UNTUK PECAHKAN MATAHARI.",
+    "endText_428":"RUPANYA, SELAMA NI CARA SAYA GUNAKAN PAYUNG SALAH!",
+    
+    "question_429":"Anjing itu nak makan sedikit salji.",
+    "hint_429":"HUJAN BERTUKAR MENJADI SALJI PADA ALTITUD YANG TINGGI.",
+    "endText_429":"AWAS DENGAN YANG WARNA KUNING!",
+    
+    "question_430":"Dia nak jadi lebih tinggi.",
+    "hint_430":"ELEKTRIK STATIK BOLEH MENAIKKAN RAMBUTNYA. ELEKTRIKKAN SIKAT DENGAN MENGGOSOKNYA PADA BAJU.",
+    "endText_430":"JADI TINGGI: IKUT CARA MARGE SIMPSON",
+    
+    "question_431":"Selamatkan Titanic!",
+    "hint_431":"KALAULAH ADA CAHAYA BULAN UNTUK MENUNJUKKAN AISBERG.",
+    "endText_431":"ANDA DAH UBAH SEJARAH!",
+    
+    "question_432":"Bahagiakan mereka berdua.",
+    "hint_432":"YANG SEORANG TU JANGGUTNYA BERLEBIHAN. APA KATA....",
+    "endText_432":"BERKONGSI TU TANDA SAYANG.",
+    
+    "question_433":"Salah satu tu agak meragukan!",
+    "hint_433":"BERSIHKAN VISOR UNTUK TENGOK.",
+    "endText_433":"TERUSKAN PENYAMARAN ANDA. <link=\"imposter\"><u><color=blue>BECOME THE IMPOSTER!</color></u></link>",
+    
+    "question_434":"Ejen Zali mesti tangkap pencuri itu!",
+    "hint_434":"FIKIRKAN CARA SUPAYA BEG PENCURI JADI LEBIH BERAT.",
+    "endText_434":"JIKA ANDA NAK MAIN LEBIH BANYAK PENGEMBARAAN AGEN ZALI, CUBA <link=\"bt2\"><u><color=blue>BRAIN TEST 2!</color></u></link>",
+    
+    "question_435":"Mana anjing bertompok empat?",
+    "hint_435":"SALAH SATU TOMPOK TU CUMA KOTORAN.",
+    "endText_435":"ANJING, DATANG SINI!",
+    
+    "question_436":"Bayi mana yang nakal?",
+    "hint_436":"MUNGKIN ADA BAYI KETIGA MENYOROK DI MANA-MANA.",
+    "endText_436":"JIKA ANDA SUKA UJI MINDA SOSIAL MACAM NI, CUBA <link=\"whois\"><u><color=blue>WHO IS!</color></u></link>",
+    
+    "question_437":"Ada nampak jerung tak?",
+    "hint_437":"JERUNG TERTARIK KEPADA DARAH.",
+    "endText_437":"ADEGAN NI TERLALU GANAS UNTUK PENONTON BAWAH UMUR.",
+    
+    "question_438":"Jom satukan pasangan kekasih ini.",
+    "hint_438":"BAWA OBJEK YANG SAMA KE DALAM SATU BARIS.",
+    "endText_438":"ANDA TAHU MAIN PADANKAN-3, APA KATA CUBA <link=\"blast_friends\"><u><color=blue>BLAST FRIENDS</color></u></link>?",
+    
+    "question_449":"Bantu dia menang permainan dalgona candy.",
+    "hint_449":"DIA PERLU JILAT KANDI.",
+    "endText_449":"ALAMAK! PANJANGNYA LIDAH.",
+    
+    "question_450":"Bantu dia kalahkan orang tua itu.",
+    "hint_450":"BUAT PILIHAN, KEMUDIAN TAHAN TANGAN ORANG TUA ITU UNTUK MEMILIH SEMULA.",
+    "endText_450":"HELAH YANG KEJI, TAPI ORANG TU TAK KISAH!",
+    "odd":"GANJIL",
+    "even":"GENAP",
+    
+    "question_451":"Dia mesti tamatkan permainan loncatan atas kaca.",
+    "hint_451":"KETIK PADA KACA UNTUK MENGUJI KEKUATANNYA.",
+    "endText_451":"DIA SEORANG SAHAJA YANG SELAMAT SAMPAI. JADI DIA NAK LAWAN SIAPA DALAM PERLAWANAN AKHIR?!",
+    
+    "question_452":"Dia mesti sampai ke penamat dengan selamat.",
+    "hint_452":"PASIR BOLEH HALANG PANDANGAN ANAK PATUNG.",
+    "endText_452":"TAK MENGAPA KALAU MENIPU, PERMAINAN NI GANAS SANGAT.",
+    
+    "question_453":"Pasukan dia mesti menang main tarik tali ni.",
+    "hint_453":"APA KATA CUBA GUNA BANTUAN GRAVITI.",
+    "endText_453":"KENAPA MEREKA TAK GUNAKAN TAKTIK INI DALAM RANCANGAN TU?",
+    
+    "question_454":"Bantu Santa untuk berlepas.",
+    "hint_454":"CUBA BERIKAN HIDUNG MERAH PADA RUDOLPH.",
+    "endText_454":"SANTA KENA BERHENTI MAIN-MAIN DENGAN HIDUNG RUDOLPH!",
+    
+    "question_455":"Toooolongg! Mereka jatuh ke bawah!",
+    "hint_455":"SUSUN RUSA KUTUB MENGIKUT BERATNYA. IMBANGI SETIAP BARIS.",
+    "endText_455":"FUH! AWAK DAH SELAMATKAN KRISMAS!",
+    
+    "question_456":"Sejuknya. Tempat perapian ni perlukan lebih api yang lebih besar.",
+    "hint_456":"BERIKAN MEREKA HADIAH UNTUK MENDAPATKAN ARANG BATU UNTUK PERAPIAN.",
+    "endText_456":"KALI NI, KENAKALAN TIMMY ADA HASILNYA!",
+    
+    "question_457":"Ada sesuatu yang hilang daripada hiasan pokok Krismas.",
+    "hint_457":"KALAU KUCING TU PENING, MUNGKIN KITA BOLEH DAPAT BINTANG.... HEHEHE! GUNAKAN SUIS.",
+    "endText_457":"ORANG YANG HIAS POKOK KRISMAS RASA GERAM DENGAN KUCING NI!",
+    
+
+
+
+
+"closed":"Tutup",
+"open":"Buka",
+"custom1_375": "MEI",
+"custom2_375": "JUN",
+"custom1_359":"Kata laluan ialah ... ",
+"custom2_359":"Kata laluan ialah ... 4285",
+"daily_gift": "Hadiah Harian",
+
+    "weekly_available": "TAHAP MINGGUAN TERSEDIA!",
+    "weekly_week": "MINGGU",
+    "weekly_title": "MINGGU ",
+    "weekly_page_title": "TAHAP MINGGUAN",
+    "weekly_new": "BAHARU",
+    "weekly_missed": "Terlepas",
+    "weekly_save": "SIMPAN MINGGU TERSEBUT",
+    "weekly_not_available": "KEMBALI SEMULA MINGGU DEPAN!",
+    "bulb_notification_title_completed": "Tahap baharu akan datang tidak lama lagi!",
+    "bulb_notification_title_normal": "Jangan kandas di tahap !",
+    "bulb_notification_text_completed": "Buka permainan untuk mendapatkan mentol percuma yang akan digunakan pada tahap baharu.",
+    "bulb_notification_text_normal": "Buka permainan dan dapatkan mentol percuma untuk petunjuk tambahan.",
+    "reward_wheel_title": "PUTARKAN RODA UNTUK GANJARAN",
+    "reward_wheel_spin": "PUTAR!",
+    "reward_wheel_spin_again": "PUTAR LAGI!",
+    "reward_wheel_1_day_hint": "<line-height=190%>JUALAN <size=70>%",
+    "reward_wheel_1_day_hint2": "JUALAN %",
+    "reward_wheel_1_day_vip": "1-hari VIP",
+    "settings_try_our_other_games":"PERMAINAN KAMI",
+    "other_games_title":"PERMAINAN KAMI",
+    "other_games_play_now":"MAIN SEKARANG!"
+    ,
+
+    "gdpr_consent_title":"Selamat datang!",
+    "gdpr_consent_text":"Dengan mengetik Terima dan Teruskan, anda mengesahkan bahawa anda telah mengkaji dan menerima <link=\"https://unicostudio.co/terms.html\"><#C7F463>Terma Penggunaan</color></link> dan <link=\"https://unicostudio.co/privacy.html\"><#C7F463>Dasar Privasi kami</color></link>.",
+    "gdpr_consent_button":"TERIMA DAN TERUSKAN"
+}

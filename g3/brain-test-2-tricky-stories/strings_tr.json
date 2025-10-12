@@ -1,0 +1,1308 @@
+{
+    "watch_video_title":"VİDEO İZLEMEK İSTER MİSİN?",
+    "watch_video_button":"İZLE",
+    "skip_level_title":"BU SEVİYEYİ GEÇMEK İSTER MİSİN?",
+    "skip_level_button":"GEÇ",
+    "gift_tomorrow":"YARIN YİNE GEL!",
+    "level_title":"SEVİYE ",
+    "settings_english":"türkçe",
+    "settings_title":"AYARLAR",
+    "settings_sound":"SES",
+    "settings_music":"MÜZİK",
+    "settings_notification":"BİLDİRİMLER",
+    "settings_support":"DESTEK",
+    "settings_share":"PAYLAŞ",
+    "settings_restore":"RESTORE",
+    "settings_language":"DİL",
+    "settings_share_text":"Süper bir oyun! Oynamanı tavsiye ederim.{0}",
+    "settings_email_text":"Lütfen mesajınızı buraya yazınız.________Lütfen Burayı Düzenlemeyin.Model: {0}OS: {1}Application Version: {2}________",
+    "levels_title":"SEVİYELER",
+    "levels_skipped":"ATLANDI",
+    "nextLevel_next_button":"SONRAKİ",
+    "shop_title":"MAĞAZA",
+    "shop_remove_ads":"reklamları kaldır",
+    "shop_purchased":"Satın alındı",
+    "shop_loading":"yükleniyor",
+    "startScreen_title":"MERHABA",
+    "startScreen_text":"ZEKANI TEST ETMEYE HAZIR MISIN?",
+    "startScreen_button":"BAŞLA",
+    "rateScreen_title":"OY VER",
+    "rateScreen_hint":"TAM PUAN",
+    "rateScreen_hint2":"WHAT ABOUT 5 STARS?",
+    "rateScreen_question":"Oyunumuzu ne kadar beğendiniz?",
+    "rateScreen_thanks":"Oyunumuzu desteklediğiniz için teşekkür ederiz!",
+    "vipPanel_becomevip":"VIP OLUN!",
+    "vipPanel_get":"ANINDA",
+    "vipPanel_and":"VE...",
+    "vipPanel_remove_ads":"reklamları kaldır",
+    "vipPanel_double_daily_gifts":"çifte günlük hediye",
+    "vipPanel_cheaper_skips":"indirimli geçişler",
+    "vipPanel_cheaper_hints":"indirimli ipuçları",
+    "vipPanel_unlockAll":"tüm maceraları aç",
+    "vipPanel_try_for_free":"ÜCRETSİZ DENE!",
+    "vipPanel_3_days_free":"3 gün ücretsiz dene",
+    "vipPanel_price":"sonra haftalık {0}",
+    "vipPanel_disclaimer":"Haftalık özel üyelik 3 günlük deneme sürümü sonrası otomatik olarak {2} karşılığında yenilenir. Ödeme {0} hesabınızdan çekilir. Abonelik bulunduğunuz abonelik döneminin bitimine 24 saat kalmadan önce iptal edilmezse otomatik olarak devam eder. Aboneliklerinizi {1} hesap ayarları sayfasından düzenleyebilirsiniz.",
+    "vipPanel_privacy_policy":"GİZLİLİK POLİTİKASI",
+    "vipPanel_terms_of_use":"KULLANIM ŞARTLARI",
+    "bonusPanel_pick_bonus":"SÜRPRİZ ÖDÜLÜNÜ SEÇ!",
+    "bonusPanel_no_thanks":"HAYIR, TEŞEKKÜRLER",
+    "bonusPanel_collect":"TOPLA",
+    "noti_text1": "Gel ve komik bulmacalarla kendini test et!",
+    "noti_text2": "Bu bulmaca sizi gülümsetecek :)",
+    "noti_text3": "Biraz eğlenme zamanı :)",
+    "crosspromo_play":"OYNA",
+    "crosspromo_title":"DİĞER OYUNLARIMIZ",
+    "free":"BEDAVA",
+
+
+
+    "title_Tom":"Miskin'in Serüveni",
+    "info_Tom":"Tembel ev kedimiz Miskin'in fare Fındık ile tanışması, onun tum hayatını alt üst ederek, ikisini de beklemedikleri çılgın bir maceraya sürükleyecektir. Sence kahramanlarımız Afrika'da hayvanların Kralı ile yüzleşecebilecekler mi?",
+    "title_Virus":"Yaramaz Mikroplar",
+    "info_Virus":"Çevrende gözle görülmeyen milyonlarca mikrop var. Onlarla nasıl baş edilebileceğini göster!",
+    "title_Emily":"Lale'nin çiftliği",
+    "info_Emily":"Lale'nin hayvanlar ve bitkilerle dolu harika bir çiftliği var. Çiftliğindeki sevimli hayvanlarına yardım etmek ve işlerini tamamlamak için ona katıl!",
+    "title_Joe":"Korkusuz Metin",
+    "info_Joe":"Korkusuz Metin yetenekli bir canavar avcısıdır. Ancak Karanlık Lord, emrindeki tüm güçlerini şehre salacağı için önümüzdeki günler onun için oldukça zor olacak. Bu korku dolu macerada Metin'in canavarları yenmesine yardım et.",
+    "title_Family":"Bizim Aile",
+    "info_Family":"Kayagiller'in renkli üyeleriyle tanışıp onlarla eğlenceli bir gün geçirin!",
+    "title_Agent":"Dedektif Behzat",
+    "info_Agent":"İşte karşında Türkiye'nin en karizmatik dedektifi Behzat! Ona kötülerin alçakça planlarını ortaya çıkarması ve günü kurtarması için yardım et!",
+    "title_Betty":"Bahtsız Banu",
+    "info_Betty":"Banu son derece şanssız bir kız. Bugün tek planı sakince balığa gitmek ama sanırım yine evdeki hesap çarşıya uymayacak... Onu bekleyen aksilikler karşısında senin yardımına ihtiyacı var.",
+    "title_Prison":"Kubilay Firarda",
+    "info_Prison":"Kubilay hapse düştü, ama aslında masum. Ona ve iki arkadaşına kaçış planlarında yardım et.",
+    "title_Fitness":"Seray Sporda",
+    "info_Fitness":"Seray'ın spor koçu olmaya ve onu hayalindeki şekle sokmaya hazır mısın?",
+    "title_SmithJoe":"Behzat ve Metin 1. Kısım",
+    "info_SmithJoe":"Çılgın Sedat hapishaneden kaçtı ve kötü bir plan üzerinde çalışıyor. Behzat ve Metin ile gizli planları ortaya çıkar!",
+    "title_SmithJoe2":"Behzat ve Metin 2. Kısım",
+    "info_SmithJoe2":"Behzat, Drakula ve Çılgın Sedat'ın Karanlık Lord'u diriltme planlarını ortaya çıkardı. Metin ve Behzat çok geç olmadan onları durdurmalı...",
+    "title_CaptainMary":"Derya Kaptan",
+    "info_CaptainMary":"Acele et! Derya Kaptan ve ekibi yeni bir serüvene açılmak üzere! Nefesimizi tuttuk seni bekliyoruz!",
+
+    "choose_adventure":"BİR MACERA SEÇ",
+    "title_coming_soon":"Yeni maceralarçok yakında!",
+    "start":"BAŞLA!",
+    "shoot":"ATEŞ ET!",
+
+    "info_Joe_locked": "Açmak için diğer tüm maceraları tamamlaman gerek ya da VIP paketini satın alabilirsin.",
+    "info_Agent_locked": "Açmak için Dedektif Behzat'ı tamamlaman gerek ya da VIP paketini satın alabilirsin.",
+    "info_Betty_locked": "Açmak için Korkusuz Metin'i tamamlaman gerek ya da VIP paketini satın alabilirsin.",
+    "info_Prison_locked": "Açmak için Bahtsız Banu'yu tamamlaman gerek ya da VIP paketini satın alabilirsin.",
+    "info_General_locked": "Açmak için {0} macerasını tamamlaman gerek ya da VIP paketini satın alabilirsin.",
+
+    "submit":"GÖNDER",
+    "reset":"SIFIRLA",
+    "next_levels":"YENİ SEVİYELER",
+    "coming_soon":"ÇOK YAKINDA!",
+
+
+    "go":"BAŞLA!",
+
+
+    "battle":"SAVAŞ",
+    "fight":"BAŞLA!",
+    "jump":"ZIPLA!",
+    "fire":"ATEŞ!",
+
+
+    
+    "question_Tom1": "Selam! Bu Miskin, hadi onunla dostluk kurmaya çalış.",
+    "tip1_Tom1": "KEDİLER OKŞANINCA MEST OLUR!",
+    "tip2_Tom1": "MUTLU OLMASI İÇİN EKRANI BİR SÜRE OVALAYIN.",
+    "endText_Tom1": "'BU KADAR SEVGİ KARNIMI ACIKTIRDI DOĞRUSU. :))' - MİSKİN",
+
+    "question_Tom2": "Keşke şöyle yiyecek güzel bir şeyler olsaydı...",
+    "tip1_Tom2": "YİYECEĞİ AĞZINA DOĞRU GÖTÜRMEYE ÇALIŞIN.",
+    "tip2_Tom2": "ELMALARIN ALTINA GİZLENMİŞ BİR TAVUK VAR.",
+    "endText_Tom2": "'BEYNİMİN PROTEİNE İHTİYACI VAR. :))' - MİSKİN",
+
+    "question_Tom3": "Ağzım sulandı ne kadar da iştahla yiyor...Hani benim balığım? :((",
+    "tip1_Tom3": "ADAMIN DİKKATİNİ DAĞITMAK İÇİN TELEVİZYONU KULLAN.",
+    "tip2_Tom3": "BALIĞI MİSKİN'E DOĞRU SÜRÜKLE.",
+    "endText_Tom3": "'BALIK ARTIK HAKETTİĞİ YERDE, MİDEMDE :))!' - MİSKİN",
+
+    "question_Tom4": "En büyük yumak benim olmalı!",
+    "tip1_Tom4": "YUMAKLARI BİR ARAYA GETİREBİLİRSİN.",
+    "tip2_Tom4": "BÜTÜN YUMAKLARI BİRBİRİNİN ÜZERİNE SÜRÜYLEYEREK KOCA BİR YUMAK YAPABİLİRSİN.",
+    "endText_Tom4": "'TABİİ Kİ AÇGÖZLÜ BİR KEDİ DEĞİLİM... :))' - MİSKİN",
+
+    "question_Tom5": "Miskin'in sahibi, Fındık'ın evde serbestçe dolaşmasına deli oluyor!",
+    "tip1_Tom5": "BALONU PATLATMAK MİSKİN'İ UYANDIRABİLİR.",
+    "tip2_Tom5": "ADAM BALONUN İÇİNE HAVA ÜFLEYEBİLİR.",
+    "endText_Tom5": "'MİSKİN DAHA NE KADAR SANA BALIK BİLE VERMEYEN BU ADAMA HİZMET EDECEKSİN??' -FINDIK",
+
+    "question_Tom6": "Fındık acıktı, peynir istiyor.",
+    "tip1_Tom6": "PEYNİR KASESİNİ TERS ÇEVİR.",
+    "tip2_Tom6": "PEYNİRİ DÜŞÜRMEK İÇİN KASEYİ YUKARI AŞAĞI HAREKET ETTİR.",
+    "endText_Tom6": "'KAŞAR FAVORİM, ARTIK DOSTUZ :))!' - FINDIK",
+
+    "question_Tom7": "Bu çılgın ikilinin evden kaçmasına yardım et!",
+    "tip1_Tom7": "KAPIYI ANAHTARLA AÇABİLİRLER.  ADAMIN CEBİNE BAKMAYI DENE.",
+    "tip2_Tom7": "ADAM AYAKTAYKEN KANEPEYE SU DÖKEREK PANTOLONUNU DEĞİŞTİRMEYE ZORLA. :)",
+    "endText_Tom7": "'MMM... ÖZGÜRLÜĞÜN TADI BALIKTA BİLE YOK!' - MİSKİN",
+
+    "question_Tom8": "Bu sokağı geçmeleri gerekiyor. Şu tehlikeli köpekleri bir atlatabilselerdi...",
+    "tip1_Tom8": "UYUYAN KÖPEĞİ DÜŞÜRMEK İÇİN KÖPEĞİ AŞAĞI ÇEK.",
+    "tip2_Tom8": "KÖPEKLERİ KAPIŞTIRMAK İÇİN ORTALARINA KEMİK KOY.",
+    "endText_Tom8": "'İŞTE BÖYLE! İÇİNDEKİ SOKAK KEDİSİNİ ÖZGÜR BIRAK! :))' - FINDIK",
+
+    "question_Tom9": "Miskin çok yoruldu ama yola devam etmeleri gerek!",
+    "tip1_Tom9": "KUVVETLİ BİR KOKU ONU UYANDIRABİLİR.",
+    "tip2_Tom9": "DÖNER'İN KOKUSUNU MİSKİN'E DOĞRU GÖTÜRMEYE ÇALIŞ.",
+    "endText_Tom9": "'TAM DA RÜYAMIN EN GÜZEL YERİNDEYDİM...' - MİSKİN",
+
+    "question_Tom10": "Miskin kıza ilk görüşte vuruldu. :)) Kızın kalbini kazanması için ona yardım et.",
+    "tip1_Tom10": "ŞURADAKİ KÖPEK DİĞER KEDİLERİ KOVALAYABİLİR.",
+    "tip2_Tom10": "KIZ ÇİKOLATAYA BAYILIYOR. FARE, BANKIN ZAYIF BACAĞINI KEMİREBİLİR.",
+    "endText_Tom10": "'BEN CESUR KEDİLERİ SEVERİM, EV KEDİLERİYLE İŞİM OLMAZ. SADECE ORMANLARIN KRALI'NI YENERSEN ARKADAŞ OLABİLİRİZ.' - BİHTER",
+
+    "question_Tom11": "Uçağa binmek için kılık değiştirmeleri gerekli...",
+    "tip1_Tom11": "MİSKİN İÇİN BİR ŞAPKA VE PALTO YETER.",
+    "tip2_Tom11": "GÜVENLİK GÖREVLİSİNİ DURDURMAK İÇİN ZEMİNİ KAYGAN HALE GETİRMEYİ DENE.",
+    "endText_Tom11": "'İNŞALLAH YANLARINDA POLİS KÖPEKLERİ YOKTUR, ACELE EDELİM! :))' - FINDIK",
+
+    "question_Tom12": "Uçağın şu tehlikeli türbülanstan geçmesine yardım et!",
+    "tip1_Tom12": "UÇAK DENİZE VEYA EKRANIN YUKARISINA DEĞMEMELİDİR.",
+    "tip2_Tom12": "UÇAĞI ORTADA TUTMAK İÇİN TUŞLARI KULLAN!",
+    "endText_Tom12": "'MIRR.. MİDEM ALT ÜST OLDU, YEDİĞİM BALIĞIN TADI AĞZIMA GELDİ!' - MİSKİN",
+
+    "question_Tom13": "Uçuşu onlar için biraz daha konforlu hale getirebilir misin?",
+    "tip1_Tom13": "BAGAJIN ARKASINDA BİR ŞEY OLABİLİR.",
+    "tip2_Tom13": "KOKMUŞ ÇORAPLAR ADAMI UYANDIRABİLİR.",
+    "endText_Tom13": "'BU ÇORAP KOKUSUNU ÇEKECEGİMİZE KEŞKE TÜM PARAMIZI VERİP BUSİNESS BİLET ALSAYDIK!' - FINDIK",
+
+    "question_Tom14": "Hay aksi! Yanlış uçağa binmişiz! Afrika'nın üzerinden geçerken atlamamız gerek!",
+    "tip1_Tom14": "BULUTLAR YARDIMCI OLABİLİR.",
+    "tip2_Tom14": "4 BULUTUN HEPSİNİ DİKEY BİR ŞEKİLDE HİZALAYIN.",
+    "endText_Tom14": "'TÜH! ŞANSA BAK, YEMEK SERVİSİNİ KAÇIRACAĞIZ!' - MİSKİN",
+
+    "question_Tom15": "Bir maymun Fındık'ı ele geçirdi, yakala onu!",
+    "tip1_Tom15": "KARŞIYA GEÇMEK İÇİN KURBAĞAYI KULLANIN.",
+    "tip2_Tom15": "KURBAĞA İÇİN BİR YOL OLUŞTURMAK İÇİN DAHA FAZLA YONCA BULUN. DELİKTE KURBAĞANIN DİKKATİNİ ÇEKECEK BİR ŞEY OLABİLİR.",
+    "endText_Tom15": "'HEY! SENİN BİLETİN NERDE BAKALIM?!' -KURBAĞA",
+
+    "question_Tom16": "Yaramaz maymun gel buraya...!",
+    "tip1_Tom16": "MAYMUNU VURMAK İÇİN HİNDİSTANCEVİZİ KULLANIN.",
+    "tip2_Tom16": "MAYMUNUN KAÇIŞ ŞEKLİNİ TAKİP ET VE YOLUNU ENGELLE.",
+    "endText_Tom16": "'BU KOVALAMACA BENİ ÇOK YORDU! BİR YIL İÇİN YETERLİ EGZERSİZ YAPTIM SANIRIM!' - MİSKİN",
+
+    "question_Tom17": "Bu sıcak havada çölü nasıl geçecekler? :((",
+    "tip1_Tom17": "BİR BULUT GÜNEŞİ ÖRTEBİLİR.",
+    "tip2_Tom17": "AKBABANIN TÜYÜ GÜNEŞİN SICAĞINDAN YANABİLİR.",
+    "endText_Tom17": "'UCUZ ATLATTIK, BEYNİMİZ PİŞMİŞTİ!' - FINDIK",
+
+    "question_Tom18": "Karınları çok aç ve yavru aslan orada sulu bir etin tadını çıkarıyor!",
+    "tip1_Tom18": "KÖSTEBEK SADECE AÇIK BİR DELİK KULLANABİLİR.",
+    "tip2_Tom18": "YAVRUNUN ALTINDA BİR DELİK OLABİLİR.",
+    "endText_Tom18": "'BAŞINIZ DERTTE! O YAVRU ASLAN ORMANIN KRALI'NIN ÇOCUĞUYDU!' - KÖSTEBEK",
+
+    "question_Tom19": "Yavru olayı aslanları kızdırdı, saklanmaları gerek!",
+    "tip1_Tom19": "SAKLANACAK BİR YER OLUŞTURMAK İÇİN AĞACIN YAPRAKLARINI DÖKMEYİ DENEYİN.",
+    "tip2_Tom19": "ASLANIN NEREDE BAKTIĞINA DİKKAT ET.",
+    "endText_Tom19": "'SAKIN ŞU AN HAPŞURMA!' - MİSKİN",
+
+    "question_Tom20": "Aslanlar peşlerinde! Karşıya geçmeleri gerek!",
+    "tip1_Tom20": "ZÜRAFANIN BOYNU HARİKA BİR KÖPRÜ OLABİLİR.",
+    "tip2_Tom20": "SU AYGIRINI FIRLATMAK  İÇİN AĞACI KULLAN.",
+    "endText_Tom20": "'İNŞALLAH SAĞLIK SİGORTASI UÇAN SU AYGIRI KAZALARINI KAPSIYORDUR. :))' - FINDIK",
+
+    "question_Tom21": "Anlaşılan kurtlarda ormanın kralının hizmetinde!",
+    "tip1_Tom21": "FİLİ UYANDIRMAK İÇİN BAŞINA BİR ŞEY DÜŞÜRÜN.",
+    "tip2_Tom21": "FİLLER FARELERDEN KORKAR.",
+    "endText_Tom21": "'BU HIZLA DEVAM EDERSEK AFRİKA'DAKİ HAYVANLARIN HEPSİ YAKINDA BİZDEN NEFRET EDECEKLER! :))' - MİSKİN",
+
+    "question_Tom22": "Kaçmalarına yardım et!",
+    "tip1_Tom22": "O KÖPRÜ ÇOK KIRILGAN GÖRÜNÜYOR.",
+    "tip2_Tom22": "ASLAN KÖPRÜNÜN ÜZERİNDEYKEN KÖPRÜYE TIKLA.",
+    "endText_Tom22": "'DEPREM İÇİN SÜPER ZAMANLAMA!' - FINDIK",
+
+    "question_Tom23": "Onlara destek olması için güçlü birine ihtiyaçları var.",
+    "tip1_Tom23": "BİZON BİR ŞEY ÜZERİNDE UYUYOR OLABİLİR.",
+    "tip2_Tom23": "EŞEKLERİN SESİ ÇOK GÜRDÜR.",
+    "endText_Tom23": "'BANA RÜŞVET Mİ VERİYORSUNUZ?!' -KASLI GORİL",
+
+    "question_Tom24": "Dikkat et! Yılanlar         nun kokusunu duyabilir!",
+    "tip1_Tom24": "BİRAZ 'KORKU' YAKMAK YARDIMCI OLABİLİR.",
+    "tip2_Tom24": "SORU METNİNDEN BİR ŞEY KULLANMAYA ÇALIŞ.",
+    "endText_Tom24": "'GÜNLERDİR YIKANAMAMIZ BİR İŞE YARADI, TER KOKUMUZ KORKUNUNKİNDEN AĞIR BASTI. :))' - FINDIK",
+
+    "question_Tom25": "Muzlar çok lezizdi! Goril senin için dövüşmeyi kabul etti. ",
+    "tip1_Tom25": "DAHA BÜYÜK KASLARA İHTİYACI VAR.",
+    "tip2_Tom25": "GORİLİN KAFASINI KORUYACAK BİR ŞEY BUL.",
+    "endText_Tom25": "'NE TÜR BİR KRAL KADINLARI KENDİSİ İÇİN SAVAŞMAYA GÖNDERİR ?!' -  KASLI GORİL",
+
+    "question_Tom26": "İşte ormanın kralı! Onu yenmelerine yardım et!",
+    "tip1_Tom26": "ORADAKİ MANTAR GORİLİN ZIPLAMASINA YARDIMCI  OLABİLİR.",
+    "tip2_Tom26": "YABAN DOMUZU ELMAYA DAYANAMAZ. MAĞARADAKİ YILANLARI RAHATSIZ ETMEK İÇİN BİR SOPA KULLAN.",
+    "endText_Tom26": "KRALIN ORMANDAKİ EN KÖTÜ GÜNÜYDÜ ... YENİLGİSİNDEN SONRA TÜM HAYVANLAR MİSKİN VE FINDIK'A SAYGI DUYMAYA BAŞLADI.'TAMAM DA, ŞİMDİ EVE NASIL DÖNECEĞİZ?' - MİSKİN 'BİHTER'İ UNUT GİTSİN! BURADA KRALLAR GİBİ YAŞAYABİLİRİZ! ' - FINDIK ",
+
+    "question_Emily1": "Tavuklar ve köpek çok aç.",
+    "tip1_Emily1": "TAVUKLAR MISIR SEVER, KÖPEK KEMİK İSTER.",
+    "tip2_Emily1": "SAÇ TOKASINA DİKKAT ET.",
+    "endText_Emily1": "KENDİNE YENİ BİR SAÇ TOKASI AKSESUARI BULMALI!",
+
+    "question_Emily2": "Bütün tavukları bulabilir misin?",
+    "tip1_Emily2": "BİRBİRLERİNİN ARKASINA SAKLANIYOR OLABİLİRLER.",
+    "tip2_Emily2": "TOPLAM 6 TAVUK VAR, HEPSİNİ BULMAYA ÇALIŞ.",
+    "endText_Emily2": "TAVUKLAR BU ŞEKİLDE Mİ SAKLANBAÇ OYNUYOR DERSİNİZ?? :))",
+
+    "question_Emily3": "Lale sabah ayazından çok üşüdü. Biraz ısınmaya ihtiyacı var.",
+    "tip1_Emily3": "YÜNLER ONU ISITABİLİR.",
+    "tip2_Emily3": "MAKASI BUL VE KOYUNLARIN YÜNÜNÜ KIRP.",
+    "endText_Emily3": "TEŞEKKÜRLER YUMUŞ KOYUN!",
+
+    "question_Emily4": "Tüm ineklere yetecek kadar ot yok. :((",
+    "tip1_Emily4": "DAHA BÜYÜK BİR SAMANA İHTİYAÇLARI VAR.",
+    "tip2_Emily4": "SAMAN BALYASINI ELİNİZLE BÜYÜTMEYE ÇALIŞIN.",
+    "endText_Emily4": "HORMONLU BİR SAMAN BALYASI OLMALI! :))",
+
+    "question_Emily5": "Çiçekleri büyütmesine yardım et lütfen.",
+    "tip1_Emily5": "ÇİÇEKLERİN SUYA VE GÜNEŞE İHTİYACI VAR.",
+    "tip2_Emily5": "İNEĞE DOKUNARAK ONU UYANDIRMAYA ÇALIŞIN.",
+    "endText_Emily5": "O İNEK SANKİ YİNE BİR ŞEYLERİN PEŞİNDE!",
+
+    "question_Emily6": "Yemek için bir hamburger güzel olurdu.",
+    "tip1_Emily6": "MALZEMELERİ TOPLAMAK İÇİN EKMEGİ SABİT TUT.",
+    "tip2_Emily6": "TÜM MALZEMELERİ KOYMAN GEREK.",
+    "endText_Emily6": "BU LEZZETLİ HAMBURGERİN TADINI ÇIKAR LALE! :))",
+
+    "question_Emily7": "Keşke şu tomurcuklar çiçek açsaydı!",
+    "tip1_Emily7": "ARILAR POLENLERİ ÇİÇEKTEN ÇİÇEĞE TAŞIR.",
+    "tip2_Emily7": "BİR PARÇA BALI KULLANARAK ARIYI CEZBET.",
+    "endText_Emily7": "ONUNLA ARI ARASINDA GÜLÜNÇ BİR AŞK HİKAYESİ BEKLEMEYİN! BU ARI FİLMİ DEĞİL! :))",
+
+    "question_Emily8": "Hey! Lale'yi takip etmeyi bırakır mısın artık... ",
+    "tip1_Emily8": "GİZLENMİŞ TESTEREYİ BUL VE AKŞAM YEMEKLERİNİ SABOTE ETMEYE ÇALIŞ.",
+    "tip2_Emily8": "MASANIN BACAĞINI TESTERE İLE KESEBİLİRSİN.",
+    "endText_Emily8": "KOVANINA GERİ DÖN, SENİ YARAMAZ ARI!",
+
+    "question_Emily9": "Yavruları annelerine ulaştır.",
+    "tip1_Emily9": "KOLLARIN AYNI HİZADAKİ KAPILARI AÇMADIĞINA DİKKAT ET.",
+    "tip2_Emily9": "ATIN YAVRUSU YOK. KOYUNUN 2, İNEĞİN 1 TANE VAR.",
+    "endText_Emily9": "Bİ DAKİKA..ATIN TAYI NEREDE BU ARADA?",
+
+    "question_Emily10": "Elmaları toplamak için biraz yardıma ihtiyacı var.",
+    "tip1_Emily10": "GÜÇLÜ BİR ŞEYLE AĞACA VURMAYA ÇALIŞ.",
+    "tip2_Emily10": "İNEĞİ HAREKET ETTİREREK BOĞAYI AĞACA YÖNLENDİRİN.",
+    "endText_Emily10": "AŞK BU BOĞAYI KÖR ETTİ. :))",
+
+    "question_Emily11": "Biraz taze süte kim hayır diyebilir??",
+    "tip1_Emily11": "İNEĞİN ÖNCE BİRAZ SAKİNLEŞMESİ GEREK.",
+    "tip2_Emily11": "İNEĞİ SAKİNLEŞTİRMEK İÇİN ONU PARMAĞINIZLA SEVİN.",
+    "endText_Emily11": "LALE'NİN YÜZÜNE TEPİK ATMADIĞIN İÇİN TEŞEKKÜRLER, SEVGİLİ İNEK. :))",
+
+    "question_Emily12": "Lale bu ormanda nadir kızıl bir sincabın yaşadığını duydu. Hadi onu bulalım! ",
+    "tip1_Emily12": "SİNCAPLAR MEŞE PALAMUDUNA DAYANAMAZ.",
+    "tip2_Emily12": "YERALTINDAKİ GİZLİ DELİKLERİ GÖRMEK İÇİN AĞAÇLARI ÇEKİN / İTİN.",
+    "endText_Emily12": "BAHSE GİRERİM BU LALE'NİN EN SEVDİĞİ HAYVANI OLACAK.",
+
+    "question_Emily13": "Hadi biraz limonata yapalım.",
+    "tip1_Emily13": "TELEFONUNU SALLAYARAK AĞACI SALLAYABİLİRSİN.",
+    "tip2_Emily13": "KOVAYI SUYLA DOLDURMAK İÇİN MUSLUĞU AÇMAYI UNUTMAYIN.",
+    "endText_Emily13": "KİM ORGANİK LİMONATA İSTER? AMA GERÇEKTEN ORGANİK! :))",
+
+    "question_Emily14": "Çiftliğe hoş geldin! Lale'yi uyandır da güne başlayalım!",
+    "tip1_Emily14": "HOROZ GÜNEŞİN DOĞUŞUNU BEKLİYOR.",
+    "tip2_Emily14": "PENCERE KAPALIYSA LALE HOROZU DUYAMAZ.",
+    "endText_Emily14": "BU HOROZUN BİR SUSTURMA TUŞUNA İHTİYACI VAR!",
+
+    "question_Emily15": "Tarlayı sürmesi lazım ama traktör çalışmıyor.",
+    "tip1_Emily15": "TRAKTÖRÜ HAREKET ETTİREMİYORSANIZ ARAZİYİ HAREKET ETTİRİN.",
+    "tip2_Emily15": "BU ÇİVİLER TARLAYI SABİT TUTUYOR.",
+    "endText_Emily15": "TEBRİKLER! AZ ÖNCE TAŞINABİLİR TARIMI İCAT ETTİN! :)))",
+
+    "question_Emily16": "Rodeo zamanı!",
+    "tip1_Emily16": "ATI FAZLA DOYURMAK ONU YAVAŞLATABİLİR.",
+    "tip2_Emily16": "LALE'NİN ELDİVENİ EYERE BAĞLI OLMALIDIR.",
+    "endText_Emily16": "RAST GELE!",
+
+    "question_Emily17": "Biraz da havuç toplayalım...",
+    "tip1_Emily17": "HAVUÇLARINI TAVŞANLARDAN KORU.",
+    "tip2_Emily17": "TAVŞANIN DELİĞİNİ DIŞARI ÇIKAMAYACAĞI BİR YERE TAŞI.",
+    "endText_Emily17": "SANKİ AZ ÖNCE TAVŞAN  'NABER CANIMMM??' MI DEDİ?? :))",
+
+    "question_Emily18": "Bu koyun uzaklarda ne var merak ediyor...",
+    "tip1_Emily18": "ŞU TOHUMLAR ÇOK HIZLI BÜYÜYOR.",
+    "tip2_Emily18": "BİTKİYİ KOYUNUN ALTINDA YETİŞTİRMEYİ DENE.",
+    "endText_Emily18": "BU KOYUNUN ADI 'MERAKLI' OLMALI.",
+
+    "question_Emily19": "Lale kar yadığı için çok mutlu ama bi dakika tavuklar nereye gitti??",
+    "tip1_Emily19": "KARI TEMİZLEMEK İÇİN KÜREĞİ KULLAN.",
+    "tip2_Emily19": "TAVUKLARDAN İKİSİ KAR ALTINDA DEĞİL.",
+    "endText_Emily19": "YUMURTA YERİNE BUZ YUMURTLAMAYA BAŞLAMADAN ÖNCE KÜMESİNİZE GERİ DÖNÜN BAKALIM!",
+
+    "question_Emily20": "Bütün günün yorgunluğunu atmak için Lale biraz TV izlemek istiyor...",
+    "tip1_Emily20": "SÜRTÜNMEYLE ELEKTRİK ÜRETMEYE ÇALIŞ.",
+    "tip2_Emily20": "STATİK ELEKTRİK ELDE ETMEK İÇİN TARAĞI LALE'NİN SAÇLARINA SÜRTÜN.",
+    "endText_Emily20": "ORGANİK ELEKTRİK İLE YÜKSEK FATURALARA VEDA EDİN. :))",
+
+    "question_Emily21": "Lale'nin doğum gününü bir pasta yaparak kutlayalım.",
+    "tip1_Emily21": "YUMURTA, SÜT, UN VE ELMAYA İHTİYACIMIZ VAR.",
+    "tip2_Emily21": "ELMALARI DÜŞÜRMEK İÇİN AĞACA DOKUNUN.",
+    "endText_Emily21": "DOĞUM GÜNÜN KUTLU OLSUN, LALE! BU KADAR İŞTEN SONRA BU PARTİYİ HAK ETTİN! :))",
+
+    "question_Joe1": "Metin çabuk uyan! Şehir kötü güçlerin istilasına uğradı!",
+    "tip1_Joe1": "GÜNEŞ IŞIĞI İÇİN PERDEYİ AÇ.",
+    "tip2_Joe1": "METİN BELLİ BİR SIRAYLA GİYİNMEYİ SEVER.",
+    "endText_Joe1": "'BAHSE GİRERİM VAN HELSİNG BİLE BU KADAR ERKEN KALKMIYORDUR!' - METİN",
+
+    "question_Joe2": "İçlerinden biri vampir. Ama hangisi???",
+    "tip1_Joe2": "VAMPİRLER KANA HİÇ DAYANAMAZ.",
+    "tip2_Joe2": "ÇİVİLİ TAHTA İLE METİN'DEN KAN AL.",
+    "endText_Joe2": "'AHH! CANIMI YAKTIN!' - METİN",
+
+    "question_Joe3": "Vampir, Metin'den kaçabileceğini sanıyor... Bul onu!",
+    "tip1_Joe3": "İZLERİ TAKİP ET!",
+    "tip2_Joe3": "EKRANI SAĞA KAYDIR.",
+    "endText_Joe3": "'KAÇABİLİRSİN, AMA SAKLANAMAZSIN! :))' - METİN",
+
+    "question_Joe4": "Birine zarar vermeden Metin'in vampiri bulması gerek!",
+    "tip1_Joe4": "İNSANLARIN DİKKATİNİ BİR YERE ÇEKMEYE ÇALIŞ.",
+    "tip2_Joe4": "VAMPİRLER HARİÇ HERKES 'BEDAVA' SOSİSLİ SANDVİÇ SEVER.",
+    "endText_Joe4": "'ENDİŞELENMEYİN, CANAVAR İŞLERİ BAKANLIĞI SOSİSLİ SANDVİÇLERİNİZİ TELAFİ EDECEKTİR.' - METİN'",
+    "custom1_Joe4":"SOSİSLİ",
+
+    "question_Joe5": "Şu acımasız vampiri avla!",
+    "tip1_Joe5": "BU DUVAR BİR OK İÇİN FAZLA GÜÇLÜ.",
+    "tip2_Joe5": "FIÇI VURULURSA PATLAYABİLİR.",
+    "endText_Joe5": "'KIZARMIŞ VAMPİRLERİN KOKUSUNU NASIL DA SEVİYORUM.' - METİN",
+
+    "question_Joe6": "Metin yetiş! Zombiler saldırıyor!!!",
+    "tip1_Joe6": "OK YEŞİL ALANDAYKEN ATIŞ YAPMAYI DENE.",
+    "tip2_Joe6": "OK YEŞİL ALANA GİRMEDEN HEMEN ÖNCE EKRANA DOKUN.",
+    "endText_Joe6": "'İNSANLAR ELLERİNİ DÜZGÜN YIKAMALIYDI!' - METİN",
+
+    "question_Joe7": "Olamaz Metin'in okları bitti. Ona yardım et!",
+    "tip1_Joe7": "ZOMBİLERİ RÖGAR KAPAĞINA DOĞRU YÖNLENDİRMEK İÇİN METİN'İ SÜRÜKLEYİN.",
+    "tip2_Joe7": "ZOMBİLERİN İÇERİ DÜŞMESİ İÇİN RÖGAR KAPAĞINI AÇIN.",
+    "endText_Joe7": "'KANALİZASYON SIÇANLARINA BUGÜN İYİ BİR ZİYAFET OLACAK!' - METİN",
+
+    "question_Joe8": "Elinde kalan son atış, tek seferde hepsini vurması gerek!",
+    "tip1_Joe8": "ARBALETİN ÜZERİNE TIKLAYARAK ATEŞLEYEBİLİRSİN.",
+    "tip2_Joe8": "TÜM ZOMBİ KAFALARINI ORTADA HİZALAYIN.",
+    "endText_Joe8": "'BİR TAŞLA, DÖRT KUŞ.' - METİN",
+
+    "question_Joe9": "Cephanesini yenilemek için Metin'in hemen eve gitmesi gerek!",
+    "tip1_Joe9": "YAYALARA VURMAKTAN KAÇININ. BİRKAÇ ZOMBİYE VURMAN GEREK.",
+    "tip2_Joe9": "PARMAĞINI KULLANARAK ARABANIN ŞERİDİNİ DEĞİŞTİREBİLİRSİN.",
+    "endText_Joe9": "'ZOMBİLER VE İNSANLAR TRAFİKTE AYNI DAVRANIYOR!' :)) - METİN",
+
+    "question_Joe10": "Profesör Büyükbeyin bir ilaç buldu. Sürüyü durdurmak için onu kullan.",
+    "tip1_Joe10": "TOPLULUĞUN HEPSİNE İLACI DOĞRUDAN PÜSKÜRTEMEZSİN.",
+    "tip2_Joe10": "İLACI BULUTA PÜSKÜRTÜN VE YAĞMUR YAĞMASINI SAĞLAYIN.",
+    "endText_Joe10": "'ENDİŞELENMEYİN,% 100 ORGANİK.' - METİN",
+
+    "question_Joe11": "Yine ne var?! Neee!! Dev bir örümcek mi!!",
+    "tip1_Joe11": "ANNELER HAŞERELERLE NASIL BAŞA ÇIKIYOR?",
+    "tip2_Joe11": "TERLİĞİ BÜYÜTÜN VE ÖRÜMCEK ÜZERİNDE KULLANIN.",
+    "endText_Joe11": "'ANNEM OLSA ŞİMDİ BENİMLE GURUR DUYARDI.' - METİN",
+
+    "question_Joe12": "Metin koş!! Kadını kurtarmak için hemen onun yanına git!",
+    "tip1_Joe12": "ARABAYI KONTROL ET.",
+    "tip2_Joe12": "ARABANIN KAPUTUNU METİN İÇİN BİR MANCINIK OLARAK KULLAN.",
+    "endText_Joe12": "'HIZLI VE ÖFKELİ KESİN BU FİKRİ ÇALACAK!' - METİN",
+
+    "question_Joe13": "Kurtar kızı Metin!",
+    "tip1_Joe13": "ONLARI AYIRMAYI DENE.",
+    "tip2_Joe13": "KADININ KOLUNDAN VE KURT ADAMI KUYRUĞUNDAN AYNI ANDA ÇEKİN.",
+    "endText_Joe13": "'ŞİMDİ SADECE SEN VE BEN KALDIK KURT-KAFA! '' - METİN",
+
+    "question_Joe14": "Kurt adamı yenmemiz gerek!",
+    "tip1_Joe14": "KURT ADAM SALDIRMADAN ÖNCE ÇABUK OL.",
+    "tip2_Joe14": "KALPLERİ VUR.",
+    "endText_Joe14": "'Bİ DAKİKA DA DEMİNKİ KIZ NEREYE GİTTİ? BİR ÖPÜCÜK BİLE VERMEDİ! ' - METİN",
+
+    "question_Joe15": "Şimdi de bir mumya kahramanımız Metin'in peşinde!",
+    "tip1_Joe15": "BİRİNİN TUVALET KAĞIDINA İHTİYACI VAR.",
+    "tip2_Joe15": "MUMYAYI TUVALET KAĞIDI BİTTİĞİNDE VUR.",
+    "endText_Joe15": "'KİM BU KADAR TUVALET KAĞIDI KULLANIR Kİ ?! '' - METİN",
+
+    "question_Joe16": "Yaratıklardan kurtulmalıyız!",
+    "tip1_Joe16": "KEDİLERİ VURMAYIN.",
+    "tip2_Joe16": "ŞU KUTU 3 ATIŞLA İMHA EDİLEBİLİR.",
+    "endText_Joe16": "'NE KORKAK BİR CANAVAR!' - METİN",
+
+    "question_Joe17": "Ne gün ama! Şimdide dev bir trol Metin'in peşinde!",
+    "tip1_Joe17": "ŞU PİYANO TROLÜN İCABINA BAKABİLİR.",
+    "tip2_Joe17": "PİYANOYU DÜŞÜRMEK İÇİN PİYANOYU AŞAĞI KAYDIR.",
+    "endText_Joe17": "'İŞTE BU YÜZDEN PİYANOLARI SEVİYORUM.' :)) - METİN",
+
+    "question_Joe18": "Yeni düşmanlar yaklaşıyor.",
+    "tip1_Joe18": "KURTADAMLARI HEDEFE GİRDİKLERİ ANDA VUR.",
+    "tip2_Joe18": "KAFESTE İSKELETİ YENEBİLECEK BİR KÖPEK VAR.",
+    "endText_Joe18": "'BU KEMİKLER SANA ARTIK BİR YIL BOYUNCA YETER, ŞANSLI KÖPEK. :))' - METİN",
+
+    "question_Joe19": "İskeletler yaklaşıyor, Metin'in başı dertte!",
+    "tip1_Joe19": "ŞU ARABA İSKELETLERİN HEPSİNİ EZEBİLİR.",
+    "tip2_Joe19": "ARABAYI HAREKET ETTİRMEK İÇİN ARABAYA DOKUNUN.",
+    "endText_Joe19": "'ŞOFÖRÜN EL FRENİNİ ÇEKMEYİ UNUTTUĞU GÜNE ŞÜKÜRLER OLSUN. :))  - METİN",
+
+    "question_Joe20": "Metin yaratıklardan birini ele geçirdi ve elebaşlarının yerini öğrenmesi gerek!",
+    "tip1_Joe20": "YARATIK BAZI GÖLGE HİLELERİDEN KORKABİLİR.",
+    "tip2_Joe20": "KAMP ATEŞİNİ TUTUŞTURUN VE DUVARA METİN'İN BÜYÜK BİR GÖLGESİNİ YANSITIN.",
+    "endText_Joe20": "'AGGHH KONUŞACAĞIM! LİDERİMİZ ELM SOKAĞINDA! ' - CANAVAR",
+
+    "question_Joe21": "İşte orada! Bütün yaratıkları durdurmak için Metin'in Karanlık Lord'a gününü göstermesi gerek.",
+    "tip1_Joe21": "KÖPEK İSKELETLERİN İŞİNİ GÖRÜR. SU BİRİKİNTİSİ MUMYALARI ÖLDÜREBİLİR.",
+    "tip2_Joe21": "HAVALANDIRMALARI KULLANARAK ATEŞ TOPUNU KARANLIK LORD'A GERİ GÖNDERMEYİ DENE.",
+    "endText_Joe21": "'OH BEE EN SONUNDA! ŞİMDİ EVE GİDİP RAHATLAMAK İÇİN BRAIN TEST OYNAYABİLİRİM ... '- METİN",
+
+    "question_Family1": "Kayagillerin apartmanına hoş geldin. Hadi isimlerini eşleştirerek onları tanıyalım.",
+    "tip1_Family1": "İSİMLERİ DOĞRU KİŞİNİN ÜSTÜNE SÜRÜKLE.",
+    "tip2_Family1": "MURAT BABANIN, MELTEM ANNENİN ADI. ",
+    "endText_Family1": "TANIŞTIĞIMIZA MEMNUN OLDUK!",
+    "custom1_Family1":"MİNA",
+    "custom2_Family1":"MERT",
+    "custom3_Family1":"MERVE",
+    "custom4_Family1":"MURAT",
+    "custom5_Family1":"MELTEM",
+
+    "question_Family2": "Murat Bey işe hazır olmalı.",
+    "tip1_Family2": "KRAVATI VE PANTOLONU BURUŞUK GÖRÜNÜYOR.",
+    "tip2_Family2": "KRAVATI ÇEK VE PANTOLONU ÜTÜLEMEK İÇİN ÜTÜ MASASINA KOY.",
+    "endText_Family2": "KRAVATINI HALA KENDİ BAĞLAYAMAYANLAR BURDAMI?? :))",
+
+    "question_Family3": "Etrafta bebeğin yutabileceği pek çok oyuncak var. Bu çok tehlikeli, dikkat et!",
+    "tip1_Family3": "BLOKLARI OYUNCAK SEPETİNE KOYMAYI DENE.",
+    "tip2_Family3": "BİR BLOK AYININ ARKASINA GİZLENMİŞ.",
+    "endText_Family3": "OYUNCAKLAR YERİNE MİNA'YI KUTUYA KOYSAK DAHA GÜVENLİ OLACAK SANKİ. :))",
+
+    "question_Family4": "Yaşasın! Kahvaltı zamanı!",
+    "tip1_Family4": "MERT MISIR GEVREĞİ İSTİYOR, MERVE DE OMLET İSTİYOR.",
+    "tip2_Family4": "MISIR GEVREĞİNE SÜT KOYMAK İÇİN BUZDOLABINI AÇ. BİBERONU MİNA'YA VER. YUMURTAYI TAVAYA KOYMAYI UNUTMA.",
+    "endText_Family4": "FEDAKAR ANNELERİMİZE Bİ ALKIŞ ALALIM...",
+
+    "question_Family5": "Mina için şekerleme zamanı, ona uyuması için yardım et.",
+    "tip1_Family5": "SANDALYEYİ PARMAĞINLA SALLAMAYI DENE.",
+    "tip2_Family5": "SANDALYEYİ TIKAYAN BLOĞU ÇEK.",
+    "endText_Family5": "ŞŞŞŞŞŞ...",
+
+    "question_Family6": "Merve'nin annesiyle spor yapmasına yardım et.",
+    "tip2_Family6": "MELTEM'NİN HAREKETLERİNİ TAKİP ETMEK İÇİN DOĞRU KOLA DOKUNMAN GEREK.",
+    "tip1_Family6": "TARAĞI KULLANARAK BALONU PATLAT.",
+    "endText_Family6": "MİNA'Yİ KİM UYANDIRDI?! MEEERTT!",
+
+    "question_Family7": "Merve'nin Mert'i yenmesini sağla.",
+    "tip1_Family7": "KAZANMAK İÇİN MOR BLOĞU ÇEKMEYİ DENE.",
+    "tip2_Family7": "MOR OLANI ÇEKERKEN KIRMIZI BLOĞU TUT.",
+    "endText_Family7": "KARDEŞLERİN UYUM İÇİNDE OYNADIĞINI GÖRMEK NE GÜZEL...",
+
+    "question_Family8": "Mert, Merve'nin oyuncak bebeklerini dağıtarak yenilgisinin intikamını aldı! :))",
+    "tip1_Family8": "BAŞ VE GÖVDELERİ RENKLERİNE GÖRE EŞLEŞTİR.",
+    "tip2_Family8": "KAFANIN BİRİ KUTUNUN İÇİNDE, İÇİNDEKİLERİ ALMAK KUTUYU ÇEVİR.",
+    "endText_Family8": "KARDEŞLER İÇİN BU KADAR UYUM BENCE DE ÇOK FAZLAYDI.. :))",
+
+    "question_Family9": "Birisi aile albümünde doğru sırayı bozmuş!",
+    "tip1_Family9": "MURAT BEY'İN MEZUNİYETİ İLE BAŞLA VE HEPSİNİ KRONOLOJİK SIRAYA KOY.",
+    "tip2_Family9": "DOĞRU SIRAYA DİZMEK İÇİN ÇOCUK SAYISINA DİKKAT ET.",
+    "endText_Family9": "ALBÜME MERT'İN MASKARALIKLARINDAN KORUMAK İÇİN BİR KİLİT TAKSAK İYİ OLUR!",
+
+    "question_Family10": "Mert çok fazla oyun oynadı, bu kadar yeter.",
+    "tip1_Family10": "MODEMİ BUL VE İNTERNET ERİŞİMİNİ KAPAT.",
+    "tip2_Family10": "MODEM KANEPENİN ARKASINDA, GÖRMEK İÇİN KANEPEYİ YUKARI KALDIRMAYI DENE.",
+    "endText_Family10": "MERT ARTIK ASLA BİR ONLİNE SPOR KARİYERİNE SAHİP OLMAYACAK. :))",
+
+    "question_Family11": "Merve'nin yeni bir bebek alması için 8 liraya ihtiyacı var.",
+    "tip1_Family11": "KUMBARAYI ÇEKİÇLE KIR.",
+    "tip2_Family11": "KUM HAVUZUNDAKİ BOZUK PARALARI ARAMAK İÇİN MIKNATISI KULLAN.",
+    "endText_Family11": "VAYYY, NE KADAR ZENGİNSİN MERVE!",
+
+    "question_Family12": "Su fazla sıcak, ona yardım et!",
+    "tip1_Family12": "DUŞ BAŞLIĞINI BEBEK KÜVETİNE KOY.",
+    "tip2_Family12": "SAĞDAKİ VANAYI KULLANARAK SOĞUK SUYU AÇ.",
+    "endText_Family12": "İNSANLIĞIN EN BÜYÜK SORUNLARINDAN BİRİ, SUYUN ILIKLIĞINI AYARLAMAK. :))",
+
+    "question_Family13": "Bu ne dağınıklık! Hadi biraz ortalığı temizleyelim.",
+    "tip1_Family13": "ELEKTRİK SÜPÜRGESİNİ TOZLARIN ÜZERİNE GÖTÜR.",
+    "tip2_Family13": "TOZ TORBASINI ÇÖP KUTUSUNA BOŞALT. VE KANEPENİN ALTINDA DA BİRAZ TOZ VAR.",
+    "endText_Family13": "EVİM EVİM GÜZEL EVİM!",
+
+    "question_Family14": "Murat Bey işten döndü. Babaya sarılma zamanı!",
+    "tip1_Family14": "SARILMAYA HAZIRLANMASI İÇİN MURAT BEY'İN KOLLARINI AÇ. :))",
+    "tip2_Family14": "ELİNDEN ÇEKEREK SAĞ KOLUNU UZATMAYI DENE.",
+    "endText_Family14": "MURAT'ÇIM KOLUN İYİ Mİ CANIM??",
+
+    "question_Family15": "Meltem Hanım için uzun bir gündü, artık biraz sessizlik istiyor.",
+    "tip1_Family15": "MURAT BEY'İ KULLANARAK MİNA'Yİ DURDUR.",
+    "tip2_Family15": "KULAKLIKLARI MELTEM'İN KAFASINA KOY.",
+    "endText_Family15": "KİTABININ TADINI ÇIKAR MELTEM'CİM... :))",
+
+    "question_Family16": "Bowling oynamak istiyorlar, ama top yok. :((",
+    "tip1_Family16": "TOP YAPMAK İÇİN ÇORAPLARI BİR ARAYA GETİRMEYİ DENE.",
+    "tip2_Family16": "ÇORAP TOPUNU MURAT BEY'E VER.",
+    "endText_Family16": "TOPUN KOKUSU BAŞIMI DÖNDÜRDÜ... :)",
+
+    "question_Family17": "Merve'nin saklambaçı kazanmasına yardım et.",
+    "tip1_Family17": "SAHNENİN GERİ KALANINI GÖRMEK İÇİN SAĞA KAYDIR.",
+    "tip2_Family17": "MURAT BEY TAVAN ARASINDA SAKLANIYOR, TELEFONU SALLAMAK KAPISINI AÇABİLİR. VE MERT AYININ İÇİNDE OLABİLİR. :))",
+    "endText_Family17": "MURAT ABİ ORADA NE İŞİN VAR ALLAH AŞKINA?? :))",
+
+    "question_Family18": "Ağlamasını nasıl durdurabilirim?",
+    "tip1_Family18": "PALYAÇO BURUNLARI İŞİNE YARAYABİLİR.",
+    "tip2_Family18": "TOPLARI BURUNLARINA KOYUN VE AYNI ANDA SIKIN.",
+    "endText_Family18": "EVDEKİ ASIL PATRON BELLİ OLDU BENCE... :))",
+
+    "question_Family19": "Ailece fotoğraf çekilme zamanı!",
+    "tip1_Family19": "ÇOCUKLARIN SAÇLARINI TARA, IŞIĞI AYARLA VE MİNA'YI BESLE.",
+    "tip2_Family19": "TÜM AİLE HAZIR OLDUKTAN SONRA, KAMERANIN DÜĞMESİNE BAS.",
+    "endText_Family19": "OLAMAZ!! 'PEYNİİİİR' DEMEYİ UNUTTULAR! :))",
+
+    "question_Family20": "Artık uyku vakti, herkes odalarına gitmeli...",
+    "tip1_Family20": "KUTUNUN İÇİNİ KONTROL ET VE NESNELERİ İNSANLARI DOĞRU ODALARA ÇEKMEK İÇİN KULLAN",
+    "tip2_Family20": "MURAT İÇİN ÇANTA, MERT İÇİN ARABA, MELTEM İÇİN KULAKLIK VE MERVE İÇİN BEBEK KULLAN. AYRICA ODA KAPILARINDAKİ ŞEKİLLERE DİKKAT ET.",
+    "endText_Family20": "İYİ UYKULAR KAYAGİLLER! UZUN VE YORUCU BİR GÜN OLDU. YENİ MACERALARDA GÖRÜŞMEK ÜZERE!",
+
+
+
+
+
+
+
+
+    "question_Agent1": "Behzat Dedektif nerede?",
+    "tip2_Agent1": "BEHZAT HER ZAMAN HAVALI GÜNEŞ GÖZLÜKLERİ TAKIYOR.",
+    "tip1_Agent1": "GÖZLÜKLERİ GÜNEŞ GÖZLÜĞÜNE ÇEVİRMEK İÇİN KALEM İLE BOYAYIN.",
+    "endText_Agent1": "İŞTE BURADA! BEHZAT DEDEKTİF GELİYOR! KÖTÜLER KAÇACAK DELİK ARASIN!",
+
+    "question_Agent2": "Yeni gelen bir paket var, ama şüpheli görünüyor.",
+    "tip1_Agent2": "PAKETİ AÇ.",
+    "tip2_Agent2": "KASANIN İÇİNE KOYULURSA BOMBA ZARARSIZ HALE GELEBİLİR.",
+    "endText_Agent2": "BEHZAT'IN CANINA BİR KAST GİRİŞİMİ DAHA. KÖTÜ ADAMLAR ONDAN NEFRET EDİYOR.",
+
+    "question_Agent3": "Bazı ipuçları almak için paketi araştıralım.",
+    "tip1_Agent3": "NUMARAYI ÖĞRENMEK İÇİN PARÇALARI DÜZENLE.",
+    "tip2_Agent3": "SAYI 1 İLE BAŞLAYIP, 2 İLE BİTİYOR.",
+    "endText_Agent3": "İPUCU BULMAK İÇİN BU TAKİP NUMARASINI İZLEYEBİLİRSİN.",
+
+    "question_Agent4": "No: 1792'ye gitmesi gerek.",
+    "tip1_Agent4": "DOĞRU EVİN ÖNÜNDE DURMASI İÇİN ARABANIN ÜZERİNE TIKLA.",
+    "tip2_Agent4": "1792'Yİ TAMAMLAMAK İÇİN BAŞKA BİR EVİN NUMARASINI KULLAN.",
+    "endText_Agent4": "BEHZAT ARTIK EVDE, KORKUN KÖTÜ ADAMLAR!",
+
+    "question_Agent5": "Ev çoktan terk edilmiş! Birkaç ipucu toplayalım.",
+    "tip1_Agent5": "ÜÇ NESNEYE İHTİYACIMIZ VAR.",
+    "tip2_Agent5": "TABANCA, KİMLİK KARTI VE TELEFON.",
+    "endText_Agent5": "HİÇBİR KÖTÜ ADAM BEHZAT'TAN SAKLANAMAZ.",
+
+    "question_Agent6": "Olamaz! Bu bir tuzak! Burada bir bomba var!",
+    "tip1_Agent6": "BOMBANIN ALTINDA BİR KAĞIT VAR.",
+    "tip2_Agent6": "GÖSTERİLEN SANİYELERE GÖRE DOĞRU ZAMANDA DOĞRU RENKLİ KABLOYU KES.",
+    "endText_Agent6": "BİRİSİ GERÇEKTEN BEHZAT DEDEKTİF'İ HAVAYA UÇURMAK İSTİYOR.",
+
+    "question_Agent7": "Ofise geri dönüp bu delilleri araştıralım.",
+    "tip1_Agent7": "PARMAK İZLERİNİ ALMAK İÇİN TOZU KULLAN.",
+    "tip2_Agent7": "FIRÇAYI PUDRALA VE DAHA SONRA NESNELERE SÜR.",
+    "endText_Agent7": "BEHZAT'IN ADLİ BİR EKİBE İHTİYACI YOK, ON PARMAĞINDA ON MARİFET. :))",
+
+    "question_Agent8": "Tüm ipuçları, kel ve gözünde yara izi olan bir adama işaret ediyor.",
+    "tip1_Agent8": "PERUK VAR MI DİYE KONTROL ETMEK İÇİN FANI KULLAN.",
+    "tip2_Agent8": "YARALI GÖZÜ BULMAK İÇİN İÇİN GÖZLÜKLERİ KALDIR.",
+    "endText_Agent8": "'ELBİSEN GÜZELMİŞ' - BEHZAT DEDEKTİF.",
+
+    "question_Agent9": "Behzat adamı yakalamalı.",
+    "tip1_Agent9": "TRAFİK IŞIKLARI SANA YARDIMCI OLABİLİR.",
+    "tip2_Agent9": "TRAFİK IŞIĞI KONTROL PANELİNİ KULLANARAK IŞIĞI YEŞİL YAP VE ARABANIN ADAMA ÇARPMASINI SAĞLA.",
+    "endText_Agent9": "BEHZAT TRAFİK KURALLARINI ÇOK SEVİYOR. :))",
+
+    "question_Agent10": "Behzat bu gazete parçasını adamda buldu. Gizli mesajı çözelim.",
+    "tip1_Agent10": "FARKLI HARFLERE ODAKLAN. AŞAĞIYA YAZMAK İÇİN HARFLERİ SÜRÜKLE.",
+    "tip2_Agent10": "SIRASIYLA BEŞ BÜYÜK HARF BİR İSİM YAZMANI SAĞLAR.",
+    "endText_Agent10": "TAMAM DA BU SEDAT KİM?",
+
+    "question_Agent11": "Behzat'ın Sedat'ın aslında kim olduğunu öğrenmesi için adamı sorguya çekmesi gerek.",
+    "tip1_Agent11": "BEHZAT ŞİDDET İÇEREN SORGULAMALARI SEVMEZ.",
+    "tip2_Agent11": "AYAKKABILARINI ÇIKAR VE ONU BİR ŞEYLE GIDIKLA.",
+    "endText_Agent11": "'TAMAM, LÜTFEN ARTIK DUR! ARADIĞIN KİŞİ ÇILGIN SEDAT. BÜYÜK PLANLARI VAR, BU YÜZDEN ÖNCE SENDEN KURTULMAK İSTEDİ. ' - GIDIKLANAN KÖTÜ ADAM.",
+
+    "question_Agent12": "Behzat'ın Çılgın Sedat'ın planlarını ortaya çıkarmak için malikaneye sızması gerek.",
+    "tip1_Agent12": "BEHZAT'I PENCEREYE SÜRÜKLE.",
+    "tip2_Agent12": "BEHZAT BİR SÜRE FIÇININ İÇİNDE SAKLANABİLİR.",
+    "endText_Agent12": "BEHZAT DA EMEKLİ OLDUKTAN SONRA BÖYLE BİR MALİKANE ALMAK İSTİYOR.",
+
+    "question_Agent13": "Behzat bu dizüstü bilgisayarı açmanın bir yolunu bulmalı.",
+    "tip1_Agent13": "MUMLUK GİZLİ BİR GEÇİT KOLU OLABİLİR.",
+    "tip2_Agent13": "DİZÜSTÜ BİLGİSAYARI AÇMAK İÇİN KASADAKİ KİMLİK KARTINI KULLAN.",
+    "endText_Agent13": "'UMARIM BİLGİSAYARIN SSD BELLEĞİ VARDIR ...' - DEDEKTİF BEHZAT.",
+
+    "question_Agent14": "Behzat bilgisayara girebilmek için şifreyi hacklemeli.",
+    "tip1_Agent14": "BAĞLANMAK İÇİN DAİRELERE DOKUN.",
+    "tip2_Agent14": "ÜSTTEKİ DAİRELERİ BAĞLAMAK İÇİN ÇUBUĞU SÜRÜKLE.",
+    "endText_Agent14": "BİLGİSAYAR KORSANLIĞI, BEHZAT'IN 1000 YETENEĞİNDEN SADECE BİRİ. :))",
+
+    "question_Agent15": "Olamaz! Behzat silahlarını evde unuttu ve korumasız!",
+    "tip1_Agent15": "MERMİLERİ ATLATMAK İÇİN BEHZAT'I SÜRÜKLEMEYİ DENE.",
+    "tip2_Agent15": "BİRBİRLERİNE ATEŞ ETMELERİNİ SAĞLAMAK İÇİN BEHZAT'I HAREKET ETTİR.",
+    "endText_Agent15": "'YİNE UCUZ ATLATTIK! BU UNUTKANLIK BAŞIMA İŞ AÇMAYA BAŞLADI. '' - DEDEKTİF BEHZAT.",
+
+    "question_Agent16": "Behzat'ın acilen malikaneden kaçması gerek.",
+    "tip1_Agent16": "DIŞARI ÇIKMAK İÇİN BAHÇE KAPISINI AÇ.",
+    "tip2_Agent16": "ÇİVİLENMİŞ TAHTALARI LASTİKLERİ PATLATMAK İÇİN KULLAN.",
+    "endText_Agent16": "CANAVAR AVCISI KORKUSUZ METİN BURAYI ZİYARET ETMİŞ OLMALI.",
+
+    "question_Agent17": "Behzat, Sedat'ın bir gökdelenin bodrum katına patlayıcı yerleştirdiğini öğrendi. Patlayıcıyı bulman gerek!",
+    "tip1_Agent17": "DUVARDAKİ GİZLİ PATLAYICIYI BULMAK İÇİN X-RAY CİHAZINI KULLAN.",
+    "tip2_Agent17": "BALYOZU KULLANARAK DUVARI DELEBİLİRSİN.",
+    "endText_Agent17": "KÖTÜ PLANLARINA HOŞÇAKAL DE SEDAT.' - DEDEKTİF BEHZAT.",
+
+    "question_Agent18": "Çılgın Sedat bir helikopterle kaçmaya çalışıyor, onu durdur!",
+    "tip1_Agent18": "PARMAĞINLA BİNAYI YÜKSELTEBİLİRSİN.",
+    "tip2_Agent18": "SU TANKININ DOĞRU BACAĞINI KIRIP HELİKOPTERE DÜŞÜR.",
+    "endText_Agent18": "'SENİN KORKULU RÜYAN BENİM SEDAT!' - DEDEKTİF BEHZAT.",
+
+    "question_Agent19": "Behzat, Sedat ile yüzleşmek için aşağı inmeli.",
+    "tip1_Agent19": "BEHZAT'I YERE AT, YANAN HELİKOPTERE DİKKAT ET.",
+    "tip2_Agent19": "DÜŞÜŞÜNÜ YAVAŞLATMAK İÇİN ŞEMSİYEYİ KULLAN.",
+    "endText_Agent19": "'RAHAT BİR İNİŞ OLDU, ŞEMSİYE İÇİN TEŞEKKÜRLER!' -DEDEKTİF BEHZAT.",
+
+    "question_Agent20": "Buraya kadar, yolun sonu geldi! Artık bu Behzat ve Sedat arasındaki son hesaplaşma...",
+    "tip1_Agent20": "BEHZAT'I BÜKEREK MERMİLERDEN KAÇIRABİLİRSİN.",
+    "tip2_Agent20": "ŞU DEMİR KUTULAR MERMİLERİ GERİ SIÇRATABİLİR.",
+    "endText_Agent20": "İŞTE KARİZMATİK DEDEKTİF BEHZAT, AZILI SUÇLU ÇILGIN SEDAT'IN KORKUTUCU PLANLARINI BÖYLE TUZLA BUZ ETTİ. BOMBALARI DURDURDU, KURŞUNLARDAN KAÇTI VE YETMEDİ UZUN BİR BİNADAN ATLADI. VE BUNLARIN HEPSİ TÜRKİYE'NİN EN İYİ DEDEKTİFİ İÇİN SADECE SIRADAN BİR GÜN...",
+
+
+
+    
+    "question_Betty1": "Merhaba! Tanıştırayım bu Banu ve canı bugün balığa çıkmak istiyor.",
+    "tip1_Betty1": "GEÇTİĞİ YOLU TEMİZLEMEYİ DENE.",
+    "tip2_Betty1": "SUYU TEMİZLEMEK İÇİN MASADAKİ BEZİ KULLAN.",
+    "endText_Betty1": "'OLEYYY! HER ŞEY YOLUNDA GİDİYOR! BUGÜN ŞANSLI GÜNÜMDEYİM, HİSSEDİYORUM!' - BANU",
+
+    "question_Betty2": "Olamaz! Banu'nun teknesi su alıyor!",
+    "tip1_Betty2": "KOVAYI KULLANARAK SUYU BOŞALT.",
+    "tip2_Betty2": "TEKNEDEKİ DELİĞİ BİR ŞEYLE KAPATMAYI DENE.",
+    "endText_Betty2": "GALİBA YİNE ÇOK ERKEN KONUŞTUM!' - BANU",
+
+    "question_Betty3": "Off! Banu tekneden düştü, ona yardım et!",
+    "tip1_Betty3": "AHTAPOTUN KOLLARINI KOPARMAYI DENE.",
+    "tip2_Betty3": "KOPAN KOLLARIN DELİKLERİNİ KAPATMAK İÇİN DENİZYILDIZLARINI KULLAN.",
+    "endText_Betty3": "'OHH, AHTAPOTTAN KURTULDUK, AMA ŞİMDİ DAHA BÜYÜK BİR SORUNUMUZ VAR: BEN YÜZME BİLMİYORUM!!!' - BANU",
+
+    "question_Betty4": "Nee!! Banu boğuluyor, İMDAAAT!",
+    "tip1_Betty4": "BANU ORADAKİ TAHTAYA TUTUNABİLİR.",
+    "tip2_Betty4": "KAYALARA ÇARPMAMAK İÇİN TAHTAYI HAREKET ETTİRİN.",
+    "endText_Betty4": "'HIÇKIRIK TUTTU, GALİBA BİRAZ BALIK YUTTUM!' - BANU",
+
+    "question_Betty5": "Ohhh, Banu karaya çıktı ama nefes alıyor mu ki?!",
+    "tip2_Betty5": "SUNİ SOLUNUM YAPMAK İÇİN KURBAĞAYI KULLANABİLİRSİN.",
+    "tip1_Betty5": "KURBAĞAYI NEFESİNİ TUTARAK ŞİŞİRMEYİ DENE.",
+    "endText_Betty5": "'IYY! NE BAHTSIZIM YAA, BU KURBAĞA MASALLARDAKİ GİBİ BİR PRENS BİLE DEĞİL! ' - BANU",
+
+    "question_Betty6": "O ayı biraz kızgın görünüyor!",
+    "tip1_Betty6": "BANU'NUN AYIYI KANDIRMASI İÇİN ÖLÜ TAKLİDİ YAPMASI LAZIM.",
+    "tip2_Betty6": "BANU'YU AĞACIN ALTINA GETİRDİKTEN SONRA TELEFONU SALLAYARAK ELMANIN KAFASINA DÜŞMESİNİ SAĞLA.",
+    "endText_Betty6": "'BU KIZ AYNI BALIK GİBİ KOKUYOR!' - AYI",
+
+    "question_Betty7": "Bu ayıdan kurtulmamız gerek.",
+    "tip1_Betty7": "ARI KOVANINI GÖRMEK İÇİN AĞACI AŞAĞIYA ÇEK.",
+    "tip2_Betty7": "ARI KOVANINI AYININ BAŞINA KOY.",
+    "endText_Betty7": "'ANNNEEEEE! ...' - AYI",
+
+    "question_Betty8": "Ayı gitti, Banu'yu uyandırma zamanı.",
+    "tip1_Betty8": "ŞURADAKİ MEYVELER KUŞUN KAKA YAPMASINI SAĞLAYABİLİR.",
+    "tip2_Betty8": "DİĞER DALA GEÇMESİ İÇİN BULUNDUĞU DALI KIRMAYI DENE.",
+    "endText_Betty8": "'OOO HADİ ŞANSLISIN BANU ÜZERİNE TALİH KUŞU KONACAK.' -  KUŞ",
+
+    "question_Betty9": "Harika(!) bir uyanma şekli oldu cidden, Banu'nun yüzünü temizlemesine yardım et.",
+    "tip1_Betty9": "BİRAZ SU ALMAK İÇİN İKİ ELİ SUDA KAVUŞTUR.",
+    "tip2_Betty9": "YIKADIKTAN SONRA BANU'NUN YÜZÜNÜ KURULAMAK İÇİN BİR YAPRAK KULLAN.",
+    "endText_Betty9": "'BUGÜN HER ŞEYİN TERS GİTMESİNE BAKILIRSA, BAHSE GİRERİM BU YAPRAK ÇOK ZEHİRLİ! - BANU",
+
+    "question_Betty10": "Banu kayboldu ve acıktı. Ona en sevdiği meyveyi ver.",
+    "tip1_Betty10": "BANU'NUN DÜŞÜNCELERİ İÇİNDEKİ ELMANIN ŞEKLİNE DİKKATLİCE BAK.",
+    "tip2_Betty10": "AĞAÇTA BAZI GİZLİ ELMALAR VAR.",
+    "endText_Betty10": "'ŞİMDİ BU ORMANDAN ÇIKMANIN BİR YOLUNU BULMAM GEREK.' - BANU",
+
+    "question_Betty11": "Oh, çok şükür! Sonunda otoyola çıkabildi. Hadi bakalım otostop yapma zamanı.",
+    "tip1_Betty11": "BAŞ PARMAĞINI YUKARI DOĞRU KALDIR.",
+    "tip2_Betty11": "ARILARIN DİKKATİNİ BANU'NUN PARMAĞINA ÇEK.",
+    "endText_Betty11": "'BEDAVA OTOSTOP BALDAN TATLIDIR.. :))' - BANU",
+
+    "question_Betty12": "Olamaz! Bunlar kötü adamlar. Arabadan inmesi gerek!",
+    "tip1_Betty12": "EL FRENİNİ BULUP ÇEK.",
+    "tip2_Betty12": "ARABAYI DURDURMADAN ÖNCE BANU'NUN EMNİYET KEMERİNİ TAK.",
+    "endText_Betty12": "'HEP SÖYLERİM EMNİYET KEMERİ HAYAT KURTARIR!' - BANU",
+
+    "question_Betty13": "Banu'nun kötü adamlardan kaçmasına yardım et!",
+    "tip1_Betty13": "KAYAYI AŞAĞI İTECEK BİR NESNE BUL.",
+    "tip2_Betty13": "ZIPLAMASI VE KAYADAN KAÇMASI İÇİN BANU'YA DOKUN.",
+    "endText_Betty13": "'ÇOK İYİ BİR ATLAYICI OLDUĞUMU CİDDEN BEN DE BİLMİYORDUM!' - BANU",
+
+    "question_Betty14": "Şurada Banu'ya yardım edebilecek bir helikopter var, ama maalesef onu duyamıyorlar.",
+    "tip1_Betty14": "KEÇİLERİN YİYECEKLERİNİ ALARAK ONLARI KIZDIR.",
+    "tip2_Betty14": "YÜKSEK BİR SES ÇIKARMAK İÇİN KORNAYI KULLAN.",
+    "endText_Betty14": "'YAŞASIN! DAHA ÖNCE HİÇ HELİKOPTERE BİNMEMİŞTİM, NE ŞANSLIYIM HEM DE BEDAVA! :)) ' - BANU",
+
+    "question_Betty15": "Olamaz! Helikopter karlı dağların üzerine düştü, Banu donuyor!",
+    "tip1_Betty15": "ENKAZDAKİ KÜREĞİ KULLANARAK BİR ŞEYLERİ KAZIP BUL.",
+    "tip2_Betty15": "ESKİMO KULÜBESİNİ BULMAK İÇİN SAĞDAKİ YIĞINI 5 SANİYE BOYUNCA KAZ.",
+    "endText_Betty15": "IŞŞŞŞ ... GALİBA DONUYORUM ...' - BANU",
+
+    "question_Betty16": "Yardım istemek için Banu'nun Eskimo'yu uyandırması lazım.",
+    "tip1_Betty16": "YÜZÜNÜ GÖRMEK İÇİN TELEFONU ÇEVİR.",
+    "tip2_Betty16": "BALIK PİŞİR VE KOKUSUNU KULLANARAK ADAMI UYANDIR.",
+    "endText_Betty16": "'BİR MELEK Mİ GÖRÜYORUM YOKSA?!' - ESKİMO",
+
+    "question_Betty17": "Bu nazik Eskimo hayırlısıyla Banu'yu en yakın havaalanına götürecek.",
+    "tip1_Betty17": "KÖPEKLERİ RENKLERİNE GÖRE EŞLEŞTİR.",
+    "tip2_Betty17": "YOLA ÇIKMAK İÇİN ESKİMO'YA DOKUN.",
+    "endText_Betty17": "'AAA NEREYE GİTTİ ŞİMDİ BU?!' - ESKİMO",
+
+    "question_Betty18": "Şansa bak! Banu'yu yukarı çıkartmak gerek.",
+    "tip1_Betty18": "BUZDAĞLARI ERİRSE SU SEVİYESİ YÜKSELİR.",
+    "tip2_Betty18": "BUZDAĞLARINI ERİTMEK İÇİN BULUTUN ARKASINDAKİ GÜNEŞİ KULLAN.",
+    "endText_Betty18": "'İŞE BAK, DEMEK Kİ KIZ MELEK DEĞİL UZAYLIYMIŞ...' -ESKİMO",
+
+    "question_Betty19": "Banu'nun uzaylılardan kurtulmasına yardım et!",
+    "tip1_Betty19": "İNGİLİZ ANAHTARIYLA PENCEREYİ KIR.",
+    "tip2_Betty19": "DÜĞMELERLE CAM KASKI BÜYÜT VE BANU'YA TAK.",
+    "endText_Betty19": "'HMMM, PEKİ ŞİMDİ BU ŞEYİ NASIL ÇALIŞTIRIYORUZ?!' - BANU",
+
+    "question_Betty20": "Banu artık Dünya'ya geri dönmeli.",
+    "tip1_Betty20": "UFO'YU GEZEGENLERİN YERÇEKİMLERINİ KULLANARAK HAREKET ETTİR.",
+    "tip2_Betty20": "ASTEROİTLERE DİKKAT ET.",
+    "endText_Betty20": "'YİNE DE ŞANSLIYIM, BEDAVADAN HARİKA BİR UFO'M OLDU.' :))  - BANU VE SONRA UFO'YU EVİNE ÇARPTI.'ŞEYY...EN AZINDAN EVE DÖNDÜM, YA DA ARTIK GERİYE NE KALDIYSA... Hİ Hİ Hİ'  :))  - BANU",
+
+
+
+
+
+
+    "question_Prison1": "Kubilay haksız yere suçlandı ve hapse atılacak. Şimdi dosyasına koymak için fotoğraflarını çekiyorlar.",
+    "tip1_Prison1": "FOTOĞRAFI ÇEKMEK İÇİN KAMERAYA DOKUN.",
+    "tip2_Prison1": "KUBİLAY'IN YAN PROFİLDEN FOTOĞRAFINI ÇEKMEK İÇİN EKRANI SOLA KAYDIR.",
+    "endText_Prison1": "KUBİLAY BU YERDEN EN KISA SÜREDE KURTULMANIN BİR YOLUNU BULMALI...",
+
+    "question_Prison2": "Kubilay bu zorlu ortamda kendini korumanın bir yolunu bulmak zorunda.",
+    "tip1_Prison2": "ÇETENİN BİR PARÇASI GİBİ GÖZÜKMESİ İÇİN KUBİLAY'IN BAŞINA BİR BANDANA TAK.",
+    "tip2_Prison2": "YUKARIDAKİ ADAMDAN ŞAPKAYI AL VE BANDAYI ALMAK İÇİN ÇETE ÜYESİNİN KAFASINA ŞAPKAYI TAK.",
+    "endText_Prison2": "'KANKA NABER?'' - KUBİLAY",
+
+    "question_Prison3": "Hadi popüler olmak için biraz basketbol oynayalım.",
+    "tip1_Prison3": "TOPU KUBİLAY'A VER VE ZIPLAMASI İÇİN ONA DOKUN.",
+    "tip2_Prison3": "KUBİLAY'A EN YÜKSEK NOKTADA  DOKUN.",
+    "endText_Prison3": "'GENÇLİĞİMDE BANA 3'LÜK KUBİLAY DERLERDİ... '' - KUBİLAY",
+
+    "question_Prison4": "Kubilay'ın kaçışını planlamak için birkaç arkadaşa ihtiyacı var.",
+    "tip1_Prison4": "KADİR'E BİR KİTAP VER.",
+    "tip2_Prison4": "ŞU İKİ TEKERLEK VE YATAY ÇUBUKLA AYHAN İÇİN BİR HALTER YAP.",
+    "endText_Prison4": "'TANIŞTIĞIMIZA MEMNUN OLDUM KUBİLAY. TÜM BEYNİMLE SENİNLEYİM.'' - KADİR  ''BEN DE KASLARIMLA! '' - GORİL AYHAN ",
+
+    "question_Prison5": "Masanın üzerindeki keskiyi almamız gerek!",
+    "tip1_Prison5": "EKMEĞİ ALMAK İÇİN AYHAN'A ÇÖREKLERİ VER.",
+    "tip2_Prison5": "EKMEĞİN İÇİNE KESKİYİ SAKLA.",
+    "endText_Prison5": "'SAKIN BU EKMEĞİ YEMEYİ DENEME AYHAN! İÇİNDE KESKİ VAR. ' - KUBİLAY",
+
+    "question_Prison6": "Duvarda bir delik açması için Kubilay'a yardım et.",
+    "tip1_Prison6": "KAZMAK İÇİN PARMAĞINI EKRANDA BASILI TUTMAYA DEVAM ET.",
+    "tip2_Prison6": "GARDİYAN GEÇERKEN KAZMAYI BIRAK.",
+    "endText_Prison6": "'HEY! BU SES DE NE?!'' - GARDİYAN",
+
+    "question_Prison7": "Kubilay keskiyi hemen bir yere saklamalı!",
+    "tip1_Prison7": "KESKİYİ TUVALETE KOY. IŞIĞA YAKALANMA.",
+    "tip2_Prison7": "KESKİYİ YERLEŞTİRDİKTEN SONRA KAPAĞI KAPAT.",
+    "endText_Prison7": "\"EE ŞEYY ... PARMAKLIKLARDA DİŞLERİMİ KAŞIYORDUM DA...\" - KUBİLAY\"SENİN SORUNUN NE ARKADAŞ?!\" - GARDİYAN",
+
+    "question_Prison8": "Kaçmak için bir tünel kazalım.",
+    "tip1_Prison8": "KAZMA YÖNÜNÜ DEĞİŞTİRMEK İÇİN TELEFONUNU ÇEVİR.",
+    "tip2_Prison8": "GARDİYANLARDAN SAKIN. 2. GARDİYANI ORADAKİ BLOK İLE ENGELLEYEBİLİRSİN.",
+    "endText_Prison8": "\"HA HA! YILLARCA MİNECRAFT OYNAMANIN KARŞILIĞINI SONUNDA ALDIM!\" -KUBİLAY",
+
+    "question_Prison9": "Kubilay'ın kapıyı açmasına yardım et.",
+    "tip1_Prison9": "KİLİDİ KIRMAK İÇİN KESKİYİ KULLAN.",
+    "tip2_Prison9": "ŞİFREYİ ŞU ŞEKİLDE GİR: (SOLDAN SAĞA) 2, 4, 3, 1",
+    "endText_Prison9": " \"YOLUNU MU KAYBETTİN CANIM?\" - GARDİYAN",
+
+    "question_Prison10": "İlk denemesinde başarısız oldu. :(( B planına başlamak için bu kontrol noktasını geçmesi gerek.",
+    "tip1_Prison10": "ÇAMAŞIR SEPETİNİ BOŞALT.",
+    "tip2_Prison10": "SEPETİ BOŞALTTIKTAN SONRA KUBİLAY'I SEPETE KOY.",
+    "endText_Prison10": "\"ÇAMAŞIR SEPETİ BUGÜN NEDENSE ÇOK AĞIR!\" - MAHKUM",
+
+    "question_Prison11": "Şu tornavida Kubilay'ın son şansı!",
+    "tip1_Prison11": "AYHAN KEMİĞİ ALMAK İÇİN TAVUĞU YİYEBİLİR.",
+    "tip2_Prison11": "KEMİĞİ TORNAVİDA İLE DEĞİŞTİR. SONRA TORNAVİDAYI KUBİLAY'A VER.",
+    "endText_Prison11": "\"BU TORNAVİDA NEDEN DÖNMÜYOR YAHU?! BİR DAKİKA, AMA BU BİR KEMİK??\" - ŞAŞKIN TEKNİSYEN",
+
+    "question_Prison12": "Kubilay'ın tornavida ile açabileceği gizli bir panel var.",
+    "tip1_Prison12": "TUVALETİ BİR KENARA İT VE PANELİ SÖK.",
+    "tip2_Prison12": "KORUMA GEÇERKEN TUVALETİ TEKRAR YERİNE KOY.",
+    "endText_Prison12": "'ŞEY, KAÇMAK İÇİN EN İĞRENÇ YOL BU OLMALI ...' - KUBİLAY",
+
+    "question_Prison13": "Havalandırma boşluğundan Kubilay'ın ilerlemesine yardım et.",
+    "tip1_Prison13": "KUBİLAY'I HAREKET ETTİRMEK İÇİN EKRANA DOKUN.",
+    "tip2_Prison13": "KUBİLAY'I YÖNLENDİRMEK İÇİN BLOKLARI KULLAN. GARDİYANLARA DİKKAT ETMEYİ UNUTMA.",
+    "endText_Prison13": "'UMARIM BU SEFER YİNE BİR GARDİYANLA YOLLARIMIZ KESİŞMEZ!' - KUBİLAY",
+
+    "question_Prison14": "Duvardaki şalterler kapıyı açmak için işimize yarayabilir!",
+    "tip1_Prison14": "ADAMI KORKUTMAK İÇİN FARE DELİĞİNE DOKUN.",
+    "tip2_Prison14": "DUVARDAKİ ŞALTERLERİ KAĞIT ÜZERİNDEKİ İPUCUNA GÖRE İNDİR.",
+    "endText_Prison14": "'SÜPER! BURASI HAPİSHANENİN KONTROL ODASI! ' - KUBİLAY",
+
+    "question_Prison15": "Kubilay'ın diğer iki arkadaşını da çıkartması gerek.",
+    "tip1_Prison15": "KAPILARI AÇMAK İÇİN DÜĞMELERİ KULLAN, ANCAK KORUMALARA DİKKAT ET.",
+    "tip2_Prison15": "GARDİYANLARDAN BİRİNİ MEŞGUL ETMEK İÇİN MAHKUMU SERBEST BIRAK.",
+    "endText_Prison15": "'İYİ İŞ ÇIKARDIN KUBİLAY. HAYDİ ŞİMDİ HEP BİRLİKTE BURADAN GİDELİM!' - KADİR",
+
+    "question_Prison16": "Off Hay aksi! Yukarıdaki kapıya şimdi nasıl ulaşacaklar... ",
+    "tip1_Prison16": "KUBİLAY VE ARKADAŞLARINI ÜST ÜSTE KOY.",
+    "tip2_Prison16": "KUTUYU ALTLARINA KOY VE YETERİNCE YÜKSEK OLDUKLARINDA HALATA DOKUN.",
+    "endText_Prison16": "\" EL EL İLE DEĞİRMEN YEL İLE.\" - KADİR'O NE DEMEK ŞİMDİ?!' - GORİL AYHAN ",
+
+    "question_Prison17": "Şu gardiyanları atlatmanın bir yolu olmalı...",
+    "tip1_Prison17": "SOPAYI KULLANARAK GARDİYANLARIN BİRBİRLERİYLE TARTIŞMALARINI SAĞLA.",
+    "tip2_Prison17": "ÖNDEKİ GARDİYANA VURDUKTAN SONRA, SOPAYI DİĞER GARDİYANIN ELİNE VER.",
+    "endText_Prison17": "'İŞTE KESKİN SİRKE KÜPÜNE ZARAR VERİR.\" - KADİR\"ANLADIK KADİR TAMAM ÇOK ENTELLEKTÜELSİN.\" - AYHAN",
+
+    "question_Prison18": "Kubilay ve arkadaşlarının o kapıdan geçmeleri gerek.",
+    "tip1_Prison18": "KONTROL PANELİNİ AÇ VE DÜĞMEYE BAS.",
+    "tip2_Prison18": "KAPIYI AÇIK TUTMAK İÇİN AYHAN'I KAPININ ALTINA KOY.",
+    "endText_Prison18": "'ÇALMA ELİN KAPISINI, ÇALARLAR KAPINI!' - KADİR'KADİR BİR ATASÖZÜ DAHA SÖYLERSEN KAPININ ALTINA SENİ KOYACAĞIM!' - AYHAN",
+
+    "question_Prison19": "Kadir çıkış kapısını açmaya çalışırken diğerleri onları kovalayan korumaları durdurmanın bir yolunu bulmalılar.",
+    "tip1_Prison19": "ÖNCE BİR KÜREK BULMAK İÇİN DOLABI AÇ. SONRA GRİ FAYANSLARIN ALTINA DELİKLER KAZ.",
+    "tip2_Prison19": "KAZDIKTAN SONRA FAYANSLARI KAPATMAYI UNUTMA.",
+    "endText_Prison19": "'UNUTMA UNUTULANLAR UNUTANLARI...' - KADİR'ASLA UNUTMAZLAR!' - KUBİLAY'CİDDİ OLAMAZSIN... KUBİLAY SENDE Mİ!!' - AYHAN",
+
+    "question_Prison20": "Ormana ulaşmaları gerek.",
+    "tip1_Prison20": "HAREKET ETMELERİ İÇİN EKRANA BASILI TUT. DURDURMAK İÇİN EKRANA TEKRAR DOKUN. IŞIKLARDAN KAÇMAYI UNUTMA!",
+    "tip2_Prison20": "EKRANDA BİR GARDİYAN VARKEN HAREKET ETME.",
+    "endText_Prison20": "'BAŞARDIK! AMA ŞEHRE BU ŞEKİLDE KAÇAK OLARAK GİREMEYİZ. ÖNCE VAHŞİ DOĞADA HAYATTA KALMANIN BİR YOLUNU BULMALIYIZ.\" - KUBİLAY'BU BANA SANKİ YENİ BİR MACERA SETİ GİBİ GELDİ. HİHİHİ :))\" - KADİR",
+
+
+
+
+    "question_Fitness1": "Seray'ın canı biraz cips istiyor ama cipse ulaşamıyor. :((",
+    "tip1_Fitness1": "RAFA MARKET ARABASI İLE VUR.",
+    "tip2_Fitness1": "ALIŞVERİŞ ARABASINI GERİ ÇEK VE HIZLI BİR ŞEKİLDE TEKRAR VUR.",
+    "endText_Fitness1": "SERAY BUNDAN DAHA İYİSİNİ HAK EDİYOR... HADİ ONA FORMA GİRMESİ İÇİN BİRAZ YARDIM EDELİM!",
+
+    "question_Fitness2": "Seray'ı biraz koşturmak için cipse olan sevgisini kullan.",
+    "tip1_Fitness2": "CİPSLERİ ONDAN UZAK TUT.",
+    "tip2_Fitness2": "EN AZ 5 SANİYE KOŞMASI GEREKİYOR.",
+    "endText_Fitness2": "SONUNDA BİRAZ SPORUN TADINA BAKTI, AMA BU DAHA SADECE BAŞLANGIÇ...",
+
+    "question_Fitness3": "Asansörü kullanmasına izin verme.",
+    "tip1_Fitness3": "BİR ŞEKİLDE ASANSÖRÜ KULLANILMAZ HALE GETİR.",
+    "tip2_Fitness3": "ORADAKİ BASTONU AL, ÇEVİR VE ASANSÖR KAPISINA KOY.",
+    "endText_Fitness3": "'AYYYY BU NE BE! SANKİ BİR TÜR FİTNESS HAYALETİ BANA İŞKENCE EDİYOR! HEY! KİMSİN SEN?!' - SERAY",
+
+    "question_Fitness4": "Merdivenlerden çıkmasına yardım et.",
+    "tip1_Fitness4": "BASAMAKLARI PARMAĞINLA YUKARI KALDIRABİLİRSİN.",
+    "tip2_Fitness4": "SERAY'IN SAĞ ÜST KISMA ULAŞMASI GEREKİYOR.",
+    "endText_Fitness4": "'HADİ KIZIM YAPABİLİRSİN! SADECE 57 TANECİK DAHA KALDI! ....' - SERAY",
+
+    "question_Fitness5": "Bu kadar egzersizden sonra ayakları korkunç durumda, ona yardım et. :((",
+    "tip1_Fitness5": "AYAKLARINI PLASTİK LEĞENİN İÇİNE KOY.",
+    "tip2_Fitness5": "BUZDOLABINDAN LEĞENE BİRAZ SOĞUK SU KOY.",
+    "endText_Fitness5": "'OHH... AYAKLARIMA KARA SULAR İNMİŞTİ. TEŞEKKÜR EDERİM SEVGİLİ HAYALETİM :)). ' - SERAY",
+
+    "question_Fitness6": "Seray kalorileri yakmanın kolay bir yolunu arıyor.",
+    "tip1_Fitness6": "KALORİLERİ YAKMAK İÇİN BİR ÇAKMAK BUL.",
+    "tip2_Fitness6": "'KALORİLERİ' GÖRMEK İÇİN SORU METNİNE BAK.",
+    "endText_Fitness6": "ÜZGÜNÜM SERAY'CIM. BÖYLE BİR KISAYOL YOK.",
+
+    "question_Fitness7": "Seray egzersiz yapmaya başlamak istiyor, ama nereden başlayacağını bilmiyor.",
+    "tip1_Fitness7": "DAĞINIKLIĞIN ALTINA GİZLENMİŞ TELEFONUNU BULMASINA YARDIM ET VE ARAMA YAPMASI İÇİN ONA VER.",
+    "tip2_Fitness7": "SPOR SALONU KARTINI BİR YERDEN BUL VE ONA VER.",
+    "endText_Fitness7": "'HADİ SPOR SALONUNA GİDELİM!' - SERAY",
+
+    "question_Fitness8": "Hadi bakalım, koşu bandıyla başlayalım!",
+    "tip1_Fitness8": "HIZI ARTIRMAK İÇİN DÜĞMEYE BAS.",
+    "tip2_Fitness8": "AYAKKABILARINI BAĞLA VE HIZI ÇOK HIZLI ARTIRMA.",
+    "endText_Fitness8": "'BAŞKA BİR ŞEY YOK MU? SIRADAKİNİ GETİRİN!' -SERAY",
+
+    "question_Fitness9": "Vücudunu pilates ile esnetmesi gerek.",
+    "tip1_Fitness9": "ELLERİNİ VE AYAKLARINI ÇEK.",
+    "tip2_Fitness9": "ELLERİNİ VE AYAKLARINI BELİRLENEN NOKTALARA ÇEK.",
+    "endText_Fitness9": "'KENDİMİ LASTİK KIZ GİBİ HİSSEDİYORUM HİHİHİ :))!' - SERAY",
+
+    "question_Fitness10": "Seray'ın mutfaktaki sağlıksız yiyeceklerden kurtulmasına yardım et.",
+    "tip1_Fitness10": "SAĞLIKSIZ YİYECEKLERİ BUL VE ÇÖP KUTUSUNA ATIN. BİRTANE DE ELİNDE VAR.",
+    "tip2_Fitness10": "SAĞLIKLI YİYECEKLERİ ATMA. 6 ADET SAĞLIKSIZ YİYECEK VAR.",
+    "endText_Fitness10": "FİKRİNİ DEĞİŞTİRMEDEN HEMEN ÇÖPÜ BOŞALTSAK İYİ OLUR. :))",
+
+    "question_Fitness11": "Biraz açık hava egzersizi harika olacak!",
+    "tip1_Fitness11": "ONA AĞIRLIKLARI VER.",
+    "tip2_Fitness11": "YERÇEKİMİNİ KULLANMAK İÇİN AY'I BÜYÜTÜN.",
+    "endText_Fitness11": "'BÖYLE GARİP GÜÇLERİN OLDUĞUNU BİLMİYORDUM SEVGİLİ HAYALET!' - SERAY",
+
+    "question_Fitness12": "Seray çok yavaş yürüyor, koştur onu!",
+    "tip1_Fitness12": "BİR YERDE GİZLENMİŞ ANAHTARI KULLANARAK KAPIYI AÇ.",
+    "tip2_Fitness12": "KİLİDİ AÇTIKTAN SONRA, YERDEKİ TAŞLA KAPIYI KIRIN.",
+    "endText_Fitness12": "'İMDAAAT! BU DA NERDEN ÇIKTI ŞİMDİ?!' - SERAY'HAV! HAV! HAV! HAV!' - KÖPEK",
+
+    "question_Fitness13": "O kadar formdalar ki Seray'ın morali bozuluyor. Bir çözüm bul.",
+    "tip1_Fitness13": "GİRYANIN SERBESTÇE YUVARLANMASINI SAĞLA.",
+    "tip2_Fitness13": "HALTERE BİRAZ DAHA AĞIRLIK EKLEYİN.",
+    "endText_Fitness13": "'GÜNLERİNİ GÖRDÜLER! HİHİHİHİ :))' - SERAY",
+
+    "question_Fitness14": "Seray'ın spor hocasının rehberliğine uyması gerek.",
+    "tip1_Fitness14": "BAŞPARMAĞINA DİKKAT ET.",
+    "tip2_Fitness14": "BAŞPARMAK YUKARI DOĞRUYKEN ÜST GÖVDEYE, AŞAĞI DOĞRUYKEN ALT GÖVDEYE DOKUN.",
+    "endText_Fitness14": "'GÜZEL İŞ BAŞARDIN, AFERİN ÇEKİRGE! ' - SPOR HOCASI",
+
+    "question_Fitness15": "Seray'ın biraz daha cesarete ihtiyacı var.",
+    "tip1_Fitness15": "TELEFONDA SOSYAL MEDYA UYGULAMASINI AÇ. ANA SAYFAYA DÖNMEK İÇİN BUTONA DOKUN.",
+    "tip2_Fitness15": "SERAY'İN FOTOĞRAFINA BİR SÜRÜ LİKE AT.",
+    "endText_Fitness15": "'ALLAH'IM ÜNLÜ OLDUM! ARTIK İSTEDİĞİM ZAMAN SOSYAL MEDYAYA GİDİP TAKİPÇİLERİME AĞLAYABİLİRİM. HİHİHİ :)) ' - SERAY",
+
+    "question_Fitness16": "Seray dengesini korumak zorunda.",
+    "tip1_Fitness16": "HER İKİ TARAFIN DA DÜŞMESİNE İZİN VERMEYİN.",
+    "tip2_Fitness16": "DÜŞEN KISMI YUKARI KAYDIR, 10 SANİYE BOYUNCA DENGEDE DURMASI GEREK.",
+    "endText_Fitness16": "'AY BU KADARI DA FAZLA ARTIK AMA! ŞİMDİ GİDİP KENDİME BİR DONDURMA ALICAM OH OLSUN! ' - SERAY",
+
+    "question_Fitness17": "Onu dondurmadan soğutmanın bir yolunu bulmalıyız.",
+    "tip1_Fitness17": "ALIŞVERİŞ POŞETİNDE BİR ŞEY OLABİLİR.",
+    "tip2_Fitness17": "BANKTAN ALIŞVERİŞ TORBASINI DÜŞÜR VE İÇİNDEKİ BRÜKSEL LAHANASINI SERAY'IN DONDURMASINA KOY. ",
+    "endText_Fitness17": "'IYYY! BU DONDURMANIN İÇİNE NE KOYMUŞLAR BÖYLE ?! HEMEN BU DÜKKANI SOSYAL MEDYADAN TAKİPÇİLERİME ŞİKAYET ETMELİYİM! HİHİHİHİ :))' - SERAY",
+
+    "question_Fitness18": "Uyumadan önce yapması gereken egzersizler var.",
+    "tip1_Fitness18": "ONU UYANDIRMAK İÇİN IŞIĞI AÇ.",
+    "tip2_Fitness18": "ÇEKMECEDE YEDEK BİR AMPUL VAR.",
+    "endText_Fitness18": "'ÜFF! TAMAM KALKIYORUM! ÇOK SİNİR BOZUCU BİR HAYALETSİN! ' - SERAY",
+
+    "question_Fitness19": "Seray hayalindeki forma çok yakın. Şimdi biraz kas yapması gerek.",
+    "tip1_Fitness19": "YATAY BARI YUKARI ÇEK VE KAS BARINI DOLDUR.",
+    "tip2_Fitness19": "ÇOK UZUN ASILI KALMASINA İZİN VERME. ONA BİRAZ ARA VERDİR.",
+    "endText_Fitness19": "'ARTIK BU GÜÇLE GİDİP LİSEDEKİ  ZORBA ZELİHA'DAN İNTİKAMIMI ALABİLİRİM!' - SERAY",
+
+    "question_Fitness20": "Seray gerçekten çok çalıştı ve sağlıklı bir yaşam tarzı kurdu. Artık ödül zamanı!",
+    "tip1_Fitness20": "5 SAĞLIKLI MALZEMEYİ BLENDIRDA KARIŞTIR.",
+    "tip2_Fitness20": "BÖĞÜRTLEN, ÇİLEK, SÜT, MUZ VE ELMAYI ROBOTTAN GEÇİR. KARIŞIMI ONA VER.",
+    "endText_Fitness20": "'MMM SÜPER LEZZETLİ! HER ŞEY  İÇİN TEŞEKKÜR EDERİM SEVGİLİ HAYALET!' - SERAYBEN BİR HAYALET DEĞİL, SADECE SENİN İRADENİN SESİYİM. KENDİNE İNANAN HERKES HAYALİNDEKİ FORMA KAVUŞABİLİR...'AAA ÇOK ANLAMLI SÖZLER! BUNLARI HEMEN TAKİPÇİLERİMLE PAYLAŞIYORUM. HİHİHİHİ :)) ' - SERAY"
+    
+    ,
+
+    "question_SmithJoe1": "Behzat tatilin tadını çıkarıyor, ama garip olan bir şeyler var...",
+    "tip1_SmithJoe1": "ÇALININ ARKASINI KONTROL ET.",
+    "tip2_SmithJoe1": "YENGEÇLER İNSANLARI KISTIRABİLİR.",
+    "endText_SmithJoe1": "'BEHZAT ABİ KUSURA BAKMA BEN SADECE PAPARAZZİYİM İŞİMİZ BU!' - ŞÜPHELİ ADAM",
+
+    "question_SmithJoe2": "Behzat'ın bu adamı yakalamasına yardım et!",
+    "tip1_SmithJoe2": "MAYINLARA DİKKAT ET!",
+    "tip2_SmithJoe2": "BEHZAT'I HAREKET ETTİRMEK İÇİN EKRANA DOKUN. MAYINLARI TESPİT ETMEK İÇİN DE DEDEKTÖRÜ KULLANMAYI DENE.",
+    "endText_SmithJoe2": "'BENİ BÖYLE KÜÇÜK TUZAKLARLA DURDURABİLECEĞİNİ Mİ DÜŞÜNÜYORSUN?!' - BEHZAT",
+
+    "question_SmithJoe3": "Hadi şimdi seni güzelce bir sorgulayalım bakalım!",
+    "tip1_SmithJoe3": "ADAMI BAŞ AŞAĞI AS.",
+    "tip2_SmithJoe3": "O KAYANIN ARKASI YILANLARIN GİZLENMESİ İÇİN İDEAL.",
+    "endText_SmithJoe3": "'SEDAT BENİ SENİ YOK ETMEM İÇİN GÖNDERDİ! HAPİSTEN KAÇTI VE ŞİMDİ YENİ BİR ŞEYTANİ PLAN ÜZERİNDE ÇALIŞIYOR ...'- KORKMUŞ HAYDUT",
+
+    "question_SmithJoe4": "Bu Sedat'ın yazlık villası, Behzat'ın buraya inmesi gerekiyor.",
+    "tip1_SmithJoe4": "UÇAĞIN ÜZERİNE DOKUNMAYI DENE.",
+    "tip2_SmithJoe4": "BEHZAT ADAYA İNMELİ. ATLARKEN PARAŞÜTÜ AÇMAK İÇİN ÜZERİNE DOKUN.",
+    "endText_SmithJoe4": "'HAHA! BUNU FORTNİTE'DAN ÖĞRENDİM.' - BEHZAT",
+
+    "question_SmithJoe5": "Hadi Behzat! Şu korumalardan kurtulalım!",
+    "tip1_SmithJoe5": "ADAMLARIN BAŞLARINA KİREMİT DÜŞÜR.",
+    "tip2_SmithJoe5": "ÖNCE 2. KORUMANIN KASKINI ÇIKAR.",
+    "endText_SmithJoe5": "'SEDAT BU KEZ YİNE NEYİN PEŞİNDESİN ÖĞRENELİM BAKALIM!' - BEHZAT",
+
+    "question_SmithJoe6": "Behzat'ın bu çatılardan geçmesi gerek!",
+    "tip1_SmithJoe6": "BEHZAT'IN ATLAMASI İÇİN DOĞRU ZAMANDA ÜZERİNE DOKUN.",
+    "tip2_SmithJoe6": "YİNE AYNI KİREMİT HİLESİYLE KORUMAYI ATLAT.",
+    "endText_SmithJoe6": "'BADİ EKREM'İN ÖĞRENCİLERİNDEN KİM KALDI...:)). - BEHZAT",
+
+    "question_SmithJoe7": "Behzat içeride! Ama biri geliyor, hemen saklanması gerek!",
+    "tip1_SmithJoe7": "BU HEYKEL ARKASINA SAKLANMAK İÇİN HARİKA.",
+    "tip2_SmithJoe7": "SMİTH'İN KOLLARINI HEYKELE GÖRE AYARLA.",
+    "endText_SmithJoe7": "'BENDEN ÇOK HAVALI BİR ŞÖVALYE OLURDU...' - BEHZAT",
+
+    "question_SmithJoe8": "Behzat bu odada gizli bir şey sakladıklarını düşünüyor.",
+    "tip1_SmithJoe8": "YAPBOZU TAMAMLAMAYI DENE.",
+    "tip2_SmithJoe8": "PARÇALAR SAKSIDA, KİTAPTA VE VAZONUN İÇİNDE GİZLİ!",
+    "endText_SmithJoe8": "'AÇIL SUSAM AÇIL!' - BEHZAT",
+
+    "question_SmithJoe9": "Olamaz! Çılgın Sedat ve Drakula bir arada! Ve Metin'i yakalamışlar!",
+    "tip1_SmithJoe9": "BEHZAT'IN KOKULU ÇORAPLARI DRAKULA'YI DURDURABİLİR.",
+    "tip2_SmithJoe9": "BEHZAT'IN AYAKKABISINI ÇIKAR VE DRAKULA'YI DURDURMAK İÇİN ÇORAPINI KULLAN.",
+    "endText_SmithJoe9": "'BENİ KURTARDIĞIN İÇİN TEŞEKKÜRLER BAY ...?' - METİN'SOHBET ETMEK İÇİN ZAMAN YOK, HADİ SEDAT'I YAKALAYALIM!' - BEHZAT ",
+
+    "question_SmithJoe10": "Çılgın Sedat bir helikopterle kaçıyor!",
+    "tip1_SmithJoe10": "OK ATMAK İÇİN METİN'İN ÜZERİNE DOKUN.",
+    "tip2_SmithJoe10": "OKU YAKALAMAK İÇİN BEHZAT'A  DOĞRU ZAMANDA DOKUN.",
+    "endText_SmithJoe10": "'VAY CANINA! SÜPER KAHRAMAN GİBİ ADAM!' - METİN",
+
+    "question_SmithJoe11": "Sedat'ı durdurmanın bir yolunu bulmalıyız...",
+    "tip1_SmithJoe11": "KÖPEKBALIKLARI KAN KOKUSUNA DAYANAMAZLAR.",
+    "tip2_SmithJoe11": "HELİKOPTERİN KIZAKLARINA BİRAZ KAN SÜRELİM.",
+    "endText_SmithJoe11": "'SEDAT DAHA NE KADAR KAÇACAKSIN?!' - BEHZAT",
+
+    "question_SmithJoe12": "Metin gidip Behzat'a yardım etmeli ama hay aksi! Yüzme bilmiyor!!!:((",
+    "tip1_SmithJoe12": "METİN'İN ŞAPKASINI TEKNE OLARAK KULLANMAYA ÇALIŞ.",
+    "tip2_SmithJoe12": "ŞAPKAYI ÇEVİR VE SUYA KOY.",
+    "endText_SmithJoe12": "'İŞTE BU YÜZDEN HEP BU ŞAPKAYI TAKIYORUM. :))' - METİN",
+
+    "question_SmithJoe13": "Köpekbalığından kurtulmaları gerek!",
+    "tip1_SmithJoe13": "KÖPEKBALIĞININ BALIKLA İLGİSİNİ ÇEK. BALIĞI KARAKTERLERE VEREBİLİRSİN.",
+    "tip2_SmithJoe13": "SIK SIK HEDEFİNİN YÖNÜNÜ DEĞİŞTİREREK KÖPEKBALIĞININ BAŞINI DÖNDÜR.",
+    "endText_SmithJoe13": "'KÖPEKBALIĞI İLE EĞLENMENİN DE ZEVKİ BİR BAŞKA!' - SMİTH'BEN ASLINDA KURTADAMLARI TERCİH EDERİM.' - METİN",
+
+    "question_SmithJoe14": "Tüm bu kargaşadan başka bir deniz avcısı rahatsız oldu!",
+    "tip1_SmithJoe14": "METİN İLE AHTAPOTUN KOLLARINA OK AT.",
+    "tip2_SmithJoe14": "DİĞER KOLLARI DA VURMAK İÇİN AHTAPOTU DÖNDÜR.",
+    "endText_SmithJoe14": "'SIRADA NE VAR? DENİZ CANAVARI MI?!' - BEHZAT 'ENDİŞELENME, ONLARIN SOYU TÜKENMİŞ DURUMDA.' - METİN",
+
+    "question_SmithJoe15": "Karaya çıkmanın bir yolunu bulmaları gerek...",
+    "tip1_SmithJoe15": "AHTAPOTUN KOLLARINI KÜREK OLARAK KULLANABİLİRSİN.",
+    "tip2_SmithJoe15": "KÜREKLERİ TEK TEK SIRAYLA KULLAN.",
+    "endText_SmithJoe15": "'YÜZMEYİ ÖĞRENSEN HER ŞEY DAHA KOLAY OLABİLİRDİ. - BEHZAT 'AMA BU DAHA EĞLENCELİ :))!' - METİN\"",
+
+    "question_SmithJoe16": "Sedat'ın izini sürmek için Drakula'nın gece kulübüne sızmalılar...",
+    "tip1_SmithJoe16": "SADECE BEHZAT GİRSE YETER. METİN İLE VAMPİRLERİ KAPIDAN UZAKLAŞTIR.",
+    "tip2_SmithJoe16": "VAMPİRLER KAPIDAN UZAKLAŞINCA METİN'İ KAPIYA SÜRÜKLE.",
+    "endText_SmithJoe16": "'YANLIŞ MAHALLEYE GELDİN METİN!'' - ÇOK KIZGIN BİR VAMPİR",
+
+    "question_SmithJoe17": "Behzat kimse fark etmeden ilerlemeli...",
+    "tip1_SmithJoe17": "VARİLİ GİZLENMEK İÇİN KULLAN.",
+    "tip2_SmithJoe17": "HAREKET ETMESİ VE DURMASI İÇİN EKRANA DOKUN. SADECE VAMPİR DİĞER YÖNE BAKARKEN HAREKET ET.",
+    "endText_SmithJoe17": "'BENİ KİMSE FARKETMEDEN DRAKULA'YI BULMALIYIM!' - BEHZAT",
+
+    "question_SmithJoe18": "Metin'in, Behzat'a biraz zaman kazandırmak için vampirleri oyalaması gerek...",
+    "tip1_SmithJoe18": "KOVALAMALARI İÇİN METİN'İ EKRANDA SÜRÜKLE.",
+    "tip2_SmithJoe18": "YARASAYA DÖNÜŞEBİLMELERİ İÇİN RÖGAR KAPAĞINI AÇ. METİN İÇİN YARASALAR ÇOCUK OYUNCAĞI.",
+    "endText_SmithJoe18": "'NORMALDE YARASALARA ASLA ZARAR VERMEM, AMA VAMPİRLERSE SERTÇE TOKATLARIM.' - METİN",
+
+    "question_SmithJoe19": "Behzat, Drakula'yı buldu ama dizüstü bilgisayarına ulaşması gerek...",
+    "tip1_SmithJoe19": "DRAKULA BU KIRMIZI İÇECEKLERE BAYILIYOR.",
+    "tip2_SmithJoe19": "DRAKULA'YI TUVALETİN İÇİNDE TUTMAK İÇİN KİTAPLIĞI KULLAN.",
+    "endText_SmithJoe19": "'HEY! BU YAPTIĞIN ŞAKA HİÇ KOMİK DEĞİL VİLADEMİR!' - DRAKULA",
+
+    "question_SmithJoe20": "Behzat, Drakula'nın dizüstü bilgisayarının şifresini hemen çözmeli...",
+    "tip1_SmithJoe20": "HATLARI BİRLEŞTİRMEK İÇİN DÜĞMELERE DOKUNUN.",
+    "tip2_SmithJoe20": "3 HATTIN TÜMÜ GÜÇ DÜĞMESİNE BAĞLI OLMALI.",
+    "endText_SmithJoe20": "BEHZAT DOSYALARA GÖZ ATINCA DRAKULA İLE SEDAT'IN KARANLIK LORD'U GERİ GETİRMEK İÇİN BİRLİKTE ÇALIŞTIKLARINI ÖĞRENDİ. BU HİKAYE BEHZAT VE METİN'İN 2. MACERASINDA DEVAM EDECEK. YENİ BÖLÜMLER ÇOK YAKINDA!"
+
+    ,
+
+    "question_SmithJoe21": "Drakula tuvaletten kaçmayı başardı!",
+    "tip1_SmithJoe21": "DRAKULA'YA BİR ŞEYLER FIRLATMAK İÇİN BEHZAT'IN ESNEK VÜCUDUNU KULLAN.",
+    "tip2_SmithJoe21": "BEHZAT GERİYE DOĞRU EĞİLMİŞKEN ÜZERİNE BİR KİTAP KOY.",
+    "endText_SmithJoe21": "'EK İŞ OLARAK BOŞ ZAMANLARIMDA MANCINIK OLARAK ÇALIŞIYORUM.' - DEDEKTİF BEHZAT",
+
+    "question_SmithJoe22": "Metin'in peşine yine vampirler takıldı.",
+    "tip1_SmithJoe22": "VAMPİRLER ATIŞ MENZİLİ İÇİNDEYKEN ATEŞ ET DÜĞMESİNE DOKUNUN.",
+    "tip2_SmithJoe22": "GÜÇLÜ VAMPİRİ ISLATIRSAN ÇOK YAVAŞ YÜRÜDÜĞÜNÜ GÖRECEKSİN.",
+    "endText_SmithJoe22": " 'BEHZAAT! NERDE KALDIIIIN?! ' - METİN",
+
+    "question_SmithJoe23": "Dedektif Behzat, Sedat'ın tüm kötü planlarını öğrendi. Ve şimdi hemen kulüpten kaçması gerekiyor!",
+    "tip1_SmithJoe23": "SALDIRILARDAN KAÇIMASI İÇİN BEHZAT'I EKRANDA SÜRÜKLEMEYİ DENE.",
+    "tip2_SmithJoe23": "PENCEREDEN ATLAMAK İÇİN ÖNCE HAYDUTUN ATEŞ EDEREK PENCEREYİ KIRMASINI SAĞLA.",
+    "endText_SmithJoe23": "'BİR DAHA GÖREVE GİDERKEN SİLAHIMI GETİRMEYİ UNUTMAMALIYIM! ' - BEHZAT",
+
+    "question_SmithJoe24": "Eyvah! Behzat yere düşüyor, ona yardım et!",
+    "tip1_SmithJoe24": "DÜŞÜŞÜNÜ YAVAŞLATMAK İÇİN TENTELERİ AÇ.",
+    "tip2_SmithJoe24": "YERE SERT İNMEMESİ İÇİN SAMAN BALYASINI ALTINA SÜRÜKLE.",
+    "endText_SmithJoe24": "'HOŞGELDİN KANKA! NABER?' - METİN            'ZEVZEKLİK YAPMA METİN! SEDAT, KARANLIK LORD'U DİRİTMEK İÇİN BİR PORTAL AÇMAYI PLANLIYOR! ' - BEHZAT",
+
+    "question_SmithJoe25": "Sedat'ı durdurmak için hemen eski fabrikaya gitmeleri gerek.",
+    "tip1_SmithJoe25": "DİĞER ARABALARDAN KAÇIN, ARABAYI PARMAĞINLA SÜRÜKLE.",
+    "tip2_SmithJoe25": "YARASALARIN ARABAYI GEÇMESİNE İZİN VERME.",
+    "endText_SmithJoe25": "'AAA, LÜTFEN AMA EMNİYET KEMERİNİ TAK!' - BEHZAT'ÇOK KONUŞMA DA GAZA BAS!' - METİN",
+
+    "question_SmithJoe26": "Olamaz! Benzinleri bitti! Şu yarasalardan kurtulmanın bir yolu olmalı!",
+    "tip1_SmithJoe26": "BİR ŞEY FIRLATMAK İÇİN BAGAJ KAPAĞINI KULLAN.",
+    "tip2_SmithJoe26": "BENZİN BİDONUNU BAGAJA KOY, ARDINDAN BAGAJI AÇ.",
+    "endText_SmithJoe26": "'VAY VAY VAYYY! SENDE DE NE NUMARALAR VARMIŞ!' - BEHZAT'BU DAHA BAŞLANGIÇ DOSTUM.' - METİN",
+
+    "question_SmithJoe27": "Fabrikaya gitmek için trene binmeleri gerek!",
+    "tip1_SmithJoe27": "TRENİ DURDURMAK İÇİN DEMİR YOLUNA BİR ŞEY KOYMAYA ÇALIŞ.",
+    "tip2_SmithJoe27": "ÇÖP KUTUSUNDA BİR KEDİ VAR. KÖPEK ÇÖP KUTUSUNA BİR KEMİKLE ÇEKİLEBİLİR.",
+    "endText_SmithJoe27": "'GÜZEL FREN!' - BEHZAT  'GÜZEL FRENİ BİRAZDAN BEN SİZE GÖSTERECEĞİM! - KIZGIN TREN OPERATÖRÜ '",
+
+    "question_SmithJoe28": "Her yerde peşimizdeler! Hemen şu vampirlerden kurtulalım.",
+    "tip1_SmithJoe28": "ARKADAKİ VAGONDAN KURTULMAK İÇİN VAGONLARI AYIR.",
+    "tip2_SmithJoe28": "İLK OLARAK METİN VE BEHZAT'İ SAĞDAKİ VAGONUN ÜZERİNE KOY.",
+    "endText_SmithJoe28": "'İÇERDE OTURSAK DAHA İYİ DEĞİL MİYDİ?' - METİN'OLMAZ METİN! BİLETİMİZ YOK! - BEHZAT'",
+
+    "question_SmithJoe29": "Drakula hızla yanlarına uçtu ve trende onları yakaladı!",
+    "tip1_SmithJoe29": "TABELAYI YUKARI VE AŞAĞI SÜRÜKLEYEBİLİRSİN.",
+    "tip2_SmithJoe29": "DRAKULA'YA TABELAYLA VUR.",
+    "endText_SmithJoe29": "'BU TREN SİZİN KÖYDEN GEÇMEZ DRAKULA'CIM HADİ BAKALIM SON DURAK!.' - METİN'HANGİ KÖY, TAHTALI KÖY MÜ?! ' - BEHZAT ",
+
+    "question_SmithJoe210": "Alarm çalmadan fabrikaya girmenin bir yolunu bulmaları gerek.",
+    "tip1_SmithJoe210": "HAREKET ETTİRMEK  İÇİN ONLARI PARMAĞINLA EKRANDA SÜRÜKLE. KAPIYA ULAŞMALARI GEREKİYOR.",
+    "tip2_SmithJoe210": "ÖNCE DUVARDAKİ KOLA GİT, ARDINDAN SOLDAKİ YOLU TAKİP ET.",
+    "endText_SmithJoe210": "'KANKA ÇABUK! KARANLIK LORD'U GERİ GETİRMEDEN ÖNCE ACELE ETMELİYİZ! ' - METİN",
+
+    "question_SmithJoe211": "Metin düştü! Artık Behzat bu haydutla tek başına yüzleşmeli.",
+    "tip1_SmithJoe211": "HAYDUTU KÖR ETMEK İÇİN ŞAPKAYI KULLAN.",
+    "tip2_SmithJoe211": "HAYDUT'UN SİLAHINI GÖZLERİ KAPANDIĞINDA ALABİLİRSİN.",
+    "endText_SmithJoe211": "'ARTIK BİR SİLAHIM VAR. KÖTÜ ADAMLAR İÇİN KÖTÜ HABER. ' - BEHZAT",
+
+    "question_SmithJoe212": "Metin'in güvenli bir şekilde inmesine yardım et!",
+    "tip1_SmithJoe212": "METİN AŞAĞI DÜŞERKEN KARŞISINA ÇIKAN NESNELERDEN KAÇIN.",
+    "tip2_SmithJoe212": "METİN SONUNDA ATIK SUYA İNİŞ YAPMALI.",
+    "endText_SmithJoe212": "'SÖZ! BİR DAHA ASLA ZOMBİLERİ KANALİZASYONA ATMAYACAĞIM!' - METİN",
+
+    "question_SmithJoe213": "Hay Aksi! Bunlar Metin'in kanalizasyona attığı zombiler. Anlaşılan intikam peşindeler.",
+    "tip1_SmithJoe213": "METİN KANALİZASYON GİBİ KOKARSA ONLARDAN BİRİ GİBİ OLABİLİR.",
+    "tip2_SmithJoe213": "METİN'İ KANALİZASYON SUYUYLA ISLATMAK İÇİN KOVAYI KULLAN.",
+    "endText_SmithJoe213": "'EN AZINDAN BEHZAT BUNU GÖRMÜYOR. YOKSA DİLİNDEN KURTULAMAZDIM ...' - METİN",
+
+    "question_SmithJoe214": "'Erkekseniz teker teker gelin! Artık bu kadarı da fazla! Demek ki canınıza susadınız'' -Behzat",
+    "tip1_SmithJoe214": "VURMAK İÇİN DÜŞMANLARIN ÜZERİNE DOKUN.",
+    "tip2_SmithJoe214": "YERDEKİ TUZAĞI KULLANARAK ZIRHLI DÜŞMANDAN KURTUL. FIÇININ ARKASINDA BİR DÜĞME VAR.",
+    "endText_SmithJoe214": "'İNŞALLAH METİN'İN BAŞINA DÜŞMEZ.' :))) - BEHZAT",
+
+    "question_SmithJoe215": "Metin'in hemen yukarıdaki kanalizasyon çıkışına ulaşması gerek.",
+    "tip1_SmithJoe215": "BİR KULE İNŞA ETMEK İÇİN ZOMBİLERİ KULLAN.",
+    "tip2_SmithJoe215": "LOGAR KAPAĞINI İNGİLİZ ANAHTARIYLA AÇ.",
+    "endText_SmithJoe215": "'SAĞ OLUN BEYLER! SEDAT'LA İŞİM BİTTİKTEN SONRA GERİ DÖNÜP SİZİ O PEMBE İKSİRLE İYİLEŞTİRECEĞİM. ' - METİN",
+
+    "question_SmithJoe216": "Metin, Behzat'a ulaşmalı!",
+    "tip1_SmithJoe216": "METİN'İ BEHZAT'A GÖTÜRMEK İÇİN KOLLARI KULLAN.",
+    "tip2_SmithJoe216": "KÖTÜ ADAMIN SOL ALT KISMA DÜŞMESİ GEREK.",
+    "endText_SmithJoe216": "'TAM ZAMANINDA GERİ DÖNDÜN. AZ ÖNCE KURŞUNUM BİTTİ. ' - BEHZAT",
+
+    "question_SmithJoe217": "Bu manyak adamın bir bombası var!",
+    "tip1_SmithJoe217": "BOMBAYI ELLERİNDEN ATMALARI İÇİN ÜZERLERİNE DOKUN.",
+    "tip2_SmithJoe217": "BOMBAYI DOĞRU ZAMANDA MANYAK ADAMA VER.",
+    "endText_SmithJoe217": "'BOMBALAR BENİM İÇİN ÇOCUK OYUNCAĞI... BU ARADA, METİN BERBAT KOKUYORSUN!'  - BEHZAT",
+
+    "question_SmithJoe218": "Bu ikilinin düşmanlar peşini bırakmıyor! Bu kez de bir trol tarafından kovalanıyorlar!",
+    "tip1_SmithJoe218": "BLOKLARIN ÜZERİNE ATLAMAK İÇİN ÜZERLERİNE DOKUN.",
+    "tip2_SmithJoe218": "ÜSTTEKİ BLOĞU DURDURMAK İÇİN DÜĞMEYİ KULLAN, ARDINDAN TROLE ÇARPMASI İÇİN TEKRAR DÜĞMEYE BAS.",
+    "endText_SmithJoe218": "'BU TROLÜN BANA KARŞI KİŞİSEL BİR KAN DAVASI VAR.' - METİN'EVET, PİYANO OLAYIYLA İLGİLİ HABERLERİ GÖRDÜM. - BEHZAT",
+
+    "question_SmithJoe219": "Olamaz! Etrafları sarıldı!",
+    "tip1_SmithJoe219": "TANKIN EGZOZUNU BİR ŞEYLE BLOKE ET.",
+    "tip2_SmithJoe219": "O VARİLLERİ SERBEST BIRAKMAK İÇİN MAKASI KULLAN.",
+    "endText_SmithJoe219": "'ÇILGIN SEDAT ŞU KAPININ ARKASINDA OLMALI. HADİ ŞU İŞİ BİTİRELİM ARTIK!' - BEHZAT",
+
+    "question_SmithJoe220": "Bu enerji topları geçidi çalıştırıyor, hemen kapatmaları gerek!",
+    "tip1_SmithJoe220": " SEDAT ENERJİ TOPLARINA ATEŞ ETTİĞİNDE RENK DEĞİŞTİRIYORLAR.",
+    "tip2_SmithJoe220": "DOĞRU RENKLERİ ELDE ETMEK İÇİN PORTALIN ALTINDAKİ DESENİN YÖNLERİNE BAK.",
+    "endText_SmithJoe220": "'SENDEN NEFRET EDİYORUM!!!' - ÇILGIN SEDAT'KALBİMİ KIRIYORSUN AMA SEDAT! HER NEYSE, HAPSE GERİ DÖNECEKSİN.' - BEHZAT'O DEĞİL DE BURADAN BİR YEMEĞE Mİ GİTSEK KANKA!?' :))) - METİN"
+,
+
+"question_CaptainMary1": "Tanıştırayım, bu Derya Kaptan ve hazine avına hiç dayanamaz!",
+"tip1_CaptainMary1": "KİTAPLIKTAKİ HAZİNE HARİTASINI DERYA'YA VER.",
+"tip2_CaptainMary1": "HARİTADAKİ GİZLİ YOLU ORTAYA ÇIKARMAK İÇİN MUMU KULLAN.",
+"endText_CaptainMary1": "'VAY CANINA! BU LANETLİ KORSAN'IN GİZLİ HAZİNESİNİN HARİTASI!' - DERYA KAPTAN",
+
+"question_CaptainMary2": "Yelkenler fora!",
+"tip1_CaptainMary2": "ÇAPAYI ÇEKMEK İÇİN DÜMENİ KULLANIN.",
+"tip2_CaptainMary2": "YELKENLERİ AÇMAK İÇİN İPİ ÇEK.",
+"endText_CaptainMary2": "'HAYDİ RASTGELE!' - DERYA KAPTAN",
+
+"question_CaptainMary3": "Gemi diğer tarafa geçmeli.",
+"tip1_CaptainMary3": "GEMİYİ HAREKET ETTİRMEK İÇİN PARMAĞINLA SÜRÜKLEMEYİ DENE.",
+"tip2_CaptainMary3": "GİRDAPLARDAN BİRİNİ KAYALARIN DİĞER TARAFINA KOYMAYI DENE.",
+"endText_CaptainMary3": "'EN İYİ TÜRK DENİZCİLER LİSTESİNDE NEDEN HALA ADIM YOK ANLAMIYORUM?!' - DERYA KAPTAN",
+
+"question_CaptainMary4": "Bir korsan gemisi yaklaşıyor. Durdur onları!",
+"tip1_CaptainMary4": "TOPUN AÇISINI AYARLA.",
+"tip2_CaptainMary4": "TOPA BİR GÜLLE KOY VE MEŞALE İLE ATEŞLE.",
+"endText_CaptainMary4": "'KÖPEK BALIKLARINA MERHABA DEYİN, SİZİ KOKUŞMUŞ KORSANLAR!' - DERYA KAPTAN",
+
+"question_CaptainMary5": "Şu deniz kızı şarkısıyla tayfaları baştan çıkarıyor. Onlara engel ol!",
+"tip1_CaptainMary5": "ZAMAN KAZANMAK İÇİN ONLARI GERİ ÇEKEBİLİRSİNİZ.",
+"tip2_CaptainMary5": "DENİZ KIZLARININ SESİNİ DUYMALARINI ENGELLEMEK İÇİN TAYFALARIN KULAKLARINA BİRER MANTAR TIKA.",
+"endText_CaptainMary5": "'BU ERKEKLERİN DE HEPSİ AYNI!' - DERYA KAPTAN",
+
+"question_CaptainMary6": "Maalesef rüzgar yok ve hareket edemiyorlar.",
+"tip1_CaptainMary6": "HAREKET ETMEK İÇİN TOPUN GÜCÜNÜ KULLAN.",
+"tip2_CaptainMary6": "GEMİYE BİR HIZ VERMEK İÇİN TOPU ÜÇ KEZ ARKAYA DOĞRU ATEŞLE.",
+"endText_CaptainMary6": "'BİRAZ GÜLLE İSRAF ETSEM DE DENİZCİLİĞE YENİ BİR YORUM GETİRDİĞİMİ DÜŞÜNÜYORUM!' :)) - DERYA KAPTAN",
+
+"question_CaptainMary7": "Fırtına sırasında gemiyi dengede tutmamız gerek!",
+"tip1_CaptainMary7": "DERYA VE TAYFALARI PARMAĞINLA SÜRÜKLEYEREK GEMİDE HAREKET ETTİREBİLİRSİN.",
+"tip2_CaptainMary7": "GEMİYİ DENGEDE TUTMAK İÇİN EKİBİ ARKAYA VE ÖNE DOĞRU HAREKET ETTİR.",
+"endText_CaptainMary7": "'ALLAH'TAN BENİ DENİZ TUTMUYOR!' - DERYA KAPTAN",
+
+"question_CaptainMary8": "Haritayı takip ederek adayı bulmaları gerekiyor.",
+"tip1_CaptainMary8": "DÜMENİ HARİTADAKİ YÖNE GÖRE ÇEVİRMEYİ DENE.",
+"tip2_CaptainMary8": "HARİTADAKİ ADAYI GEÇENE KADAR GÜNEYDOĞUYA GİT, SONRA BATIYA YÖNEL.",
+"endText_CaptainMary8": "'KARA GÖRÜNDÜ!' - DERYA KAPTAN",
+
+"question_CaptainMary9": "Süper! Sonunda hazine adasını buldular. Ama önce susuzluklarını gidermeleri gerek.",
+"tip1_CaptainMary9": "MAYMUNU MUZLA KANDIRARAK HAREKET ETTİREBİLİRSİN.",
+"tip2_CaptainMary9": "MAYMUNUN KUYRUĞUNU ÇEKEREK BOYNUNU UZAT VE HİNDİSTAN CEVİZLERİNE VURARAK YERE DÜŞÜR.",
+"endText_CaptainMary9": "'KARNINIZI İYİ DOYURUN BEYLER YOLUMUZ UZUN!' - DERYA KAPTAN",
+
+"question_CaptainMary10": "Haritaya dikkatlice bak ve mağaranın girişini kaz.",
+"tip1_CaptainMary10": "TAYFAYI KAZMASI İÇİN GÖTÜR. DERYA HARİTAYI BAŞ AŞAĞI TUTUYOR.",
+"tip2_CaptainMary10": "KAYA İLE GÖL ARASINDA BİR YERDE.",
+"endText_CaptainMary10": "'İŞTE MAĞARANIN GİRİŞİ ORADA!' - DERYA KAPTAN",
+
+"question_CaptainMary11": "Aşağı doğru inerken onları yarasalardan koruman gerek!",
+"tip1_CaptainMary11": "KAHRAMANLARIMIZI YUKARI VE AŞAĞI HAREKET ETTİREBİLİRSİN.",
+"tip2_CaptainMary11": "YARASALARI KAFA KAFAYA GETİRMEYE ÇALIŞ.",
+"endText_CaptainMary11": "'BU UÇAN KEMİRGENLERE PAS VERMEYİN!' - DERYA KAPTAN'KAPTAN ASLINDA BUNLAR KEMİRGEN DEĞİL MEM.. -' - TAYFA'KAPA ÇENENİ, BAŞIMIZA PROFESÖR KESİLDİ BU DA!' - DERYA KAPTAN",
+
+"question_CaptainMary12": "Bu büyülü kapıyı açmanın bir yolu olmalı...",
+"tip1_CaptainMary12": "IŞIĞI KAPIYA DOĞRU YÖNLENDİRMELİSİN.",
+"tip2_CaptainMary12": "IŞIĞI YANSITMAK İÇİN TAYFALARIN BANDANALARINI ÇIKARARAK KEL KAFALARINI KULLAN.",
+"endText_CaptainMary12": "'KEL KAFALARINIZI SEVİYORUM, CANLARIM!' - DERYA KAPTAN",
+
+"question_CaptainMary13": "Olamaz! Dev bir örümcek! Durdur onu!",
+"tip1_CaptainMary13": "DİKİTLERİ DÜŞÜRMEK İÇİN TELEFONU SALLA.",
+"tip2_CaptainMary13": "MÜRETTEBATI KORUMAK İÇİN TELEFONU SALLARKEN SOLDAKİ DİKİTİ PARMAĞINIZLA TUTUN.",
+"endText_CaptainMary13": "'ÇOK FAZLA CANAVAR VAR!  CİMRİLİK ETMEYİP KORKUSUZ METİN'İ DE HAZİNE AVINA DAHİL ETMELİYDİK!' - DERYA KAPTAN",
+
+"question_CaptainMary14": "Sırlarla dolu başka bir kapı. Hadi açalım!",
+"tip1_CaptainMary14": "SEMBOLLER HİZALANANA KADAR DAİRELERİ ÇEVİR.",
+"tip2_CaptainMary14": "EKSİK PARÇAYI KAYALARIN ARKASINDA BULABİLİRSİN.",
+"endText_CaptainMary14": "'HEY GİDİ HEY! RAHMETLİ LANETLİ, BULMACAYI ÇOK SEVERDİ!' :)) - DERYA KAPTAN",
+
+"question_CaptainMary15": "Bu karanlık koridordan hayırlısıyla bir çıkabilselerdi...",
+"tip1_CaptainMary15": "MEŞALE SÖNMEDEN BAŞKA BİR MEŞALE BUL.",
+"tip2_CaptainMary15": "SAĞA DOĞRU HAREKET ETTİRDİĞİNDE MEŞALELER SÖNER.",
+"endText_CaptainMary15": "'OH BE! NİHAYET BU KARANLIK KORİDORDAN BİR ÇIKIŞ!' - DERYA KAPTAN",
+
+"question_CaptainMary16": "Derya ve tayfası diğer tarafa geçmeli.",
+"tip1_CaptainMary16": "YOLLARINA TAŞ KOYARAK ONLARI DURDURABİLİRSİNİZ.",
+"tip2_CaptainMary16": "EN ALTTAKİ İLK ÖNCE GİTMELİ. SONRADA ORTADAKİ ÖRÜMCEĞİN İCABINA BAKMALI. ",
+"endText_CaptainMary16": "'HEY ÇOCUKLAR NERDESİNİZ! SANIRIM ARTIK YOLUN DEVAMINDA TEK BAŞIMAYIM.' - DERYA KAPTAN",
+
+"question_CaptainMary17": "Bu yaratıklara Kaptan Derya kimmiş öğretmek gerek!",
+"tip1_CaptainMary17": "DİĞER TARAFA ATEŞ ETMEK İÇİN SİLAHI DERYA'NIN DİĞER ELİNE VERİN.",
+"tip2_CaptainMary17": "TEKME ATMASI İÇİN DERYA'NIN AYAKLARINA DOKUN.",
+"endText_CaptainMary17": "'BU DÖVÜŞ PERFORMANSI İÇİN KESİNLİKLE BİR ÖDÜLÜ HAK EDİYORUM!' :)) - DERYA KAPTAN",
+
+"question_CaptainMary18": "Hazine odasına giden yol maden demiryolundan geçiyor.",
+"tip1_CaptainMary18": "VAGONU HAREKET ETTİRMEK İÇİN ÜZERİNE DOKUN.",
+"tip2_CaptainMary18": "KAYIP DEMİRYOLU PARÇALARINI DOĞRU BİR ŞEKİLDE KOY VE DERYA'YI HAZİNEYE DOĞRU YÖNLENDİR.",
+"endText_CaptainMary18": "'AKSİYON SEVMEK SUÇ MU A DOSTLAR! :))' - DERYA KAPTAN",
+
+"question_CaptainMary19": "Derya şimdiye kadar nerelerden geçti, bu çocuk oyuncağı!",
+"tip1_CaptainMary19": "DERYA'YI HAREKET ETTİRMEK İÇİN PARMAĞINLA KAYDIR.",
+"tip2_CaptainMary19": "MAVİ SUDA, KAHVERENGİ DAĞDA VE KIRMIZI DA ATEŞTE YÜRÜMEYE İZİN VERİR.",
+"endText_CaptainMary19": "'YILLARDIR DENİZDEYİM, BÖYLE BÜYÜ GÖRMEDİM! YUH ARTIK!' - DERYA KAPTAN",
+
+"question_CaptainMary20": "Hey!! Kaptan Derya sonunda hazine sandığını buldu ama Lanetli Korsan'ın hayaletine dikkat etmesi gerek!",
+"tip1_CaptainMary20": "SANDIĞI AÇMADAN ÖNCE ÜÇ AKSESUARI DA TAKMALI.",
+"tip2_CaptainMary20": "ŞAPKAYI VE KOLYEYİ ALMAK İÇİN ATEŞ ET. SANDIĞI AÇMAK İÇİN KİLİDE NİŞAN AL.",
+"endText_CaptainMary20": "'ÇUVALLARIM ÖYLE AĞIR OLDU Kİ SANIRIM TAŞIMAK İÇİN BİRKAÇ GEMİ DAHA GEREK! HADİ ŞİMDİ TORTUGA'YA GİDİP BİRAZ DİNLENELİM!' - DERYA KAPTAN",
+
+    "reward_wheel_title": "ÖDÜL İÇİN ÇARKI ÇEVİR",
+    "reward_wheel_spin": "ÇEVİR!",
+    "reward_wheel_spin_again": "TEKRAR ÇEVİR!",
+    "reward_wheel_1_day_hint": "<line-height=80%><size=70>%{0}</size>İNDİRİM",
+    "reward_wheel_1_day_hint2": "%{0} İNDİRİM",
+    "reward_wheel_1_day_vip": "1-günlük VIP",
+    "day3_gift_notif_title2": "Uzun zamandır görüşemedik, Dedektif Behzat'ın yardımına ihtiyacı var.",
+    "day3_gift_notif_title3": "Uzun zamandır görüşemedik, Korkusuz Metin'in yardımına ihtiyacı var.",
+    "day3_gift_notif_title7": "Uzun zamandır görüşemedik, Kubilay'ın yardımına ihtiyacı var.",
+    "day3_gift_notif_title1": "Şakir seni özledi. Son zamanlarda beynini test etmedin.",
+    "day3_gift_notif_title5": "Lale seni özledi. Son zamanlarda beynini test etmedin.",
+    "day3_gift_notif_title6": "Bahtsız Banı seni özledi. Son zamanlarda beynini test etmedin.",
+    "day3_gift_notif_title4": "Nerelerdesin? Seray'ın bir fitness partnerine ihtiyacı var.",
+    "day3_gift_title1": "Şakir'in bu özel hediyesinin tadını çıkar",
+    "day3_gift_title2": "Dedektif Behzat'ın bu özel hediyesinin tadını çıkar.",
+    "day3_gift_title3": "Korkusuz Metin'in bu özel hediyesinin tadını çıkar.",
+    "day3_gift_title4": "Seray'ın bu özel hediyesinin tadını çıkar.",
+    "daily_gift": "Günlük Hediye",
+    "settings_try_our_other_games":"DİĞER OYUNLARIMIZI DENE!",
+    "other_games_title":"OYUNLARIMIZ",
+    "other_games_play_now":"ŞİMDİ OYNA!",
+
+    "gdpr_consent_title":"Merhaba!",
+    "gdpr_consent_text":"Kabul Et ve Devam Et butonuna tıkladığınızda, <link=\"https://unicostudio.co/terms.html\"><#C7F463>Kullanım Şartlarımızı</color></link> ve <link=\"https://unicostudio.co/privacy.html\"><#C7F463>Gizlilik Politikamızı</color></link> incelediğinizi ve kabul ettiğinizi onaylamış oluyorsunuz.",
+    "gdpr_consent_button":"KABUL ET VE DEVAM ET",
+
+    "bonus_screen_super_bulb":"super bulb"
+}
