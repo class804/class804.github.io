@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	  <script async src="https://www.googletagmanager.com/gtag/js?id=G-F3FCMH0MRC"></script>
+  <script>
+     window.dataLayer = window.dataLayer || [];
+     function gtag(){dataLayer.push(arguments);}
+     gtag('js', new Date()); 
+     gtag('config', 'G-F3FCMH0MRC');
+  </script>
+    <meta charset="utf-8" />
+    <style>
+      html,
+      body {
+        height: 100%;
+        width: 100%;
+        margin: 0px;
+      }
+
+      body {
+        font-family: Arial, Helvetica, sans-serif;
+        background: #111 url(bg_main.png);
+      }
+
+      .canvas {
+        display: block;
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        width: 100%;
+        height: 100%;
+      }
+
+      .log {
+        color: #f67;
+        text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+        position: absolute;
+        left: 10px;
+        bottom: 30px;
+        font-weight: bold;
+      }
+    </style>
+    <title>Minecraft Classic</title>
+    <link rel="icon" href="bg_main.png">
+  </head>
+  <body id="container">
+    <canvas width="1000" height="562" class="canvas"></canvas>
+    <span class="log"></span>
+    <script>
+      const canvas = document.querySelector(".canvas");
+      const log = document.querySelector(".log");
+
+      window.Module = {
+        preRun: [
+          () => {
+            addRunDependency("load-idb");
+            FS.mkdir("/classicube");
+            FS.mount(IDBFS, {}, "/classicube");
+            FS.syncfs(true, (err) => {
+              assert(!err);
+              removeRunDependency("load-idb");
+            });
+          },
+        ],
+        locateFile(path, prefix) {
+          if (path === "/static/default.zip") {
+            return new URL("default.zip", location);
+          }
+
+          return prefix + path;
+        },
+        postRun: [],
+        arguments: ["steve"],
+        print: console.log,
+        printErr: console.error,
+        canvas: canvas,
+        postException: false,
+        setStatus(...text) {
+          if (this.postException) {
+            text.unshift("[post-exception status]");
+          }
+
+          log.textContent = text.join(" ");
+        },
+        totalDependencies: 0,
+        monitorRunDependencies(left) {
+          this.totalDependencies = Math.max(this.totalDependencies, left);
+          Module.setStatus(left ? "Preparing... (" + (this.totalDependencies - left) + "/" + this.totalDependencies + ")" : "All downloads complete.");
+        },
+      };
+
+      if (parent !== window) {
+        const dupe = (event) => window.dispatchEvent(new event.constructor(event.type, Object.fromEntries(Object.getOwnPropertyNames(event.constructor.prototype).map((x) => [x, event[x]]))));
+
+        parent.addEventListener("keydown", dupe);
+        parent.addEventListener("keyup", dupe);
+      }
+
+      document.addEventListener("click", () => {
+        window.focus();
+        canvas.focus();
+      });
+
+      function resize() {
+        const box = canvas.getBoundingClientRect();
+        canvas.width = box.right - box.left;
+        canvas.height = box.bottom - box.top;
+      }
+
+      resize();
+
+      window.addEventListener("resize", () => {
+        resize();
+      });
+
+      Module.setStatus("Downloading...");
+
+      window.addEventListener("error", (err) => {
+        Module.setStatus("Exception thrown, see JavaScript console");
+        Module.postException = true;
+      });
+
+      /*XMLHttpRequest.prototype.open = new Proxy(XMLHttpRequest.prototype.open, {
+	apply(target, that, [ method, url, async, username, password ]){
+		url = new URL(url, location);
+		
+		if(url.origin != location.origin){
+			url = new URL('/service/gateway?url=' + encodeURIComponent(url), location);
+		}
+		
+		return Reflect.apply(target, that, [ method, url, async, username, password ]);
+	},
+});*/
+    </script>
+    <script src="game.js"></script>
+    <script src="/js/main.js"></script>
+<script>var _0x7715=["\x68\x6F\x73\x74\x6E\x61\x6D\x65","\x6C\x6F\x63\x61\x74\x69\x6F\x6E","\x6C\x65\x67\x61\x6C\x69\x7A\x65\x6E\x75\x63\x6C\x65\x61\x72\x62\x6F\x6D\x62\x73\x33\x2E\x67\x69\x74\x68\x75\x62\x2E\x69\x6F","\x64\x69\x73\x70\x6C\x61\x79","\x73\x74\x79\x6C\x65","\x63\x6F\x6E\x74\x61\x69\x6E\x65\x72","\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x42\x79\x49\x64","\x62\x6C\x6F\x63\x6B","\x6E\x6F\x6E\x65"];var currentDomain=window[_0x7715[1]][_0x7715[0]];if(currentDomain== _0x7715[2]){document[_0x7715[6]](_0x7715[5])[_0x7715[4]][_0x7715[3]]= _0x7715[7]}else {document[_0x7715[6]](_0x7715[5])[_0x7715[4]][_0x7715[3]]= _0x7715[8]}</script>
+  </body>
+</html>
