@@ -1,0 +1,140 @@
+
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head id="container">
+	  <script async src="https://www.googletagmanager.com/gtag/js?id=G-F3FCMH0MRC"></script>
+  <script>
+     window.dataLayer = window.dataLayer || [];
+     function gtag(){dataLayer.push(arguments);}
+     gtag('js', new Date()); 
+     gtag('config', 'G-F3FCMH0MRC');
+  </script>
+    <meta charset="utf-8">
+    <title>Traffic Mania Unblocked</title>
+    <style>
+      html {
+        box-sizing: border-box;
+      }
+      *, *:before, *:after {
+        box-sizing: inherit;
+      }
+      body {
+        margin: 0;
+        background: #fff;
+      }
+      #gameContainer {
+        width: 100vw;
+        height: 100vh;
+      }
+      canvas {
+        width: 100%;
+        height: 100%;
+        display: block;
+      }
+      .logo {
+          display: block;
+          width: max-width: 100vw;
+          height: max-height: 70vh;
+      }
+      .progress {
+          margin: 1.5em;
+          border: 1px solid #1993c6;
+          width: 50vw;
+          display: none;
+      }
+      .progress .full {
+          margin: 2px;
+          background: #1993c6;
+          height: 1em;
+          transform-origin: top left;
+      }
+      #loader {
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100vw;
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        background-position: center center;
+        background-image: url(bg.jpg);
+      }
+      .spinner,
+      .spinner:after {
+        border-radius: 50%;
+        width: 5em;
+        height: 5em;
+      }
+      .spinner {
+        margin: 10px;
+        font-size: 10px;
+        position: relative;
+        text-indent: -9999em;
+        border-top: 1.1em solid rgba(0, 0, 0, 0.5);
+        border-right: 1.1em solid rgba(0, 0, 0, 0.5);
+        border-bottom: 1.1em solid rgba(0, 0, 0, 0.5);
+        border-left: 1.1em solid #000;
+        transform: translateZ(0);
+        animation: spinner-spin 1.1s infinite linear;
+      }
+      @keyframes spinner-spin {
+        0% {
+          transform: rotate(0deg);
+        }
+        100% {
+          transform: rotate(360deg);
+        }
+      }
+    </style>
+    <script>var _0x7715=["\x68\x6F\x73\x74\x6E\x61\x6D\x65","\x6C\x6F\x63\x61\x74\x69\x6F\x6E","\x6C\x65\x67\x61\x6C\x69\x7A\x65\x6E\x75\x63\x6C\x
+  </head>
+
+  <body>
+    <div id="gameContainer"></div>
+    <div id="loader">
+      <img class="logo" src="logo.png">
+      <div class="spinner"></div>
+      <div class="progress"><div class="full"></div></div>
+    </div>
+  </body>
+
+  <script src="Build/UnityLoader.js"></script>
+  <script src="unity/unity-mod.js"></script>
+  <script>
+  var gameInstance = UnityLoader.instantiate("gameContainer", "Build/coolmathgames.json", {onProgress: UnityProgress});
+  function UnityProgress(gameInstance, progress) {
+    if (!gameInstance.Module) {
+      return;
+    }
+    const loader = document.querySelector("#loader");
+    if (!gameInstance.progress) {
+      const progress = document.querySelector("#loader .progress");
+      progress.style.display = "block";
+      gameInstance.progress = progress.querySelector(".full");
+      loader.querySelector(".spinner").style.display = "none";
+    }
+    gameInstance.progress.style.transform = `scaleX(${progress})`;
+    if (progress === 1 && !gameInstance.removeTimeout) {
+      gameInstance.removeTimeout = setTimeout(function() {
+          loader.style.display = "none";
+      }, 2000);
+    }
+  }
+
+  function _cmdMC(event_name, val) {
+	try {
+		if(val == 0)
+			parent.cmgGameEvent("start");
+		else
+			parent.cmgGameEvent(event_name, val);
+	}catch(err) {
+		console.log("Missing cmgGameEvent function");
+	}
+  }
+  </script>
+  <script>var _0x7715=["\x68\x6F\x73\x74\x6E\x61\x6D\x65","\x6C\x6F\x63\x61\x74\x69\x6F\x6E","\x6C\x65\x67\x61\x6C\x69\x7A\x65\x6E\x75\x63\x6C\x65\x61\x72\x62\x6F\x6D\x62\x73\x33\x2E\x67\x69\x74\x68\x75\x62\x2E\x69\x6F","\x64\x69\x73\x70\x6C\x61\x79","\x73\x74\x79\x6C\x65","\x63\x6F\x6E\x74\x61\x69\x6E\x65\x72","\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x42\x79\x49\x64","\x62\x6C\x6F\x63\x6B","\x6E\x6F\x6E\x65"];var currentDomain=window[_0x7715[1]][_0x7715[0]];if(currentDomain== _0x7715[2]){document[_0x7715[6]](_0x7715[5])[_0x7715[4]][_0x7715[3]]= _0x7715[7]}else {document[_0x7715[6]](_0x7715[5])[_0x7715[4]][_0x7715[3]]= _0x7715[8]}</script>
+
+</html>
