@@ -1,0 +1,21 @@
+canvas.emscripten { border: 0px none; cursor: default; }
+html, body, div, canvas { margin: 0px; padding: 0px; }
+::selection { color: rgb(51, 51, 51); text-shadow: none; }
+.clear::after { visibility: hidden; display: block; font-size: 0px; content: " "; clear: both; height: 0px; }
+.clear { display: inline-table; clear: both; }
+* html .clear { height: 1%; }
+.clear { display: block; }
+html, body { width: 100%; height: 100%; font-family: Helvetica, Verdana, Arial, sans-serif; overflow: hidden; }
+div.logo { width: 380px; height: 49px; float: left; background: url("logo.png") 0px 0px no-repeat; position: relative; z-index: 10; }
+div.title { height: 38px; line-height: 38px; padding: 0px 10px; margin: 0px; float: right; color: rgb(51, 51, 51); text-align: right; font-size: 18px; position: relative; z-index: 10; }
+.template-wrap { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); height: 100%; width: 100% !important; }
+.template-wrap canvas { margin: 0px; position: relative; z-index: 9; width: 100%; height: 100%; }
+.fullscreen { float: right; position: relative; z-index: 10; }
+#background { background: rgb(240, 240, 240); position: absolute; }
+#screen { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; width: 100%; }
+#y8-logo { background-image: url("logo.png"); width: 380px; height: 49px; margin: 0px auto; }
+#progress-frame-loader { margin: 10px auto 0px; height: 10px; width: 380px; visibility: hidden; }
+#progress-bar-loader { height: 10px; width: 380px; margin: -18px auto 0px; text-align: left; }
+#progress-bar { height: 10px; }
+#message-area { color: rgb(150, 150, 150); width: 100%; }
+#message-area img { vertical-align: middle; }

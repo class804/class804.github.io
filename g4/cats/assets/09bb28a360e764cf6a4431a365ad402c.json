@@ -1,0 +1,30 @@
+{"frames": {
+
+"battle_background_bottom":
+{
+	"frame": {"x":1,"y":1,"w":1022,"h":1022},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1022,"h":1022},
+	"sourceSize": {"w":1022,"h":1022},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"battle_background_top":
+{
+	"frame": {"x":1,"y":1025,"w":1022,"h":1022},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1022,"h":1022},
+	"sourceSize": {"w":1022,"h":1022},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "fight_background_atlas.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":2048},
+	"scale": "0.998",
+	"smartupdate": "$TexturePacker:SmartUpdate:f6b66d49efe8f70c67bc1cdc89343a7b:67fa279b07acb6e12df39d64c20bbd5a:6e10b2be77ef8378d2969efe184f5ea0$"
+}
+}

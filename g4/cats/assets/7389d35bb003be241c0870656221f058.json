@@ -1,0 +1,407 @@
+{
+  "resources": [
+    "cats_fx.mp3"
+  ],
+  "spritemap": {
+    "auto_fight": {
+      "start": 0,
+      "end": 2.9257142857142857,
+      "loop": false
+    },
+    "autoheal_heal": {
+      "start": 4,
+      "end": 6.438820861678005,
+      "loop": false
+    },
+    "bet_confirm": {
+      "start": 8,
+      "end": 8.780408163265307,
+      "loop": false
+    },
+    "bet1": {
+      "start": 10,
+      "end": 10.581224489795918,
+      "loop": false
+    },
+    "bet2": {
+      "start": 12,
+      "end": 12.69625850340136,
+      "loop": false
+    },
+    "body_hit1": {
+      "start": 14,
+      "end": 14.61936507936508,
+      "loop": false
+    },
+    "body_hit2": {
+      "start": 16,
+      "end": 16.61607709750567,
+      "loop": false
+    },
+    "bot_explosion_1": {
+      "start": 18,
+      "end": 19.28530612244898,
+      "loop": false
+    },
+    "bot_explosion_2": {
+      "start": 21,
+      "end": 22.767573696145124,
+      "loop": false
+    },
+    "cat1": {
+      "start": 24,
+      "end": 24.88063492063492,
+      "loop": false
+    },
+    "cat2": {
+      "start": 26,
+      "end": 27.567755102040817,
+      "loop": false
+    },
+    "champ_defense": {
+      "start": 29,
+      "end": 30.083537414965985,
+      "loop": false
+    },
+    "champ_medal": {
+      "start": 32,
+      "end": 35.39900226757369,
+      "loop": false
+    },
+    "click1": {
+      "start": 37,
+      "end": 37.2469387755102,
+      "loop": false
+    },
+    "click2": {
+      "start": 39,
+      "end": 39.15877551020408,
+      "loop": false
+    },
+    "collect_gold": {
+      "start": 41,
+      "end": 41.97950113378685,
+      "loop": false
+    },
+    "collect_gold2": {
+      "start": 43,
+      "end": 44.203106575963716,
+      "loop": false
+    },
+    "collect_gold3": {
+      "start": 46,
+      "end": 47.85421768707483,
+      "loop": false
+    },
+    "destruction": {
+      "start": 49,
+      "end": 50.76621315192744,
+      "loop": false
+    },
+    "disassemble": {
+      "start": 52,
+      "end": 53.652244897959186,
+      "loop": false
+    },
+    "drill_hit_loop": {
+      "start": 55,
+      "end": 56.500090702947844,
+      "loop": false
+    },
+    "electro_shot": {
+      "start": 58,
+      "end": 59.29671201814059,
+      "loop": false
+    },
+    "engine_idle1": {
+      "start": 61,
+      "end": 65.4724716553288,
+      "loop": false
+    },
+    "engine_idle2": {
+      "start": 67,
+      "end": 71.4724716553288,
+      "loop": false
+    },
+    "engine_idle3": {
+      "start": 73,
+      "end": 77.4724716553288,
+      "loop": false
+    },
+    "engine_idle4": {
+      "start": 79,
+      "end": 83.4724716553288,
+      "loop": false
+    },
+    "engine_start1": {
+      "start": 85,
+      "end": 86.04195011337869,
+      "loop": false
+    },
+    "engine_start2": {
+      "start": 88,
+      "end": 89.01224489795918,
+      "loop": false
+    },
+    "engine_start3": {
+      "start": 91,
+      "end": 92.05544217687074,
+      "loop": false
+    },
+    "engine_start4": {
+      "start": 94,
+      "end": 95.28353741496599,
+      "loop": false
+    },
+    "fuse": {
+      "start": 97,
+      "end": 98.05390022675736,
+      "loop": false
+    },
+    "gacha_opening": {
+      "start": 100,
+      "end": 103.58015873015873,
+      "loop": false
+    },
+    "gacha_opening_part": {
+      "start": 105,
+      "end": 106.74607709750566,
+      "loop": false
+    },
+    "get_coins": {
+      "start": 108,
+      "end": 108.25126984126985,
+      "loop": false
+    },
+    "get_gems": {
+      "start": 110,
+      "end": 110.46585034013606,
+      "loop": false
+    },
+    "impulse_jump": {
+      "start": 112,
+      "end": 113.13850340136054,
+      "loop": false
+    },
+    "impulse_push": {
+      "start": 115,
+      "end": 116.36471655328798,
+      "loop": false
+    },
+    "in": {
+      "start": 118,
+      "end": 118.47020408163266,
+      "loop": false
+    },
+    "item_drop": {
+      "start": 120,
+      "end": 120.34285714285714,
+      "loop": false
+    },
+    "item_install_fail": {
+      "start": 122,
+      "end": 122.65947845804989,
+      "loop": false
+    },
+    "item_install_sticker": {
+      "start": 124,
+      "end": 124.51374149659864,
+      "loop": false
+    },
+    "item_install_success": {
+      "start": 126,
+      "end": 127.30299319727891,
+      "loop": false
+    },
+    "item_pick": {
+      "start": 129,
+      "end": 129.27473922902493,
+      "loop": false
+    },
+    "item_sell": {
+      "start": 131,
+      "end": 131.61526077097506,
+      "loop": false
+    },
+    "item_upgrade": {
+      "start": 133,
+      "end": 133.96759637188208,
+      "loop": false
+    },
+    "karbofos_balloon_burst": {
+      "start": 135,
+      "end": 135.50648526077097,
+      "loop": false
+    },
+    "karbofos_balloon_inflate": {
+      "start": 137,
+      "end": 137.2969387755102,
+      "loop": false
+    },
+    "karbofos_shot": {
+      "start": 139,
+      "end": 139.13684807256234,
+      "loop": false
+    },
+    "land1": {
+      "start": 141,
+      "end": 141.8331746031746,
+      "loop": false
+    },
+    "land2": {
+      "start": 143,
+      "end": 143.9232426303855,
+      "loop": false
+    },
+    "map_didnt_promote": {
+      "start": 145,
+      "end": 145.65947845804988,
+      "loop": false
+    },
+    "map_new_stage_opened": {
+      "start": 147,
+      "end": 148.17721088435374,
+      "loop": false
+    },
+    "medal": {
+      "start": 150,
+      "end": 151.38419501133788,
+      "loop": false
+    },
+    "minigun_shot": {
+      "start": 153,
+      "end": 153.76526077097506,
+      "loop": false
+    },
+    "mission1": {
+      "start": 155,
+      "end": 155.63637188208617,
+      "loop": false
+    },
+    "mission2": {
+      "start": 157,
+      "end": 158.74607709750566,
+      "loop": false
+    },
+    "mission3": {
+      "start": 160,
+      "end": 160.9314058956916,
+      "loop": false
+    },
+    "out": {
+      "start": 162,
+      "end": 162.55045351473922,
+      "loop": false
+    },
+    "popup": {
+      "start": 164,
+      "end": 165.1609977324263,
+      "loop": false
+    },
+    "prestige_success": {
+      "start": 167,
+      "end": 168.74607709750566,
+      "loop": false
+    },
+    "result_defeat": {
+      "start": 170,
+      "end": 173.00650793650794,
+      "loop": false
+    },
+    "result_victory": {
+      "start": 175,
+      "end": 178.11687074829933,
+      "loop": false
+    },
+    "rocket_hit": {
+      "start": 180,
+      "end": 180.48802721088435,
+      "loop": false
+    },
+    "rocket_launch": {
+      "start": 182,
+      "end": 182.61102040816326,
+      "loop": false
+    },
+    "saw_hit_loop": {
+      "start": 184,
+      "end": 185.50009070294786,
+      "loop": false
+    },
+    "saw_hit_single": {
+      "start": 187,
+      "end": 187.5370068027211,
+      "loop": false
+    },
+    "shotgun_shot": {
+      "start": 189,
+      "end": 190.9857596371882,
+      "loop": false
+    },
+    "skin_select": {
+      "start": 192,
+      "end": 192.1409977324263,
+      "loop": false
+    },
+    "skin_wear": {
+      "start": 194,
+      "end": 194.89614512471655,
+      "loop": false
+    },
+    "skip_quickfight": {
+      "start": 196,
+      "end": 197.2834693877551,
+      "loop": false
+    },
+    "Spin_loop": {
+      "start": 199,
+      "end": 200.5,
+      "loop": false
+    },
+    "start": {
+      "start": 202,
+      "end": 202.66743764172335,
+      "loop": false
+    },
+    "sudden_death": {
+      "start": 204,
+      "end": 205.99984126984128,
+      "loop": false
+    },
+    "tutorial_appear": {
+      "start": 207,
+      "end": 207.51374149659864,
+      "loop": false
+    },
+    "wall_explosion_2": {
+      "start": 209,
+      "end": 210.62,
+      "loop": false
+    },
+    "wall_hit1": {
+      "start": 212,
+      "end": 212.48902494331065,
+      "loop": false
+    },
+    "wall_hit2": {
+      "start": 214,
+      "end": 214.5280725623583,
+      "loop": false
+    },
+    "wall_hit3": {
+      "start": 216,
+      "end": 216.5280725623583,
+      "loop": false
+    },
+    "wall-explosion_1": {
+      "start": 218,
+      "end": 218.89358276643992,
+      "loop": false
+    },
+    "zepto_logo_bubbles": {
+      "start": 220,
+      "end": 221.9,
+      "loop": false
+    }
+  }
+}

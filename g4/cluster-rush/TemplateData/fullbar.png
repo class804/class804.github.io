@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Not Found - Two Player Games</title>
+
+    <!--<meta http-equiv="refresh" content="5">-->
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Varela+Round&display=swap" rel="stylesheet">
+
+    <style>
+        html {
+            font-size: 62.5%
+        }
+
+        body {
+            background: #6a9c39 linear-gradient(to bottom, #cbf2f4 190px, #96c665 190px, #96c665 200px, #fff0 200px) repeat-x;
+            color: #333;
+            font: 1.3rem Varela Round, sans-serif;
+            margin: 0 0 15px
+        }
+
+        html, body {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+        }
+
+        a:link, a:visited {
+            color: #333;
+            text-decoration: none
+        }
+
+        a:hover {
+            color: rgba(191, 105, 84, 0.85)
+        }
+
+        h1 {
+            font-size: 5rem;
+            margin: 1rem 0;
+        }
+
+        .error-container {
+            display: flex;
+            height: 100%;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            text-align: center;
+            font-size: 2rem;
+        }
+
+        .link {
+            margin: 0.8rem 0;
+        }
+    </style>
+</head>
+<body>
+<div class="error-container">
+    <h1>404</h1>
+    <p>Not Found</p>
+    <p class="link"><a target="_parent" href="https://www.twoplayergames.org">&raquo; go to homepage</a></p>
+</div>
+</body>
+</html>
+<!-- {{target_hostname}} -->

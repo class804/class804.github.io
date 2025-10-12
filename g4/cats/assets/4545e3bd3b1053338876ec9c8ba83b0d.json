@@ -1,0 +1,30 @@
+{"frames": {
+
+"animation background_left2":
+{
+	"frame": {"x":1,"y":1,"w":1022,"h":1022},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1022,"h":1022},
+	"sourceSize": {"w":1022,"h":1022},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"animation background_right2":
+{
+	"frame": {"x":1,"y":1025,"w":1022,"h":1022},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1022,"h":1022},
+	"sourceSize": {"w":1022,"h":1022},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "fight_vs_atlas.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":2048},
+	"scale": "0.998",
+	"smartupdate": "$TexturePacker:SmartUpdate:e96a9e806b779c517c561aabb381a5f1:71f58d30435f5b3338ff6f30fa0f1be0:c17a6710c6f8e85daf45b731dec23bc2$"
+}
+}

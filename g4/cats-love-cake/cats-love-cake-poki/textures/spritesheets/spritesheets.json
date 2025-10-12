@@ -1,0 +1,145 @@
+{
+	"textures": [
+		{
+			"image": "spritesheets.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1072,
+				"h": 844
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "names",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 256,
+						"h": 840
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 256,
+						"h": 840
+					},
+					"frame": {
+						"x": 2,
+						"y": 2,
+						"w": 256,
+						"h": 840
+					}
+				},
+				{
+					"filename": "cake2",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 808,
+						"h": 183
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 808,
+						"h": 183
+					},
+					"frame": {
+						"x": 262,
+						"y": 2,
+						"w": 808,
+						"h": 183
+					}
+				},
+				{
+					"filename": "unlocks",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 750,
+						"h": 300
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 750,
+						"h": 300
+					},
+					"frame": {
+						"x": 262,
+						"y": 189,
+						"w": 750,
+						"h": 300
+					}
+				},
+				{
+					"filename": "keyboard",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 318,
+						"h": 107
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 318,
+						"h": 107
+					},
+					"frame": {
+						"x": 262,
+						"y": 493,
+						"w": 318,
+						"h": 107
+					}
+				},
+				{
+					"filename": "unlocks_locked",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 190,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 190,
+						"h": 76
+					},
+					"frame": {
+						"x": 262,
+						"y": 604,
+						"w": 190,
+						"h": 76
+					}
+				},
+				{
+					"filename": "confetti",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 64,
+						"h": 32
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 64,
+						"h": 32
+					},
+					"frame": {
+						"x": 262,
+						"y": 684,
+						"w": 64,
+						"h": 32
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.6"
+	}
+}
