@@ -1,0 +1,38 @@
+{
+  "short_name": "Amazing Solitaire",
+  "name": "Amazing Klondike Solitaire",
+  "icons": [
+    {
+      "src": "assets/web/48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "assets/web/96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "assets/web/192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "assets/web/512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "display": "standalone",
+  "start_url": "https://klondike.amazinghedgehog.com",
+  "theme_color": "#122521",
+  "background_color": "#122521",
+
+  "related_applications": [
+    {
+      "platform": "play",
+      "id": "com.amazinghedgehog.amazingsolitaire"
+    }
+  ]
+
+}

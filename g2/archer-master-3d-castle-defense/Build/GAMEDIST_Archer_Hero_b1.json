@@ -1,0 +1,13 @@
+{
+"companyName": "CyberGoldfinch",
+"productName": "Archer Master 3D: Castle Defense",
+"dataUrl": "GAMEDIST_Archer_Hero_b1.data.unityweb",
+"wasmCodeUrl": "GAMEDIST_Archer_Hero_b1.wasm.code.unityweb",
+"wasmFrameworkUrl": "GAMEDIST_Archer_Hero_b1.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "GAMEDIST_Archer_Hero_b1.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF"
+}
