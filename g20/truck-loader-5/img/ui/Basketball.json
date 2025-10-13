@@ -1,0 +1,27 @@
+﻿{"frames": [
+
+{
+	"filename": "barel10000",
+	"frame": {"x":0,"y":0,"w":42,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":42},
+	"sourceSize": {"w":42,"h":42}
+}
+,{
+	"filename": "barel10001",
+	"frame": {"x":0,"y":42,"w":40,"h":40},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":42,"h":42},
+	"sourceSize": {"w":42,"h":42}
+}],
+"meta": {
+	"app": "Adobe Flash Professional",
+	"version": "13.0.0.759",
+	"image": "BasketballAnimation.png",
+	"format": "RGBA8888",
+	"size": {"w":64,"h":128},
+	"scale": "1"
+}
+}

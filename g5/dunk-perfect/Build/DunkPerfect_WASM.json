@@ -1,0 +1,17 @@
+{
+"companyName": "ranidagames",
+"productName": "Dunk Perfect",
+"dataUrl": "DunkPerfect_WASM.data.unityweb",
+"wasmCodeUrl": "DunkPerfect_WASM.wasm.code.unityweb",
+"wasmFrameworkUrl": "DunkPerfect_WASM.wasm.framework.unityweb",
+"asmCodeUrl": "DunkPerfect_WASM.asm.code.unityweb",
+"asmMemoryUrl": "DunkPerfect_WASM.asm.memory.unityweb",
+"asmFrameworkUrl": "DunkPerfect_WASM.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "DunkPerfect_WASM.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"dataUrl": "must-revalidate"}
+}
