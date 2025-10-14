@@ -1,0 +1,17 @@
+{
+"companyName": "Ace Viral",
+"productName": "Angry Gran Run",
+"productVersion": "2.0.0",
+"dataUrl": "Build.data.unityweb",
+"wasmCodeUrl": "Build.wasm.code.unityweb",
+"wasmFrameworkUrl": "Build.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Build.jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.4f1"
+}

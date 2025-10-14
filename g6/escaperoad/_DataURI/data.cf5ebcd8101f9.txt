@@ -1,1 +1,0 @@
-chrome-extension://kbfnbcaeplbcioakkpcpgfkobkghlhen/src/js/hwrRule.common.chunk.js
